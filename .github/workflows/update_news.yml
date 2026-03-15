@@ -33,13 +33,13 @@ jobs:
           OPENAI_MODEL: gpt-4.1-mini
         run: python app.py
 
-      - name: Copiar newsletter para index
-        run: cp output/newsletter.html output/index.html
+      - name: Copiar newsletter para raiz como index
+        run: cp output/newsletter.html index.html
 
       - name: Commit dos arquivos gerados
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output/*
+          git add index.html output/*
           git commit -m "Atualiza VAPO News - $(date -u '+%d/%m/%Y %H:%M UTC')" || echo "Sem mudanças"
           git push
