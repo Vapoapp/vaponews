@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="VAPO News — Radar Marítimo: 21 notícias selecionadas para profissionais do setor marítimo. Gerado em 15/03/2026 às 02:47.">
+<title>VAPO News — Radar Marítimo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#17324d;--navy-mid:#1e4060;--ocean:#0B6FB8;--sky:#52B4E7;--foam:#eef4f8;--ink:#17324d;--muted:#5a7a94;--card-bg:#ffffff;--border:#d7e4ed;--shadow-sm:0 2px 8px rgba(11,111,184,.08);--shadow-md:0 6px 24px rgba(11,111,184,.12);--radius:16px;--bg:#e8f1f8;}
+body.dark{--navy-mid:#1a2f42;--ocean:#4aabee;--foam:#0c1925;--ink:#e0edf7;--muted:#7aabbf;--card-bg:#112233;--border:#1e3a52;--shadow-sm:0 2px 8px rgba(0,0,0,.3);--shadow-md:0 6px 24px rgba(0,0,0,.4);--bg:#0a1520;}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:'Source Sans 3','Helvetica Neue',sans-serif;background:var(--bg);color:var(--ink);min-height:100vh;transition:background .3s,color .3s;}
+.site-header{background:linear-gradient(135deg,#1e4060 0%,#0d2d45 50%,#0a2238 100%);position:relative;overflow:hidden;}
+.site-header::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse 80% 60% at 70% 120%,rgba(82,180,231,.15) 0%,transparent 60%),radial-gradient(ellipse 40% 40% at 20% -10%,rgba(11,111,184,.3) 0%,transparent 50%);pointer-events:none;}
+.header-inner{max-width:980px;margin:0 auto;padding:32px 36px 28px;display:flex;align-items:center;justify-content:space-between;gap:24px;position:relative;}
+.brand{display:flex;align-items:center;gap:18px;}
+.brand-logo{flex-shrink:0;filter:drop-shadow(0 2px 8px rgba(82,180,231,.4));}
+.brand-name{font-family:'Playfair Display',Georgia,serif;font-size:2rem;font-weight:900;color:white;letter-spacing:-.02em;line-height:1;}
+.brand-tagline{font-size:.75rem;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:rgba(255,255,255,.55);margin-top:4px;}
+.header-meta{text-align:right;}
+.header-date{font-size:.78rem;color:rgba(255,255,255,.5);letter-spacing:.06em;text-transform:uppercase;font-weight:600;}
+.header-date strong{display:block;font-family:'Playfair Display',Georgia,serif;font-size:1.1rem;font-weight:700;color:rgba(255,255,255,.9);letter-spacing:0;text-transform:none;margin-top:2px;}
+.header-controls{display:flex;align-items:center;gap:10px;margin-top:8px;justify-content:flex-end;}
+.edition-badge{background:rgba(82,180,231,.2);border:1px solid rgba(82,180,231,.35);color:rgba(255,255,255,.8);border-radius:20px;padding:4px 12px;font-size:.68rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;}
+.theme-btn{background:rgba(255,255,255,.1);color:rgba(255,255,255,.8);border:1px solid rgba(255,255,255,.2);border-radius:20px;padding:6px 14px;font-size:.75rem;font-weight:600;cursor:pointer;transition:all .2s;letter-spacing:.05em;font-family:inherit;}
+.theme-btn:hover{background:rgba(255,255,255,.18);}
+.wave-divider{line-height:0;background:linear-gradient(135deg,#0d2d45,#0a2238);}
+.wave-divider svg{display:block;width:100%;}
+.wrap{max-width:980px;margin:0 auto;padding:32px 36px 60px;}
+.section-header{display:flex;align-items:center;gap:14px;margin:40px 0 20px;}
+.section-header:first-child{margin-top:0;}
+.section-line{flex:1;height:1px;background:var(--border);}
+.section-label{font-family:'Playfair Display',Georgia,serif;font-size:1.1rem;font-weight:700;color:var(--ocean);letter-spacing:.02em;white-space:nowrap;}
+.section-count{font-size:.68rem;font-weight:700;color:var(--muted);letter-spacing:.1em;text-transform:uppercase;background:var(--card-bg);border:1px solid var(--border);border-radius:20px;padding:3px 10px;}
+.highlight-card{background:var(--card-bg);border-radius:var(--radius);box-shadow:var(--shadow-md);padding:28px 28px 22px;margin-bottom:16px;border:1px solid var(--border);border-top:4px solid var(--ocean);transition:box-shadow .2s,transform .2s,background .3s;}
+.highlight-card:hover{box-shadow:0 10px 36px rgba(11,111,184,.18);transform:translateY(-2px);}
+.highlight-card h2{font-family:'Playfair Display',Georgia,serif;font-size:1.4rem;font-weight:700;line-height:1.35;color:var(--ink);margin:10px 0 12px;}
+.card{background:var(--card-bg);border-radius:var(--radius);box-shadow:var(--shadow-sm);padding:22px 24px 18px;border:1px solid var(--border);transition:box-shadow .2s,transform .2s,background .3s;}
+.card:hover{box-shadow:var(--shadow-md);transform:translateY(-1px);}
+.card h3{font-family:'Playfair Display',Georgia,serif;font-size:1.1rem;font-weight:700;line-height:1.4;color:var(--ink);margin:8px 0 10px;}
+.meta-row{display:flex;align-items:center;gap:8px;flex-wrap:wrap;}
+.source{font-size:.67rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);}
+.pub-age{font-size:.67rem;font-weight:600;color:var(--muted);margin-left:auto;}
+.card-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;}
+@media(max-width:640px){.card-grid{grid-template-columns:1fr;}}
+.summary{font-size:.95rem;line-height:1.65;color:var(--ink);opacity:.82;margin-bottom:0;}
+.actions{display:flex;align-items:center;gap:16px;margin-top:16px;flex-wrap:wrap;}
+.more-btn{display:inline-flex;align-items:center;gap:6px;background:var(--navy-mid);color:white;border:none;border-radius:8px;padding:8px 16px;font-size:.82rem;font-weight:600;cursor:pointer;transition:background .2s,transform .15s;font-family:inherit;}
+body.dark .more-btn{background:var(--ocean);}
+.more-btn:hover{background:var(--ocean);transform:translateY(-1px);}
+.btn-icon{font-size:1rem;line-height:1;font-weight:300;}
+.open-link{font-size:.85rem;font-weight:600;color:var(--ocean);text-decoration:none;display:inline-flex;align-items:center;gap:4px;transition:gap .2s;}
+.open-link:hover{gap:8px;}
+.more-box{max-height:0;overflow:hidden;margin-top:0;padding:0 18px;background:var(--foam);border-radius:10px;border-left:3px solid var(--ocean);font-size:.9rem;line-height:1.65;opacity:0;transition:max-height .35s ease,opacity .3s ease,padding .3s ease,margin-top .3s ease,background .3s;}
+.more-box.open{max-height:600px;opacity:.9;padding:16px 18px;margin-top:16px;}
+.site-footer{background:#0d2d45;color:rgba(255,255,255,.4);text-align:center;padding:24px 36px;font-size:.73rem;letter-spacing:.05em;}
+body.dark .site-footer{background:#080f18;}
+@media(max-width:640px){.header-inner{padding:22px 18px 18px;flex-wrap:wrap;}.header-meta{width:100%;display:flex;justify-content:space-between;align-items:flex-end;}.wrap{padding:20px 16px 40px;}.highlight-card{padding:18px 16px 14px;}.highlight-card h2{font-size:1.2rem;}.card{padding:14px 14px 12px;}}
+</style>
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <div class="brand">
+      <div class="brand-logo"><svg width="48" height="48" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="46" stroke="white" stroke-width="5" fill="none"/><circle cx="50" cy="50" r="33" stroke="white" stroke-width="4" fill="none"/><circle cx="50" cy="43" r="12" stroke="white" stroke-width="4" fill="none"/><path d="M18 62 Q28 55 38 62 Q48 69 58 62 Q68 55 78 62 Q85 67 90 65" stroke="white" stroke-width="4.5" fill="none" stroke-linecap="round"/><path d="M14 74 Q25 66 37 74 Q49 82 61 74 Q72 66 84 74" stroke="white" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.7"/></svg></div>
+      <div>
+        <div class="brand-name">VAPO News</div>
+        <div class="brand-tagline">Radar Marítimo</div>
+      </div>
+    </div>
+    <div class="header-meta">
+      <div class="header-date">Domingo<strong>15 de março de 2026</strong></div>
+      <div class="header-controls">
+        <span class="edition-badge">21 notícias</span>
+        <button id="themeToggle" class="theme-btn" type="button">🌙 Escuro</button>
+      </div>
+    </div>
+  </div>
+</header>
+<div class="wave-divider"><svg viewBox="0 0 1200 48" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" height="48"><path id="wavePath" d="M0,24 C150,48 350,0 600,24 C850,48 1050,0 1200,24 L1200,48 L0,48 Z" fill="#e8f1f8"/></svg></div>
+<main><div class="wrap">
+  <div class="section-header"><div class="section-label">⚓ Destaques do dia</div><div class="section-line"></div><div class="section-count">3 notícias</div></div>
+  
+    <div class="highlight-card">
+        <div class="meta-row">
+            <span class="source">Marine Insight</span>
+            <span class="pub-age">há 16h</span>
+        </div>
+        <h2>Navio da Marinha dos EUA Atira em Embarcação Iraniana que se Aproximava do Porta-aviões USS Abraham Lincoln</h2>
+        <p class="summary">Navio da Marinha dos EUA atira em embarcação iraniana próxima ao porta-aviões USS Abraham Lincoln.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('u-s-navy-ship-fires-on-iranian-vessel-approaching-uss-a')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://www.marineinsight.com/shipping-news/u-s-navy-ship-fires-on-iranian-vessel-approaching-uss-abraham-lincoln-carrier-strike-group/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=u-s-navy-ship-fires-on-iranian-vessel-approaching-uss-abraham-lincoln-carrier-strike-group" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-u-s-navy-ship-fires-on-iranian-vessel-approaching-uss-a">
+            <p>Um navio da Marinha dos Estados Unidos disparou contra uma embarcação iraniana que se aproximava do grupo de ataque do porta-aviões USS Abraham Lincoln. A condição atual da embarcação iraniana e o estado da tripulação ainda não foram confirmados publicamente. O incidente reforça tensões na região marítima estratégica.</p>
+        </div>
+    </div>
+    
+    <div class="highlight-card">
+        <div class="meta-row">
+            <span class="source">g1 Brasil</span>
+            <span class="pub-age">há 3h</span>
+        </div>
+        <h2>Migrantes do Haiti são liberados após 55 horas retidos em aeroporto de Campinas</h2>
+        <p class="summary">97 haitianos foram liberados após 55 horas retidos no Aeroporto de Viracopos por problemas na documentação.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('migrantes-s-o-liberados-de-aeroporto-55-horas-ap-s-pous')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://g1.globo.com/sp/campinas-regiao/noticia/2026/03/14/retencao-em-aviao-e-espera-em-aeroporto-haitianos-deixam-sala-reservada-de-viracopos-55-horas-apos-pouso.ghtml" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-migrantes-s-o-liberados-de-aeroporto-55-horas-ap-s-pous">
+            <p>Um grupo de 97 migrantes do Haiti ficou retido por mais de 55 horas no Aeroporto Internacional de Viracopos, em Campinas (SP), devido a irregularidades na documentação. A Polícia Federal realizou um mutirão para emitir vistos de acolhimento humanitário, permitindo a entrada legal dos estrangeiros no Brasil. A investigação sobre documentos falsos continua em andamento.</p>
+        </div>
+    </div>
+    
+    <div class="highlight-card">
+        <div class="meta-row">
+            <span class="source">gCaptain</span>
+            <span class="pub-age">há 11h</span>
+        </div>
+        <h2>Trump pede que aliados enviem navios de guerra para garantir o Estreito de Hormuz</h2>
+        <p class="summary">Trump propõe que países aliados enviem navios de guerra para proteger o Estreito de Hormuz e garantir a segurança do tráfego marítimo.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('trump-calls-for-allied-warships-to-secure-strait-of-hor')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://gcaptain.com/trump-calls-for-allied-warships-to-secure-strait-of-hormuz" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-trump-calls-for-allied-warships-to-secure-strait-of-hor">
+            <p>O ex-presidente Trump sugeriu que nações aliadas enviem navios de guerra para atuar junto aos EUA no Estreito de Hormuz, importante rota marítima para o transporte de energia. A medida visa conter as tentativas do Irã de interromper o tráfego naval na região. Países como China, França, Japão, Coreia do Sul e Reino Unido foram citados, mas sem confirmação oficial.</p>
+        </div>
+    </div>
+    
+  <div class="section-header"><div class="section-label">🗞 Outras notícias</div><div class="section-line"></div><div class="section-count">18 notícias</div></div>
+  <div class="card-grid">
+    <div class="card">
+        <div class="meta-row">
+            <span class="source">Petronotícias</span>
+            <span class="pub-age">há 1d</span>
+        </div>
+        <h3>Transpetro divulga nova lista de classificação para licitação de navios MR1; Ecovix lidera disputa</h3>
+        <p class="summary">Transpetro atualiza classificação da licitação para quatro navios MR1, com estaleiro brasileiro Ecovix na frente.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('transpetro-divulga-nova-lista-de-classifica-o-de-licita')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://petronoticias.com.br/transpetro-divulga-nova-lista-de-classificacao-de-licitacao-de-navios-mr1-e-ecovix-salta-na-frente-da-disputa" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-transpetro-divulga-nova-lista-de-classifica-o-de-licita">
+            <p>A Transpetro divulgou uma nova lista de classificação para a concorrência de quatro navios da classe MR1. O estaleiro brasileiro Ecovix assumiu a liderança com a proposta mais vantajosa após aplicação de critérios que igualam ofertas nacionais e estrangeiras. O processo segue para análise e negociação das propostas até a homologação final.</p>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="meta-row">
+            <span class="source">Petronotícias</span>
+            <span class="pub-age">há 1d</span>
+        </div>
+        <h3>Porto do Açu bate recorde com 89 milhões de toneladas movimentadas em 2025</h3>
+        <p class="summary">Porto do Açu registra crescimento de 14% em 2025, com 89 milhões de toneladas movimentadas e destaque em petróleo e minério de ferro.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('o-porto-do-a-u-comemora-as-marcas-da-efic-ncia-de-suas-')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://petronoticias.com.br/o-porto-do-acu-comemora-as-marcas-da-eficencia-de-suas-operacoes-em-2025-batendo-89-milhoes-de-toneladas-movimentadas" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-o-porto-do-a-u-comemora-as-marcas-da-efic-ncia-de-suas-">
+            <p>O Porto do Açu, no Norte do Rio de Janeiro, alcançou volume recorde de 89 milhões de toneladas em 2025, 14% acima do ano anterior. O crescimento foi impulsionado principalmente pelos setores de petróleo, minério de ferro e cargas gerais, consolidando o porto como o segundo maior do Brasil em movimentação. O terminal também registrou alta na diversificação de cargas e clientes, com investimentos previstos para 2026.</p>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="meta-row">
+            <span class="source">Guia Marítimo</span>
+            
+        </div>
+        <h3>Nova resolução do Contran altera validade do curso MOPP e impacta transporte de produtos perigosos</h3>
+        <p class="summary">Resolução do Contran elimina prazo de validade do curso MOPP, afetando motoristas e empresas do transporte de produtos perigosos.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('direito-normas-e-legisla-o')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://www.guiamaritimo.com.br/noticias/direito-normas-e-legislacao" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-direito-normas-e-legisla-o">
+            <p>O Contran publicou uma resolução que elimina o prazo geral de validade do curso MOPP, usado para transporte de produtos perigosos. Essa mudança exige atenção redobrada das empresas e motoristas para garantir a conformidade com as novas regras. O impacto é direto no setor de transporte rodoviário de cargas perigosas no Brasil.</p>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="meta-row">
+            <span class="source">Guia Marítimo</span>
+            
+        </div>
+        <h3>MBCBrasil projeta crescimento de biocombustíveis e eletrificação no transporte pesado até 2040</h3>
+        <p class="summary">Estudo prevê aumento do uso de biocombustíveis e veículos elétricos no transporte pesado até 2040.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('estudos-e-estat-sticas')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://www.guiamaritimo.com.br/noticias/estudos-e-estatisticas" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-estudos-e-estat-sticas">
+            <p>O transporte pesado está acelerando a adoção de soluções mais limpas, como biometano e eletrificação. Atualmente, caminhões a combustão ainda dominam, mas a tendência é de crescimento significativo das alternativas sustentáveis. Essas mudanças impactam diretamente o setor marítimo e logístico brasileiro.</p>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="meta-row">
+            <span class="source">Guia Marítimo</span>
+            
+        </div>
+        <h3>Logística de Projetos</h3>
+        <p class="summary">Empresa espanhola TIBA adquire a brasileira SMX Logistics, ampliando operações na América Latina e investindo em energias renováveis.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('log-stica-de-projetos')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://www.guiamaritimo.com.br/noticias/logistica-de-projetos" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-log-stica-de-projetos">
+            <p>A empresa espanhola TIBA fortalece sua presença na América Latina com a aquisição da brasileira SMX Logistics. Essa aliança permitirá a troca de ferramentas, processos e soluções tecnológicas entre as duas organizações. Também está previsto o desenvolvimento de novos negócios em setores em expansão, como energias renováveis.</p>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="meta-row">
+            <span class="source">g1 Brasil</span>
+            <span class="pub-age">há 7h</span>
+        </div>
+        <h3>Trump pede que países enviem navios e &#x27;cuidem&#x27; do Estreito de Ormuz</h3>
+        <p class="summary">Trump solicita que nações enviem navios de guerra para garantir segurança no Estreito de Ormuz após tensões com o Irã.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('trump-pede-que-pa-ses-enviem-navios-e-cuidem-do-estreit')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://g1.globo.com/mundo/noticia/2026/03/14/trump-ira-estreito-de-ormuz.ghtml" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-trump-pede-que-pa-ses-enviem-navios-e-cuidem-do-estreit">
+            <p>O presidente Donald Trump pediu que outros países enviem navios de guerra para ajudar a manter o Estreito de Ormuz aberto e seguro. A medida ocorre após o Irã anunciar bloqueio da rota em resposta a ofensivas dos EUA e Israel, causando alta no preço do petróleo. A região é estratégica para o tráfego marítimo internacional de petróleo.</p>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="meta-row">
+            <span class="source">CNN Brasil Transporte Marítimo</span>
+            <span class="pub-age">há 1d</span>
+        </div>
+        <h3>Irã considera liberar Estreito de Ormuz desde que negociações sejam em yuan chinês</h3>
+        <p class="summary">Irã pode liberar passagem no Estreito de Ormuz se petróleo for negociado em yuan, impactando comércio global.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('ir-considera-liberar-ormuz-desde-que-negocia-es-sejam-e')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://www.cnnbrasil.com.br/economia/macroeconomia/ira-considera-liberar-ormuz-desde-que-negociacoes-sejam-em-yuan-chines" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-ir-considera-liberar-ormuz-desde-que-negocia-es-sejam-e">
+            <p>O Irã avalia permitir a passagem de petroleiros pelo Estreito de Ormuz, desde que o petróleo seja negociado em yuan chinês. A medida pode alterar o comércio internacional de petróleo, atualmente dominado pelo dólar. O estreito é vital para o abastecimento energético mundial, e restrições na região elevam preços e preocupações globais.</p>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="meta-row">
+            <span class="source">MarineLink</span>
+            <span class="pub-age">há 1d</span>
+        </div>
+        <h3>Exportações de petróleo iraniano continuam pelo Estreito de Hormuz apesar de ataques na região do Golfo</h3>
+        <p class="summary">Petróleo iraniano segue fluindo pelo Estreito de Hormuz, enquanto exportações de outros países do Golfo caem devido a ataques.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('iranian-oil-exports-continue-through-hormuz-strait-as-g')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://www.marinelink.com/news/iranian-oil-exports-continue-hormuz-536944" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-iranian-oil-exports-continue-through-hormuz-strait-as-g">
+            <p>O Irã mantém suas exportações de petróleo quase normais pelo Estreito de Hormuz, mesmo após ataques ligados a Teerã que reduziram drasticamente as exportações de outros países do Golfo. Esses ataques afetaram principalmente embarcações não iranianas, paralisando o trânsito na região e forçando cortes na produção. A situação contrasta com bloqueios navais recentes em outras regiões, como na Venezuela.</p>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="meta-row">
+            <span class="source">Hellenic Shipping News</span>
+            <span class="pub-age">há 1d</span>
+        </div>
+        <h3>Preços do gás na Holanda se mantêm estáveis com conflito entre EUA e Israel na segunda semana</h3>
+        <p class="summary">Preços do gás na Holanda permanecem estáveis apesar de ataques a petroleiros e fechamento de infraestrutura energética.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('dutch-gas-prices-steady-as-u-s-israeli-conflict-enters-')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://www.hellenicshippingnews.com/dutch-gas-prices-steady-as-u-s-israeli-conflict-enters-second-week" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-dutch-gas-prices-steady-as-u-s-israeli-conflict-enters-">
+            <p>Os preços do gás na Holanda mostraram pouca variação enquanto o conflito entre EUA e Israel entra na segunda semana. Ataques a petroleiros e o fechamento de instalações energéticas continuam impactando o mercado. Os EUA concederam uma isenção de 30 dias para compra de petróleo russo sancionado, mas isso não resolveu os problemas de oferta.</p>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="meta-row">
+            <span class="source">Hellenic Shipping News</span>
+            <span class="pub-age">há 1d</span>
+        </div>
+        <h3>Relatório do petroleiro Gibson – Estreito Bloqueado</h3>
+        <p class="summary">Ataques a infraestrutura de petróleo no Oriente Médio continuam, afetando várias embarcações na região.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('gibson-tanker-report-locked-strait')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://www.hellenicshippingnews.com/gibson-tanker-report-locked-strait" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-gibson-tanker-report-locked-strait">
+            <p>A crise no Oriente Médio persiste sem sinais de melhora, com ataques frequentes a instalações petrolíferas. Diversos navios, incluindo petroleiros, foram atingidos, aumentando os riscos para o tráfego marítimo local. A situação mantém o estreito bloqueado, impactando o comércio internacional.</p>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="meta-row">
+            <span class="source">Offshore Energy</span>
+            <span class="pub-age">há 1d</span>
+        </div>
+        <h3>Estaleiro sul-coreano realiza cerimônia de batismo de duas embarcações de GNL</h3>
+        <p class="summary">Estaleiro na Coreia do Sul batiza duas novas embarcações de GNL para ampliar frota da polonesa Orlen.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('south-korean-shipyard-hosts-twin-lng-vessel-naming-cere')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://www.offshore-energy.biz/south-korean-shipyard-hosts-twin-lng-vessel-naming-ceremony-gallery" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-south-korean-shipyard-hosts-twin-lng-vessel-naming-cere">
+            <p>O estaleiro Hanwha Ocean, na Coreia do Sul, realizou a cerimônia de batismo de duas embarcações de GNL para o grupo polonês Orlen. As novas unidades aumentam a capacidade de transporte de gás natural liquefeito, garantindo maior flexibilidade e segurança energética para a Polônia e região. Cada navio tem capacidade para 174 mil m³ de GNL, suficiente para abastecer até dois milhões de residências por viagem.</p>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="meta-row">
+            <span class="source">Offshore Energy</span>
+            <span class="pub-age">há 1d</span>
+        </div>
+        <h3>Embarcação híbrida e preparada para biocombustível da N-Sea inicia testes em mar</h3>
+        <p class="summary">O navio híbrido Geo Master da N-Sea iniciou testes em mar e poderá operar com biocombustível, reforçando sustentabilidade offshore.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('n-sea-s-hybrid-biofuel-ready-vessel-starts-sea-trials')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://www.offshore-energy.biz/n-seas-hybrid-biofuel-ready-vessel-starts-sea-trials" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-n-sea-s-hybrid-biofuel-ready-vessel-starts-sea-trials">
+            <p>O Geo Master, embarcação híbrida para suporte a ROVs, iniciou seus testes em mar. Construído na Holanda, o navio é preparado para operar com biocombustível, alinhando-se às tendências sustentáveis do setor offshore. A N-Sea terá controle comercial total da embarcação após a entrega.</p>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="meta-row">
+            <span class="source">MarineLink</span>
+            <span class="pub-age">há 1d</span>
+        </div>
+        <h3>Embarcações de Apoio Offshore: Uma Recuperação de Mercado Moderada</h3>
+        <p class="summary">Mercado de embarcações de apoio offshore se recupera lentamente, com baixa atividade de novos pedidos e oferta controlada.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('offshore-service-vessels-a-measured-market-recovery')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://www.marinelink.com/news/offshore-service-vessels-a-measured-536961" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-offshore-service-vessels-a-measured-market-recovery">
+            <p>O mercado de embarcações de apoio offshore (OSV) apresenta sinais de recuperação moderada, sem crescimento excessivo na oferta. A atividade de novos pedidos permanece baixa, com apenas 3% da frota atual em construção. A estabilidade do setor pode ser afetada por volatilidades geopolíticas e mudanças no mercado de energia.</p>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="meta-row">
+            <span class="source">Marine Insight</span>
+            <span class="pub-age">há 1d</span>
+        </div>
+        <h3>Navio Porta-Contêiner da Hapag-Lloyd Atingido por Estilhaços Próximo ao Estreito de Ormuz, Tripulação Apaga Incêndio com Segurança</h3>
+        <p class="summary">Navio porta-contêiner foi atingido por estilhaços perto do Estreito de Ormuz; tripulação controlou incêndio sem feridos.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('hapag-lloyd-container-ship-hit-by-shrapnel-near-strait-')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://www.marineinsight.com/shipping-news/hapag-lloyd-container-ship-hit-by-shrapnel-near-strait-of-hormuz-crew-safely-extinguishes-fire/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hapag-lloyd-container-ship-hit-by-shrapnel-near-strait-of-hormuz-crew-safely-extinguishes-fire" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-hapag-lloyd-container-ship-hit-by-shrapnel-near-strait-">
+            <p>Um navio porta-contêiner da Hapag-Lloyd, que opera como feeder entre Emirados Árabes Unidos e Omã, foi atingido por estilhaços próximo ao Estreito de Ormuz. A tripulação conseguiu apagar o incêndio rapidamente, sem registrar feridos ou danos graves. O incidente reforça a importância da segurança em áreas de risco marítimo.</p>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="meta-row">
+            <span class="source">New York Times Shipping</span>
+            <span class="pub-age">há 1d</span>
+        </div>
+        <h3>Cheiro de Produto Químico no Centro de Controle Paralisa Tráfego nos Aeroportos de Washington e Baltimore</h3>
+        <p class="summary">Cheiro químico no centro de controle causou atrasos nos aeroportos de Washington, Baltimore e Richmond.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('chemical-smell-at-control-center-halts-traffic-at-washi')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://www.nytimes.com/2026/03/13/us/airports-ground-stop-dc-baltimore.html" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-chemical-smell-at-control-center-halts-traffic-at-washi">
+            <p>Um cheiro de produto químico no centro de controle afetou os controladores de tráfego aéreo, causando atrasos nos aeroportos de Washington, Baltimore e Richmond. A situação gerou paralisação do tráfego aéreo até pelo menos a meia-noite, segundo a FAA. Não houve menção a embarcações envolvidas ou acidentes marítimos.</p>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="meta-row">
+            <span class="source">New York Times Shipping</span>
+            <span class="pub-age">há 17h</span>
+        </div>
+        <h3>Por que pouco foi feito para evitar o problema do petróleo no Estreito de Ormuz</h3>
+        <p class="summary">Rivalidades regionais impedem alternativas ao Estreito de Ormuz, afetando o transporte de petróleo no Golfo.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('why-little-was-done-to-head-off-oil-s-strait-of-hormuz-')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://www.nytimes.com/2026/03/14/business/energy-environment/iran-strait-hormuz-oil-middle-east.html" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-why-little-was-done-to-head-off-oil-s-strait-of-hormuz-">
+            <p>A geografia e os conflitos regionais dificultam que os países do Golfo encontrem rotas alternativas ao Estreito de Ormuz. A guerra com o Irã tem praticamente bloqueado essa passagem estratégica para o transporte de petróleo. Isso gera riscos e incertezas para o comércio marítimo na região.</p>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="meta-row">
+            <span class="source">gCaptain</span>
+            <span class="pub-age">há 11h</span>
+        </div>
+        <h3>Passagem Rara de Petroleiros Indianos pelo Estreito de Hormuz Sinaliza Nova Realidade Política para o Transporte Marítimo Global</h3>
+        <p class="summary">Dois navios indianos de gás liquefeito passaram pelo Estreito de Hormuz após autorização especial do Irã, destacando importância diplomática na região.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('india-s-tanker-escape-rare-hormuz-passage-signals-new-p')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://gcaptain.com/indias-tanker-escape-rare-hormuz-passage-signals-new-political-reality-for-global-shipping" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-india-s-tanker-escape-rare-hormuz-passage-signals-new-p">
+            <p>Dois navios indianos de gás liquefeito, Shivalik e Nanda Devi, receberam autorização rara do Irã para transitar pelo Estreito de Hormuz, em meio à crise de segurança no Golfo. A passagem foi resultado de negociações diplomáticas entre Índia e Irã, visando garantir o abastecimento energético indiano. Essa rota é estratégica para a Índia, que depende fortemente das importações de gás do Oriente Médio.</p>
+        </div>
+    </div>
+    
+    <div class="card">
+        <div class="meta-row">
+            <span class="source">Splash247</span>
+            <span class="pub-age">há 1d</span>
+        </div>
+        <h3>HJ Shipbuilding vai assumir estaleiro Gunsan da HD Hyundai</h3>
+        <p class="summary">HJ Shipbuilding comprará estaleiro Gunsan da HD Hyundai, ampliando capacidade para construir navios maiores.</p>
+        <div class="actions">
+            <button class="more-btn" type="button" onclick="toggleMore('hj-shipbuilding-set-to-take-over-hd-hyundai-s-gunsan-ya')">
+                <span class="btn-icon">+</span> Ler mais
+            </button>
+            <a class="open-link" href="https://splash247.com/hj-shipbuilding-set-to-take-over-hd-hyundais-gunsan-yard" target="_blank" rel="noopener noreferrer">
+                Abrir reportagem <span class="arrow">→</span>
+            </a>
+        </div>
+        <div class="more-box" id="more-hj-shipbuilding-set-to-take-over-hd-hyundai-s-gunsan-ya">
+            <p>A HJ Shipbuilding &amp; Construction assinou acordo para adquirir o estaleiro Gunsan da HD Hyundai, na Coreia do Sul. O local, que produz blocos para navios, poderá construir navios maiores após a transição. A HD Hyundai continuará fornecendo suporte técnico e serviços de design por cerca de três anos.</p>
+        </div>
+    </div>
+    </div>
+</div></main>
+<footer class="site-footer">VAPO News — Radar Marítimo &nbsp;·&nbsp; Gerado em 15/03/2026 às 02:47</footer>
+<script>
+function toggleMore(id){const b=document.getElementById('more-'+id);if(!b)return;const open=b.classList.toggle('open');const btn=b.previousElementSibling?.querySelector('.more-btn');if(btn)btn.querySelector('.btn-icon').textContent=open?'−':'+';}
+const T=document.getElementById('themeToggle');
+function setTheme(t){document.body.classList.toggle('dark',t==='dark');T.textContent=t==='dark'?'☀️ Claro':'🌙 Escuro';localStorage.setItem('vapo-theme',t);const w=document.getElementById('wavePath');if(w)w.setAttribute('fill',t==='dark'?'#0a1520':'#e8f1f8');}
+const s=localStorage.getItem('vapo-theme');
+setTheme(s||(window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'));
+T.addEventListener('click',()=>setTheme(document.body.classList.contains('dark')?'light':'dark'));
+</script>
+</body></html>

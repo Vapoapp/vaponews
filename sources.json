@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Petronotícias",
+    "type": "rss",
+    "url": "https://petronoticias.com.br/feed/",
+    "priority": 10
+  },
+  {
+    "name": "Agência Petrobras",
+    "type": "scrape",
+    "url": "https://agencia.petrobras.com.br/mais-recentes",
+    "base_url": "https://agencia.petrobras.com.br",
+    "article_path_keywords": [
+      "/w/"
+    ],
+    "priority": 10
+  },
+  {
+    "name": "Portos e Navios",
+    "type": "scrape",
+    "url": "https://www.portosenavios.com.br/noticias",
+    "base_url": "https://www.portosenavios.com.br",
+    "article_path_keywords": [
+      "/noticias/"
+    ],
+    "priority": 9
+  },
+  {
+    "name": "g1 Rio",
+    "type": "scrape",
+    "url": "https://g1.globo.com/rj/rio-de-janeiro/",
+    "base_url": "https://g1.globo.com",
+    "article_path_keywords": [
+      "/noticia/",
+      "/rj/rio-de-janeiro/"
+    ],
+    "priority": 9
+  },
+  {
+    "name": "Agência Marinha",
+    "type": "scrape",
+    "url": "https://www.agencia.marinha.mil.br",
+    "base_url": "https://www.agencia.marinha.mil.br",
+    "article_path_keywords": [
+      "/pt-br/"
+    ],
+    "priority": 10
+  },
+  {
+    "name": "Guia Marítimo",
+    "type": "scrape",
+    "url": "https://www.guiamaritimo.com.br/noticias",
+    "base_url": "https://www.guiamaritimo.com.br",
+    "article_path_keywords": [
+      "/noticias/"
+    ],
+    "priority": 8
+  },
+  {
+    "name": "Sinaval",
+    "type": "scrape",
+    "url": "https://sinaval.org.br/secao/noticias-da-semana/",
+    "base_url": "https://sinaval.org.br",
+    "article_path_keywords": [
+      "/noticia/",
+      "/secao/noticias-da-semana/"
+    ],
+    "priority": 8
+  },
+  {
+    "name": "CNN Brasil Transporte Marítimo",
+    "type": "scrape",
+    "url": "https://www.cnnbrasil.com.br/tudo-sobre/transporte-maritimo/",
+    "base_url": "https://www.cnnbrasil.com.br",
+    "article_path_keywords": [
+      "/economia/",
+      "/nacional/",
+      "/tudo-sobre/transporte-maritimo/"
+    ],
+    "priority": 7
+  },
+  {
+    "name": "Marine Insight",
+    "type": "rss",
+    "url": "https://www.marineinsight.com/feed/",
+    "priority": 2
+  },
+  {
+    "name": "Offshore Energy",
+    "type": "rss",
+    "url": "https://www.offshore-energy.biz/feed/",
+    "priority": 5
+  },
+  {
+    "name": "Splash247",
+    "type": "rss",
+    "url": "https://splash247.com/feed/",
+    "priority": 4
+  },
+  {
+    "name": "gCaptain",
+    "type": "rss",
+    "url": "https://gcaptain.com/feed/",
+    "priority": 4
+  },
+  {
+    "name": "Hellenic Shipping News",
+    "type": "rss",
+    "url": "https://www.hellenicshippingnews.com/feed/",
+    "priority": 3
+  },
+  {
+    "name": "R7",
+    "type": "scrape",
+    "url": "https://www.r7.com",
+    "base_url": "https://www.r7.com",
+    "article_path_keywords": [
+      "/prisma/",
+      "/brasilia/",
+      "/economia/"
+    ],
+    "priority": 6
+  },
+  {
+    "name": "g1 Brasil",
+    "type": "scrape",
+    "url": "https://g1.globo.com",
+    "base_url": "https://g1.globo.com",
+    "article_path_keywords": [
+      "/noticia/",
+      "/economia/"
+    ],
+    "priority": 7
+  },
+  {
+    "name": "CONTTMAF",
+    "type": "scrape",
+    "url": "https://www.conttmaf.org.br/",
+    "base_url": "https://www.conttmaf.org.br",
+    "article_path_keywords": [
+      "/category/noticias-setoriais/",
+      "/category/noticias-setoriais/aquaviario/",
+      "/category/noticias-setoriais/portos/",
+      "/category/noticias-setoriais/pesca/",
+      "/category/noticias-setoriais/institucional/"
+    ],
+    "priority": 7
+  },
+  {
+    "name": "Maritime Executive",
+    "type": "rss",
+    "url": "https://maritime-executive.com/articles/feed",
+    "priority": 5
+  },
+  {
+    "name": "World Maritime News",
+    "type": "rss",
+    "url": "https://feeds.feedburner.com/worldmaritimenews/Ltoh",
+    "priority": 4
+  },
+  {
+    "name": "MarineLink",
+    "type": "rss",
+    "url": "https://www.marinelink.com/news/rss",
+    "priority": 4
+  },
+  {
+    "name": "Naval Today",
+    "type": "rss",
+    "url": "https://navaltoday.com/feed/",
+    "priority": 4
+  },
+  {
+    "name": "Estadão Transporte Marítimo",
+    "type": "scrape",
+    "url": "https://www.estadao.com.br/tudo-sobre/transporte-maritimo/",
+    "base_url": "https://www.estadao.com.br",
+    "article_path_keywords": [
+      "/economia/",
+      "/internacional/",
+      "/politica/",
+      "/tudo-sobre/"
+    ],
+    "priority": 8
+  },
+  {
+    "name": "Tecnologística",
+    "type": "scrape",
+    "url": "https://www.tecnologistica.com.br/",
+    "base_url": "https://www.tecnologistica.com.br",
+    "article_path_keywords": [
+      "/portal/noticias/",
+      "/noticias/"
+    ],
+    "priority": 6
+  },
+  {
+    "name": "El País Brasil",
+    "type": "rss",
+    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/brasil.elpais.com/portada",
+    "priority": 6,
+    "_note": "El País edição Brasil — economia, política, internacional"
+  },
+  {
+    "name": "New York Times Shipping",
+    "type": "rss",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+    "priority": 5,
+    "_note": "NYT Business — shipping, energia, economia global"
+  },
+  {
+    "name": "HotTopics Maritime",
+    "type": "rss",
+    "url": "https://www.hot-topics.com/rss/maritime-shipping",
+    "priority": 4,
+    "_note": "HotTopics — shipping e logística marítima"
+  },
+  {
+    "name": "Nautical Institute",
+    "type": "scrape",
+    "url": "https://www.nautinst.org/news.html",
+    "base_url": "https://www.nautinst.org",
+    "article_path_keywords": [
+      "/news/",
+      "/resources/",
+      "/publications/"
+    ],
+    "priority": 7
+  },
+  {
+    "name": "InfoMoney Mundo",
+    "type": "scrape",
+    "url": "https://www.infomoney.com.br/mundo/",
+    "base_url": "https://www.infomoney.com.br",
+    "article_path_keywords": [
+      "/mundo/",
+      "/mercados/",
+      "/economia/"
+    ],
+    "priority": 6
+  }
+]
