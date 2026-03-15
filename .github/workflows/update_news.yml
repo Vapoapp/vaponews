@@ -1,0 +1,45 @@
+name: VAPO News
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  gerar-newsletter:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Garantir pasta output
+        run: mkdir -p output
+
+      - name: Rodar VAPO News
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-4.1-mini
+        run: python app.py
+
+      - name: Copiar newsletter para index
+        run: cp output/newsletter.html output/index.html
+
+      - name: Commit dos arquivos gerados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/*
+          git commit -m "Atualiza VAPO News - $(date -u '+%d/%m/%Y %H:%M UTC')" || echo "Sem mudanças"
+          git push
