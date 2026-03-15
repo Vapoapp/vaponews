@@ -1,14 +1,14 @@
 {
   "https://www.marineinsight.com/shipping-news/u-s-navy-ship-fires-on-iranian-vessel-approaching-uss-abraham-lincoln-carrier-strike-group/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-navy-ship-fires-on-iranian-vessel-approaching-uss-abraham-lincoln-carrier-strike-group": {
-    "ts": "2026-03-15T13:05:28.221364+00:00",
+    "ts": "2026-03-15T18:49:34.615320+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/trump-calls-for-allied-warships-to-secure-strait-of-hormuz/": {
-    "ts": "2026-03-15T13:05:28.221364+00:00",
+    "ts": "2026-03-15T18:49:34.615320+00:00",
     "type": "highlight"
   },
   "https://www.nytimes.com/2026/03/14/business/energy-environment/iran-strait-hormuz-oil-middle-east.html": {
-    "ts": "2026-03-15T13:05:28.221364+00:00",
+    "ts": "2026-03-15T18:49:34.615320+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/transpetro-divulga-nova-lista-de-classificacao-de-licitacao-de-navios-mr1-e-ecovix-salta-na-frente-da-disputa/": {
@@ -84,7 +84,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/shipping-news/two-indian-flagged-lpg-tankers-cross-the-hormuz-after-4-rounds-of-iran-india-talks/?utm_source=rss&utm_medium=rss&utm_campaign=two-indian-flagged-lpg-tankers-cross-the-hormuz-after-4-rounds-of-iran-india-talks": {
-    "ts": "2026-03-15T13:05:28.221364+00:00",
+    "ts": "2026-03-15T18:49:34.615320+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/middle-east-conflict-dampens-fears-of-container-sector-overcapacity/": {
@@ -129,6 +129,22 @@
   },
   "https://www.hellenicshippingnews.com/strait-of-hormuz-update-vlgcs-ballasting-from-gulf-of-oman-asian-petchem-receives-a-serious-blow-2/": {
     "ts": "2026-03-15T13:05:28.221364+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/conferencia-sobre-a-logistica-do-transporte-maritimo-vai-debater-novas-tecnologias-durante-dois-dias-em-sao-paulo/": {
+    "ts": "2026-03-15T18:49:34.615320+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/lured-by-profits-some-shipowners-brave-mines-and-missiles-to-sneak-oil-past-iran/": {
+    "ts": "2026-03-15T18:49:34.615320+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/lngc-loadings-down-in-qatar-post-force-majeure-as-the-conflict-continues/": {
+    "ts": "2026-03-15T18:49:34.615320+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/iran-conflict-underscores-need-to-build-iron-ore-pellet-plant-capacity-in-north-america/": {
+    "ts": "2026-03-15T18:49:34.615320+00:00",
     "type": "other"
   }
 }
