@@ -1,14 +1,14 @@
 {
   "https://www.marineinsight.com/shipping-news/u-s-navy-ship-fires-on-iranian-vessel-approaching-uss-abraham-lincoln-carrier-strike-group/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-navy-ship-fires-on-iranian-vessel-approaching-uss-abraham-lincoln-carrier-strike-group": {
-    "ts": "2026-03-15T06:05:20.323741+00:00",
+    "ts": "2026-03-15T07:06:13.278822+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/trump-calls-for-allied-warships-to-secure-strait-of-hormuz/": {
-    "ts": "2026-03-15T06:05:20.323741+00:00",
+    "ts": "2026-03-15T07:06:13.278822+00:00",
     "type": "highlight"
   },
   "https://www.nytimes.com/2026/03/14/business/energy-environment/iran-strait-hormuz-oil-middle-east.html": {
-    "ts": "2026-03-15T06:05:20.323741+00:00",
+    "ts": "2026-03-15T07:06:13.278822+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/transpetro-divulga-nova-lista-de-classificacao-de-licitacao-de-navios-mr1-e-ecovix-salta-na-frente-da-disputa/": {
@@ -77,6 +77,50 @@
   },
   "https://splash247.com/yang-ming-readies-order-for-six-lng-dual-fuel-boxships/": {
     "ts": "2026-03-15T06:05:20.323741+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/the-largest-supply-disruption-in-the-history-of-the-global-oil-market-ieas-take-on-the-hormuz-crisis/": {
+    "ts": "2026-03-15T07:06:13.278822+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/shipping-news/two-indian-flagged-lpg-tankers-cross-the-hormuz-after-4-rounds-of-iran-india-talks/?utm_source=rss&utm_medium=rss&utm_campaign=two-indian-flagged-lpg-tankers-cross-the-hormuz-after-4-rounds-of-iran-india-talks": {
+    "ts": "2026-03-15T07:06:13.278822+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/middle-east-conflict-dampens-fears-of-container-sector-overcapacity/": {
+    "ts": "2026-03-15T07:06:13.278822+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/impact-usvenezuela-relations-ocean-536960": {
+    "ts": "2026-03-15T07:06:13.278822+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/when-the-strait-closes-how-tanker-charterers-navigate-the-hormuz-crisis/": {
+    "ts": "2026-03-15T07:06:13.278822+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/fpso-on-its-way-back-to-cote-divoire-as-us-firm-continues-its-drilling-ops-in-gabon/": {
+    "ts": "2026-03-15T07:06:13.278822+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/seadrills-cco-steps-into-ceo-role/": {
+    "ts": "2026-03-15T07:06:13.278822+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/when-seafarers-die-statements-are-not-enough/": {
+    "ts": "2026-03-15T07:06:13.278822+00:00",
+    "type": "other"
+  },
+  "https://www.nytimes.com/2026/03/13/world/middleeast/iran-strait-of-hormuz-us-war.html": {
+    "ts": "2026-03-15T07:06:13.278822+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/maersk-offshore-names-new-wtiv-ahead-us-536952": {
+    "ts": "2026-03-15T07:06:13.278822+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/tanker-market-rebounded-in-february/": {
+    "ts": "2026-03-15T07:06:13.278822+00:00",
     "type": "other"
   }
 }
