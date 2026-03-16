@@ -1,10 +1,10 @@
 {
   "https://www.marineinsight.com/shipping-news/u-s-navy-ship-fires-on-iranian-vessel-approaching-uss-abraham-lincoln-carrier-strike-group/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-navy-ship-fires-on-iranian-vessel-approaching-uss-abraham-lincoln-carrier-strike-group": {
-    "ts": "2026-03-16T00:50:45.270426+00:00",
+    "ts": "2026-03-16T01:20:43.327435+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/trump-calls-for-allied-warships-to-secure-strait-of-hormuz/": {
-    "ts": "2026-03-16T00:50:45.270426+00:00",
+    "ts": "2026-03-16T01:20:43.327435+00:00",
     "type": "highlight"
   },
   "https://www.nytimes.com/2026/03/14/business/energy-environment/iran-strait-hormuz-oil-middle-east.html": {
@@ -84,7 +84,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/shipping-news/two-indian-flagged-lpg-tankers-cross-the-hormuz-after-4-rounds-of-iran-india-talks/?utm_source=rss&utm_medium=rss&utm_campaign=two-indian-flagged-lpg-tankers-cross-the-hormuz-after-4-rounds-of-iran-india-talks": {
-    "ts": "2026-03-16T00:50:45.270426+00:00",
+    "ts": "2026-03-16T01:20:43.327435+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/middle-east-conflict-dampens-fears-of-container-sector-overcapacity/": {
@@ -132,7 +132,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/conferencia-sobre-a-logistica-do-transporte-maritimo-vai-debater-novas-tecnologias-durante-dois-dias-em-sao-paulo/": {
-    "ts": "2026-03-16T00:50:45.270426+00:00",
+    "ts": "2026-03-16T01:20:43.327435+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/lured-by-profits-some-shipowners-brave-mines-and-missiles-to-sneak-oil-past-iran/": {
@@ -148,11 +148,11 @@
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/theres-no-hiding-place-on-a-ship-the-sailors-stranded-near-iran/": {
-    "ts": "2026-03-16T00:50:45.270426+00:00",
+    "ts": "2026-03-16T01:20:43.327435+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/intermanager-advises-extreme-caution-536983": {
-    "ts": "2026-03-16T00:50:45.270426+00:00",
+    "ts": "2026-03-16T01:20:43.327435+00:00",
     "type": "highlight"
   },
   "https://clickpetroleoegas.com.br/para-onde-os-ricos-estao-correndo-em-2026-para-comprar-segunda-casa-esses-destinos-viraram-febre-entre-milionarios-e-o-mercado-de-luxo-rpc95/": {
@@ -173,6 +173,54 @@
   },
   "https://splash247.com/nasco-returns-to-china-merchants-yard-for-ultramax-brace/": {
     "ts": "2026-03-16T00:50:45.270426+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/536980-us-officials-predict-quick-end-to-iran-war": {
+    "ts": "2026-03-16T01:20:43.327435+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/vessel-traffic-through-strait-of-hormuz-fell-to-one-transit-march-12-cas/": {
+    "ts": "2026-03-16T01:20:43.327435+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/pan-ocean-bulks-up-with-qingdao-beihai-newcastlemaxes/": {
+    "ts": "2026-03-16T01:20:43.327435+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/536981-trump-administration-directs-sable-offshore-to-restore-santa-ynez-operations": {
+    "ts": "2026-03-16T01:20:43.327435+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/536986-revolution-wind-now-delivering-power-to-new-england": {
+    "ts": "2026-03-16T01:20:43.327435+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/drilling-production/us-directs-sable-offshore-to-restore-santa-ynez-oil-unit": {
+    "ts": "2026-03-16T01:20:43.327435+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/jinjiang-shipping-presses-ahead-with-newbuild-plan/": {
+    "ts": "2026-03-16T01:20:43.327435+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/ports/trump-threatens-to-hit-irans-kharg-island-oil-network-if-shipping-lanes-remain-blocked": {
+    "ts": "2026-03-16T01:20:43.327435+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/ports/opinion-iran-holds-the-key-to-reopening-global-energy-markets": {
+    "ts": "2026-03-16T01:20:43.327435+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/ports/port-of-fujairah-resumes-oil-loadings-after-attack": {
+    "ts": "2026-03-16T01:20:43.327435+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/drilling-production/japan-industry-ministry-asks-australia-to-boost-lng-output-amid-iran-crisis": {
+    "ts": "2026-03-16T01:20:43.327435+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/drilling-production": {
+    "ts": "2026-03-16T01:20:43.327435+00:00",
     "type": "other"
   }
 }
