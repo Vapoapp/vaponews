@@ -20,15 +20,15 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/direito-normas-e-legislacao": {
-    "ts": "2026-03-15T06:05:20.323741+00:00",
+    "ts": "2026-03-16T13:26:23.385754+00:00",
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/estudos-e-estatisticas": {
-    "ts": "2026-03-15T06:05:20.323741+00:00",
+    "ts": "2026-03-16T13:26:23.385754+00:00",
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/logistica-de-projetos": {
-    "ts": "2026-03-15T06:05:20.323741+00:00",
+    "ts": "2026-03-16T13:26:23.385754+00:00",
     "type": "other"
   },
   "https://www.cnnbrasil.com.br/economia/macroeconomia/ira-considera-liberar-ormuz-desde-que-negociacoes-sejam-em-yuan-chines/": {
@@ -132,7 +132,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/conferencia-sobre-a-logistica-do-transporte-maritimo-vai-debater-novas-tecnologias-durante-dois-dias-em-sao-paulo/": {
-    "ts": "2026-03-16T07:27:02.948438+00:00",
+    "ts": "2026-03-16T13:26:23.385754+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/lured-by-profits-some-shipowners-brave-mines-and-missiles-to-sneak-oil-past-iran/": {
@@ -176,7 +176,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/536980-us-officials-predict-quick-end-to-iran-war": {
-    "ts": "2026-03-16T07:27:02.948438+00:00",
+    "ts": "2026-03-16T13:26:23.385754+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/vessel-traffic-through-strait-of-hormuz-fell-to-one-transit-march-12-cas/": {
@@ -260,7 +260,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/norwind-offshores-newest-hybrid-ready-csov-formally-named": {
-    "ts": "2026-03-16T07:27:02.948438+00:00",
+    "ts": "2026-03-16T13:26:23.385754+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction/maersk-offshore-wind-christens-new-turbine-installation-vessel": {
@@ -268,7 +268,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/dutch-yard-launches-carisbrooke-shippings-newest-cargo-vessel": {
-    "ts": "2026-03-16T07:27:02.948438+00:00",
+    "ts": "2026-03-16T13:26:23.385754+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
@@ -284,11 +284,11 @@
     "type": "highlight"
   },
   "https://splash247.com/swedish-court-detains-captain-of-tanker-bound-for-russia/": {
-    "ts": "2026-03-16T07:27:02.948438+00:00",
+    "ts": "2026-03-16T13:26:23.385754+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-03-16T07:27:02.948438+00:00",
+    "ts": "2026-03-16T13:26:23.385754+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/premios-e-certificacoes": {
@@ -325,6 +325,54 @@
   },
   "https://www.marinelink.com/news/orlen-takes-delivery-two-lng-carriers-536999": {
     "ts": "2026-03-16T07:27:02.948438+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/first-lng-tanker-carrying-russian-gas-enters-mediterranean-since-arctic-metagaz-explosion/": {
+    "ts": "2026-03-16T13:26:23.385754+00:00",
+    "type": "highlight"
+  },
+  "https://www.offshore-energy.biz/petrobras-gives-out-736m-worth-of-vessel-contracts-to-compatriot-firm/": {
+    "ts": "2026-03-16T13:26:23.385754+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/trump-says-talks-ongoing-with-countries-over-policing-strait-of-hormuz/": {
+    "ts": "2026-03-16T13:26:23.385754+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/tecnogera-entra-no-mercado-de-compressores-para-operacoes-offshore-e-planeja-expandir-portfolio/": {
+    "ts": "2026-03-16T13:26:23.385754+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/indian-oil-tanker-jag-laadki-safely-sails-from-fujairah-after-drone-attack-disrupts-oil-terminal/?utm_source=rss&utm_medium=rss&utm_campaign=indian-oil-tanker-jag-laadki-safely-sails-from-fujairah-after-drone-attack-disrupts-oil-terminal": {
+    "ts": "2026-03-16T13:26:23.385754+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/india-secures-safe-passage-for-lpg-tankers-through-the-shuttered-strait-of-hormuz/": {
+    "ts": "2026-03-16T13:26:23.385754+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/dutch-start-building-enshores-specialist-shallow-draft-cable-lay-barge/": {
+    "ts": "2026-03-16T13:26:23.385754+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/us-allies-wary-of-joining-trumps-strait-of-hormuz-mission/": {
+    "ts": "2026-03-16T13:26:23.385754+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/seadrill-appoints-samir-ali-as-new-chief-executive/": {
+    "ts": "2026-03-16T13:26:23.385754+00:00",
+    "type": "other"
+  },
+  "https://www.nytimes.com/2026/03/16/business/dealbook/trump-hormuz-problem.html": {
+    "ts": "2026-03-16T13:26:23.385754+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/20-thai-sailors-return-home-after-cargo-ship-attack-in-strait-of-hormuz-3-crew-still-missing/?utm_source=rss&utm_medium=rss&utm_campaign=20-thai-sailors-return-home-after-cargo-ship-attack-in-strait-of-hormuz-3-crew-still-missing": {
+    "ts": "2026-03-16T13:26:23.385754+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/rotterdam-begins-expansion-for-methanol-and-ethanol-facilities/": {
+    "ts": "2026-03-16T13:26:23.385754+00:00",
     "type": "other"
   }
 }
