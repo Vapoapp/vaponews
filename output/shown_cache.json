@@ -20,15 +20,15 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/direito-normas-e-legislacao": {
-    "ts": "2026-03-16T13:26:23.385754+00:00",
+    "ts": "2026-03-17T19:11:10.309859+00:00",
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/estudos-e-estatisticas": {
-    "ts": "2026-03-16T13:26:23.385754+00:00",
+    "ts": "2026-03-17T19:11:10.309859+00:00",
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/logistica-de-projetos": {
-    "ts": "2026-03-16T13:26:23.385754+00:00",
+    "ts": "2026-03-17T19:11:10.309859+00:00",
     "type": "other"
   },
   "https://www.cnnbrasil.com.br/economia/macroeconomia/ira-considera-liberar-ormuz-desde-que-negociacoes-sejam-em-yuan-chines/": {
@@ -344,7 +344,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/indian-oil-tanker-jag-laadki-safely-sails-from-fujairah-after-drone-attack-disrupts-oil-terminal/?utm_source=rss&utm_medium=rss&utm_campaign=indian-oil-tanker-jag-laadki-safely-sails-from-fujairah-after-drone-attack-disrupts-oil-terminal": {
-    "ts": "2026-03-16T13:26:23.385754+00:00",
+    "ts": "2026-03-17T19:11:10.309859+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/india-secures-safe-passage-for-lpg-tankers-through-the-shuttered-strait-of-hormuz/": {
@@ -376,7 +376,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/subsea-surveying/oceanica-signs-subsea-deals-with-petrobras-worth-736m": {
-    "ts": "2026-03-17T13:24:46.763025+00:00",
+    "ts": "2026-03-17T19:11:10.309859+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/u-s-issues-new-hormuz-security-advisory-telling-american-ships-to-ignore-diversion-orders/": {
@@ -536,15 +536,15 @@
     "type": "other"
   },
   "https://www.offshore-energy.biz/wheels-up-for-petrobras-to-become-sole-owner-of-brazilian-offshore-fields/": {
-    "ts": "2026-03-17T13:24:46.763025+00:00",
+    "ts": "2026-03-17T19:11:10.309859+00:00",
     "type": "highlight"
   },
   "https://www.rigzone.com/news/sc_says_no_clear_offramps_in_conflict_ups_brent_forecast-17-mar-2026-183223-article/": {
-    "ts": "2026-03-17T13:24:46.763025+00:00",
+    "ts": "2026-03-17T19:11:10.309859+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/imo-sec-gen-naval-escorts-through-hormuz-do-not-ensure-safety/": {
-    "ts": "2026-03-17T13:24:46.763025+00:00",
+    "ts": "2026-03-17T19:11:10.309859+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21130/concessao-do-canal-de-acesso-ao-porto-de-paranagua-preve-investimentos-de-r-1-23-bilhao/": {
@@ -609,6 +609,58 @@
   },
   "https://www.bairdmaritime.com/shipping/tankers/nine-eu-nations-warn-of-ecological-threat-from-adrift-russian-lng-tanker": {
     "ts": "2026-03-17T13:24:46.763025+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/investimentos-de-r-120-milhoes-deixa-o-aeroporto-de-jacarepagua-mais-moderno-para-atender-demanda-offshore/": {
+    "ts": "2026-03-17T19:11:10.309859+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/performance-shipping-seals-sale-and-leaseback-for-lr1-newbuild/": {
+    "ts": "2026-03-17T19:11:10.309859+00:00",
+    "type": "highlight"
+  },
+  "https://safety4sea.com/south-korea-adopts-framework-for-green-shipping-corridors/": {
+    "ts": "2026-03-17T19:11:10.309859+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/indian-tankers-able-to-cross-strait-of-hormuz-safely-report/": {
+    "ts": "2026-03-17T19:11:10.309859+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/yang-ming-orders-six-13000-teu-lng-dual-fuel-container-ships/": {
+    "ts": "2026-03-17T19:11:10.309859+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/new-epc-contract-for-onesubsea-this-time-offshore-china/": {
+    "ts": "2026-03-17T19:11:10.309859+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537049-boem-issues-notice-of-intent-for-offshore-well-stimulation-work": {
+    "ts": "2026-03-17T19:11:10.309859+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/feature-china-boosted-crude-stockpiles-at-start-of-2026-but-is-not-using-them": {
+    "ts": "2026-03-17T19:11:10.309859+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/india-denies-discussing-release-of-tankers-with-iran-for-hormuz-passage": {
+    "ts": "2026-03-17T19:11:10.309859+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/oil-tankers-starting-to-dribble-through-strait-of-hormuz-says-white-house/": {
+    "ts": "2026-03-17T19:11:10.309859+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/marinakis-backed-capital-tankers-slides-on-oslo-debut-as-hormuz-crisis-jolts-markets/": {
+    "ts": "2026-03-17T19:11:10.309859+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/nordic-american-tankers-sells-vintage-suezmax-for-40m/": {
+    "ts": "2026-03-17T19:11:10.309859+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/bureau-veritas-certifies-everllences-digital-monitoring-solution-primeserv-assist/": {
+    "ts": "2026-03-17T19:11:10.309859+00:00",
     "type": "other"
   }
 }
