@@ -288,7 +288,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-03-17T22:38:51.600324+00:00",
+    "ts": "2026-03-18T13:26:19.583087+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/premios-e-certificacoes": {
@@ -376,7 +376,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/subsea-surveying/oceanica-signs-subsea-deals-with-petrobras-worth-736m": {
-    "ts": "2026-03-18T07:09:45.635545+00:00",
+    "ts": "2026-03-18T13:26:19.583087+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/u-s-issues-new-hormuz-security-advisory-telling-american-ships-to-ignore-diversion-orders/": {
@@ -548,11 +548,11 @@
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21130/concessao-do-canal-de-acesso-ao-porto-de-paranagua-preve-investimentos-de-r-1-23-bilhao/": {
-    "ts": "2026-03-17T13:24:46.763025+00:00",
+    "ts": "2026-03-18T13:26:19.583087+00:00",
     "type": "other"
   },
   "https://www.navaltoday.com/2026/03/17/brazils-first-tamandare-class-frigate-nears-commissioning/": {
-    "ts": "2026-03-17T13:24:46.763025+00:00",
+    "ts": "2026-03-18T13:26:19.583087+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/537044-petrobras-to-buy-pair-of-petronas-offshore-stakes": {
@@ -564,11 +564,11 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/concessoes-e-licitacoes": {
-    "ts": "2026-03-17T13:24:46.763025+00:00",
+    "ts": "2026-03-18T13:26:19.583087+00:00",
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/inteligencia-nos-transportes": {
-    "ts": "2026-03-17T13:24:46.763025+00:00",
+    "ts": "2026-03-18T13:26:19.583087+00:00",
     "type": "other"
   },
   "https://safety4sea.com/msf-wave-washes-overboard-portside-fast-rescue-craft-frc/": {
@@ -612,7 +612,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/investimentos-de-r-120-milhoes-deixa-o-aeroporto-de-jacarepagua-mais-moderno-para-atender-demanda-offshore/": {
-    "ts": "2026-03-18T07:09:45.635545+00:00",
+    "ts": "2026-03-18T13:26:19.583087+00:00",
     "type": "highlight"
   },
   "https://splash247.com/performance-shipping-seals-sale-and-leaseback-for-lr1-newbuild/": {
@@ -664,7 +664,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/cuba-vive-um-apagao-total-com-pais-naufragando-em-tempo-real-com-o-capitao-se-recusando-a-salvar-a-tripulacao/": {
-    "ts": "2026-03-18T07:09:45.635545+00:00",
+    "ts": "2026-03-18T13:26:19.583087+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/oil-tankers-trickle-strait-hormuz-us-537050": {
@@ -872,7 +872,7 @@
     "type": "highlight"
   },
   "https://splash247.com/most-maritime-ai-failures-will-be-data-failures-not-algorithmic/": {
-    "ts": "2026-03-18T07:09:45.635545+00:00",
+    "ts": "2026-03-18T13:26:19.583087+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/537066-equinor-makes-new-oil-discovery-at-johan-castberg": {
@@ -885,6 +885,54 @@
   },
   "https://splash247.com/can-gulf-noc-strategies-deliver-demand-stability-for-osv-operators/": {
     "ts": "2026-03-18T07:09:45.635545+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/dry-bulk-and-tanker-analytics-for-smarter-vessel-tracking/": {
+    "ts": "2026-03-18T13:26:19.583087+00:00",
+    "type": "highlight"
+  },
+  "https://www.tecnologistica.com.br/noticias/internacional/21133/guerra-no-oriente-medio-como-a-cma-cgm-usa-solucoes-multimodal-para-evitar-o-estreito-de-ormuz/": {
+    "ts": "2026-03-18T13:26:19.583087+00:00",
+    "type": "highlight"
+  },
+  "https://www.offshore-energy.biz/baker-hughes-lands-five-year-job-with-petrobras-in-brazil/": {
+    "ts": "2026-03-18T13:26:19.583087+00:00",
+    "type": "highlight"
+  },
+  "https://safety4sea.com/four-dead-following-fishing-vessel-and-cargo-ship-collision-in-japan/": {
+    "ts": "2026-03-18T13:26:19.583087+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/pakistan-bound-tanker-completes-safe-hormuz-transit-with-ais-on/": {
+    "ts": "2026-03-18T13:26:19.583087+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/two-flex-lng-vessels-on-duty-until-2032-and-one-ship-up-to-2041/": {
+    "ts": "2026-03-18T13:26:19.583087+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/flex-lng-secures-new-vessel-charter-and-extensions": {
+    "ts": "2026-03-18T13:26:19.583087+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537072-112m-offshore-vessel-acquisition-finalized": {
+    "ts": "2026-03-18T13:26:19.583087+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537069-eni-advances-major-deep-water-gas-hubs-with-dual-fids": {
+    "ts": "2026-03-18T13:26:19.583087+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/imo-sub-committee-on-ship-systems-and-equipment-sse-12/": {
+    "ts": "2026-03-18T13:26:19.583087+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/cma-cgm-rolls-out-multimodal-corridors-to-bypass-strait-of-hormuz/": {
+    "ts": "2026-03-18T13:26:19.583087+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/weak-investor-interest-stalls-indias-privatisation-drive-for-shipping-firms": {
+    "ts": "2026-03-18T13:26:19.583087+00:00",
     "type": "other"
   }
 }
