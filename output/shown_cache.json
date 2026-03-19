@@ -272,7 +272,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-03-19T02:44:58.473804+00:00",
+    "ts": "2026-03-19T07:05:35.772325+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/esl-shipping-subsidiary-takes-delivery-of-10th-hybrid-multi-purpose-carrier-in-series": {
@@ -288,11 +288,11 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-03-19T02:44:58.473804+00:00",
+    "ts": "2026-03-19T07:05:35.772325+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/premios-e-certificacoes": {
-    "ts": "2026-03-17T21:31:20.008143+00:00",
+    "ts": "2026-03-19T07:05:35.772325+00:00",
     "type": "other"
   },
   "https://splash247.com/norways-westfal-larsen-offloads-mr-duo-to-msea-tankers/": {
@@ -836,7 +836,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/537063-slb-onesubsea-awarded-integrated-epc-contract-by-cnooc": {
-    "ts": "2026-03-18T07:09:45.635545+00:00",
+    "ts": "2026-03-19T07:05:35.772325+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/ports/hateco-apm-terminals-partnership-tapped-to-operate-container-facility-in-da-nang-vietnam": {
@@ -896,7 +896,7 @@
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/baker-hughes-lands-five-year-job-with-petrobras-in-brazil/": {
-    "ts": "2026-03-19T02:44:58.473804+00:00",
+    "ts": "2026-03-19T07:05:35.772325+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/four-dead-following-fishing-vessel-and-cargo-ship-collision-in-japan/": {
@@ -936,11 +936,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/administracao-sergio-bacci-amplia-a-atuacao-da-transpetro-que-passa-a-operar-tambem-como-empresa-com-clientes-fora-da-companhia/": {
-    "ts": "2026-03-19T02:44:58.473804+00:00",
+    "ts": "2026-03-19T07:05:35.772325+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/italy-warns-damaged-russian-tanker-carrying-over-60000-mt-lng-in-mediterranean-could-explode-anytime/?utm_source=rss&utm_medium=rss&utm_campaign=italy-warns-damaged-russian-tanker-carrying-over-60000-mt-lng-in-mediterranean-could-explode-anytime": {
-    "ts": "2026-03-19T02:44:58.473804+00:00",
+    "ts": "2026-03-19T07:05:35.772325+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/imo-secretarygeneral-urges-deescalation-537078": {
@@ -1008,15 +1008,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/depois-de-30-horas-incendio-o-porta-avioes-gerald-ford-deixa-a-guerra-do-ira-e-segue-para-reparos-na-ilha-de-creta/": {
-    "ts": "2026-03-19T02:44:58.473804+00:00",
+    "ts": "2026-03-19T07:05:35.772325+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/ics-calls-for-safe-passage-for-all-affected-ships-in-the-middle-east-at-the-international-maritime-organization-extraordinary-council-session/": {
-    "ts": "2026-03-19T02:44:58.473804+00:00",
+    "ts": "2026-03-19T07:05:35.772325+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/537082-indonesia-awards-nine-oil-gas-blocks": {
-    "ts": "2026-03-19T02:44:58.473804+00:00",
+    "ts": "2026-03-19T07:05:35.772325+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/vlcc-rates-face-downward-pressure-as-tankers-flee-gulf-crisis/": {
@@ -1045,6 +1045,50 @@
   },
   "https://gcaptain.com/india-sends-warships-near-gulf-of-oman-to-escort-its-fuel-ships/": {
     "ts": "2026-03-19T02:44:58.473804+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/iran-threatens-gulf-energy-assets-after-strike-on-south-pars-gas-field/": {
+    "ts": "2026-03-19T07:05:35.772325+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/trump-blames-israel-for-south-pars-attack-warns-iran-of-massive-retaliation/": {
+    "ts": "2026-03-19T07:05:35.772325+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/time-is-short-imo-secretary-general-urges-de-escalation-and-seafarer-protection-at-extraordinary-session-of-imo-council/": {
+    "ts": "2026-03-19T07:05:35.772325+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/geneva-dry-reveals-finalised-agenda-with-40-days-to-go-and-250-companies-already-signed-up/": {
+    "ts": "2026-03-19T07:05:35.772325+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537071-offshore-vietnam-energy-imports-rise-as-domestic-production-falls": {
+    "ts": "2026-03-19T07:05:35.772325+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/training-simulator-in-the-making-for-jan-de-nuls-fleeming-jenkin/": {
+    "ts": "2026-03-19T07:05:35.772325+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/the-hormuz-hypothesis-what-if-the-u-s-navy-isnt-in-a-hurry-to-reopen-the-strait/": {
+    "ts": "2026-03-19T07:05:35.772325+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/windward-update-three-outbound-and-no-inbound-hormuz-transits/": {
+    "ts": "2026-03-19T07:05:35.772325+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/us-broadly-authorizes-transactions-with-venezuelas-oil-company-pdvsa": {
+    "ts": "2026-03-19T07:05:35.772325+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/allies-decline-trumps-call-for-warships-in-strait-of-hormuz/": {
+    "ts": "2026-03-19T07:05:35.772325+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/gms-international-markets-are-expected-to-remain-unsettled/": {
+    "ts": "2026-03-19T07:05:35.772325+00:00",
     "type": "other"
   }
 }
