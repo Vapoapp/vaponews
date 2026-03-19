@@ -564,11 +564,11 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/concessoes-e-licitacoes": {
-    "ts": "2026-03-18T13:26:19.583087+00:00",
+    "ts": "2026-03-19T19:07:10.218304+00:00",
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/inteligencia-nos-transportes": {
-    "ts": "2026-03-18T13:26:19.583087+00:00",
+    "ts": "2026-03-19T19:07:10.218304+00:00",
     "type": "other"
   },
   "https://safety4sea.com/msf-wave-washes-overboard-portside-fast-rescue-craft-frc/": {
@@ -940,7 +940,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/italy-warns-damaged-russian-tanker-carrying-over-60000-mt-lng-in-mediterranean-could-explode-anytime/?utm_source=rss&utm_medium=rss&utm_campaign=italy-warns-damaged-russian-tanker-carrying-over-60000-mt-lng-in-mediterranean-could-explode-anytime": {
-    "ts": "2026-03-19T13:19:06.603741+00:00",
+    "ts": "2026-03-19T19:07:10.218304+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/imo-secretarygeneral-urges-deescalation-537078": {
@@ -1008,7 +1008,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/depois-de-30-horas-incendio-o-porta-avioes-gerald-ford-deixa-a-guerra-do-ira-e-segue-para-reparos-na-ilha-de-creta/": {
-    "ts": "2026-03-19T13:19:06.603741+00:00",
+    "ts": "2026-03-19T19:07:10.218304+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/ics-calls-for-safe-passage-for-all-affected-ships-in-the-middle-east-at-the-international-maritime-organization-extraordinary-council-session/": {
@@ -1048,7 +1048,7 @@
     "type": "other"
   },
   "https://splash247.com/iran-threatens-gulf-energy-assets-after-strike-on-south-pars-gas-field/": {
-    "ts": "2026-03-19T13:19:06.603741+00:00",
+    "ts": "2026-03-19T19:07:10.218304+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/trump-blames-israel-for-south-pars-attack-warns-iran-of-massive-retaliation/": {
@@ -1096,11 +1096,11 @@
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/saipems-subsea-drone-clears-tests-with-petrobras-ahead-of-offshore-deployment/": {
-    "ts": "2026-03-19T13:19:06.603741+00:00",
+    "ts": "2026-03-19T19:07:10.218304+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/us-maintains-its-position-against-the-net-zero-framework/": {
-    "ts": "2026-03-19T13:19:06.603741+00:00",
+    "ts": "2026-03-19T19:07:10.218304+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/sp/campinas-regiao/noticia/2026/03/19/voo-da-azul-de-campinas-a-madri-retorna-a-viracopos-por-questoes-operacionais.ghtml": {
@@ -1145,6 +1145,62 @@
   },
   "https://www.marinelink.com/news/boem-identifies-potential-offshore-537095": {
     "ts": "2026-03-19T13:19:06.603741+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/russian-gas-tanker-drifting-in-the-mediterranean-may-explode-threatening-environmental-disaster/": {
+    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/baker-hughes-assina-contrato-com-a-petrobras-para-prestar-servicos-em-fpsos-e-na-replan/": {
+    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "type": "highlight"
+  },
+  "https://safety4sea.com/greek-shipping-industry-on-alert-for-cyberattacks-due-to-iran-war/": {
+    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "type": "highlight"
+  },
+  "https://www.guiamaritimo.com.br/noticias/cenario/piso-minimo-frete-antt-fiscalizacao-eletronica": {
+    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/03/19/paises-europeus-e-japao-se-dizem-prontos-para-ajudar-no-estreito-de-ormuz.ghtml": {
+    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/second-strike-safeen-prestige-reported-burning-near-hormuz/": {
+    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/us-considers-removing-sanctions-iranian-537117": {
+    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/iran-attack-wipes-out-17-of-qatars-lng-capacity-for-up-to-five-years/": {
+    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/portos/21142/vale-tem-contrato-prorrogado-no-porto-do-itaqui-ate-2043/": {
+    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/genco-rejects-diana-shipping-takeover-bid-again-calls-star-bulk-deal-a-fire-sale": {
+    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/opinion-shipping-strikes-oil-price-spikes-and-a-deadly-new-gulf-crisis": {
+    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/unknown-projectile-hits-vessel-near-strait-of-hormuz-fire-breaks-out-onboard/?utm_source=rss&utm_medium=rss&utm_campaign=unknown-projectile-hits-vessel-near-strait-of-hormuz-fire-breaks-out-onboard": {
+    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/new-report-puts-nations-readiness-decarbonization-under-the-scope/": {
+    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537115-exxon-consortium-for-guyana-floating-production-continues-as-planned": {
+    "ts": "2026-03-19T19:07:10.218304+00:00",
     "type": "other"
   }
 }
