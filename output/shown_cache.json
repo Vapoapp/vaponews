@@ -272,7 +272,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-03-19T07:05:35.772325+00:00",
+    "ts": "2026-03-19T13:19:06.603741+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/esl-shipping-subsidiary-takes-delivery-of-10th-hybrid-multi-purpose-carrier-in-series": {
@@ -836,7 +836,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/537063-slb-onesubsea-awarded-integrated-epc-contract-by-cnooc": {
-    "ts": "2026-03-19T07:05:35.772325+00:00",
+    "ts": "2026-03-19T13:19:06.603741+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/ports/hateco-apm-terminals-partnership-tapped-to-operate-container-facility-in-da-nang-vietnam": {
@@ -936,11 +936,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/administracao-sergio-bacci-amplia-a-atuacao-da-transpetro-que-passa-a-operar-tambem-como-empresa-com-clientes-fora-da-companhia/": {
-    "ts": "2026-03-19T07:05:35.772325+00:00",
+    "ts": "2026-03-19T13:19:06.603741+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/italy-warns-damaged-russian-tanker-carrying-over-60000-mt-lng-in-mediterranean-could-explode-anytime/?utm_source=rss&utm_medium=rss&utm_campaign=italy-warns-damaged-russian-tanker-carrying-over-60000-mt-lng-in-mediterranean-could-explode-anytime": {
-    "ts": "2026-03-19T07:05:35.772325+00:00",
+    "ts": "2026-03-19T13:19:06.603741+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/imo-secretarygeneral-urges-deescalation-537078": {
@@ -1008,7 +1008,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/depois-de-30-horas-incendio-o-porta-avioes-gerald-ford-deixa-a-guerra-do-ira-e-segue-para-reparos-na-ilha-de-creta/": {
-    "ts": "2026-03-19T07:05:35.772325+00:00",
+    "ts": "2026-03-19T13:19:06.603741+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/ics-calls-for-safe-passage-for-all-affected-ships-in-the-middle-east-at-the-international-maritime-organization-extraordinary-council-session/": {
@@ -1016,7 +1016,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/537082-indonesia-awards-nine-oil-gas-blocks": {
-    "ts": "2026-03-19T07:05:35.772325+00:00",
+    "ts": "2026-03-19T13:19:06.603741+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/vlcc-rates-face-downward-pressure-as-tankers-flee-gulf-crisis/": {
@@ -1048,7 +1048,7 @@
     "type": "other"
   },
   "https://splash247.com/iran-threatens-gulf-energy-assets-after-strike-on-south-pars-gas-field/": {
-    "ts": "2026-03-19T07:05:35.772325+00:00",
+    "ts": "2026-03-19T13:19:06.603741+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/trump-blames-israel-for-south-pars-attack-warns-iran-of-massive-retaliation/": {
@@ -1089,6 +1089,62 @@
   },
   "https://safety4sea.com/gms-international-markets-are-expected-to-remain-unsettled/": {
     "ts": "2026-03-19T07:05:35.772325+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/iran-oil-exports-continue-as-tankers-cross-the-strait-of-hormuz-despite-conflict/": {
+    "ts": "2026-03-19T13:19:06.603741+00:00",
+    "type": "highlight"
+  },
+  "https://www.offshore-energy.biz/saipems-subsea-drone-clears-tests-with-petrobras-ahead-of-offshore-deployment/": {
+    "ts": "2026-03-19T13:19:06.603741+00:00",
+    "type": "highlight"
+  },
+  "https://safety4sea.com/us-maintains-its-position-against-the-net-zero-framework/": {
+    "ts": "2026-03-19T13:19:06.603741+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/sp/campinas-regiao/noticia/2026/03/19/voo-da-azul-de-campinas-a-madri-retorna-a-viracopos-por-questoes-operacionais.ghtml": {
+    "ts": "2026-03-19T13:19:06.603741+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/morgan-stanley-sees-coal-demand-rising-on-middle-east-tensions/": {
+    "ts": "2026-03-19T13:19:06.603741+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/iran-missile-strikes-hit-worlds-largest-lng-hub-in-qatar-uae-shuts-major-gas-facilities/?utm_source=rss&utm_medium=rss&utm_campaign=iran-missile-strikes-hit-worlds-largest-lng-hub-in-qatar-uae-shuts-major-gas-facilities": {
+    "ts": "2026-03-19T13:19:06.603741+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/gulfs-energy-crown-jewels-become-targets/": {
+    "ts": "2026-03-19T13:19:06.603741+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/first-oil-flows-from-brazilian-subsea-tie-back-project/": {
+    "ts": "2026-03-19T13:19:06.603741+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/gmf-policy-measures-should-balance-ambition-with-institutional-feasibility/": {
+    "ts": "2026-03-19T13:19:06.603741+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/vessel-berths-in-port-of-long-beach-after-container-overboard-incident/": {
+    "ts": "2026-03-19T13:19:06.603741+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/ports/ck-hutchison-profit-rises-as-market-awaits-port-sale-update": {
+    "ts": "2026-03-19T13:19:06.603741+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/energean-suspends-2026-israel-guidance-as-war-stops-production": {
+    "ts": "2026-03-19T13:19:06.603741+00:00",
+    "type": "other"
+  },
+  "https://www.rigzone.com/news/leaders_urge_uk_gov_to_prioritize_homegrown_energy-19-mar-2026-183245-article/": {
+    "ts": "2026-03-19T13:19:06.603741+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/boem-identifies-potential-offshore-537095": {
+    "ts": "2026-03-19T13:19:06.603741+00:00",
     "type": "other"
   }
 }
