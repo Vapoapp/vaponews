@@ -940,7 +940,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/italy-warns-damaged-russian-tanker-carrying-over-60000-mt-lng-in-mediterranean-could-explode-anytime/?utm_source=rss&utm_medium=rss&utm_campaign=italy-warns-damaged-russian-tanker-carrying-over-60000-mt-lng-in-mediterranean-could-explode-anytime": {
-    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "ts": "2026-03-20T02:35:39.522918+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/imo-secretarygeneral-urges-deescalation-537078": {
@@ -968,7 +968,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/537083-iranian-oil-facilities-under-attack-site-evacuations-advised": {
-    "ts": "2026-03-18T19:10:19.863542+00:00",
+    "ts": "2026-03-20T02:35:39.522918+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-march-18-2026/": {
@@ -1096,11 +1096,11 @@
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/saipems-subsea-drone-clears-tests-with-petrobras-ahead-of-offshore-deployment/": {
-    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "ts": "2026-03-20T02:35:39.522918+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/us-maintains-its-position-against-the-net-zero-framework/": {
-    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "ts": "2026-03-20T02:35:39.522918+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/sp/campinas-regiao/noticia/2026/03/19/voo-da-azul-de-campinas-a-madri-retorna-a-viracopos-por-questoes-operacionais.ghtml": {
@@ -1152,11 +1152,11 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/baker-hughes-assina-contrato-com-a-petrobras-para-prestar-servicos-em-fpsos-e-na-replan/": {
-    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "ts": "2026-03-20T02:35:39.522918+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/greek-shipping-industry-on-alert-for-cyberattacks-due-to-iran-war/": {
-    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "ts": "2026-03-20T02:35:39.522918+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/cenario/piso-minimo-frete-antt-fiscalizacao-eletronica": {
@@ -1201,6 +1201,66 @@
   },
   "https://www.oedigital.com/news/537115-exxon-consortium-for-guyana-floating-production-continues-as-planned": {
     "ts": "2026-03-19T19:07:10.218304+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/newbuilding-orders-progressing-at-a-healthy-pace/": {
+    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/tanker-markets-break-loose-as-physical-barrels-vanish-from-global-trade/": {
+    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/ports/construction-complete-on-us-east-coasts-deepest-commercial-shipping-channel-and-harbour": {
+    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/pesquisas-e-novas-tecnologias-proporcionam-mais-desempenho-e-eficiencia-nas-ferrovias-da-vale-nos-ultimos-dez-anos/": {
+    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/ibama-atualiza-licenca-do-campo-de-raia-e-autoriza-perfuracao-de-tres-pocos/": {
+    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/rotterdams-lng-price-rally-intensifies-as-iran-hits-qatars-biggest-lng-facility/": {
+    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/cheniere-venture-global-shares-surge-amid-iran-attacks-on-qatar-lng-infrastructure": {
+    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/missile-strikes-leave-fires-and-extensive-damage-in-its-wake-at-qatarenergys-lng-assets/": {
+    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/portos/21144/nova-area-no-terminal-de-vila-velha-ampliara-capacidade-logistica-no-espirito-santo/": {
+    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/inaction-is-not-an-option-un-shipping-body-condemns-hormuz-attacks-as-crisis-deepens/": {
+    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/us-makes-the-case-to-torpedo-flawed-net-zero-framework/": {
+    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/paises-europeus-e-japao-anunciam-que-estao-prontos-para-ajudar-a-liberar-o-estreito-de-ormuz/": {
+    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537127-ikm-gruppen-acquires-hendrik-veder-group": {
+    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537116-energean-exxonmobil-helleniq-energy-explore-block-offshore-greece": {
+    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/msc-to-buy-50-per-cent-stake-in-tanker-giant-sinokor": {
+    "ts": "2026-03-20T02:35:39.522918+00:00",
     "type": "other"
   }
 }
