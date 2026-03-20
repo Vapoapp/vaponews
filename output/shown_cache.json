@@ -20,15 +20,15 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/direito-normas-e-legislacao": {
-    "ts": "2026-03-19T02:44:58.473804+00:00",
+    "ts": "2026-03-20T07:04:09.832777+00:00",
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/estudos-e-estatisticas": {
-    "ts": "2026-03-19T02:44:58.473804+00:00",
+    "ts": "2026-03-20T07:04:09.832777+00:00",
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/logistica-de-projetos": {
-    "ts": "2026-03-19T02:44:58.473804+00:00",
+    "ts": "2026-03-20T07:04:09.832777+00:00",
     "type": "other"
   },
   "https://www.cnnbrasil.com.br/economia/macroeconomia/ira-considera-liberar-ormuz-desde-que-negociacoes-sejam-em-yuan-chines/": {
@@ -272,7 +272,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-03-19T13:19:06.603741+00:00",
+    "ts": "2026-03-20T07:04:09.832777+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/esl-shipping-subsidiary-takes-delivery-of-10th-hybrid-multi-purpose-carrier-in-series": {
@@ -940,7 +940,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/italy-warns-damaged-russian-tanker-carrying-over-60000-mt-lng-in-mediterranean-could-explode-anytime/?utm_source=rss&utm_medium=rss&utm_campaign=italy-warns-damaged-russian-tanker-carrying-over-60000-mt-lng-in-mediterranean-could-explode-anytime": {
-    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "ts": "2026-03-20T07:04:09.832777+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/imo-secretarygeneral-urges-deescalation-537078": {
@@ -1096,11 +1096,11 @@
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/saipems-subsea-drone-clears-tests-with-petrobras-ahead-of-offshore-deployment/": {
-    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "ts": "2026-03-20T07:04:09.832777+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/us-maintains-its-position-against-the-net-zero-framework/": {
-    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "ts": "2026-03-20T07:04:09.832777+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/sp/campinas-regiao/noticia/2026/03/19/voo-da-azul-de-campinas-a-madri-retorna-a-viracopos-por-questoes-operacionais.ghtml": {
@@ -1152,11 +1152,11 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/baker-hughes-assina-contrato-com-a-petrobras-para-prestar-servicos-em-fpsos-e-na-replan/": {
-    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "ts": "2026-03-20T07:04:09.832777+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/greek-shipping-industry-on-alert-for-cyberattacks-due-to-iran-war/": {
-    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "ts": "2026-03-20T07:04:09.832777+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/cenario/piso-minimo-frete-antt-fiscalizacao-eletronica": {
@@ -1204,15 +1204,15 @@
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/newbuilding-orders-progressing-at-a-healthy-pace/": {
-    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "ts": "2026-03-20T07:04:09.832777+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/tanker-markets-break-loose-as-physical-barrels-vanish-from-global-trade/": {
-    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "ts": "2026-03-20T07:04:09.832777+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/ports/construction-complete-on-us-east-coasts-deepest-commercial-shipping-channel-and-harbour": {
-    "ts": "2026-03-20T02:35:39.522918+00:00",
+    "ts": "2026-03-20T07:04:09.832777+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/pesquisas-e-novas-tecnologias-proporcionam-mais-desempenho-e-eficiencia-nas-ferrovias-da-vale-nos-ultimos-dez-anos/": {
@@ -1261,6 +1261,42 @@
   },
   "https://www.bairdmaritime.com/shipping/tankers/msc-to-buy-50-per-cent-stake-in-tanker-giant-sinokor": {
     "ts": "2026-03-20T02:35:39.522918+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/un-shipping-body-pushes-safe-maritime-corridor-plan-to-evacuate-ships-trapped-west-of-hormuz/": {
+    "ts": "2026-03-20T07:04:09.832777+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/iran-condemned-as-un-maritime-body-holds-emergency-talks-on-mideast-shipping/": {
+    "ts": "2026-03-20T07:04:09.832777+00:00",
+    "type": "highlight"
+  },
+  "https://www.offshore-energy.biz/two-deepwater-gas-hubs-on-the-asian-energy-horizon-as-eni-unveils-fids/": {
+    "ts": "2026-03-20T07:04:09.832777+00:00",
+    "type": "highlight"
+  },
+  "https://www.rigzone.com/news/oil_prices_continue_ascent-19-mar-2026-183247-article/": {
+    "ts": "2026-03-20T07:04:09.832777+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/beng-kuang-marine-inks-agreement-to-buyout-asian-sealand-offshore-and-marine": {
+    "ts": "2026-03-20T07:04:09.832777+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/energean-exxonmobil-move-to-the-next-exploration-phase-in-greek-offshore-block": {
+    "ts": "2026-03-20T07:04:09.832777+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/imo-secretary-general-urges-de-escalation-and-seafarer-protection-at-extraordinary-session-of-imo-council/?utm_source=rss&utm_medium=rss&utm_campaign=imo-secretary-general-urges-de-escalation-and-seafarer-protection-at-extraordinary-session-of-imo-council": {
+    "ts": "2026-03-20T07:04:09.832777+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/mscs-hidden-hand-behind-sinokors-vlcc-blitz-finally-confirmed/": {
+    "ts": "2026-03-20T07:04:09.832777+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/genco-rejects-diana-takeover-bid/": {
+    "ts": "2026-03-20T07:04:09.832777+00:00",
     "type": "other"
   }
 }
