@@ -288,7 +288,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-03-20T18:58:18.164621+00:00",
+    "ts": "2026-03-21T02:29:51.107679+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/premios-e-certificacoes": {
@@ -1156,7 +1156,7 @@
     "type": "highlight"
   },
   "https://safety4sea.com/greek-shipping-industry-on-alert-for-cyberattacks-due-to-iran-war/": {
-    "ts": "2026-03-20T18:58:18.164621+00:00",
+    "ts": "2026-03-21T02:29:51.107679+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/cenario/piso-minimo-frete-antt-fiscalizacao-eletronica": {
@@ -1180,7 +1180,7 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21142/vale-tem-contrato-prorrogado-no-porto-do-itaqui-ate-2043/": {
-    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "ts": "2026-03-21T02:29:51.107679+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/genco-rejects-diana-shipping-takeover-bid-again-calls-star-bulk-deal-a-fire-sale": {
@@ -1200,7 +1200,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/537115-exxon-consortium-for-guyana-floating-production-continues-as-planned": {
-    "ts": "2026-03-19T19:07:10.218304+00:00",
+    "ts": "2026-03-21T02:29:51.107679+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/newbuilding-orders-progressing-at-a-healthy-pace/": {
@@ -1304,7 +1304,7 @@
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/south-asias-107-billion-lng-gamble-facing-finance-and-energy-supply-threats-amid-middle-east-conflict/": {
-    "ts": "2026-03-20T18:58:18.164621+00:00",
+    "ts": "2026-03-21T02:29:51.107679+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/novos-ataques-do-ira-vao-ampliar-ainda-mais-o-prazo-para-recuperacao-e-reinicio-de-producao-na-maior-instalacao-de-gnl-do-mundo/": {
@@ -1372,7 +1372,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/global-shipping-major-hapag-lloyd-signs-deal-with-india-to-reflag-ships-and-develop-port-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=global-shipping-major-hapag-lloyd-signs-deal-with-india-to-reflag-ships-and-develop-port-infrastructure": {
-    "ts": "2026-03-20T18:58:18.164621+00:00",
+    "ts": "2026-03-21T02:29:51.107679+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/iranian-attack-on-qatar-gas-facilities-cuts-lng-output-by-17-repairs-may-take-up-to-5-years/?utm_source=rss&utm_medium=rss&utm_campaign=iranian-attack-on-qatar-gas-facilities-cuts-lng-output-by-17-repairs-may-take-up-to-5-years": {
@@ -1409,6 +1409,66 @@
   },
   "https://www.bairdmaritime.com/shipping/tankers/gas/south-korea-downplays-lng-supply-risk-after-qatar-plant-damage": {
     "ts": "2026-03-20T18:58:18.164621+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/gibson-tanker-report-upstream-under-attack/": {
+    "ts": "2026-03-21T02:29:51.107679+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/brazil-pitches-petrobras-pemex-partnership-signals-plan-to-buy-back-refinery": {
+    "ts": "2026-03-21T02:29:51.107679+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/diana-shipping-chair-accuses-genco-board-of-entrenching-themselves-after-latest-bid-snub": {
+    "ts": "2026-03-21T02:29:51.107679+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/03/20/eua-enviam-mais-2500-militares-e-outros-3-navios-de-guerra-oriente-medio-dizem-agencias.ghtml": {
+    "ts": "2026-03-21T02:29:51.107679+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/transporte-rodoviario/21146/mp-amplia-fiscalizacao-do-piso-minimo-do-frete-e-preve-multas-de-ate-r-10-milhoes/": {
+    "ts": "2026-03-21T02:29:51.107679+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/imo-council-condemns-attacks-on-shipping-calls-for-safe-passage-framework-in-strait-of-hormuz/": {
+    "ts": "2026-03-21T02:29:51.107679+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/fire-damaged-lng-tanker-arctic-metagaz-could-reach-libyan-coast-within-days-officials-warn/": {
+    "ts": "2026-03-21T02:29:51.107679+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537136-indian-gas-tankers-prepare-to-sail-through-strait-of-hormuz": {
+    "ts": "2026-03-21T02:29:51.107679+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537137-us-to-deploy-amphibious-assault-ship-marines-to-middle-east": {
+    "ts": "2026-03-21T02:29:51.107679+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/crew-wellbeing-stalled-by-shipboard-medical-privacy-failures/": {
+    "ts": "2026-03-21T02:29:51.107679+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/italy-damaged-russian-tanker-days-away-from-libyan-shores": {
+    "ts": "2026-03-21T02:29:51.107679+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/france-boards-tanker-it-says-is-linked-to-russian-shadow-fleet-in-mediterranean/": {
+    "ts": "2026-03-21T02:29:51.107679+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/tanker-bound-cuba-fuel-cargo-diverts-537134": {
+    "ts": "2026-03-21T02:29:51.107679+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/wales-introduces-new-deal-to-drive-its-renewable-energy-potential/": {
+    "ts": "2026-03-21T02:29:51.107679+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/maple-leaf-shipping-marks-70-years-with-its-first-newcastlemax-purchase/": {
+    "ts": "2026-03-21T02:29:51.107679+00:00",
     "type": "other"
   }
 }
