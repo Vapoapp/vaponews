@@ -272,7 +272,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-03-20T13:12:24.635809+00:00",
+    "ts": "2026-03-21T13:01:50.756256+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/esl-shipping-subsidiary-takes-delivery-of-10th-hybrid-multi-purpose-carrier-in-series": {
@@ -288,7 +288,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-03-21T06:54:01.926468+00:00",
+    "ts": "2026-03-21T13:01:50.756256+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/premios-e-certificacoes": {
@@ -1156,7 +1156,7 @@
     "type": "highlight"
   },
   "https://safety4sea.com/greek-shipping-industry-on-alert-for-cyberattacks-due-to-iran-war/": {
-    "ts": "2026-03-21T06:54:01.926468+00:00",
+    "ts": "2026-03-21T13:01:50.756256+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/cenario/piso-minimo-frete-antt-fiscalizacao-eletronica": {
@@ -1304,7 +1304,7 @@
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/south-asias-107-billion-lng-gamble-facing-finance-and-energy-supply-threats-amid-middle-east-conflict/": {
-    "ts": "2026-03-21T06:54:01.926468+00:00",
+    "ts": "2026-03-21T13:01:50.756256+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/novos-ataques-do-ira-vao-ampliar-ainda-mais-o-prazo-para-recuperacao-e-reinicio-de-producao-na-maior-instalacao-de-gnl-do-mundo/": {
@@ -1372,7 +1372,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/global-shipping-major-hapag-lloyd-signs-deal-with-india-to-reflag-ships-and-develop-port-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=global-shipping-major-hapag-lloyd-signs-deal-with-india-to-reflag-ships-and-develop-port-infrastructure": {
-    "ts": "2026-03-21T06:54:01.926468+00:00",
+    "ts": "2026-03-21T13:01:50.756256+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/iranian-attack-on-qatar-gas-facilities-cuts-lng-output-by-17-repairs-may-take-up-to-5-years/?utm_source=rss&utm_medium=rss&utm_campaign=iranian-attack-on-qatar-gas-facilities-cuts-lng-output-by-17-repairs-may-take-up-to-5-years": {
@@ -1412,15 +1412,15 @@
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/gibson-tanker-report-upstream-under-attack/": {
-    "ts": "2026-03-21T06:54:01.926468+00:00",
+    "ts": "2026-03-21T13:01:50.756256+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/brazil-pitches-petrobras-pemex-partnership-signals-plan-to-buy-back-refinery": {
-    "ts": "2026-03-21T06:54:01.926468+00:00",
+    "ts": "2026-03-21T13:01:50.756256+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/diana-shipping-chair-accuses-genco-board-of-entrenching-themselves-after-latest-bid-snub": {
-    "ts": "2026-03-21T06:54:01.926468+00:00",
+    "ts": "2026-03-21T13:01:50.756256+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/mundo/noticia/2026/03/20/eua-enviam-mais-2500-militares-e-outros-3-navios-de-guerra-oriente-medio-dizem-agencias.ghtml": {
@@ -1472,15 +1472,15 @@
     "type": "other"
   },
   "https://gcaptain.com/indian-gas-tankers-getting-ready-to-sail-through-hormuz/": {
-    "ts": "2026-03-21T06:54:01.926468+00:00",
+    "ts": "2026-03-21T13:01:50.756256+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/vhbs-new-contex-container-ship-time-charter-assessment-index-week-12-2/": {
-    "ts": "2026-03-21T06:54:01.926468+00:00",
+    "ts": "2026-03-21T13:01:50.756256+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/acsms-offshore-support-vessel-undergoing-major-upgrade/": {
-    "ts": "2026-03-21T06:54:01.926468+00:00",
+    "ts": "2026-03-21T13:01:50.756256+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/tanker-carrying-fuel-originally-bound-for-cuba-diverts-to-trinidad/": {
@@ -1509,6 +1509,30 @@
   },
   "https://www.navaltoday.com/2026/03/19/anschutz-clears-cdr-for-hunter-class-frigate-navigation-systems/": {
     "ts": "2026-03-21T06:54:01.926468+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/panama-canal-operates-at-full-capacity-as-lng-tankers-reroute-amid-us-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=panama-canal-operates-at-full-capacity-as-lng-tankers-reroute-amid-us-iran-war": {
+    "ts": "2026-03-21T13:01:50.756256+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/france-boards-tanker-mediterranean-linked-537132": {
+    "ts": "2026-03-21T13:01:50.756256+00:00",
+    "type": "highlight"
+  },
+  "https://www.nytimes.com/2026/03/21/business/iran-strait-of-hormuz-oil-us-israel-choke-point.html": {
+    "ts": "2026-03-21T13:01:50.756256+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/mexican-activists-load-boats-with-aid-for-energystrapped-cuba": {
+    "ts": "2026-03-21T13:01:50.756256+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/trump-administration-unlocks-sanctioned-iranian-oil-at-sea-as-hormuz-crisis-strains-markets/": {
+    "ts": "2026-03-21T13:01:50.756256+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/chubb-announces-war-risk-coverage-to-support-ships-through-strait-of-hormuz": {
+    "ts": "2026-03-21T13:01:50.756256+00:00",
     "type": "other"
   }
 }
