@@ -5,100 +5,319 @@
 <meta name="description" content="VAPO News — Radar Marítimo: 21 notícias selecionadas para profissionais do setor marítimo. Gerado em 21/03/2026 às 18:44.">
 <title>VAPO News — Radar Marítimo</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
-:root{--navy:#17324d;--navy-mid:#1e4060;--ocean:#0B6FB8;--sky:#52B4E7;--foam:#eef4f8;--ink:#17324d;--muted:#5a7a94;--card-bg:#ffffff;--border:#d7e4ed;--shadow-sm:0 2px 8px rgba(11,111,184,.08);--shadow-md:0 10px 30px rgba(11,111,184,.14);--radius:18px;--bg:#e8f1f8;--hero-radius:24px;}
-body.dark{--navy-mid:#1a2f42;--ocean:#4aabee;--foam:#0c1925;--ink:#e0edf7;--muted:#7aabbf;--card-bg:#112233;--border:#1e3a52;--shadow-sm:0 2px 8px rgba(0,0,0,.3);--shadow-md:0 10px 30px rgba(0,0,0,.35);--bg:#0a1520;}
+/* ── LIGHT MODE (default) ── */
+:root{
+  --bg:#f4f6f8;--surface:#ffffff;--surface2:#eef2f6;
+  --border:#dde3ea;--border2:#b0bec9;
+  --text:#0d1d2b;--text2:#3d5a70;--muted:#8aa4b8;
+  --signal:#008844;--accent:#0071b8;--warning:#c87000;--red:#cc2200;
+  --shadow:rgba(0,30,60,.12);
+  --card-bg:#ffffff;--card-border:#dde3ea;
+  --shadow-sm:0 1px 4px rgba(0,30,60,.07);--shadow-md:0 4px 20px rgba(0,30,60,.10);
+  --ocean:var(--accent);--ink:var(--text);
+  --radius:8px;--hero-radius:8px;
+}
+/* ── DARK MODE ── */
+body.dark{
+  --bg:#07111a;--surface:#0d1d2b;--surface2:#112233;
+  --border:#1a3048;--border2:#254060;
+  --text:#dceef8;--text2:#7aabcc;--muted:#3d6080;
+  --signal:#00cc66;--accent:#38bdf8;--warning:#ffd000;--red:#ff4f4f;
+  --shadow:rgba(0,0,0,.6);
+  --card-bg:#0d1d2b;--card-border:#1a3048;
+  --shadow-sm:0 2px 12px rgba(0,0,0,.4);--shadow-md:0 8px 32px rgba(0,0,0,.55);
+}
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
-body{font-family:'Source Sans 3','Helvetica Neue',sans-serif;background:var(--bg);color:var(--ink);min-height:100vh;transition:background .3s,color .3s;}
+html{scroll-behavior:smooth;}
+
+body{
+  font-family:'Inter',system-ui,sans-serif;
+  background:var(--bg);color:var(--text);
+  min-height:100vh;overflow-x:hidden;
+  transition:background .25s,color .25s;
+  -webkit-font-smoothing:antialiased;
+}
 a{color:inherit;text-decoration:none;}
 img{display:block;max-width:100%;}
-.site-header{background:linear-gradient(135deg,#1e4060 0%,#0d2d45 50%,#0a2238 100%);position:relative;overflow:hidden;}
-.site-header::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse 80% 60% at 70% 120%,rgba(82,180,231,.15) 0%,transparent 60%),radial-gradient(ellipse 40% 40% at 20% -10%,rgba(11,111,184,.3) 0%,transparent 50%);pointer-events:none;}
-.header-inner{max-width:1180px;margin:0 auto;padding:32px 36px 28px;display:flex;align-items:center;justify-content:space-between;gap:24px;position:relative;}
-.brand{display:flex;align-items:center;gap:18px;}
-.brand-logo{flex-shrink:0;filter:drop-shadow(0 2px 8px rgba(82,180,231,.4));}
-.brand-name{font-family:'Playfair Display',Georgia,serif;font-size:2rem;font-weight:900;color:white;letter-spacing:-.02em;line-height:1;}
-.brand-tagline{font-size:.75rem;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:rgba(255,255,255,.55);margin-top:4px;}
-.header-meta{text-align:right;}
-.header-date{font-size:.78rem;color:rgba(255,255,255,.5);letter-spacing:.06em;text-transform:uppercase;font-weight:600;}
-.header-date strong{display:block;font-family:'Playfair Display',Georgia,serif;font-size:1.1rem;font-weight:700;color:rgba(255,255,255,.9);letter-spacing:0;text-transform:none;margin-top:2px;}
-.header-controls{display:flex;align-items:center;gap:10px;margin-top:8px;justify-content:flex-end;}
-.edition-badge{background:rgba(82,180,231,.2);border:1px solid rgba(82,180,231,.35);color:rgba(255,255,255,.8);border-radius:20px;padding:4px 12px;font-size:.68rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;}
-.theme-btn{background:rgba(255,255,255,.1);color:rgba(255,255,255,.8);border:1px solid rgba(255,255,255,.2);border-radius:20px;padding:6px 14px;font-size:.75rem;font-weight:600;cursor:pointer;transition:all .2s;letter-spacing:.05em;font-family:inherit;}
-.theme-btn:hover{background:rgba(255,255,255,.18);}
-.back-btn{position:absolute;left:36px;top:26px;display:inline-flex;align-items:center;gap:8px;padding:9px 14px;border-radius:999px;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.18);color:rgba(255,255,255,.95);font-size:.82rem;font-weight:700;letter-spacing:.01em;backdrop-filter:blur(8px);z-index:3;transition:all .2s ease;}
-.back-btn:hover{background:rgba(255,255,255,.20);transform:translateY(-1px);}
-.back-btn .back-arrow{font-size:1rem;line-height:1;}
-.ai-column{margin:0 0 34px 0;padding:24px;border-radius:24px;background:linear-gradient(135deg,#10243a 0%, #17324d 42%, #0b6fb8 120%);color:#fff;box-shadow:var(--shadow-md);position:relative;overflow:hidden;}
-.ai-column::before{content:"";position:absolute;inset:0;background:radial-gradient(circle at top right, rgba(255,255,255,.12), transparent 30%);pointer-events:none;}
-.ai-column-head{position:relative;z-index:1;display:flex;flex-direction:column;gap:4px;margin-bottom:14px;}
-.ai-column-title{font-family:'Playfair Display',Georgia,serif;font-size:1.55rem;font-weight:900;line-height:1.1;}
-.ai-column-sub{font-size:.92rem;color:rgba(255,255,255,.78);}
-.ai-pills{position:relative;z-index:1;display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px;}
-.ai-pill{display:inline-flex;align-items:center;padding:6px 10px;border-radius:999px;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.16);font-size:.75rem;font-weight:700;letter-spacing:.03em;}
-.ai-column-body{position:relative;z-index:1;font-size:1rem;line-height:1.7;color:rgba(255,255,255,.96);}
-.ai-preview{margin-bottom:10px;}
-.ai-full{display:none;opacity:.96;}
-.ai-full.open{display:block;}
-.ai-actions{position:relative;z-index:1;display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:14px;}
-.ai-btn{border:none;background:rgba(255,255,255,.14);color:#fff;font-weight:800;font-size:.86rem;padding:10px 14px;border-radius:999px;cursor:pointer;font-family:inherit;transition:all .2s ease;}
-.ai-btn:hover{background:rgba(255,255,255,.22);transform:translateY(-1px);}
-.wave-divider{line-height:0;background:linear-gradient(135deg,#0d2d45,#0a2238);}
+
+/* subtle noise */
+body::before{
+  content:'';position:fixed;inset:0;
+  background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='1'/%3E%3C/svg%3E");
+  opacity:.015;pointer-events:none;z-index:0;
+}
+body.dark::before{opacity:.028;}
+
+/* ── HEADER ── */
+.site-header{
+  background:var(--surface);
+  border-bottom:1px solid var(--border);
+  position:relative;z-index:10;
+}
+.header-inner{
+  max-width:1180px;margin:0 auto;
+  padding:0 28px;height:56px;
+  display:flex;align-items:center;gap:16px;
+  position:relative;
+}
+/* left cluster: back btn + brand */
+.header-left{display:flex;align-items:center;gap:12px;flex:1;}
+/* right cluster: date + controls */
+.header-right{display:flex;align-items:center;gap:12px;}
+
+.brand{display:flex;align-items:baseline;gap:5px;}
+.brand-name{
+  font-family:'Inter',sans-serif;
+  font-size:1.15rem;font-weight:800;
+  letter-spacing:-.01em;
+  color:var(--text);line-height:1;
+}
+.brand-name .news{color:var(--signal);font-weight:600;}
+.brand-sep{color:var(--border2);font-size:.9rem;margin:0 2px;}
+.brand-tagline{
+  font-family:'Space Mono',monospace;
+  font-size:.58rem;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--muted);
+}
+
+.header-date{
+  font-family:'Space Mono',monospace;
+  font-size:.6rem;color:var(--muted);letter-spacing:.08em;text-transform:uppercase;
+  text-align:right;white-space:nowrap;
+}
+.header-date strong{display:block;font-size:.68rem;color:var(--text2);letter-spacing:.04em;margin-top:2px;font-weight:700;}
+.header-controls{display:flex;align-items:center;gap:8px;}
+.edition-badge{
+  font-family:'Space Mono',monospace;
+  background:rgba(0,136,68,.08);border:1px solid rgba(0,136,68,.18);
+  color:var(--signal);border-radius:4px;
+  padding:3px 10px;font-size:.6rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;
+  display:flex;align-items:center;gap:6px;
+}
+body.dark .edition-badge{background:rgba(0,204,102,.06);border-color:rgba(0,204,102,.18);}
+.theme-btn{
+  font-family:'Space Mono',monospace;
+  background:transparent;color:var(--text2);
+  border:1px solid var(--border);border-radius:4px;
+  padding:5px 12px;font-size:.6rem;font-weight:700;
+  cursor:pointer;transition:all .15s;letter-spacing:.08em;text-transform:uppercase;
+}
+.theme-btn:hover{border-color:var(--accent);color:var(--accent);}
+.back-btn{
+  display:inline-flex;align-items:center;gap:6px;
+  padding:5px 12px;border-radius:4px;
+  background:transparent;border:1px solid var(--border);
+  color:var(--text2);font-size:.72rem;font-weight:600;
+  font-family:'Inter',sans-serif;
+  transition:all .15s;white-space:nowrap;
+}
+.back-btn:hover{border-color:var(--accent);color:var(--accent);}
+.back-btn .back-arrow{font-size:.85rem;}
+
+/* pulse dot */
+.pulse-dot{
+  width:6px;height:6px;border-radius:50%;
+  background:var(--signal);flex-shrink:0;
+  animation:pulse 2.5s ease-in-out infinite;
+}
+@keyframes pulse{
+  0%,100%{box-shadow:0 0 0 0 rgba(0,136,68,.5);opacity:1;}
+  50%{box-shadow:0 0 0 4px rgba(0,136,68,0);opacity:.7;}
+}
+body.dark .pulse-dot{background:#00cc66;}
+
+/* ── WAVE DIVIDER ── */
+.wave-divider{line-height:0;background:var(--surface);}
 .wave-divider svg{display:block;width:100%;}
-.wrap{max-width:1180px;margin:0 auto;padding:32px 36px 60px;}
-.section-header{display:flex;align-items:center;gap:14px;margin:40px 0 20px;}
+
+/* ── MAIN WRAP ── */
+.wrap{max-width:1180px;margin:0 auto;padding:28px 28px 60px;position:relative;z-index:1;}
+
+/* ── SECTION HEADER ── */
+.section-header{display:flex;align-items:center;gap:12px;margin:40px 0 18px;}
 .section-header:first-child{margin-top:0;}
 .section-line{flex:1;height:1px;background:var(--border);}
-.section-label{font-family:'Playfair Display',Georgia,serif;font-size:1.1rem;font-weight:700;color:var(--ocean);letter-spacing:.02em;white-space:nowrap;}
-.section-count{font-size:.86rem;font-weight:700;color:var(--muted);white-space:nowrap;}
-.highlights-grid{display:grid;grid-template-columns:repeat(12,1fr);gap:22px;}
-.highlight-card{grid-column:span 4;background:var(--card-bg);border:1px solid var(--border);border-radius:var(--hero-radius);box-shadow:var(--shadow-md);overflow:hidden;display:flex;flex-direction:column;min-height:100%;}
-.highlight-media{display:block;aspect-ratio:16/9;background:linear-gradient(135deg,#17324d,#0B6FB8);overflow:hidden;}
+.section-label{
+  font-family:'Space Mono',monospace;
+  font-size:.65rem;font-weight:700;color:var(--signal);
+  letter-spacing:.14em;text-transform:uppercase;white-space:nowrap;
+}
+.section-count{
+  font-family:'Space Mono',monospace;
+  font-size:.62rem;color:var(--muted);white-space:nowrap;letter-spacing:.08em;
+}
+
+/* ── AI COLUMN ── */
+.ai-column{
+  margin:0 0 28px 0;padding:22px 26px;
+  border-radius:var(--radius);
+  background:var(--surface);
+  border:1px solid var(--border);
+  border-left:3px solid var(--signal);
+  box-shadow:var(--shadow-md);
+  position:relative;overflow:hidden;
+}
+.ai-column-head{display:flex;flex-direction:column;gap:3px;margin-bottom:12px;}
+.ai-column-label{
+  font-family:'Space Mono',monospace;
+  font-size:.6rem;letter-spacing:.18em;text-transform:uppercase;
+  color:var(--signal);display:flex;align-items:center;gap:8px;margin-bottom:4px;
+}
+.ai-column-label::after{content:'';width:28px;height:1px;background:var(--signal);opacity:.4;}
+.ai-column-title{
+  font-family:'Inter',sans-serif;
+  font-size:1.25rem;font-weight:800;letter-spacing:-.02em;
+  color:var(--text);line-height:1.15;
+}
+.ai-column-sub{font-size:.88rem;color:var(--text2);font-weight:400;}
+.ai-pills{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px;}
+.ai-column-body{font-size:.97rem;line-height:1.68;color:var(--text);}
+.ai-column-body p{margin-bottom:10px;}
+.ai-column-body p:last-child{margin-bottom:0;}
+/* Leitura VAPO — insight final destacado */
+.vapo-insight{
+  margin-top:14px;padding:10px 14px;
+  border-radius:4px;
+  background:rgba(0,136,68,.07);
+  border-left:3px solid var(--signal);
+  display:flex;align-items:baseline;gap:8px;
+  font-size:.93rem;line-height:1.6;color:var(--text);
+}
+body.dark .vapo-insight{background:rgba(0,204,102,.06);}
+.vapo-insight-label{
+  font-family:'Space Mono',monospace;
+  font-size:.6rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--signal);white-space:nowrap;flex-shrink:0;
+}
+.ai-actions{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-top:14px;}
+.ai-btn{
+  font-family:'Inter',sans-serif;
+  border:1px solid var(--border);background:transparent;
+  color:var(--text2);font-weight:600;font-size:.8rem;
+  padding:8px 16px;border-radius:4px;cursor:pointer;
+  letter-spacing:.02em;transition:all .15s;
+}
+.ai-btn:hover{border-color:var(--accent);color:var(--accent);}
+.ai-btn-primary{border-color:var(--signal);color:var(--signal);}
+.ai-btn-primary:hover{background:rgba(0,136,68,.06);}
+body.dark .ai-btn-primary:hover{background:rgba(0,204,102,.08);}
+
+/* ── HIGHLIGHT CARDS ── */
+.highlights-grid{display:grid;grid-template-columns:repeat(12,1fr);gap:16px;}
+.highlight-card{
+  grid-column:span 4;
+  background:var(--card-bg);border:1px solid var(--card-border);
+  border-radius:var(--hero-radius);box-shadow:var(--shadow-md);
+  overflow:hidden;display:flex;flex-direction:column;min-height:100%;
+  transition:border-color .2s,transform .2s,box-shadow .2s;position:relative;
+}
+.highlight-card::before{
+  content:'';position:absolute;top:0;left:0;right:0;height:2px;
+  background:var(--signal);opacity:.5;transition:opacity .2s;
+}
+.highlight-card:hover{border-color:var(--border2);transform:translateY(-2px);box-shadow:0 8px 28px rgba(0,30,60,.14);}
+.highlight-card:hover::before{opacity:1;}
+body.dark .highlight-card:hover{box-shadow:0 8px 28px rgba(0,0,0,.5);}
+.highlight-media{display:block;aspect-ratio:16/9;background:var(--surface2);overflow:hidden;}
 .highlight-media img{width:100%;height:100%;object-fit:cover;transition:transform .35s ease;}
 .highlight-card:hover .highlight-media img{transform:scale(1.04);}
-.highlight-body{padding:18px 18px 16px;display:flex;flex-direction:column;gap:12px;flex:1;}
-.card-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;}
-.card{background:var(--card-bg);border:1px solid var(--border);border-radius:var(--radius);box-shadow:var(--shadow-sm);padding:14px;display:grid;grid-template-columns:140px minmax(0,1fr);gap:14px;align-items:start;}
-.thumb-wrap{display:block;aspect-ratio:4/3;border-radius:14px;overflow:hidden;background:linear-gradient(135deg,#17324d,#0B6FB8);}
+.highlight-body{padding:16px 18px 14px;display:flex;flex-direction:column;gap:10px;flex:1;}
+
+/* ── NEWS CARDS ── */
+.card-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;}
+.card{
+  background:var(--card-bg);border:1px solid var(--card-border);
+  border-radius:var(--radius);box-shadow:var(--shadow-sm);
+  padding:14px;display:grid;
+  grid-template-columns:120px minmax(0,1fr);gap:14px;align-items:start;
+  transition:border-color .15s,transform .15s,box-shadow .15s;
+}
+.card:hover{border-color:var(--border2);transform:translateY(-1px);box-shadow:var(--shadow-md);}
+.thumb-wrap{display:block;aspect-ratio:4/3;border-radius:6px;overflow:hidden;background:var(--surface2);}
 .thumb{width:100%;height:100%;object-fit:cover;transition:transform .3s ease;}
 .card:hover .thumb{transform:scale(1.05);}
-.card-content{display:flex;flex-direction:column;gap:10px;min-width:0;}
-.meta-row{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;}
-.source{font-size:.76rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--ocean);}
-.pub-age{font-size:.8rem;color:var(--muted);font-weight:700;}
-h2,h3{font-family:'Playfair Display',Georgia,serif;line-height:1.16;letter-spacing:-.02em;}
-h2{font-size:1.42rem;}
-h3{font-size:1.05rem;}
-.summary{font-size:.98rem;line-height:1.45;color:var(--ink);opacity:.94;}
-.actions{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:auto;}
-.more-btn{border:none;background:rgba(11,111,184,.10);color:var(--ocean);font-weight:800;font-size:.86rem;padding:10px 14px;border-radius:999px;cursor:pointer;font-family:inherit;}
-.open-link{font-size:.9rem;font-weight:800;color:var(--ocean);display:inline-flex;align-items:center;gap:4px;}
+.card-content{display:flex;flex-direction:column;gap:8px;min-width:0;}
+.meta-row{display:flex;align-items:center;justify-content:space-between;gap:8px;flex-wrap:wrap;}
+.source{
+  font-family:'Space Mono',monospace;
+  font-size:.58rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--accent);
+}
+.pub-age{font-family:'Space Mono',monospace;font-size:.58rem;color:var(--muted);letter-spacing:.04em;}
+
+/* ── TYPOGRAPHY ── */
+h2,h3{
+  font-family:'Inter',sans-serif;
+  font-weight:700;letter-spacing:-.02em;
+  color:var(--text);line-height:1.2;
+}
+h2{font-size:1.18rem;}
+h3{font-size:.97rem;}
+.summary{font-size:.88rem;line-height:1.55;color:var(--text2);}
+.actions{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;margin-top:auto;}
+.more-btn{
+  font-family:'Inter',sans-serif;
+  border:1px solid var(--border);background:transparent;
+  color:var(--text2);font-weight:600;font-size:.78rem;
+  padding:6px 12px;border-radius:4px;cursor:pointer;transition:all .15s;
+}
+.more-btn:hover{border-color:var(--accent);color:var(--accent);}
+.open-link{
+  font-size:.8rem;font-weight:700;color:var(--accent);
+  display:inline-flex;align-items:center;gap:4px;
+}
 .arrow{display:inline-block;transition:transform .2s ease;}
 .open-link:hover .arrow{transform:translateX(3px);}
 .share-row{display:flex;align-items:center;}
-.share-btn{display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;border:1px solid var(--border);background:transparent;color:var(--muted);cursor:pointer;font-family:inherit;transition:all .2s ease;border-radius:999px;flex:0 0 40px;}
-.share-btn:hover{border-color:var(--ocean);color:var(--ocean);background:rgba(11,111,184,.06);transform:translateY(-1px);}
-.share-icon{width:16px;height:16px;fill:currentColor;flex:0 0 auto;}
-.more-box{display:none;padding-top:6px;border-top:1px solid var(--border);}
+.share-btn{
+  display:inline-flex;align-items:center;justify-content:center;
+  width:34px;height:34px;border:1px solid var(--border);
+  background:transparent;color:var(--muted);
+  cursor:pointer;transition:all .15s;border-radius:4px;flex:0 0 34px;
+}
+.share-btn:hover{border-color:var(--accent);color:var(--accent);}
+.share-icon{width:14px;height:14px;fill:currentColor;}
+.more-box{display:none;padding-top:8px;border-top:1px solid var(--border);}
 .more-box.open{display:block;}
-.more-box p{font-size:.95rem;line-height:1.5;color:var(--muted);}
-.site-footer{max-width:1180px;margin:0 auto;padding:0 36px 42px;color:var(--muted);font-size:.9rem;text-align:center;}
-body.dark .open-link{color:var(--ocean);}
-@media (max-width: 1040px){.highlights-grid{grid-template-columns:1fr;}.highlight-card{grid-column:auto;}.card-grid{grid-template-columns:1fr;}}
-@media (max-width: 720px){.header-inner{padding:28px 20px 24px;flex-direction:column;align-items:flex-start;}.header-meta{text-align:left;}.header-controls{justify-content:flex-start;}.wrap{padding:24px 20px 50px;}.card{grid-template-columns:1fr;}.thumb-wrap{aspect-ratio:16/9;}.site-footer{padding:0 20px 36px;}}
+.more-box p{font-size:.88rem;line-height:1.58;color:var(--text2);}
+
+/* ── FOOTER ── */
+.site-footer{
+  max-width:1180px;margin:0 auto;padding:0 28px 40px;
+  font-family:'Space Mono',monospace;
+  color:var(--muted);font-size:.6rem;letter-spacing:.08em;text-transform:uppercase;
+  text-align:center;position:relative;z-index:1;
+}
+
+/* ── RESPONSIVE ── */
+@media(max-width:1040px){
+  .highlights-grid{grid-template-columns:1fr;}
+  .highlight-card{grid-column:auto;}
+  .card-grid{grid-template-columns:1fr;}
+}
+@media(max-width:720px){
+  .header-inner{padding:0 16px;height:auto;min-height:52px;flex-wrap:wrap;padding-top:10px;padding-bottom:10px;}
+  .header-right{flex-wrap:wrap;gap:8px;}
+  .wrap{padding:18px 16px 48px;}
+  .card{grid-template-columns:1fr;}
+  .thumb-wrap{aspect-ratio:16/9;}
+  .site-footer{padding:0 16px 32px;}
+}
 </style>
 </head>
 <body>
-<header class="site-header"><div class="header-inner"><a class="back-btn" href="https://vapozeiro.com.br/#ferramentas" aria-label="Voltar para a página de ferramentas"><span class="back-arrow">←</span><span>Voltar</span></a><div class="brand"><div class="brand-logo"><svg width="48" height="48" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="46" stroke="white" stroke-width="5" fill="none"/><circle cx="50" cy="50" r="33" stroke="white" stroke-width="4" fill="none"/><circle cx="50" cy="43" r="12" stroke="white" stroke-width="4" fill="none"/><path d="M18 62 Q28 55 38 62 Q48 69 58 62 Q68 55 78 62 Q85 67 90 65" stroke="white" stroke-width="4.5" fill="none" stroke-linecap="round"/><path d="M14 74 Q25 66 37 74 Q49 82 61 74 Q72 66 84 74" stroke="white" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.7"/></svg></div><div><div class="brand-name">VAPO News</div><div class="brand-tagline">Radar Marítimo</div></div></div><div class="header-meta"><div class="header-date">Edição de hoje<strong>Sábado, 21 de março de 2026</strong></div><div class="header-controls"><span class="edition-badge">21 notícias</span><button id="themeToggle" class="theme-btn" type="button">🌙 Escuro</button></div></div></div></header>
-<div class="wave-divider"><svg viewBox="0 0 1440 48" xmlns="http://www.w3.org/2000/svg"><path id="wavePath" d="M0,32 C240,0 360,0 720,24 C1080,48 1200,48 1440,16 L1440,48 L0,48 Z" fill="#e8f1f8"/></svg></div>
+<header class="site-header"><div class="header-inner"><div class="header-left"><a class="back-btn" href="https://vapozeiro.com.br/#ferramentas" aria-label="Voltar"><span class="back-arrow">←</span> Voltar</a><div class="brand"><div class="brand-name">VAPO<span class="news"> News</span></div><span class="brand-sep">·</span><div class="brand-tagline">Radar Marítimo</div></div></div><div class="header-right"><div class="header-date">Edição de hoje<strong>Sábado, 21 de março de 2026</strong></div><div class="header-controls"><span class="edition-badge"><span class="pulse-dot"></span>21 notícias</span><button id="themeToggle" class="theme-btn" type="button">🌑 Escuro</button></div></div></div></header>
+<div class="wave-divider"><svg viewBox="0 0 1440 20" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none"><path id="wavePath" d="M0,10 C480,20 960,0 1440,10 L1440,20 L0,20 Z" fill="var(--bg)"/></svg></div>
 <main><div class="wrap">
   <section class="ai-column">
     <div class="ai-column-head">
-      <div class="ai-column-title">Análise VAPO do Dia</div>
-      <div class="ai-column-sub">Leitura estratégica curta para o marítimo profissional</div>
+      <div class="ai-column-label">Análise VAPO</div>
+      <div class="ai-column-title">Leitura estratégica do dia</div>
+      <div class="ai-column-sub">Para o marítimo profissional</div>
     </div>
-    <div class="ai-pills"><span class="ai-pill">atividade Petrobras/Transpetro</span><span class="ai-pill">contratos marítimos</span><span class="ai-pill">operações offshore</span><span class="ai-pill">logística e portos</span><span class="ai-pill">risco geopolítico</span></div>
+    
     <div class="ai-column-body">
       <h3 class="ai-analysis-title">Estreito de Hormuz restringe oferta e pressiona logística global de petróleo</h3>
       <div class="ai-preview-wrap" id="aiPreviewWrap">
@@ -107,8 +326,8 @@ body.dark .open-link{color:var(--ocean);}
       </div>
     </div>
     <div class="ai-actions">
-      <button class="ai-btn" type="button" id="aiToggleBtn" onclick="toggleAI()">Ler mais</button>
-      <button class="ai-btn ai-btn-secondary" type="button" onclick="shareAIColumn()">Compartilhar</button>
+      <button class="ai-btn ai-btn-primary" type="button" id="aiToggleBtn" onclick="toggleAI()">Ler mais</button>
+      <button class="ai-btn" type="button" onclick="shareAIColumn()">Compartilhar</button>
     </div>
   </section>
   <div class="section-header"><div class="section-label">⚓ Destaques do dia</div><div class="section-line"></div><div class="section-count">3 notícias</div></div>
@@ -838,6 +1057,15 @@ function formatAIParagraphs(text, sentencesPerParagraph=2){
   }
   return chunks.join('');
 }
+function renderWithInsight(text){
+  // Split off "Leitura VAPO: ..." as a special block
+  const match = text.match(/^([\s\S]*?)(Leitura VAPO:\s*[\s\S]+)$/i);
+  if(!match) return formatAIParagraphs(text, 2);
+  const body = match[1].trim();
+  const insight = match[2].replace(/^Leitura VAPO:\s*/i,'').trim();
+  return formatAIParagraphs(body, 2) +
+    `<div class="vapo-insight"><span class="vapo-insight-label">Leitura VAPO</span><span>${insight}</span></div>`;
+}
 (function initAIColumn(){
   const preview = document.getElementById('ai-preview');
   const rest = document.getElementById('ai-rest');
@@ -849,7 +1077,7 @@ function formatAIParagraphs(text, sentencesPerParagraph=2){
   const restText = sentences.slice(2).join(' ').trim();
 
   preview.innerHTML = formatAIParagraphs(previewText, 1);
-  rest.innerHTML = formatAIParagraphs(restText, 2);
+  rest.innerHTML = renderWithInsight(restText);
 
   if(!restText){
     btn.style.display = 'none';
@@ -873,12 +1101,24 @@ function toggleAI(){
     btn.textContent='Ler mais';
   }
 }
-async function shareAIColumn(){const title='Análise VAPO do Dia';const body="A escalada do conflito no Estreito de Hormuz mant\u00e9m a capacidade operacional dos VLCCs severamente limitada, elevando tarifas de frete e for\u00e7ando importadores asi\u00e1ticos a adotar rotas alternativas e solu\u00e7\u00f5es multimodais. Essa restri\u00e7\u00e3o j\u00e1 altera decis\u00f5es contratuais e aumenta a complexidade log\u00edstica, especialmente para fornecedores e operadores na \u00c1sia, com impacto direto na cadeia global de abastecimento de petr\u00f3leo. No Brasil, a Petrobras acelera contratos de manuten\u00e7\u00e3o e inspe\u00e7\u00e3o offshore, incorporando tecnologias como drones submarinos para otimizar opera\u00e7\u00f5es e reduzir custos. Esse movimento indica foco em efici\u00eancia operacional diante do cen\u00e1rio externo vol\u00e1til, refor\u00e7ando a resili\u00eancia da cadeia local frente a riscos geopol\u00edticos globais. A press\u00e3o sobre o transporte mar\u00edtimo de petr\u00f3leo e g\u00e1s no Oriente M\u00e9dio tamb\u00e9m amea\u00e7a investimentos bilion\u00e1rios em infraestrutura de GNL na \u00c1sia do Sul, elevando o risco financeiro e operacional para projetos de expans\u00e3o. A capacidade do Canal do Panam\u00e1 opera no limite para absorver desvios de rotas, aumentando o risco de gargalos log\u00edsticos. Leitura VAPO: o conflito no Hormuz redefine custos e rotas no mercado de transporte mar\u00edtimo de petr\u00f3leo, exigindo ajustes contratuais e operacionais imediatos.";const text=`${title}
-
-${body}`;if(navigator.share){try{await navigator.share({title, text});return;}catch(e){}}try{await navigator.clipboard.writeText(text);alert('Texto da análise VAPO copiado para compartilhar.');}catch(e){window.prompt('Copie o texto da análise VAPO:', text);}}
-function setTheme(t){document.body.classList.toggle('dark',t==='dark');T.textContent=t==='dark'?'☀️ Claro':'🌙 Escuro';localStorage.setItem('vapo-theme',t);const w=document.getElementById('wavePath');if(w)w.setAttribute('fill',t==='dark'?'#0a1520':'#e8f1f8');}
+async function shareAIColumn(){
+  const title='Análise VAPO do Dia — Radar Marítimo';
+  const url=window.location.href;
+  const text='Leitura estratégica para o marítimo profissional. Acesse a Análise VAPO de hoje:';
+  if(navigator.share){
+    try{await navigator.share({title,text,url});return;}catch(e){if(e.name==='AbortError')return;}
+  }
+  try{
+    await navigator.clipboard.writeText(url);
+    const btn=document.querySelector('.ai-btn:not(.ai-btn-primary)');
+    const orig=btn?btn.textContent:'';
+    if(btn){btn.textContent='✓ Link copiado!';setTimeout(()=>{btn.textContent=orig;},2000);}
+  }catch(e){window.prompt('Copie o link da Análise VAPO:',url);}
+}
+function setTheme(t){const T=document.getElementById('themeToggle');document.body.classList.toggle('dark',t==='dark');if(T)T.textContent=t==='dark'?'☀ Claro':'🌑 Escuro';localStorage.setItem('vapo-theme',t);const w=document.getElementById('wavePath');if(w)w.setAttribute('fill','var(--bg)');}
 const s=localStorage.getItem('vapo-theme');
-setTheme(s||(window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'));
-T.addEventListener('click',()=>setTheme(document.body.classList.contains('dark')?'light':'dark'));
+const prefersDark=window.matchMedia('(prefers-color-scheme: dark)').matches;
+setTheme(s||(prefersDark?'dark':'light'));
+document.getElementById('themeToggle').addEventListener('click',()=>setTheme(document.body.classList.contains('dark')?'light':'dark'));
 </script>
 </body></html>
