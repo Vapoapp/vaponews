@@ -58,8 +58,8 @@ KEYWORDS_WEIGHTS = {
     "marinha": 24,
     "marinha do brasil": 28,
     "rio de janeiro": 18,
-    "porto": 14,
-    "portos": 14,
+    "porto": 18,       # era 14 — porto é sinal profissional forte
+    "portos": 18,      # era 14
     "navio": 18,
     "navios": 18,
     "embarcação": 18,
@@ -103,20 +103,33 @@ KEYWORDS_WEIGHTS = {
     "fsru": 20,
     "estaleiro": 20,
     "estaleiros": 20,
-    "contrato": 24,
-    "afretamento": 28,
-    "charter": 24,
-    "licitação": 26,
-    "licitacao": 26,
+    "contrato": 32,    # era 24 — decisão de negócio direta
+    "afretamento": 36, # era 28 — core do mercado BR
+    "charter": 28,     # era 24
+    "licitação": 34,   # era 26 — oportunidade comercial concreta
+    "licitacao": 34,   # era 26
     "proposal": 14,
-    "proposta": 16,
+    "proposta": 18,    # era 16
     "transporte marítimo": 24,
     "transporte maritimo": 24,
     "imo": 20,
     "tripulação": 16,
     "tripulacao": 16,
     "marinheiro": 18,
-    "marinheiros": 18
+    "marinheiros": 18,
+    # Novos termos — valor profissional BR que antes era invisível
+    "cabotagem": 26,
+    "norma": 18,
+    "resolução": 18,
+    "resolucao": 18,
+    "antaq": 28,
+    "terminal portuário": 24,
+    "terminal portuario": 24,
+    "movimentação portuária": 26,
+    "movimentacao portuaria": 26,
+    "dragagem": 22,
+    "praticagem": 22,
+    "sinaval": 20,
 }
 
 CRITICAL_TERMS = [
@@ -511,35 +524,39 @@ def recency_score(published_at):
 
 def brazil_score(item):
     text = f"{item['title']} {item.get('summary', '')}".lower()
-    source = item["source"]
+    source = item["source"].lower()
 
     score = 0
 
     # Contexto brasileiro: base forte
     if any(term in text for term in BRAZIL_PRIORITY_TERMS):
-        score += 50
+        score += 80  # era 50 — Brasil é o público-alvo, precisa de peso real
 
-    # Fontes brasileiras especializadas: bônus de fonte
-    if source.lower() in {
+    # Fontes brasileiras especializadas: bônus de fonte elevado
+    if source in {
         "petronotícias", "petronoticias", "portos e navios",
         "g1 rio", "agência marinha", "agencia marinha",
-        "guia marítimo", "guia maritimo", "sinaval"
+        "guia marítimo", "guia maritimo", "sinaval",
+        "brasil energia", "brasil energia petróleo e gás",
+        "conttmaf", "agência petrobras", "agencia petrobras"
     }:
-        score += 25
+        score += 40  # era 25 — fonte BR especializada é sinal editorial forte
 
     # Petrobras + contexto marítimo: núcleo do mercado brasileiro
     if ("petrobras" in text or "transpetro" in text) and any(term in text for term in MARITIME_RELEVANCE_TERMS):
-        score += 30
+        score += 45  # era 30 — Petrobras/Transpetro é o maior operador BR
 
     # PSV / AHTS / FPSO + Brasil: contrato ou operação offshore brasileira
     if any(term in text for term in ["psv", "ahts", "fpso", "plsv", "afretamento", "licitação", "licitacao"]):
         if any(term in text for term in BRAZIL_PRIORITY_TERMS):
-            score += 20
+            score += 35  # era 20 — operação offshore BR é o core do produto
+
+    # Domínio .br: captura notícias de fontes brasileiras cujo texto
+    # não menciona cidade/porto explicitamente (ex: "empresa brasileira assina contrato")
+    if ".br" in item.get("link", "").lower():
+        score += 25
 
     return score
-
-
-def critical_score(item):
     text = f"{item['title']} {item.get('summary', '')}".lower()
     has_critical = any(term in text for term in CRITICAL_TERMS)
     has_maritime = any(term in text for term in MARITIME_RELEVANCE_TERMS)
@@ -555,11 +572,17 @@ def professional_value_score(item):
 
     # Contrato / licitação / afretamento: altíssimo valor para o mercado
     if any(term in text for term in ["contrato", "afretamento", "licitação", "licitacao", "charter"]):
-        score += 20
+        score += 35  # era 20 — decisão de negócio direta para o operador BR
+
+    # Porto / norma / regulação: valor profissional mesmo sem drama
+    if any(term in text for term in ["porto", "portos", "terminal", "norma", "resolução", "resolucao",
+                                      "regulamento", "regulamentação", "regulamentacao", "antaq", "anvisa",
+                                      "cabotagem", "movimentação", "movimentacao"]):
+        score += 20  # novo — valor editorial BR que antes era invisível no score
 
     # Petrobras + operação específica: premium editorial
     if "petrobras" in text and any(term in text for term in ["psv", "ahts", "fpso", "plsv", "osrv", "drillship", "sonda"]):
-        score += 25
+        score += 30  # era 25
 
     return score
 
@@ -987,6 +1010,26 @@ def keyword_score(item):
         if not any(term in text for term in MARITIME_RELEVANCE_TERMS):
             score -= 140
 
+    # Penalidade de internacional genérico: notícia sem âncora marítima específica
+    # nem contexto brasileiro perde relevância editorial no VAPO
+    source = item["source"].lower()
+    is_international_source = source in {
+        "marine insight", "hellenic shipping news", "maritime executive",
+        "world maritime news", "marinelink", "naval today", "gcaptain",
+        "splash247", "offshore energy", "nautical institute",
+        "el país brasil", "el pais brasil", "new york times shipping",
+        "hot topics maritime", "infomoney mundo"
+    }
+    if is_international_source:
+        has_br = any(term in text for term in BRAZIL_NEWS_TERMS)
+        has_specific_maritime = any(term in text for term in [
+            "fpso", "psv", "ahts", "plsv", "osrv", "transpetro", "petrobras",
+            "afretamento", "licitacao", "licitação", "shuttle tanker", "fsru",
+            "hormuz", "ormuz", "red sea", "suez", "canal do panama"
+        ])
+        if not has_br and not has_specific_maritime:
+            score -= 50  # internacional genérico sem sinal específico perde espaço para BR
+
     return score
 
 
@@ -1189,6 +1232,10 @@ def dedupe_by_content_overlap(news, threshold=SIMILARITY_THRESHOLD):
 
 
 def detect_category(item):
+    # Resultado cacheado no item para evitar recalcular em múltiplos loops
+    if "_category" in item:
+        return item["_category"]
+
     text = f"{item['title']} {item.get('summary', '')} {item['source']}".lower()
     source = item["source"].lower()
 
@@ -1203,14 +1250,18 @@ def detect_category(item):
 
     # Fonte brasileira com contexto marítimo → sempre brazil
     if source in brazil_sources and any(term in text for term in CORE_PRO_MARITIME_TERMS):
+        item["_category"] = "brazil"
         return "brazil"
 
     if has_brazil_term:
+        item["_category"] = "brazil"
         return "brazil"
 
     if has_offshore_term:
+        item["_category"] = "offshore"
         return "offshore"
 
+    item["_category"] = "international"
     return "international"
 
 
@@ -1457,6 +1508,24 @@ def select_editorial_mix(news):
 
     selected = highlights + brazil_selected + offshore_selected + international_selected
 
+    # Regra dura de mínimo BR: se faltaram notícias BR, preencher com BR de menor score
+    # antes de adicionar mais internacionais.
+    # "Melhor uma BR média do que uma internacional irrelevante para o operador."
+    brazil_in_selected = sum(1 for i in selected if detect_category(i) == "brazil")
+    br_deficit = BRAZIL_COUNT - brazil_in_selected
+    if br_deficit > 0:
+        # Tenta resgatar BR ainda não usados (qualquer score)
+        br_fallback_pool = [i for i in ordered if i["link"] not in used_links and detect_category(i) == "brazil"]
+        br_fillup = pick_unique_items(br_fallback_pool, br_deficit, used_links, per_source_limit=MAX_PER_SOURCE)
+        if br_fillup:
+            # Remove internacionais de menor score para dar espaço às BR resgatadas
+            intl_in_selected = [i for i in selected if detect_category(i) == "international"]
+            intl_in_selected.sort(key=lambda x: x["score"])
+            to_remove = intl_in_selected[:len(br_fillup)]
+            remove_links = {i["link"] for i in to_remove}
+            selected = [i for i in selected if i["link"] not in remove_links]
+            selected.extend(br_fillup)
+
     if len(selected) < MAX_NEWS:
         remaining_fallback = [item for item in ordered if item["link"] not in used_links]
         fallback = pick_unique_items(remaining_fallback, MAX_NEWS - len(selected), used_links, per_source_limit=MAX_PER_SOURCE)
@@ -1697,6 +1766,14 @@ def fetch_news():
     filtered = hard_filtered
     # ─────────────────────────────────────────────────────────────────────────
 
+    # Boost estrutural BR: aplicado ANTES do sort para que notícias brasileiras
+    # entrem no top-36 de enriquecimento em pé de igualdade com o drama internacional.
+    # Sem isso, o pool de candidatos já chega enviesado para fontes estrangeiras.
+    for item in filtered:
+        if detect_category(item) == "brazil":
+            item["score"] += 60
+            item["brazil_score"] = item.get("brazil_score", 0) + 60  # reflete no log
+
     filtered.sort(key=lambda x: x["score"], reverse=True)
 
     candidates = filtered[:ENRICH_TOP_CANDIDATES]
@@ -1744,7 +1821,7 @@ def fetch_news():
             f"categoria={detect_category(item)} | {item['title'][:80]}"
         )
 
-    return selected, shown_cache
+    return selected, shown_cache, article_cache
 
 
 def summarize_news(client, item, model, session, cache):
@@ -1823,7 +1900,7 @@ EMBARCACAO: <tipo ou vazio>
     return titulo, curto, longo, embarcacao
 
 
-def summarize(news):
+def summarize(news, article_cache=None):
     load_dotenv()
 
     api_key = os.getenv("OPENAI_API_KEY")
@@ -1833,7 +1910,8 @@ def summarize(news):
     model = os.getenv("OPENAI_MODEL", DEFAULT_MODEL)
     client = OpenAI(api_key=api_key)
     session = get_session()
-    article_cache = _load_cache()
+    if article_cache is None:
+        article_cache = _load_cache()
 
     # Limpa set de IDs para evitar colisões entre execuções do mesmo processo
     _used_ids.clear()
@@ -2176,7 +2254,9 @@ def build_html(grouped, ai_column=None):
     ai_column = ai_column or {"title": "Análise VAPO do Dia", "preview": "A análise VAPO está indisponível nesta execução.", "body": "A análise VAPO está indisponível nesta execução.", "drivers": []}
     ai_title = html.escape(ai_column.get("title", "Análise VAPO do Dia"))
     ai_preview = html.escape(ai_column.get("preview", ai_column.get("body", "")))
-    ai_body = html.escape(ai_column.get("body", ""))
+    # ai_body vai para json.dumps() no JS — não deve passar por html.escape()
+    # (escape duplo causaria &amp; visível no texto)
+    ai_body = ai_column.get("body", "")
     ai_drivers = ''.join(f'<span class="ai-pill">{html.escape(d)}</span>' for d in ai_column.get("drivers", [])[:5])
 
     logo = (
@@ -2321,7 +2401,7 @@ async function shareNews(title,id,imageUrl){{
   const text=`⚓ VAPO News\n\n${{title}}\n\nLeia no VAPO News:\n${{url}}`;
 
   if(navigator.share){{
-    if(imageUrl){{
+    if(imageUrl && !imageUrl.startsWith('data:')){{
       try{{
         const response = await fetch(imageUrl, {{mode:'cors'}});
         if(response.ok){{
@@ -2391,10 +2471,11 @@ function toggleAI(){{
   }}
 }}
 async function shareAIColumn(){{const title='Análise VAPO do Dia';const body={json.dumps(ai_body)};const text=`${{title}}\n\n${{body}}`;if(navigator.share){{try{{await navigator.share({{title, text}});return;}}catch(e){{}}}}try{{await navigator.clipboard.writeText(text);alert('Texto da análise VAPO copiado para compartilhar.');}}catch(e){{window.prompt('Copie o texto da análise VAPO:', text);}}}}
-function setTheme(t){{document.body.classList.toggle('dark',t==='dark');T.textContent=t==='dark'?'☀️ Claro':'🌙 Escuro';localStorage.setItem('vapo-theme',t);const w=document.getElementById('wavePath');if(w)w.setAttribute('fill',t==='dark'?'#0a1520':'#e8f1f8');}}
+const T=document.getElementById('themeToggle');
+function setTheme(t){{document.body.classList.toggle('dark',t==='dark');if(T)T.textContent=t==='dark'?'☀️ Claro':'🌙 Escuro';localStorage.setItem('vapo-theme',t);const w=document.getElementById('wavePath');if(w)w.setAttribute('fill',t==='dark'?'#0a1520':'#e8f1f8');}}
 const s=localStorage.getItem('vapo-theme');
 setTheme(s||(window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'));
-T.addEventListener('click',()=>setTheme(document.body.classList.contains('dark')?'light':'dark'));
+if(T)T.addEventListener('click',()=>setTheme(document.body.classList.contains('dark')?'light':'dark'));
 </script>
 </body></html>"""
 
@@ -2405,12 +2486,12 @@ def main():
         os.makedirs(OUTPUT_DIR, exist_ok=True)
         print(f"Pasta de saída: {os.path.abspath(OUTPUT_DIR)}")
 
-        news, shown_cache = fetch_news()
+        news, shown_cache, article_cache = fetch_news()
         if not news:
             print("Nenhuma notícia encontrada.")
             return
 
-        summarized_news = summarize(news)
+        summarized_news = summarize(news, article_cache=article_cache)
         grouped = split_sections(summarized_news)
 
         radar_path = os.path.join(OUTPUT_DIR, "radar.json")
