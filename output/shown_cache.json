@@ -1,12 +1,4 @@
 {
-  "https://www.marineinsight.com/shipping-news/u-s-navy-ship-fires-on-iranian-vessel-approaching-uss-abraham-lincoln-carrier-strike-group/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-navy-ship-fires-on-iranian-vessel-approaching-uss-abraham-lincoln-carrier-strike-group": {
-    "ts": "2026-03-16T02:54:06.824939+00:00",
-    "type": "highlight"
-  },
-  "https://gcaptain.com/trump-calls-for-allied-warships-to-secure-strait-of-hormuz/": {
-    "ts": "2026-03-16T02:54:06.824939+00:00",
-    "type": "highlight"
-  },
   "https://www.guiamaritimo.com.br/noticias/direito-normas-e-legislacao": {
     "ts": "2026-03-21T18:44:19.166095+00:00",
     "type": "other"
@@ -23,20 +15,12 @@
     "ts": "2026-03-16T07:27:02.948438+00:00",
     "type": "other"
   },
-  "https://www.marineinsight.com/shipping-news/two-indian-flagged-lpg-tankers-cross-the-hormuz-after-4-rounds-of-iran-india-talks/?utm_source=rss&utm_medium=rss&utm_campaign=two-indian-flagged-lpg-tankers-cross-the-hormuz-after-4-rounds-of-iran-india-talks": {
-    "ts": "2026-03-16T02:54:06.824939+00:00",
-    "type": "highlight"
-  },
   "https://petronoticias.com.br/conferencia-sobre-a-logistica-do-transporte-maritimo-vai-debater-novas-tecnologias-durante-dois-dias-em-sao-paulo/": {
     "ts": "2026-03-16T19:12:33.770106+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/theres-no-hiding-place-on-a-ship-the-sailors-stranded-near-iran/": {
     "ts": "2026-03-16T07:27:02.948438+00:00",
-    "type": "highlight"
-  },
-  "https://www.marinelink.com/news/intermanager-advises-extreme-caution-536983": {
-    "ts": "2026-03-16T02:54:06.824939+00:00",
     "type": "highlight"
   },
   "https://splash247.com/procopiou-pushes-tanker-expansion-with-more-vlcc-orders/": {
@@ -47,36 +31,16 @@
     "ts": "2026-03-17T07:12:42.211176+00:00",
     "type": "highlight"
   },
-  "https://www.hellenicshippingnews.com/vessel-traffic-through-strait-of-hormuz-fell-to-one-transit-march-12-cas/": {
-    "ts": "2026-03-16T02:54:06.824939+00:00",
-    "type": "highlight"
-  },
-  "https://splash247.com/pan-ocean-bulks-up-with-qingdao-beihai-newcastlemaxes/": {
-    "ts": "2026-03-16T02:54:06.824939+00:00",
-    "type": "highlight"
-  },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
     "ts": "2026-03-18T02:44:18.898979+00:00",
     "type": "other"
-  },
-  "https://www.marinelink.com/news/trump-demands-countries-help-secure-536990": {
-    "ts": "2026-03-16T02:54:06.824939+00:00",
-    "type": "highlight"
   },
   "https://www.oedigital.com/news/536989-additional-lng-exports-from-plaquemines-lng-approved": {
     "ts": "2026-03-16T07:27:02.948438+00:00",
     "type": "highlight"
   },
-  "https://splash247.com/jp-morgan-shipping-arm-books-suezmax-trio-at-samsung-heavy/": {
-    "ts": "2026-03-16T02:54:06.824939+00:00",
-    "type": "highlight"
-  },
   "https://www.bairdmaritime.com/offshore/exploration-development": {
-    "ts": "2026-03-23T02:46:13.171932+00:00",
-    "type": "highlight"
-  },
-  "https://www.oedigital.com/news/536988-bp-wins-us-approval-for-kaskida-project": {
-    "ts": "2026-03-16T02:54:06.824939+00:00",
+    "ts": "2026-03-23T07:19:55.439401+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/norwind-offshores-newest-hybrid-ready-csov-formally-named": {
@@ -1216,7 +1180,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-decommissioning": {
-    "ts": "2026-03-23T02:46:13.171932+00:00",
+    "ts": "2026-03-23T07:19:55.439401+00:00",
     "type": "highlight"
   },
   "https://splash247.com/eni-set-for-major-growth-with-two-hubs-off-indonesia/": {
@@ -1332,7 +1296,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/panama-canal-operates-at-full-capacity-as-lng-tankers-reroute-amid-us-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=panama-canal-operates-at-full-capacity-as-lng-tankers-reroute-amid-us-iran-war": {
-    "ts": "2026-03-23T02:46:13.171932+00:00",
+    "ts": "2026-03-23T07:19:55.439401+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/france-boards-tanker-mediterranean-linked-537132": {
@@ -1340,7 +1304,7 @@
     "type": "highlight"
   },
   "https://www.nytimes.com/2026/03/21/business/iran-strait-of-hormuz-oil-us-israel-choke-point.html": {
-    "ts": "2026-03-23T02:46:13.171932+00:00",
+    "ts": "2026-03-23T07:19:55.439401+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/mexican-activists-load-boats-with-aid-for-energystrapped-cuba": {
@@ -1356,7 +1320,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/trump-calls-nato-allies-cowards-for-refusing-to-join-strait-of-hormuz-security-effort/?utm_source=rss&utm_medium=rss&utm_campaign=trump-calls-nato-allies-cowards-for-refusing-to-join-strait-of-hormuz-security-effort": {
-    "ts": "2026-03-23T02:46:13.171932+00:00",
+    "ts": "2026-03-23T07:19:55.439401+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/mundo/noticia/2026/03/21/trump-diz-que-pode-colocar-agentes-do-ice-em-aeroporto.ghtml": {
@@ -1364,11 +1328,11 @@
     "type": "highlight"
   },
   "https://gcaptain.com/iranian-navy-guided-indian-tanker-through-hormuz-crew-member-says/": {
-    "ts": "2026-03-23T02:46:13.171932+00:00",
+    "ts": "2026-03-23T07:19:55.439401+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/libya-hires-firm-to-tackle-stricken-russian-tanker-drifting-towards-coast": {
-    "ts": "2026-03-23T02:46:13.171932+00:00",
+    "ts": "2026-03-23T07:19:55.439401+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/is-iran-ready-to-let-japanese-vessels-transit-hormuz": {
@@ -1388,7 +1352,7 @@
     "type": "highlight"
   },
   "https://g1.globo.com/mundo/noticia/2026/03/22/ira-diz-ter-atingido-caca-f-15-ilha-ormuz.ghtml": {
-    "ts": "2026-03-23T02:46:13.171932+00:00",
+    "ts": "2026-03-23T07:19:55.439401+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/pop-arte/musica/noticia/2026/03/22/lollapalooza-2026-tem-ultimo-dia-com-tyler-the-creator-lorde-e-turnstile.ghtml": {
@@ -1396,15 +1360,15 @@
     "type": "highlight"
   },
   "https://gcaptain.com/trumps-48-hour-hormuz-ultimatum-to-iran-raises-stakes-in-gulf-war/": {
-    "ts": "2026-03-23T02:46:13.171932+00:00",
+    "ts": "2026-03-23T07:19:55.439401+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/os-servicos-de-transporte-maritimos-ja-sentem-as-consequencias-da-crise-de-combustiveis-por-causa-da-guerra/": {
-    "ts": "2026-03-23T02:46:13.171932+00:00",
+    "ts": "2026-03-23T07:19:55.439401+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/iran-says-hormuz-open-to-all-but-enemy-linked-ships": {
-    "ts": "2026-03-23T02:46:13.171932+00:00",
+    "ts": "2026-03-23T07:19:55.439401+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/iran-says-hormuz-open-to-all-but-enemy-linked-ships/": {
@@ -1416,15 +1380,15 @@
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/hormuz-tensions-imperil-korea-lng-carrier-deliveries-push-leasing-options/": {
-    "ts": "2026-03-23T02:46:13.171932+00:00",
+    "ts": "2026-03-23T07:19:55.439401+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/mundo/noticia/2026/03/22/ira-ameaca-fechar-completamente-estreito-de-ormuz-e-destruir-empresas-dos-eua-no-oriente-medio-caso-infraestrutura-energetica-seja-atacada.ghtml": {
-    "ts": "2026-03-23T02:46:13.171932+00:00",
+    "ts": "2026-03-23T07:19:55.439401+00:00",
     "type": "highlight"
   },
   "https://splash247.com/fleet-trim-continues-at-jinhui/": {
-    "ts": "2026-03-23T02:46:13.171932+00:00",
+    "ts": "2026-03-23T07:19:55.439401+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/tanker-market-is-crude-oil-supply-under-threat/": {
@@ -1433,6 +1397,22 @@
   },
   "https://splash247.com/will-it-be-onwards-and-upwards-for-the-dry-bulk-market-in-2026/": {
     "ts": "2026-03-23T02:46:13.171932+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/ukraine-strikes-primorsrk-port/": {
+    "ts": "2026-03-23T07:19:55.439401+00:00",
+    "type": "highlight"
+  },
+  "https://www.rigzone.com/news/wire/iran_trump_exchange_threats_over_hormuz-23-mar-2026-183266-article/": {
+    "ts": "2026-03-23T07:19:55.439401+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/hormuz-naval-escorts-will-not-ensure-vessel-transits-through-hormuz-imo-head/": {
+    "ts": "2026-03-23T07:19:55.439401+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/dorian-lpg-takes-delivery-of-new-dual-fuel-vlgc": {
+    "ts": "2026-03-23T07:19:55.439401+00:00",
     "type": "other"
   }
 }
