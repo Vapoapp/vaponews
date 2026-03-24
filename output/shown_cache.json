@@ -24,15 +24,11 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
+    "ts": "2026-03-24T19:12:49.528952+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/premios-e-certificacoes": {
     "ts": "2026-03-20T18:58:18.164621+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/indian-oil-tanker-jag-laadki-safely-sails-from-fujairah-after-drone-attack-disrupts-oil-terminal/?utm_source=rss&utm_medium=rss&utm_campaign=indian-oil-tanker-jag-laadki-safely-sails-from-fujairah-after-drone-attack-disrupts-oil-terminal": {
-    "ts": "2026-03-17T19:11:10.309859+00:00",
     "type": "other"
   },
   "https://www.marineinsight.com/20-thai-sailors-return-home-after-cargo-ship-attack-in-strait-of-hormuz-3-crew-still-missing/?utm_source=rss&utm_medium=rss&utm_campaign=20-thai-sailors-return-home-after-cargo-ship-attack-in-strait-of-hormuz-3-crew-still-missing": {
@@ -110,46 +106,6 @@
   "https://safety4sea.com/south-korea-adopts-framework-for-green-shipping-corridors/": {
     "ts": "2026-03-18T07:09:45.635545+00:00",
     "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/indian-tankers-able-to-cross-strait-of-hormuz-safely-report/": {
-    "ts": "2026-03-17T19:11:10.309859+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/yang-ming-orders-six-13000-teu-lng-dual-fuel-container-ships/": {
-    "ts": "2026-03-17T19:11:10.309859+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/new-epc-contract-for-onesubsea-this-time-offshore-china/": {
-    "ts": "2026-03-17T19:11:10.309859+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/537049-boem-issues-notice-of-intent-for-offshore-well-stimulation-work": {
-    "ts": "2026-03-17T19:11:10.309859+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/feature-china-boosted-crude-stockpiles-at-start-of-2026-but-is-not-using-them": {
-    "ts": "2026-03-17T19:11:10.309859+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/india-denies-discussing-release-of-tankers-with-iran-for-hormuz-passage": {
-    "ts": "2026-03-17T19:11:10.309859+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/oil-tankers-starting-to-dribble-through-strait-of-hormuz-says-white-house/": {
-    "ts": "2026-03-17T19:11:10.309859+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/marinakis-backed-capital-tankers-slides-on-oslo-debut-as-hormuz-crisis-jolts-markets/": {
-    "ts": "2026-03-17T19:11:10.309859+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/nordic-american-tankers-sells-vintage-suezmax-for-40m/": {
-    "ts": "2026-03-17T19:11:10.309859+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/bureau-veritas-certifies-everllences-digital-monitoring-solution-primeserv-assist/": {
-    "ts": "2026-03-17T19:11:10.309859+00:00",
-    "type": "other"
   },
   "https://petronoticias.com.br/cuba-vive-um-apagao-total-com-pais-naufragando-em-tempo-real-com-o-capitao-se-recusando-a-salvar-a-tripulacao/": {
     "ts": "2026-03-18T19:10:19.863542+00:00",
@@ -884,7 +840,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-decommissioning": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
+    "ts": "2026-03-24T19:12:49.528952+00:00",
     "type": "highlight"
   },
   "https://splash247.com/eni-set-for-major-growth-with-two-hubs-off-indonesia/": {
@@ -1172,7 +1128,7 @@
     "type": "other"
   },
   "https://safety4sea.com/outpacing-the-evolution-of-the-cyber-threat/": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
+    "ts": "2026-03-24T19:12:49.528952+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/qatarenergy-missile-attacks-spur-20-billion-loss-with-drop-in-lng-exports/": {
@@ -1296,7 +1252,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/agencia-internacional-de-energia-diz-que-o-fechamento-de-ormuz-e-a-maior-ameaca-energetica-da-historia-global/": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
+    "ts": "2026-03-24T19:12:49.528952+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/st-lng-selects-baker-hughes-as-technology-provider-for-u-s-offshore-lng-project/": {
@@ -1344,11 +1300,11 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/537209-australia-s-santos-halts-darwin-lng-exports-during-supply-crunch": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
+    "ts": "2026-03-24T19:12:49.528952+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/transport-malta-investigation-explosion-during-berthing-operations/": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
+    "ts": "2026-03-24T19:12:49.528952+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/lng-shipping-stocks-a-volatile-week-of-growth/": {
@@ -1401,6 +1357,66 @@
   },
   "https://splash247.com/conflicting-hormuz-claims-leave-shipping-in-limbo-and-markets-swinging/": {
     "ts": "2026-03-24T13:25:08.932357+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/report-damaged-russian-lng-tanker-arctic-metagaz-secured-after-weeks-adrift/": {
+    "ts": "2026-03-24T19:12:49.528952+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/equinor-starts-drilling-at-brazils-raia-eyes-new-santos-basin-exploration-in-2027": {
+    "ts": "2026-03-24T19:12:49.528952+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/apm-terminals-becomes-minority-shareholder-and-operating-partner-in-hai-phong/": {
+    "ts": "2026-03-24T19:12:49.528952+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/projeto-de-microrreator-esta-perto-de-entrar-em-nova-etapa-e-pode-ter-inicio-de-testes-em-meados-de-2027/": {
+    "ts": "2026-03-24T19:12:49.528952+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/totalenergies-faz-acordo-para-investir-us-1-bilhao-em-oleo-e-gas-dos-estados-unidos-pela-desistencia-de-construir-usina-eolica-offshore/": {
+    "ts": "2026-03-24T19:12:49.528952+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/sbm-offshores-fpso-deal-with-exxonmobil-opens-feed-gate-for-guyanas-oil-project/": {
+    "ts": "2026-03-24T19:12:49.528952+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537250-saudi-aramco-increases-crude-oil-exports-from-yanbu-sea-to-compensate-for-hormuz-closure": {
+    "ts": "2026-03-24T19:12:49.528952+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537246-danish-investors-back-resolution-against-nordea-over-arctic-oil-production": {
+    "ts": "2026-03-24T19:12:49.528952+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/bureau-veritas-to-class-new-generation-of-all-electric-trimarans-for-brim-explorer/": {
+    "ts": "2026-03-24T19:12:49.528952+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/irgc-commander-iran-turns-back-containership-in-hormuz-as-permission-to-transit-policy-emerges/": {
+    "ts": "2026-03-24T19:12:49.528952+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/acquisitive-sinokor-turns-its-attention-to-the-suezmax-segment/": {
+    "ts": "2026-03-24T19:12:49.528952+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/china-calls-on-imo-for-framework-to-accelerate-onboard-carbon-capture/": {
+    "ts": "2026-03-24T19:12:49.528952+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/bahrain-seeks-un-approval-to-use-force-in-strait-of-hormuz-to-protect-shipping/?utm_source=rss&utm_medium=rss&utm_campaign=bahrain-seeks-un-approval-to-use-force-in-strait-of-hormuz-to-protect-shipping": {
+    "ts": "2026-03-24T19:12:49.528952+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/european-shipowner-takes-red-rock-to-subsea-crane-market/": {
+    "ts": "2026-03-24T19:12:49.528952+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/celsius-linked-to-fresh-lng-carrier-order-at-samsung-heavy/": {
+    "ts": "2026-03-24T19:12:49.528952+00:00",
     "type": "other"
   }
 }
