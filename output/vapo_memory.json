@@ -8,17 +8,6 @@
       "logística e portos",
       "risco geopolítico"
     ],
-    "summary": "A escalada do conflito no Estreito de Hormuz restringe o trânsito de VLCCs e eleva tarifas de frete, forçando importadores como a Índia a buscar rotas alternativas. Operadoras globais, como a CMA CGM, já adotam corredores multimodais para mitigar riscos e garantir continuidade operacional, impactando decisões de contratação e roteirização no transporte marítimo. No Brasil, a Petrobras avança em contratos estratégicos com fornecedores offshore, incluindo acordos de manutenção de turbinas e serviç"
-  },
-  {
-    "date": "2026-03-18",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
     "summary": "A escalada do conflito no Estreito de Hormuz mantém a volatilidade operacional para VLCCs, com suspensão de carregamentos em Fujairah e ataques a instalações iranianas. A insegurança persistente, mesmo com escoltas navais, restringe a capacidade de transporte e pressiona tarifas, forçando importadores dependentes do Oriente Médio, como a Índia, a buscar rotas alternativas. Operadoras globais já adotam corredores multimodais para mitigar riscos, impactando decisões de contratação e roteirização."
   },
   {
@@ -322,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "A restrição contínua à passagem de VLCCs no Estreito de Hormuz mantém a oferta global de transporte de petróleo sob pressão, elevando tarifas de frete e forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais. Essa adaptação operacional aumenta custos logísticos e complexidade na cadeia de abastecimento, exigindo ajustes imediatos no planejamento comercial e operacional. No Golfo, os ataques a instalações de GNL no Catar reduziram as exportações em 17%, agravando"
+  },
+  {
+    "date": "2026-03-25",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A limitação contínua da passagem de VLCCs no Estreito de Hormuz mantém a oferta global de transporte marítimo de petróleo restrita, elevando tarifas de frete a patamares elevados. Importadores asiáticos, com destaque para a Índia, ajustam contratos e adotam rotas multimodais, aumentando a complexidade operacional e os custos logísticos no curto prazo. Essa dinâmica exige revisão imediata do planejamento comercial e da gestão de risco nas cadeias de abastecimento. No Golfo, ataques a instalações"
   }
 ]
