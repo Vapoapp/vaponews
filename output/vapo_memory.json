@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-03-18",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A escalada do conflito no Estreito de Hormuz mantém a volatilidade operacional para VLCCs, com suspensão de carregamentos em Fujairah e ataques a instalações iranianas. A insegurança persistente, mesmo com escoltas navais, restringe a capacidade de transporte e pressiona tarifas, forçando importadores dependentes do Oriente Médio, como a Índia, a buscar rotas alternativas. Operadoras globais já adotam corredores multimodais para mitigar riscos, impactando decisões de contratação e roteirização."
-  },
-  {
     "date": "2026-03-19",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -322,5 +311,16 @@
       "risco geopolítico"
     ],
     "summary": "A limitação contínua da passagem de VLCCs no Estreito de Hormuz mantém a oferta global de transporte marítimo de petróleo restrita, elevando tarifas de frete a patamares elevados. Importadores asiáticos, com destaque para a Índia, ajustam contratos e adotam rotas multimodais, aumentando a complexidade operacional e os custos logísticos no curto prazo. Essa dinâmica exige revisão imediata do planejamento comercial e da gestão de risco nas cadeias de abastecimento. No Golfo, ataques a instalações"
+  },
+  {
+    "date": "2026-03-25",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A restrição contínua à passagem de VLCCs no Estreito de Hormuz segue limitando a capacidade global de transporte marítimo de petróleo. Isso eleva tarifas de frete e força importadores asiáticos, especialmente a Índia, a reconfigurar contratos e adotar rotas multimodais, aumentando custos logísticos e complexidade operacional no curto prazo. A adaptação exige revisão imediata do planejamento comercial e da gestão de risco nas cadeias de abastecimento. No Golfo, ataques a instalações de GNL no Cat"
   }
 ]
