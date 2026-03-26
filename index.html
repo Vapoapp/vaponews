@@ -4,6 +4,13 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="VAPO News — Radar Marítimo: 21 notícias selecionadas para profissionais do setor marítimo. Gerado em 26/03/2026 às 02:49.">
 <title>VAPO News — Radar Marítimo</title>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZWN759NS6"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-9ZWN759NS6');
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
@@ -811,6 +818,14 @@ h3{font-size:.97rem;}
 window.vapoFallbackImage = "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20viewBox%3D%270%200%201200%20675%27%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3ClinearGradient%20id%3D%27g%27%20x1%3D%270%27%20y1%3D%270%27%20x2%3D%271%27%20y2%3D%271%27%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%270%25%27%20stop-color%3D%27%2317324d%27/%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%2755%25%27%20stop-color%3D%27%230B6FB8%27/%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%27100%25%27%20stop-color%3D%27%2352B4E7%27/%3E%0A%20%20%20%20%20%20%3C/linearGradient%3E%0A%20%20%20%20%3C/defs%3E%0A%20%20%20%20%3Crect%20width%3D%271200%27%20height%3D%27675%27%20fill%3D%27url%28%23g%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%27920%27%20cy%3D%27120%27%20r%3D%27160%27%20fill%3D%27rgba%28255%2C255%2C255%2C0.08%29%27/%3E%0A%20%20%20%20%3Ccircle%20cx%3D%271080%27%20cy%3D%27560%27%20r%3D%27220%27%20fill%3D%27rgba%28255%2C255%2C255%2C0.06%29%27/%3E%0A%20%20%20%20%3Ctext%20x%3D%2772%27%20y%3D%27300%27%20fill%3D%27white%27%20font-family%3D%27Arial%2C%20Helvetica%2C%20sans-serif%27%20font-size%3D%2756%27%20font-weight%3D%27700%27%3EVAPO%20News%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%2772%27%20y%3D%27370%27%20fill%3D%27rgba%28255%2C255%2C255%2C0.86%29%27%20font-family%3D%27Arial%2C%20Helvetica%2C%20sans-serif%27%20font-size%3D%2730%27%3EVAPO%20News%3C/text%3E%0A%20%20%20%20%3Ctext%20x%3D%2772%27%20y%3D%27430%27%20fill%3D%27rgba%28255%2C255%2C255%2C0.72%29%27%20font-family%3D%27Arial%2C%20Helvetica%2C%20sans-serif%27%20font-size%3D%2724%27%3ERadar%20Mar%C3%ADtimo%3C/text%3E%0A%20%20%20%20%3C/svg%3E";
 function toggleMore(id){const b=document.getElementById('more-'+id);if(!b)return;const open=b.classList.toggle('open');const actions=b.previousElementSibling?.previousElementSibling;const btn=actions?.querySelector('.more-btn');if(btn)btn.querySelector('.btn-icon').textContent=open?'−':'+';}
 async function shareNews(title,id,imageUrl){
+  if (typeof gtag === 'function') {
+    gtag('event', 'share_news', {
+      'article_title': arguments[0] || '',
+      'article_id': arguments[1] || '',
+      'content_type': 'noticia_vapo_news'
+    });
+  }
+
   const baseUrl = window.location.href.split('#')[0];
   const safeId = (id || '').toString().trim();
   const url = safeId ? `${baseUrl}#${safeId}` : baseUrl;
@@ -879,9 +894,31 @@ function toggleAI(){
   if(open){rest.removeAttribute('hidden');requestAnimationFrame(()=>{rest.classList.add('is-visible');wrap.classList.add('is-open');});btn.textContent='Mostrar menos';}
   else{rest.classList.remove('is-visible');wrap.classList.remove('is-open');setTimeout(()=>rest.setAttribute('hidden','hidden'),220);btn.textContent='Ler mais';}
 }
-async function shareAIColumn(){const title='Análise VAPO do Dia';const body="A passagem de VLCCs pelo Estreito de Hormuz permanece severamente limitada, mantendo a oferta global de transporte mar\u00edtimo de petr\u00f3leo sob press\u00e3o. Essa restri\u00e7\u00e3o eleva as tarifas de frete e for\u00e7a importadores asi\u00e1ticos, especialmente a \u00cdndia, a reestruturarem contratos e adotarem rotas multimodais, aumentando custos e complexidade operacional no curto prazo. No Golfo, ataques recentes a instala\u00e7\u00f5es de GNL no Catar reduziram a capacidade exportadora em 17%, agravando a escassez de oferta e elevando riscos operacionais na regi\u00e3o. A combina\u00e7\u00e3o desses fatores exige ajustes imediatos no planejamento comercial e na gest\u00e3o de risco das cadeias de abastecimento, impactando diretamente a log\u00edstica e o fluxo de energia global. No segmento offshore, contratos para FPSOs na Guiana e investimentos em expans\u00e3o de capacidade no Porto do A\u00e7u indicam continuidade do foco em explora\u00e7\u00e3o e infraestrutura, apesar do cen\u00e1rio geopol\u00edtico adverso. O setor precisa monitorar a evolu\u00e7\u00e3o do conflito para calibrar opera\u00e7\u00f5es e investimentos. Leitura VAPO: a restri\u00e7\u00e3o no transporte de petr\u00f3leo pelo Golfo e os ataques a instala\u00e7\u00f5es de GNL imp\u00f5em reajustes urgentes na log\u00edstica e contratos, enquanto o offshore mant\u00e9m expans\u00e3o seletiva em meio a riscos geopol\u00edticos elevados.";const text=`${title}
+async function shareAIColumn(){
+  if (typeof gtag === 'function') {
+    gtag('event', 'share_ai_column', {
+      'content_type': 'analise_vapo',
+      'page_title': document.title,
+      'share_target': window.location.href
+    });
+  }
+  const title = 'Análise VAPO do Dia';
+  const url = window.location.href;
 
-${body}`;if(navigator.share){try{await navigator.share({title, text});return;}catch(e){}}try{await navigator.clipboard.writeText(text);alert('Texto da análise VAPO copiado para compartilhar.');}catch(e){window.prompt('Copie o texto da análise VAPO:', text);}}
+  if (navigator.share) {
+    try {
+      await navigator.share({ title, url });
+      return;
+    } catch (e) {}
+  }
+
+  try {
+    await navigator.clipboard.writeText(url);
+    alert('Link da análise VAPO copiado para compartilhar.');
+  } catch (e) {
+    window.prompt('Copie o link da análise VAPO:', url);
+  }
+}
 const T=document.getElementById('themeToggle');
 function setTheme(t){document.body.classList.toggle('dark',t==='dark');if(T)T.textContent=t==='dark'?'☀️ Claro':'🌑 Escuro';localStorage.setItem('vapo-theme',t);const w=document.getElementById('wavePath');if(w)w.setAttribute('fill',t==='dark'?'#07111a':'#f4f6f8');}
 const s=localStorage.getItem('vapo-theme');
