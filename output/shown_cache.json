@@ -39,10 +39,6 @@
     "ts": "2026-03-19T13:19:06.603741+00:00",
     "type": "highlight"
   },
-  "https://www.offshore-energy.biz/baker-hughes-lands-five-year-job-with-petrobras-in-brazil/": {
-    "ts": "2026-03-19T07:05:35.772325+00:00",
-    "type": "highlight"
-  },
   "https://petronoticias.com.br/administracao-sergio-bacci-amplia-a-atuacao-da-transpetro-que-passa-a-operar-tambem-como-empresa-com-clientes-fora-da-companhia/": {
     "ts": "2026-03-19T13:19:06.603741+00:00",
     "type": "highlight"
@@ -59,10 +55,6 @@
     "ts": "2026-03-19T19:07:10.218304+00:00",
     "type": "highlight"
   },
-  "https://www.hellenicshippingnews.com/ics-calls-for-safe-passage-for-all-affected-ships-in-the-middle-east-at-the-international-maritime-organization-extraordinary-council-session/": {
-    "ts": "2026-03-19T07:05:35.772325+00:00",
-    "type": "highlight"
-  },
   "https://www.oedigital.com/news/537082-indonesia-awards-nine-oil-gas-blocks": {
     "ts": "2026-03-19T13:19:06.603741+00:00",
     "type": "highlight"
@@ -70,46 +62,6 @@
   "https://splash247.com/iran-threatens-gulf-energy-assets-after-strike-on-south-pars-gas-field/": {
     "ts": "2026-03-19T19:07:10.218304+00:00",
     "type": "highlight"
-  },
-  "https://gcaptain.com/trump-blames-israel-for-south-pars-attack-warns-iran-of-massive-retaliation/": {
-    "ts": "2026-03-19T07:05:35.772325+00:00",
-    "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/time-is-short-imo-secretary-general-urges-de-escalation-and-seafarer-protection-at-extraordinary-session-of-imo-council/": {
-    "ts": "2026-03-19T07:05:35.772325+00:00",
-    "type": "highlight"
-  },
-  "https://splash247.com/geneva-dry-reveals-finalised-agenda-with-40-days-to-go-and-250-companies-already-signed-up/": {
-    "ts": "2026-03-19T07:05:35.772325+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/537071-offshore-vietnam-energy-imports-rise-as-domestic-production-falls": {
-    "ts": "2026-03-19T07:05:35.772325+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/training-simulator-in-the-making-for-jan-de-nuls-fleeming-jenkin/": {
-    "ts": "2026-03-19T07:05:35.772325+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/the-hormuz-hypothesis-what-if-the-u-s-navy-isnt-in-a-hurry-to-reopen-the-strait/": {
-    "ts": "2026-03-19T07:05:35.772325+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/windward-update-three-outbound-and-no-inbound-hormuz-transits/": {
-    "ts": "2026-03-19T07:05:35.772325+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/us-broadly-authorizes-transactions-with-venezuelas-oil-company-pdvsa": {
-    "ts": "2026-03-19T07:05:35.772325+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/allies-decline-trumps-call-for-warships-in-strait-of-hormuz/": {
-    "ts": "2026-03-19T07:05:35.772325+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/gms-international-markets-are-expected-to-remain-unsettled/": {
-    "ts": "2026-03-19T07:05:35.772325+00:00",
-    "type": "other"
   },
   "https://www.hellenicshippingnews.com/iran-oil-exports-continue-as-tankers-cross-the-strait-of-hormuz-despite-conflict/": {
     "ts": "2026-03-19T13:19:06.603741+00:00",
@@ -416,7 +368,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-decommissioning": {
-    "ts": "2026-03-26T05:55:26.125109+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://splash247.com/eni-set-for-major-growth-with-two-hubs-off-indonesia/": {
@@ -880,7 +832,7 @@
     "type": "highlight"
   },
   "https://safety4sea.com/transport-malta-investigation-explosion-during-berthing-operations/": {
-    "ts": "2026-03-26T05:55:26.125109+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/lng-shipping-stocks-a-volatile-week-of-growth/": {
@@ -940,7 +892,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/equinor-starts-drilling-at-brazils-raia-eyes-new-santos-basin-exploration-in-2027": {
-    "ts": "2026-03-26T05:55:26.125109+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/apm-terminals-becomes-minority-shareholder-and-operating-partner-in-hai-phong/": {
@@ -1000,7 +952,7 @@
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/lng-shock-from-supply-disruption-to-system-strain/": {
-    "ts": "2026-03-26T05:55:26.125109+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/seacon-shipping-group-to-acquire-four-dry-cargo-vessels-for-44m": {
@@ -1100,11 +1052,11 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/portos-paranaenses-movimentaram-mais-de-10-milhoes-de-toneladas-no-bimestre-com-soja-e-carnes-liderando-exportacoes": {
-    "ts": "2026-03-26T05:55:26.125109+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/537298-mark-offshore-adds-research-vessel-mintis-to-support-offshore-renewables": {
-    "ts": "2026-03-26T05:55:26.125109+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/opinion-middle-east-crisis-exposes-australias-lack-of-shipping-capacity": {
@@ -1160,11 +1112,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/ien-comunica-registro-de-fumaca-densa-no-reator-de-pesquisa-iea-r1-em-sao-paulo/": {
-    "ts": "2026-03-26T05:55:26.125109+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/ukraine-strikes-knock-out-40-of-russias-oil-export-capacity/": {
-    "ts": "2026-03-26T05:55:26.125109+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/u-s-sends-15-point-peace-plan-to-iran-in-effort-to-end-ongoing-war-affecting-global-shipping/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-sends-15-point-peace-plan-to-iran-in-effort-to-end-ongoing-war-affecting-global-shipping": {
@@ -1224,15 +1176,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/o-mercado-do-petroleo-no-mundo-sofre-com-as-consequencias-da-guerra-com-repercussoes-em-varios-paises/": {
-    "ts": "2026-03-26T05:55:26.125109+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://splash247.com/shipping-faces-diplomatic-promise-but-practical-peril-in-the-strait-of-hormuz/": {
-    "ts": "2026-03-26T05:55:26.125109+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/uk-authorises-military-board-russian-537331": {
-    "ts": "2026-03-26T05:55:26.125109+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/sbm-offshore-avanca-e-conquista-mais-um-contrato-de-construcao-de-fpso-para-a-guiana/": {
@@ -1260,11 +1212,11 @@
     "type": "other"
   },
   "https://gcaptain.com/libya-secures-drifting-arctic-metagaz-tanker-after-weeks-adrift-in-central-mediterranean/": {
-    "ts": "2026-03-26T05:55:26.125109+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/faltando-dois-dias-para-o-prazo-dado-por-trump-para-o-ira-liberar-ormuz-estados-unidos-manda-proposta-para-acabar-com-a-guerra/": {
-    "ts": "2026-03-26T05:55:26.125109+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/feature-oil-prices-drop-as-iran-reviews-us-peace-proposal": {
@@ -1300,7 +1252,7 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03/governo-federal-amplia-beneficios-do-investe-aeroportos-para-terminais-regionais": {
-    "ts": "2026-03-26T05:55:26.125109+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://splash247.com/dof-lands-subsea-cable-contract-with-statnett/": {
@@ -1324,7 +1276,7 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03/presidente-lula-e-silvio-costa-filho-visitam-centro-de-manutencao-aeronautica-em-sao-carlos-sp": {
-    "ts": "2026-03-26T05:55:26.125109+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/537304-rising-costs-of-war-gulf-energy-infrastructure-stares-down-25b-repair-bill": {
@@ -1332,7 +1284,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/watch-libya-tows-damaged-russian-tanker-after-nearly-3-weeks-adrift-in-mediterranean-following-drone-strike/?utm_source=rss&utm_medium=rss&utm_campaign=watch-libya-tows-damaged-russian-tanker-after-nearly-3-weeks-adrift-in-mediterranean-following-drone-strike": {
-    "ts": "2026-03-26T05:43:08.685784+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03/silvio-costa-filho-participa-da-entrega-do-aeroporto-de-patos-pb-e-assina-termo-para-obras-no-porto-de-cabedelo": {
@@ -1344,7 +1296,7 @@
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/middle-east-conflict-energy-security-risks-and-price-shocks-as-market-volatility-hits-supply-chains/": {
-    "ts": "2026-03-26T05:55:26.125109+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/freeport-ceo-says-iran-war-delay-new-us-537332": {
@@ -1356,7 +1308,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/two-bulkers-collide-on-mississippi-near-new-orleans": {
-    "ts": "2026-03-26T05:55:26.125109+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/vestas-plans-nacelle-and-hub-factory-in-scotland": {
@@ -1364,7 +1316,7 @@
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/north-sea-oil-discovery-adds-low-cost-barrels-for-okea-with-resource-estimate-boost/": {
-    "ts": "2026-03-26T05:55:26.125109+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03/aviacao-mais-brasil-celebra-desempenho-de-aeroportos-e-companhias-aereas-do-pais-que-foram-destaques-no-ultimo-ano": {
@@ -1376,7 +1328,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/ocean-carriers-adapt-to-hormuz-shutdown-with-overland-routes": {
-    "ts": "2026-03-26T05:55:26.125109+00:00",
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/537293-scottishpower-secures-800m-for-uk-subsea-power-link": {
@@ -1397,6 +1349,10 @@
   },
   "https://www.navaltoday.com/2026/03/25/uks-second-type-31-frigate-hms-active-completes-float-off/": {
     "ts": "2026-03-26T05:18:36.101537+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/foresea-lands-465m-drillship-deal-with-petrobras/": {
+    "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   }
 }
