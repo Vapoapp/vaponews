@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-03-19",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A escalada do conflito no Estreito de Hormuz mantém restrições severas ao trânsito de petroleiros VLCC, reduzindo a capacidade operacional e elevando tarifas de frete. Importadores dependentes do Oriente Médio, como a Índia, buscam rotas alternativas e adotam modelos multimodais, o que já impacta decisões de contratação e roteirização no mercado global. Operadoras ajustam suas cadeias logísticas para mitigar riscos, mas enfrentam aumento de custos e complexidade operacional. No Brasil, a Petrobr"
-  },
-  {
     "date": "2026-03-20",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -321,5 +310,16 @@
       "petróleo e gás"
     ],
     "summary": "A passagem limitada de VLCCs pelo Estreito de Ormuz mantém a capacidade global de transporte de petróleo sob forte restrição, elevando tarifas de frete e forçando importadores asiáticos, especialmente a Índia, a reestruturar contratos e adotar rotas multimodais. Essa adaptação operacional aumenta custos e complexidade na cadeia de abastecimento, exigindo ajustes imediatos no planejamento comercial e na gestão de risco. No Golfo, ataques recentes reduziram em 17% a capacidade exportadora de GNL d"
+  },
+  {
+    "date": "2026-03-26",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A restrição contínua da passagem de VLCCs pelo Estreito de Ormuz mantém a oferta global de transporte de petróleo limitada, elevando tarifas de frete e forçando importadores asiáticos, especialmente a Índia, a reestruturarem contratos e adotar rotas multimodais. Essa adaptação operacional aumenta custos logísticos e complexidade na cadeia de abastecimento, exigindo ajustes imediatos no planejamento comercial e na gestão de risco. No Golfo, ataques recentes reduziram em 17% a capacidade exportado"
   }
 ]
