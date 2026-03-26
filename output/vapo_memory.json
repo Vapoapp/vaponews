@@ -1,15 +1,5 @@
 [
   {
-    "date": "2026-03-20",
-    "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A escalada do conflito no Estreito de Hormuz mantém severas limitações à passagem de VLCCs, reduzindo a capacidade operacional e pressionando tarifas de frete para níveis elevados. Importadores asiáticos, especialmente Índia, buscam rotas alternativas e soluções multimodais, o que já altera decisões contratuais e aumenta a complexidade logística global. No segmento offshore brasileiro, a Petrobras avança em contratos de manutenção e inspeção, incorporando tecnologias como drones submarinos para"
-  },
-  {
     "date": "2026-03-21",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -321,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "A restrição na passagem de VLCCs pelo Estreito de Ormuz mantém a capacidade global de transporte de petróleo limitada, elevando tarifas de frete e forçando importadores asiáticos, especialmente a Índia, a adotarem rotas multimodais e reestruturarem contratos. Essa adaptação operacional aumenta custos e complexidade na cadeia de abastecimento, exigindo ajustes imediatos no planejamento comercial e gestão de risco. No Golfo, ataques recentes reduziram em 17% a capacidade exportadora de GNL, amplia"
+  },
+  {
+    "date": "2026-03-26",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A passagem restrita de VLCCs pelo Estreito de Ormuz segue limitando a capacidade global de transporte de petróleo, elevando tarifas de frete e forçando importadores asiáticos, especialmente a Índia, a reestruturar contratos e adotar rotas multimodais. A operação naval indiana para proteger navios prioritários reforça o caráter tático da resposta, mas não resolve o gargalo estrutural, que mantém custos logísticos elevados e complexidade na cadeia de abastecimento. No Golfo, ataques reduzem em 17%"
   }
 ]
