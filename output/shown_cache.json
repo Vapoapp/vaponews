@@ -23,10 +23,6 @@
     "ts": "2026-03-27T07:17:31.998829+00:00",
     "type": "highlight"
   },
-  "https://www.guiamaritimo.com.br/noticias/premios-e-certificacoes": {
-    "ts": "2026-03-20T18:58:18.164621+00:00",
-    "type": "other"
-  },
   "https://safety4sea.com/greek-shipping-industry-on-alert-for-cyberattacks-due-to-iran-war/": {
     "ts": "2026-03-21T13:01:50.756256+00:00",
     "type": "highlight"
@@ -38,14 +34,6 @@
   "https://www.oedigital.com/news/537115-exxon-consortium-for-guyana-floating-production-continues-as-planned": {
     "ts": "2026-03-21T02:29:51.107679+00:00",
     "type": "other"
-  },
-  "https://gcaptain.com/tanker-markets-break-loose-as-physical-barrels-vanish-from-global-trade/": {
-    "ts": "2026-03-20T18:58:18.164621+00:00",
-    "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/shipping/ports/construction-complete-on-us-east-coasts-deepest-commercial-shipping-channel-and-harbour": {
-    "ts": "2026-03-20T18:58:18.164621+00:00",
-    "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21144/nova-area-no-terminal-de-vila-velha-ampliara-capacidade-logistica-no-espirito-santo/": {
     "ts": "2026-03-21T06:54:01.926468+00:00",
@@ -59,20 +47,8 @@
     "ts": "2026-03-21T06:54:01.926468+00:00",
     "type": "other"
   },
-  "https://gcaptain.com/un-shipping-body-pushes-safe-maritime-corridor-plan-to-evacuate-ships-trapped-west-of-hormuz/": {
-    "ts": "2026-03-20T18:58:18.164621+00:00",
-    "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/clean-arctic-alliance-welcomes-coming-into-force-of-emission-control-areas-for-shipping/": {
-    "ts": "2026-03-20T18:58:18.164621+00:00",
-    "type": "highlight"
-  },
   "https://www.offshore-energy.biz/south-asias-107-billion-lng-gamble-facing-finance-and-energy-supply-threats-amid-middle-east-conflict/": {
     "ts": "2026-03-22T02:45:36.752468+00:00",
-    "type": "highlight"
-  },
-  "https://petronoticias.com.br/novos-ataques-do-ira-vao-ampliar-ainda-mais-o-prazo-para-recuperacao-e-reinicio-de-producao-na-maior-instalacao-de-gnl-do-mundo/": {
-    "ts": "2026-03-20T18:58:18.164621+00:00",
     "type": "highlight"
   },
   "https://www.rigzone.com/news/world_leaders_condemn_de_facto_hormuz_closure-20-mar-2026-183256-article/": {
@@ -103,21 +79,9 @@
     "ts": "2026-03-21T18:44:19.166095+00:00",
     "type": "other"
   },
-  "https://www.marinelink.com/news/indian-gas-tankers-prepare-sail-strait-537136": {
-    "ts": "2026-03-20T18:58:18.164621+00:00",
-    "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/us-shipping-supply-chains-pressured-as-middle-east-conflict-raises-costs/": {
-    "ts": "2026-03-20T18:58:18.164621+00:00",
-    "type": "highlight"
-  },
   "https://www.marineinsight.com/global-shipping-major-hapag-lloyd-signs-deal-with-india-to-reflag-ships-and-develop-port-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=global-shipping-major-hapag-lloyd-signs-deal-with-india-to-reflag-ships-and-develop-port-infrastructure": {
     "ts": "2026-03-21T13:01:50.756256+00:00",
     "type": "highlight"
-  },
-  "https://www.marineinsight.com/iranian-attack-on-qatar-gas-facilities-cuts-lng-output-by-17-repairs-may-take-up-to-5-years/?utm_source=rss&utm_medium=rss&utm_campaign=iranian-attack-on-qatar-gas-facilities-cuts-lng-output-by-17-repairs-may-take-up-to-5-years": {
-    "ts": "2026-03-20T18:58:18.164621+00:00",
-    "type": "other"
   },
   "https://www.offshore-energy.biz/sbm-offshore-interview-advancing-future-ready-fpsos-through-standarization-robotics-ai-and-lower-carbon-solutions/": {
     "ts": "2026-03-22T01:33:35.464598+00:00",
@@ -145,10 +109,6 @@
   },
   "https://safety4sea.com/bimco-expands-focus-on-maritime-workforce-sustainability/": {
     "ts": "2026-03-22T01:33:35.464598+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/south-korea-downplays-lng-supply-risk-after-qatar-plant-damage": {
-    "ts": "2026-03-20T18:58:18.164621+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/gibson-tanker-report-upstream-under-attack/": {
@@ -1020,7 +980,7 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03/governo-federal-amplia-beneficios-do-investe-aeroportos-para-terminais-regionais": {
-    "ts": "2026-03-27T13:19:26.544232+00:00",
+    "ts": "2026-03-27T19:03:31.297822+00:00",
     "type": "highlight"
   },
   "https://splash247.com/dof-lands-subsea-cable-contract-with-statnett/": {
@@ -1148,7 +1108,7 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21172/porto-de-aratu-passa-a-movimentar-graneis-vegetais-na-bahia/": {
-    "ts": "2026-03-26T13:42:03.195320+00:00",
+    "ts": "2026-03-27T19:03:31.297822+00:00",
     "type": "other"
   },
   "https://www.offshore-energy.biz/kawasaki-and-jfe-engineering-pick-up-work-on-japanese-lng-project/": {
@@ -1228,7 +1188,7 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/governo-diz-que-abastecimento-de-diesel-no-brasil-esta-garantindo-ate-abril/": {
-    "ts": "2026-03-27T13:19:26.544232+00:00",
+    "ts": "2026-03-27T19:03:31.297822+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/bimco-container-ships-stranded-persian-537394": {
@@ -1320,15 +1280,15 @@
     "type": "other"
   },
   "https://safety4sea.com/us-marad-warns-of-continued-houthi-threat-despite-pause-in-attacks/": {
-    "ts": "2026-03-27T13:19:26.544232+00:00",
+    "ts": "2026-03-27T19:03:31.297822+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/iran-fails-to-pressure-the-houthis-into-resuming-red-sea-attacks": {
-    "ts": "2026-03-27T13:19:26.544232+00:00",
+    "ts": "2026-03-27T19:03:31.297822+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/turkish-operated-tanker-carrying-1-million-barrels-of-russian-oil-hit-by-naval-drone-near-bosphorus-strait/?utm_source=rss&utm_medium=rss&utm_campaign=turkish-operated-tanker-carrying-1-million-barrels-of-russian-oil-hit-by-naval-drone-near-bosphorus-strait": {
-    "ts": "2026-03-27T13:19:26.544232+00:00",
+    "ts": "2026-03-27T19:03:31.297822+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/537411-totalenergies-to-uphold-lng-supply-contracts-amid-qatar-outages": {
@@ -1377,6 +1337,66 @@
   },
   "https://www.offshore-energy.biz/watch-rem-offshores-methanol-ready-energy-subsea-construction-vessel-in-the-water/": {
     "ts": "2026-03-27T13:19:26.544232+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/ampliacao-da-estrutura-ferroviaria-no-porto-de-parnagua-vai-aumenar-a-capacidade-de-movimentacao-de-conteineres/": {
+    "ts": "2026-03-27T19:03:31.297822+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/iran-threatens-to-block-bab-al-mandeb-worlds-4th-largest-shipping-route-if-us-attacks-kharg-island/?utm_source=rss&utm_medium=rss&utm_campaign=iran-threatens-to-block-bab-al-mandeb-worlds-4th-largest-shipping-route-if-us-attacks-kharg-island": {
+    "ts": "2026-03-27T19:03:31.297822+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/537432-slovakia-interested-in-gas-from-offshore-romanian-neptun-project": {
+    "ts": "2026-03-27T19:03:31.297822+00:00",
+    "type": "highlight"
+  },
+  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03/paranagua-sedia-a-7a-edicao-da-caravana-de-inovacao-portuaria-com-foco-em-modernizacao-e-sustentabilidade": {
+    "ts": "2026-03-27T19:03:31.297822+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/anp-aprovou-nova-versao-do-edital-da-oferta-permanente-de-partilha/": {
+    "ts": "2026-03-27T19:03:31.297822+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03/em-sao-paulo-tome-franca-defende-integracao-modal-para-o-futuro-da-logistica-no-brasil": {
+    "ts": "2026-03-27T19:03:31.297822+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/transporte-maritimo/21176/navio-multiproposito-atraca-no-sepetiba-tecon-e-reforca-tendencia-de-operacoes-integradas-nos-portos/": {
+    "ts": "2026-03-27T19:03:31.297822+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/slovakia-eyes-romanian-offshore-gas-to-end-russian-energy-reliance": {
+    "ts": "2026-03-27T19:03:31.297822+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/new-joint-project-aims-to-bring-subsea-chemical-storage-technology-to-deployment/": {
+    "ts": "2026-03-27T19:03:31.297822+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/venture-global-and-edison-put-lng-arbitration-battle-behind-them/": {
+    "ts": "2026-03-27T19:03:31.297822+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/danger-in-the-gulf-from-abandoned-ships-as-one-grounds-in-iran": {
+    "ts": "2026-03-27T19:03:31.297822+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/un-pushes-hormuz-mechanism-as-hormuz-disruptions-threaten-global-food-supply/": {
+    "ts": "2026-03-27T19:03:31.297822+00:00",
+    "type": "other"
+  },
+  "https://www.nytimes.com/2026/03/27/world/middleeast/iran-hormuz-strait-tolls.html": {
+    "ts": "2026-03-27T19:03:31.297822+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/russias-threatens-divert-lng-cargo-europe-537433": {
+    "ts": "2026-03-27T19:03:31.297822+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/oil-tanker-loaded-russian-fuel-arrives-537434": {
+    "ts": "2026-03-27T19:03:31.297822+00:00",
     "type": "other"
   }
 }
