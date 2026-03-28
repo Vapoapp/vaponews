@@ -2,16 +2,6 @@
   {
     "date": "2026-03-24",
     "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A restrição contínua à passagem de VLCCs pelo Estreito de Hormuz reduz a capacidade global de transporte marítimo de petróleo, pressionando tarifas de frete para níveis elevados. Importadores asiáticos, especialmente a Índia, reconfiguram contratos e adotam rotas multimodais, elevando custos e exigindo ajustes operacionais imediatos. No Golfo, ataques a instalações de GNL no Catar provocam queda de 17% nas exportações, com prejuízos bilionários e paralisações prolongadas nas operações offshore."
-  },
-  {
-    "date": "2026-03-24",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -322,5 +312,16 @@
       "petróleo e gás"
     ],
     "summary": "A imposição iraniana de um novo regime de autorização para trânsito no Estreito de Ormuz mantém a passagem de VLCCs restrita, pressionando tarifas de frete a níveis recordes. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, elevando custos e complexidade operacional sem perspectiva de alívio estrutural. A operação naval indiana atua apenas como mitigação tática, sem reduzir o gargalo ou o risco geopolítico. No Mar Vermelho, a ameaça iraniana de bloquear Bab el-Mandeb adi"
+  },
+  {
+    "date": "2026-03-28",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O novo regime iraniano de autorização para trânsito no Estreito de Ormuz mantém a passagem de VLCCs restrita, pressionando tarifas de frete a níveis recordes. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, elevando custos e complexidade logística sem perspectiva de alívio estrutural. A presença naval indiana atua como mitigação pontual, mas não reduz o gargalo nem o risco geopolítico. No Mar Vermelho, a escalada da ameaça dos Houthis ao bloqueio do Bab el-Mandeb adicio"
   }
 ]

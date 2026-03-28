@@ -1,16 +1,4 @@
 {
-  "https://www.guiamaritimo.com.br/noticias/direito-normas-e-legislacao": {
-    "ts": "2026-03-21T18:44:19.166095+00:00",
-    "type": "other"
-  },
-  "https://www.guiamaritimo.com.br/noticias/estudos-e-estatisticas": {
-    "ts": "2026-03-21T18:44:19.166095+00:00",
-    "type": "other"
-  },
-  "https://www.guiamaritimo.com.br/noticias/logistica-de-projetos": {
-    "ts": "2026-03-21T18:44:19.166095+00:00",
-    "type": "other"
-  },
   "https://www.bairdmaritime.com/offshore/exploration-development": {
     "ts": "2026-03-24T07:12:43.431282+00:00",
     "type": "highlight"
@@ -27,32 +15,8 @@
     "ts": "2026-03-22T02:45:36.752468+00:00",
     "type": "highlight"
   },
-  "https://www.rigzone.com/news/world_leaders_condemn_de_facto_hormuz_closure-20-mar-2026-183256-article/": {
-    "ts": "2026-03-21T18:44:19.166095+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/malaysian-shipowner-scoops-up-eight-new-vessel-gigs/": {
-    "ts": "2026-03-21T18:44:19.166095+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/qatar-lng-damage-yanbu-strikes-and-hormuz-toll-threats-deepen-shipping-crisis/": {
-    "ts": "2026-03-21T18:44:19.166095+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/ntsb-investigation-bulk-carrier-grounding-twice-near-philadelphia/": {
-    "ts": "2026-03-21T18:44:19.166095+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/new-study-explores-renewable-fuels-future-potential/": {
-    "ts": "2026-03-21T18:44:19.166095+00:00",
-    "type": "other"
-  },
   "https://www.bairdmaritime.com/offshore/vessel-reviews": {
     "ts": "2026-03-26T02:49:55.677494+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/take-private-attempt-for-knot-offshore-partners-falls-through/": {
-    "ts": "2026-03-21T18:44:19.166095+00:00",
     "type": "other"
   },
   "https://www.offshore-energy.biz/sbm-offshore-interview-advancing-future-ready-fpsos-through-standarization-robotics-ai-and-lower-carbon-solutions/": {
@@ -161,10 +125,6 @@
   },
   "https://www.marineinsight.com/trump-calls-nato-allies-cowards-for-refusing-to-join-strait-of-hormuz-security-effort/?utm_source=rss&utm_medium=rss&utm_campaign=trump-calls-nato-allies-cowards-for-refusing-to-join-strait-of-hormuz-security-effort": {
     "ts": "2026-03-23T07:19:55.439401+00:00",
-    "type": "highlight"
-  },
-  "https://g1.globo.com/mundo/noticia/2026/03/21/trump-diz-que-pode-colocar-agentes-do-ice-em-aeroporto.ghtml": {
-    "ts": "2026-03-21T18:44:19.166095+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/iranian-navy-guided-indian-tanker-through-hormuz-crew-member-says/": {
@@ -1056,7 +1016,7 @@
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03/governo-do-brasil-investe-r-70-milhoes-em-sistema-tecnologico-para-elevar-padroes-de-seguranca-no-aeroporto-de-ilheus": {
-    "ts": "2026-03-28T13:07:25.950469+00:00",
+    "ts": "2026-03-28T18:51:22.421992+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-march-25-2026/": {
@@ -1204,7 +1164,7 @@
     "type": "other"
   },
   "https://safety4sea.com/us-marad-warns-of-continued-houthi-threat-despite-pause-in-attacks/": {
-    "ts": "2026-03-28T13:07:25.950469+00:00",
+    "ts": "2026-03-28T18:51:22.421992+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/iran-fails-to-pressure-the-houthis-into-resuming-red-sea-attacks": {
@@ -1216,11 +1176,11 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/537411-totalenergies-to-uphold-lng-supply-contracts-amid-qatar-outages": {
-    "ts": "2026-03-27T13:19:26.544232+00:00",
+    "ts": "2026-03-28T18:51:22.421992+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/scorpio-tankers-updates-charter-rates-and-liquidity-for-q1-and-q2-2026": {
-    "ts": "2026-03-27T13:19:26.544232+00:00",
+    "ts": "2026-03-28T18:51:22.421992+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/zero44-and-hecla-emissions-management-partner-to-deliver-seamless-end-to-end-fueleu-pooling/": {
@@ -1228,19 +1188,19 @@
     "type": "other"
   },
   "https://safety4sea.com/kr-supports-industry-ahead-of-2028-igc-code-amendments/": {
-    "ts": "2026-03-27T13:19:26.544232+00:00",
+    "ts": "2026-03-28T18:51:22.421992+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/537423-prio-brings-second-wahoo-well-online-off-brazil": {
-    "ts": "2026-03-27T13:19:26.544232+00:00",
+    "ts": "2026-03-28T18:51:22.421992+00:00",
     "type": "other"
   },
   "https://www.marineinsight.com/israel-says-it-killed-irgc-navy-chief-behind-near-total-blockade-of-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=israel-says-it-killed-irgc-navy-chief-behind-near-total-blockade-of-strait-of-hormuz": {
-    "ts": "2026-03-27T13:19:26.544232+00:00",
+    "ts": "2026-03-28T18:51:22.421992+00:00",
     "type": "other"
   },
   "https://safety4sea.com/lr-regulatory-uncertainty-and-its-impact-on-engine-retrofit-investment/": {
-    "ts": "2026-03-27T13:19:26.544232+00:00",
+    "ts": "2026-03-28T18:51:22.421992+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/537421-cleanova-boosts-seawater-injection-capacity-on-gulf-of-mexico-platform": {
@@ -1264,7 +1224,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/ampliacao-da-estrutura-ferroviaria-no-porto-de-parnagua-vai-aumenar-a-capacidade-de-movimentacao-de-conteineres/": {
-    "ts": "2026-03-28T13:07:25.950469+00:00",
+    "ts": "2026-03-28T18:51:22.421992+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/iran-threatens-to-block-bab-al-mandeb-worlds-4th-largest-shipping-route-if-us-attacks-kharg-island/?utm_source=rss&utm_medium=rss&utm_campaign=iran-threatens-to-block-bab-al-mandeb-worlds-4th-largest-shipping-route-if-us-attacks-kharg-island": {
@@ -1272,7 +1232,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/537432-slovakia-interested-in-gas-from-offshore-romanian-neptun-project": {
-    "ts": "2026-03-28T13:07:25.950469+00:00",
+    "ts": "2026-03-28T18:51:22.421992+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03/paranagua-sedia-a-7a-edicao-da-caravana-de-inovacao-portuaria-com-foco-em-modernizacao-e-sustentabilidade": {
@@ -1324,15 +1284,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/ansn-afirma-que-incendio-no-reator-iea-r1-nao-gerou-risco-radiologico/": {
-    "ts": "2026-03-28T13:07:25.950469+00:00",
+    "ts": "2026-03-28T18:51:22.421992+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/houthis-threaten-red-sea-escalation-as-iran-war-risks-spreading-to-second-shipping-chokepoint/": {
-    "ts": "2026-03-28T13:07:25.950469+00:00",
+    "ts": "2026-03-28T18:51:22.421992+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/ukraine-launches-unprecedented-attacks-on-russia-s-baltic-oil-terminals": {
-    "ts": "2026-03-28T13:07:25.950469+00:00",
+    "ts": "2026-03-28T18:51:22.421992+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/diesel-mantem-trajetoria-de-alta-e-acumula-avanco-perto-e-ja-se-felete-forte-na-cadeia-logistica-do-pais/": {
@@ -1392,7 +1352,7 @@
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/tanker-market-freight-spikes-and-disruption-becoming-the-norm/": {
-    "ts": "2026-03-28T13:07:25.950469+00:00",
+    "ts": "2026-03-28T18:51:22.421992+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/hidroviario/porto-de-santos-integra-comite-que-vai-debater-a-hidrovia-do-rio-madeira": {
@@ -1424,15 +1384,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/273898-2/": {
-    "ts": "2026-03-28T13:07:25.950469+00:00",
+    "ts": "2026-03-28T18:51:22.421992+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/iran-signals-new-permission-to-transit-regime-in-hormuz-after-blocking-cosco-vessels/": {
-    "ts": "2026-03-28T13:07:25.950469+00:00",
+    "ts": "2026-03-28T18:51:22.421992+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/affinity-tanker-weekly-27-march-2026/": {
-    "ts": "2026-03-28T13:07:25.950469+00:00",
+    "ts": "2026-03-28T18:51:22.421992+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03/regiao-norte-lidera-crescimento-portuario-no-pais-em-janeiro-com-alta-de-42-1": {
@@ -1456,7 +1416,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/thai-cargo-ship-runs-aground-off-iran-weeks-after-being-struck-in-strait-of-hormuz-3-crew-still-missing/?utm_source=rss&utm_medium=rss&utm_campaign=thai-cargo-ship-runs-aground-off-iran-weeks-after-being-struck-in-strait-of-hormuz-3-crew-still-missing": {
-    "ts": "2026-03-28T13:07:25.950469+00:00",
+    "ts": "2026-03-28T18:51:22.421992+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/gas/feature-russia-faces-obstacles-in-plan-to-divert-lng-from-europe-to-asia": {
@@ -1482,5 +1442,17 @@
   "https://splash247.com/seacon-lifts-four-mpp-newbuilds-in-44m-fleet-play/": {
     "ts": "2026-03-28T13:07:25.950469+00:00",
     "type": "other"
+  },
+  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03/ministro-silvio-costa-filho-anuncia-voo-regular-entre-recife-e-petrolina": {
+    "ts": "2026-03-28T18:51:22.421992+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/us-supercarrier-ford-on-the-move-after-four-days-of-repairs": {
+    "ts": "2026-03-28T18:51:22.421992+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/west-african-crude-stays-home-as-sellers-wait-for-higher-bids": {
+    "ts": "2026-03-28T18:51:22.421992+00:00",
+    "type": "highlight"
   }
 }
