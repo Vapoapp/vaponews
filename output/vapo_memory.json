@@ -2,17 +2,6 @@
   {
     "date": "2026-03-23",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A intensificação do conflito no Estreito de Hormuz mantém a passagem de VLCCs severamente limitada, reduzindo a capacidade disponível para transporte de petróleo e pressionando tarifas de frete para níveis elevados. Importadores asiáticos, especialmente na Índia, já ajustam roteiros e contratos, adotando rotas alternativas e soluções multimodais, o que eleva custos logísticos e complexidade operacional na cadeia global de abastecimento. No cenário regional, a ausência de garantias efetivas de se"
-  },
-  {
-    "date": "2026-03-23",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -323,5 +312,16 @@
       "risco geopolítico"
     ],
     "summary": "A passagem limitada de VLCCs no Estreito de Ormuz segue elevando tarifas de frete a níveis recordes, sem perspectiva de alívio estrutural. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, aumentando custos e complexidade operacional. A operação naval indiana atua como mitigação tática, mas não reduz o gargalo nem o risco geopolítico, mantendo a volatilidade no fornecimento de petróleo e GNL. No Mar Vermelho, a ameaça iraniana de bloquear Bab al-Mandeb eleva o risco geopo"
+  },
+  {
+    "date": "2026-03-28",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A restrição persistente à passagem de VLCCs no Estreito de Ormuz mantém tarifas de frete em níveis recordes, forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais. A operação naval indiana atua como mitigação tática, mas não reduz o gargalo estrutural nem o risco geopolítico, elevando custos e complexidade operacional. A volatilidade no fornecimento de petróleo e GNL segue alta, com impacto direto na cadeia global de energia. No Mar Vermelho, a ameaça iraniana d"
   }
 ]
