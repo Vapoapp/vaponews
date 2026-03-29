@@ -2,17 +2,6 @@
   {
     "date": "2026-03-26",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A passagem de VLCCs pelo Estreito de Hormuz permanece severamente limitada, mantendo a oferta global de transporte marítimo de petróleo sob pressão. Essa restrição eleva as tarifas de frete e força importadores asiáticos, especialmente a Índia, a reestruturarem contratos e adotarem rotas multimodais, aumentando custos e complexidade operacional no curto prazo. No Golfo, ataques recentes a instalações de GNL no Catar reduziram a capacidade exportadora em 17%, agravando a escassez de oferta e elev"
-  },
-  {
-    "date": "2026-03-26",
-    "drivers": [
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -322,5 +311,15 @@
       "petróleo e gás"
     ],
     "summary": "A exigência iraniana de autorização para passagem no Estreito de Ormuz mantém o tráfego de VLCCs restrito, pressionando tarifas de frete a níveis recordes. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, elevando custos logísticos e complexidade operacional sem perspectiva de normalização. A presença naval indiana atua apenas como mitigação pontual, sem alterar o gargalo estrutural ou o risco geopolítico. No Mar Vermelho, a ameaça iraniana de bloqueio do Bab el-Mandeb a"
+  },
+  {
+    "date": "2026-03-29",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A exigência iraniana de autorização para passagem no Estreito de Ormuz mantém o tráfego de VLCCs restrito, pressionando tarifas de frete a níveis recordes e forçando importadores asiáticos a reestruturar contratos e adotar rotas multimodais. A mitigação naval indiana é pontual e insuficiente para reduzir o gargalo estrutural ou o risco geopolítico. No Mar Vermelho, a ameaça iraniana de bloquear Bab al-Mandeb adiciona uma nova camada de risco para o comércio global, elevando a vulnerabilidade das"
   }
 ]
