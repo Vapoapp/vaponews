@@ -31,16 +31,10 @@ GENERIC_IMAGE_PATTERNS = [
     "petronoticias.com.br/wp-content/uploads/2017/04/",
     "petronoticias.com.br/wp-content/uploads/2026/02/bannertopo",
     "petronoticias.com.br/wp-content/themes/",
-    # Logos / assets de navegação
-    "/img/logo",
-    "logo.png",
-    "logo.svg",
-    "/logos/",
-    "/assets/logo",
     # Padrões genéricos universais
     "/default-image", "/placeholder", "/no-image", "/sem-imagem",
-    "fallbackimage.jpg", "default.jpg", "default.png",
     "ico-time.png", "ico-comment.png",
+    "logo.png", "/img/logo", "fallbackimage.jpg",
 ]
 
 # Domínios que bloqueiam acesso direto — usar proxy allorigins como último fallback
@@ -676,6 +670,33 @@ def choose_best_image(*candidates):
     return ""
 
 
+def image_candidates_from_img_tag(img):
+    candidates = [
+        img.get("src"),
+        img.get("data-src"),
+        img.get("data-lazy-src"),
+        img.get("data-original"),
+        img.get("data-srcset"),
+        img.get("data-large-file"),
+        img.get("data-medium-file"),
+        img.get("data-orig-file"),
+        img.get("data-image"),
+        img.get("data-full-url"),
+        img.get("srcset"),
+    ]
+
+    expanded = []
+    for value in candidates:
+        if not value:
+            continue
+        if ',' in value or ' ' in value:
+            parts = [p.strip().split(' ')[0] for p in value.split(',')]
+            expanded.extend(parts)
+        else:
+            expanded.append(value)
+    return [c for c in expanded if c]
+
+
 def extract_image_from_entry(entry):
     media_content = entry.get("media_content") or []
     for media in media_content:
@@ -708,44 +729,6 @@ def extract_image_from_entry(entry):
     return ""
 
 
-def _first_src_from_srcset(srcset):
-    srcset = clean_text(srcset)
-    if not srcset:
-        return ""
-    first = srcset.split(",")[0].strip()
-    if not first:
-        return ""
-    return first.split(" ")[0].strip()
-
-
-def _image_candidates_from_tag(img):
-    if not img:
-        return []
-    candidates = [
-        img.get("src"),
-        img.get("data-src"),
-        img.get("data-lazy-src"),
-        img.get("data-original"),
-        img.get("data-image"),
-        img.get("data-image-url"),
-        img.get("data-mediaviewer-src"),
-        img.get("data-large-file"),
-        img.get("data-full-url"),
-        img.get("data-orig-file"),
-        _first_src_from_srcset(img.get("srcset", "") or img.get("data-srcset", "")),
-    ]
-    return [c for c in candidates if clean_text(c)]
-
-
-def extract_best_image_from_selectors(soup, selectors, base_url=""):
-    for selector in selectors:
-        for img in soup.select(selector):
-            image_url = choose_best_image(*_image_candidates_from_tag(img))
-            if image_url:
-                return normalize_image_url(image_url, base_url)
-    return ""
-
-
 def extract_image_from_html(soup, raw_html="", base_url=""):
     meta_candidates = [
         ("meta", {"property": "og:image"}, "content"),
@@ -761,22 +744,8 @@ def extract_image_from_html(soup, raw_html="", base_url=""):
             if image_url:
                 return normalize_image_url(image_url, base_url)
 
-    priority_selectors = [
-        "article figure img",
-        "article .wp-post-image",
-        "article .featured img",
-        ".post-thumbnail img",
-        ".entry-content img",
-        ".post-content img",
-        "main article img",
-        "main img",
-    ]
-    image_url = extract_best_image_from_selectors(soup, priority_selectors, base_url)
-    if image_url:
-        return image_url
-
-    for img in soup.find_all("img", limit=40):
-        image_url = choose_best_image(*_image_candidates_from_tag(img))
+    for img in soup.find_all("img", limit=30):
+        image_url = choose_best_image(*image_candidates_from_img_tag(img))
         if image_url:
             return normalize_image_url(image_url, base_url)
 
@@ -787,6 +756,20 @@ def extract_image_from_html(soup, raw_html="", base_url=""):
             m = re.search(r'"(https?:[^"]+)"', array_candidate)
             if m:
                 candidate = m.group(1)
+        image_url = choose_best_image(candidate)
+        if image_url:
+            return normalize_image_url(image_url, base_url)
+
+    raw_candidates = []
+    patterns = [
+        r'https?:\/\/[^"\']+\.(?:jpg|jpeg|png|webp)(?:\?[^"\']*)?',
+        r'https?://[^"\']+\.(?:jpg|jpeg|png|webp)(?:\?[^"\']*)?',
+    ]
+    for pattern in patterns:
+        for match in re.finditer(pattern, raw_html[:200000], flags=re.I):
+            raw_candidates.append(match.group(0).replace('\\/', '/'))
+
+    for candidate in raw_candidates:
         image_url = choose_best_image(candidate)
         if image_url:
             return normalize_image_url(image_url, base_url)
@@ -1104,13 +1087,18 @@ def fetch_scrape(session, url, base_url, article_path_keywords=None, cache=None)
 def fetch_article_text(session, url, cache=None):
     if cache is not None:
         cached_text, cached_date, cached_image = cache_get(cache, url)
-        if cached_text is not None:
+        if cached_text is not None and cached_image:
             return cached_text, cached_date, cached_image
+
+    cached_text_fallback = cached_text if cache is not None else None
+    cached_date_fallback = cached_date if cache is not None else None
 
     try:
         response = session.get(url, timeout=(6, 12))
         response.raise_for_status()
     except Exception:
+        if cached_text_fallback is not None:
+            return cached_text_fallback, cached_date_fallback, cached_image or ""
         return "", None, ""
 
     content_type = response.headers.get("content-type", "").lower()
@@ -1123,34 +1111,34 @@ def fetch_article_text(session, url, cache=None):
     image_url = extract_image_from_html(soup, raw_html, url)
 
     # Extrator direcionado para Petronotícias:
-    # prioriza featured image, figura principal e lazy-load antes do corpo genérico.
+    # prioriza imagens reais do artigo, ignora topo/banner e tenta regex no HTML bruto.
     if "petronoticias.com.br" in url:
-        petronoticias_selectors = [
+        article_selectors = [
             "article figure img",
-            ".tdb_single_featured_image img",
-            ".tdb-block-inner figure img",
-            ".wp-post-image",
             ".td-post-featured-image img",
+            ".tdb_single_featured_image img",
+            ".wp-post-image",
+            "article img",
             ".post-content img",
             ".entry-content img",
             ".td-post-content img",
             ".materia-conteudo img",
             "main img",
         ]
-        petronoticias_image = extract_best_image_from_selectors(soup, petronoticias_selectors, url)
-        if petronoticias_image and not _is_generic_image(petronoticias_image):
-            image_url = petronoticias_image
+        for selector in article_selectors:
+            for img in soup.select(selector):
+                normalized = choose_best_image(*image_candidates_from_img_tag(img))
+                normalized = normalize_image_url(normalized, url)
+                if not normalized or _is_generic_image(normalized):
+                    continue
+                image_url = normalized
+                break
+            if image_url and not _is_generic_image(image_url):
+                break
 
         if not image_url or _is_generic_image(image_url):
-            for pattern in [
-                r'"full":"(https?:[^"]+)"',
-                r'"url":"(https?:[^"]+/wp-content/uploads/20\d{2}/[^"]+)"',
-                r'data-img-url=["\'](https?:[^"\']+)["\']',
-            ]:
-                match = re.search(pattern, raw_html, flags=re.IGNORECASE)
-                if not match:
-                    continue
-                candidate = normalize_image_url(match.group(1).replace('\/', '/'), url)
+            for match in re.finditer(r'https?:\/\/www\.petronoticias\.com\.br\/wp-content\/uploads\/20\d{2}\/\d{2}\/[^"\']+\.(?:jpg|jpeg|png|webp)', raw_html, flags=re.I):
+                candidate = normalize_image_url(match.group(0).replace('\\/', '/'), url)
                 if candidate and not _is_generic_image(candidate):
                     image_url = candidate
                     break
