@@ -2,17 +2,6 @@
   {
     "date": "2026-03-25",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A limitação contínua da passagem de VLCCs no Estreito de Hormuz mantém a oferta global de transporte marítimo de petróleo restrita, elevando tarifas de frete a patamares elevados. Importadores asiáticos, com destaque para a Índia, ajustam contratos e adotam rotas multimodais, aumentando a complexidade operacional e os custos logísticos no curto prazo. Essa dinâmica exige revisão imediata do planejamento comercial e da gestão de risco nas cadeias de abastecimento. No Golfo, ataques a instalações"
-  },
-  {
-    "date": "2026-03-25",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -323,5 +312,15 @@
       "petróleo e gás"
     ],
     "summary": "A imposição iraniana de autorização para passagem no Estreito de Ormuz mantém o tráfego de VLCCs restrito, pressionando tarifas de frete a níveis recordes. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, aumentando custos e complexidade operacional sem perspectiva de alívio. A presença naval indiana atua como mitigação pontual, mas não altera o gargalo estrutural nem o risco geopolítico. No Mar Vermelho, a ameaça iraniana de bloquear Bab el-Mandeb amplia o risco de inte"
+  },
+  {
+    "date": "2026-03-29",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A exigência iraniana de autorização para passagem no Estreito de Ormuz mantém o tráfego de VLCCs restrito, pressionando tarifas de frete a níveis recordes. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, elevando custos logísticos e complexidade operacional sem perspectiva de alívio estrutural. A presença naval indiana atua como mitigação pontual, mas não reduz gargalos nem o risco geopolítico. No Mar Vermelho, a ameaça iraniana de bloquear o Bab el-Mandeb adiciona pres"
   }
 ]
