@@ -1,0 +1,29 @@
+name: Limpar Cache
+
+on:
+  workflow_dispatch:
+
+jobs:
+  limpar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Rodar limpar_cache.py
+        run: python limpar_cache.py
+
+      - name: Commitar cache limpo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add output/article_cache.json
+          git commit -m "chore: limpa imagens contaminadas do cache" || echo "Nada para commitar"
+          git push
