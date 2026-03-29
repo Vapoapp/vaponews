@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-03-24",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A continuidade das restrições à passagem de VLCCs no Estreito de Hormuz mantém a capacidade global de transporte de petróleo limitada, pressionando tarifas de frete para patamares elevados. Importadores asiáticos, especialmente a Índia, ajustam contratos e adotam rotas multimodais, aumentando custos logísticos e complexidade operacional no curto prazo. Essa reconfiguração impacta diretamente o planejamento comercial e a gestão de risco nas cadeias de abastecimento. No Golfo, ataques a instalaçõe"
-  },
-  {
     "date": "2026-03-25",
     "drivers": [
       "operações offshore",
@@ -323,5 +312,16 @@
       "petróleo e gás"
     ],
     "summary": "A imposição iraniana de autorização para trânsito no Estreito de Ormuz mantém restrições severas à passagem de VLCCs, pressionando tarifas de frete a patamares recordes. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, elevando custos logísticos e complexidade operacional sem perspectiva de alívio estrutural. A presença naval indiana atua apenas como mitigação pontual, sem reduzir gargalos ou riscos geopolíticos. No Mar Vermelho, a ameaça iraniana de bloquear Bab el-Mand"
+  },
+  {
+    "date": "2026-03-29",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A imposição iraniana de autorização para passagem no Estreito de Ormuz segue restringindo o tráfego de VLCCs, elevando tarifas de frete a níveis recordes sem perspectiva de alívio. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, aumentando custos e complexidade operacional. A presença naval indiana atua apenas como mitigação pontual, sem alterar o gargalo estrutural ou o risco geopolítico. No Mar Vermelho, a ameaça iraniana de bloqueio do Bab al-Mandeb e a escalada dos"
   }
 ]
