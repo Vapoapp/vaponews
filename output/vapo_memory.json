@@ -8,17 +8,6 @@
       "risco geopolítico",
       "petróleo e gás"
     ],
-    "summary": "A passagem limitada de VLCCs pelo Estreito de Ormuz mantém a capacidade global de transporte de petróleo sob forte restrição, elevando tarifas de frete e forçando importadores asiáticos, especialmente a Índia, a reestruturar contratos e adotar rotas multimodais. Essa adaptação operacional aumenta custos e complexidade na cadeia de abastecimento, exigindo ajustes imediatos no planejamento comercial e na gestão de risco. No Golfo, ataques recentes reduziram em 17% a capacidade exportadora de GNL d"
-  },
-  {
-    "date": "2026-03-26",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
     "summary": "A restrição contínua da passagem de VLCCs pelo Estreito de Ormuz mantém a oferta global de transporte de petróleo limitada, elevando tarifas de frete e forçando importadores asiáticos, especialmente a Índia, a reestruturarem contratos e adotar rotas multimodais. Essa adaptação operacional aumenta custos logísticos e complexidade na cadeia de abastecimento, exigindo ajustes imediatos no planejamento comercial e na gestão de risco. No Golfo, ataques recentes reduziram em 17% a capacidade exportado"
   },
   {
@@ -321,5 +310,14 @@
       "petróleo e gás"
     ],
     "summary": "A exigência iraniana de autorização para passagem no Estreito de Ormuz mantém o fluxo de petroleiros VLCC restrito, elevando tarifas de frete a níveis recordes e forçando importadores asiáticos a reestruturar contratos e adotar rotas multimodais. Essa dinâmica aumenta custos operacionais e complexidade logística sem perspectiva de normalização no curto prazo. A presença naval indiana atua apenas como mitigação pontual, sem alterar o gargalo estrutural ou o risco geopolítico. No Mar Vermelho, a a"
+  },
+  {
+    "date": "2026-03-29",
+    "drivers": [
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A exigência iraniana de autorização para passagem mantém o tráfego de VLCCs restrito, elevando tarifas de frete a níveis recordes. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, aumentando custos operacionais e complexidade logística sem perspectiva de normalização. A mitigação naval indiana atua apenas pontualmente, insuficiente para aliviar o gargalo estrutural. No Mar Vermelho, a escalada de ataques dos Houthis e a ameaça de bloqueio do Bab el-Mandeb ampliam o risco"
   }
 ]
