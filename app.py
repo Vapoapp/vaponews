@@ -28,6 +28,8 @@ GENERIC_IMAGE_PATTERNS = [
     # Petronotícias: imagens genéricas conhecidas (logo do topo, banners de anúncio)
     # NÃO bloquear o domínio inteiro — imagens de artigos ficam em /2025/, /2026/, etc.
     "petronoticias.com.br/wp-content/uploads/2017/04/pn-topo",
+    "pn-topo-060417",   # imagem de topo do site usada como og:image padrão
+    "pn-topo-",         # variantes do banner de topo do Petronotícias
     "petronoticias.com.br/wp-content/uploads/2017/04/",
     "petronoticias.com.br/wp-content/uploads/2016/03/",   # logo-ebco e outros ativos antigos
     "petronoticias.com.br/wp-content/uploads/2026/02/bannertopo",
@@ -1128,11 +1130,21 @@ def fetch_article_text(session, url, cache=None):
     # Extrator direcionado para Petronotícias:
     # prioriza imagens reais do artigo, ignora topo/banner e tenta regex no HTML bruto.
     if "petronoticias.com.br" in url:
+        # Zera imagem genérica capturada pelo og:image antes de tentar seletores reais.
+        # O Petronotícias usa o banner de topo (pn-topo-060417.jpg) como og:image padrão
+        # em artigos sem foto própria — isso precisa ser descartado explicitamente aqui.
+        if _is_generic_image(image_url):
+            image_url = ""
         article_selectors = [
             "article figure img",
             ".td-post-featured-image img",
             ".tdb_single_featured_image img",
             ".wp-post-image",
+            # Petronotícias coloca fotos inline no corpo com align classes
+            ".entry-content img.alignleft",
+            ".entry-content img.alignright",
+            ".entry-content img.aligncenter",
+            ".entry-content img.size-full",
             "article img",
             ".post-content img",
             ".entry-content img",
@@ -1150,6 +1162,15 @@ def fetch_article_text(session, url, cache=None):
                 break
             if image_url and not _is_generic_image(image_url):
                 break
+
+        # Busca por imgs com classe wp-image- (inline no corpo do artigo)
+        if not image_url or _is_generic_image(image_url):
+            for img in soup.find_all("img", class_=lambda c: c and any("wp-image-" in cls for cls in (c if isinstance(c, list) else c.split()))):
+                normalized = choose_best_image(*image_candidates_from_img_tag(img))
+                normalized = normalize_image_url(normalized, url)
+                if normalized and not _is_generic_image(normalized):
+                    image_url = normalized
+                    break
 
         if not image_url or _is_generic_image(image_url):
             for match in re.finditer(r'https?:\/\/www\.petronoticias\.com\.br\/wp-content\/uploads\/20\d{2}\/\d{2}\/[^"\']+\.(?:jpg|jpeg|png|webp)', raw_html, flags=re.I):
