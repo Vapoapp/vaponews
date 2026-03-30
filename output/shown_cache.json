@@ -8,7 +8,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-03-27T07:17:31.998829+00:00",
+    "ts": "2026-03-30T13:47:33.975135+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/vessel-reviews": {
@@ -19,16 +19,8 @@
     "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
   },
-  "https://www.bairdmaritime.com/shipping/tankers/libya-hires-firm-to-tackle-stricken-russian-tanker-drifting-towards-coast": {
-    "ts": "2026-03-23T13:21:02.983992+00:00",
-    "type": "highlight"
-  },
   "https://gcaptain.com/trumps-48-hour-hormuz-ultimatum-to-iran-raises-stakes-in-gulf-war/": {
     "ts": "2026-03-23T19:03:48.152127+00:00",
-    "type": "highlight"
-  },
-  "https://petronoticias.com.br/os-servicos-de-transporte-maritimos-ja-sentem-as-consequencias-da-crise-de-combustiveis-por-causa-da-guerra/": {
-    "ts": "2026-03-23T13:21:02.983992+00:00",
     "type": "highlight"
   },
   "https://splash247.com/ukraine-strikes-primorsrk-port/": {
@@ -46,46 +38,6 @@
   "https://www.oedigital.com/news/537154-qatar-lng-exports-cut-17-after-missile-strikes-20b-revenue-loss-expected": {
     "ts": "2026-03-24T07:12:43.431282+00:00",
     "type": "highlight"
-  },
-  "https://www.oedigital.com/news/537152-brazil-eyes-petrobras-pemex-alliance-for-gulf-of-mexico-oil-exploration": {
-    "ts": "2026-03-23T13:21:02.983992+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/537148-adnoc-gas-adjusts-lng-output-amid-hormuz-disruptions": {
-    "ts": "2026-03-23T13:21:02.983992+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/column-suspended-rig-operations-in-saudi-arabia-middle-east-war-keeps-jones-act-iranian-and-russian-oil-sanctions-hanging-offshore-accounts": {
-    "ts": "2026-03-23T13:21:02.983992+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/fredriksen-back-in-dry-bulk-newbuilds-with-up-to-eight-newcastlemaxes/": {
-    "ts": "2026-03-23T13:21:02.983992+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/nearly-100-ships-pass-the-hormuz-strait-who-is-getting-through/": {
-    "ts": "2026-03-23T13:21:02.983992+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/japan-considers-minesweeping-in-strait-of-hormuz-after-a-potential-ceasefire/": {
-    "ts": "2026-03-23T13:21:02.983992+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/trump-gives-iran-48-hour-ultimatum-to-reopen-strait-of-hormuz-threatens-to-obliterate-power-plants/?utm_source=rss&utm_medium=rss&utm_campaign=trump-gives-iran-48-hour-ultimatum-to-reopen-strait-of-hormuz-threatens-to-obliterate-power-plants": {
-    "ts": "2026-03-23T13:21:02.983992+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/why-follow-the-sun-transportation-financial-management-is-critical-for-global-ocean-shipping/": {
-    "ts": "2026-03-23T13:21:02.983992+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/adnoc-gas-adjusts-lng-output-amid-strait-of-hormuz-disruptions": {
-    "ts": "2026-03-23T13:21:02.983992+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/south-korea-seeks-iranian-safety-pledge-for-ships-in-strait-of-hormuz": {
-    "ts": "2026-03-23T13:21:02.983992+00:00",
-    "type": "other"
   },
   "https://safety4sea.com/outpacing-the-evolution-of-the-cyber-threat/": {
     "ts": "2026-03-25T13:24:13.896093+00:00",
@@ -1264,11 +1216,11 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03/ministro-silvio-costa-filho-anuncia-voo-regular-entre-recife-e-petrolina": {
-    "ts": "2026-03-30T07:52:13.304239+00:00",
+    "ts": "2026-03-30T13:47:33.975135+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/us-supercarrier-ford-on-the-move-after-four-days-of-repairs": {
-    "ts": "2026-03-30T07:52:13.304239+00:00",
+    "ts": "2026-03-30T13:47:33.975135+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/west-african-crude-stays-home-as-sellers-wait-for-higher-bids": {
@@ -1348,7 +1300,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/houthis-attack-on-israel-threatens-red-sea-ceasefire": {
-    "ts": "2026-03-30T07:52:13.304239+00:00",
+    "ts": "2026-03-30T13:47:33.975135+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/two-india-bound-lpg-tankers-clear-strait-of-hormuz/": {
@@ -1433,6 +1385,74 @@
   },
   "https://www.hellenicshippingnews.com/solid-rebound-in-hormuz-tanker-flows-backs-trumps-claim/": {
     "ts": "2026-03-30T07:52:13.304239+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/missing-crew-not-found-in-iran-hit-vessel-thai-ship-owner-says/": {
+    "ts": "2026-03-30T13:47:33.975135+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/03/30/novo-video-mostra-colisao-frontal-entre-aviao-e-helicoptero-em-washington-nos-eua.ghtml": {
+    "ts": "2026-03-30T13:47:33.975135+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/lng-shipping-market-cooling-down/": {
+    "ts": "2026-03-30T13:47:33.975135+00:00",
+    "type": "highlight"
+  },
+  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/regiao-sudeste-tem-a-maior-movimentacao-de-passageiros-aereos-em-fevereiro-desde-o-ano-2000": {
+    "ts": "2026-03-30T13:47:33.975135+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537484-offshore-ccs-moves-to-reality-with-agogo-fpso-pilot": {
+    "ts": "2026-03-30T13:47:33.975135+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/history-written-as-ccs-technology-starts-operating-on-board-fpso/": {
+    "ts": "2026-03-30T13:47:33.975135+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537479-crp-subsea-lands-offshore-wind-contract-for-germany-s-nordlicht-i": {
+    "ts": "2026-03-30T13:47:33.975135+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537478-reach-subsea-secures-equinor-contracts-for-uncrewed-vessel-operations": {
+    "ts": "2026-03-30T13:47:33.975135+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/lpg-tankers-bound-for-india-make-it-through-the-strait-of-hormuz": {
+    "ts": "2026-03-30T13:47:33.975135+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/new-front-opens-up-with-houthis-entering-the-war/": {
+    "ts": "2026-03-30T13:47:33.975135+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/strait-of-hormuz-reopening-seen-as-key-to-oil-and-fertilizer-flows/": {
+    "ts": "2026-03-30T13:47:33.975135+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/oil-rises-widening-conflict-endangers-red-537471": {
+    "ts": "2026-03-30T13:47:33.975135+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/column-loose-ends-suspensions-update-paratus-and-borr-drilling-what-could-be-next-in-venezuela-dp-worlds-latest-mess-offshore-accounts": {
+    "ts": "2026-03-30T13:47:33.975135+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/indian-navy-escorts-two-more-tankers-through-hormuz-amidst-cheer-from-crew/?utm_source=rss&utm_medium=rss&utm_campaign=indian-navy-escorts-two-more-tankers-through-hormuz-amidst-cheer-from-crew": {
+    "ts": "2026-03-30T13:47:33.975135+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/two-more-indian-lpg-carriers-carrying-94000-mt-safely-transit-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=two-more-indian-lpg-carriers-carrying-94000-mt-safely-transit-strait-of-hormuz": {
+    "ts": "2026-03-30T13:47:33.975135+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/vietnamese-players-super-rig-ready-for-drilling/": {
+    "ts": "2026-03-30T13:47:33.975135+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/japan-hits-milestone-with-hydrogen-ship-engine-test/": {
+    "ts": "2026-03-30T13:47:33.975135+00:00",
     "type": "other"
   }
 }
