@@ -39,10 +39,6 @@
     "ts": "2026-03-23T13:21:02.983992+00:00",
     "type": "highlight"
   },
-  "https://www.bairdmaritime.com/shipping/tankers/is-iran-ready-to-let-japanese-vessels-transit-hormuz": {
-    "ts": "2026-03-23T02:46:13.171932+00:00",
-    "type": "other"
-  },
   "https://g1.globo.com/mundo/noticia/2026/03/22/ira-diz-ter-atingido-caca-f-15-ilha-ormuz.ghtml": {
     "ts": "2026-03-23T07:19:55.439401+00:00",
     "type": "highlight"
@@ -70,14 +66,6 @@
   "https://splash247.com/fleet-trim-continues-at-jinhui/": {
     "ts": "2026-03-23T07:19:55.439401+00:00",
     "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/tanker-market-is-crude-oil-supply-under-threat/": {
-    "ts": "2026-03-23T02:46:13.171932+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/will-it-be-onwards-and-upwards-for-the-dry-bulk-market-in-2026/": {
-    "ts": "2026-03-23T02:46:13.171932+00:00",
-    "type": "other"
   },
   "https://splash247.com/ukraine-strikes-primorsrk-port/": {
     "ts": "2026-03-24T07:12:43.431282+00:00",
@@ -1264,7 +1252,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/273898-2/": {
-    "ts": "2026-03-29T18:53:37.628304+00:00",
+    "ts": "2026-03-30T02:58:15.231916+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/iran-signals-new-permission-to-transit-regime-in-hormuz-after-blocking-cosco-vessels/": {
@@ -1296,7 +1284,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/thai-cargo-ship-runs-aground-off-iran-weeks-after-being-struck-in-strait-of-hormuz-3-crew-still-missing/?utm_source=rss&utm_medium=rss&utm_campaign=thai-cargo-ship-runs-aground-off-iran-weeks-after-being-struck-in-strait-of-hormuz-3-crew-still-missing": {
-    "ts": "2026-03-29T18:53:37.628304+00:00",
+    "ts": "2026-03-30T02:58:15.231916+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/gas/feature-russia-faces-obstacles-in-plan-to-divert-lng-from-europe-to-asia": {
@@ -1324,11 +1312,11 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03/ministro-silvio-costa-filho-anuncia-voo-regular-entre-recife-e-petrolina": {
-    "ts": "2026-03-29T18:53:37.628304+00:00",
+    "ts": "2026-03-30T02:58:15.231916+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/us-supercarrier-ford-on-the-move-after-four-days-of-repairs": {
-    "ts": "2026-03-29T13:08:31.757446+00:00",
+    "ts": "2026-03-30T02:58:15.231916+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/west-african-crude-stays-home-as-sellers-wait-for-higher-bids": {
@@ -1340,7 +1328,7 @@
     "type": "highlight"
   },
   "https://www.navaltoday.com/2026/03/28/us-navys-amphibious-warship-reaches-middle-east/": {
-    "ts": "2026-03-29T18:53:37.628304+00:00",
+    "ts": "2026-03-30T02:58:15.231916+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/chevron-shakes-hands-with-noc-for-oil-study-at-block-offshore-libya/": {
@@ -1392,11 +1380,11 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/537443-seequent-assesses-offshore-data-today-to-prepare-for-tomorrow": {
-    "ts": "2026-03-29T18:53:37.628304+00:00",
+    "ts": "2026-03-30T02:58:15.231916+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/a-nasa-vai-usar-a-energia-nuclear-para-impulsionar-seus-proximos-voos-para-a-lua-e-marte-em-2028/": {
-    "ts": "2026-03-29T18:53:37.628304+00:00",
+    "ts": "2026-03-30T02:58:15.231916+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/ports/kazakhstan-says-no-impact-on-its-oil-exports-from-ust-luga-attack": {
@@ -1404,19 +1392,51 @@
     "type": "other"
   },
   "https://petronoticias.com.br/foresea-conseguiu-reaproveitar-100-de-seus-residuos-pelo-segundo-ano-consecutivo/": {
-    "ts": "2026-03-29T18:53:37.628304+00:00",
+    "ts": "2026-03-30T02:58:15.231916+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/houthis-attack-on-israel-threatens-red-sea-ceasefire": {
-    "ts": "2026-03-29T18:53:37.628304+00:00",
+    "ts": "2026-03-30T02:58:15.231916+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/two-india-bound-lpg-tankers-clear-strait-of-hormuz/": {
-    "ts": "2026-03-29T18:53:37.628304+00:00",
+    "ts": "2026-03-30T02:58:15.231916+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/two-large-chinese-container-ships-turn-back-after-attempting-transit-through-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=two-large-chinese-container-ships-turn-back-after-attempting-transit-through-strait-of-hormuz": {
     "ts": "2026-03-29T18:53:37.628304+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/europe-loses-its-grip-as-lng-cargoes-chase-higher-prices-in-asia/": {
+    "ts": "2026-03-30T02:58:15.231916+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/us-plans-to-allow-russian-oil-tanker-into-cuba-easing-crisis/": {
+    "ts": "2026-03-30T02:58:15.231916+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/erasmus-lines-up-kamsarmax-series-at-new-hantong/": {
+    "ts": "2026-03-30T02:58:15.231916+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/laskaridis-ramps-up-suezmax-play/": {
+    "ts": "2026-03-30T02:58:15.231916+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/report-us-allow-russian-oil-tanker-reach-537468": {
+    "ts": "2026-03-30T02:58:15.231916+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/chinese-missile-frigate-binzhou-nearly-collides-with-philippine-navy-ship-in-south-china-sea/?utm_source=rss&utm_medium=rss&utm_campaign=chinese-missile-frigate-binzhou-nearly-collides-with-philippine-navy-ship-in-south-china-sea": {
+    "ts": "2026-03-30T02:58:15.231916+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/houthi-missile-attack-on-israel-stokes-red-sea-shipping-fears/": {
+    "ts": "2026-03-30T02:58:15.231916+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/ro-ro/serco-to-design-and-build-new-freight-vessel-to-serve-australias-lord-howe-island": {
+    "ts": "2026-03-30T02:58:15.231916+00:00",
     "type": "other"
   }
 }
