@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-03-31T07:25:21.235562+00:00",
+    "ts": "2026-03-31T13:46:36.752043+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
@@ -19,17 +19,9 @@
     "ts": "2026-03-25T13:24:13.896093+00:00",
     "type": "highlight"
   },
-  "https://gcaptain.com/trump-postpones-iran-power-plant-threat-as-hormuz-crisis-hangs-in-balance/": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
-    "type": "highlight"
-  },
   "https://www.marineinsight.com/iran-says-strait-of-hormuz-remains-open-to-global-shipping-except-enemy-linked-ships-after-trumps-48-hour-threat/?utm_source=rss&utm_medium=rss&utm_campaign=iran-says-strait-of-hormuz-remains-open-to-global-shipping-except-enemy-linked-ships-after-trumps-48-hour-threat": {
     "ts": "2026-03-25T07:10:50.478549+00:00",
     "type": "other"
-  },
-  "https://www.marinelink.com/news/two-indiabound-tankers-pass-strait-hormuz-537174": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
-    "type": "highlight"
   },
   "https://petronoticias.com.br/agencia-internacional-de-energia-diz-que-o-fechamento-de-ormuz-e-a-maior-ameaca-energetica-da-historia-global/": {
     "ts": "2026-03-24T19:12:49.528952+00:00",
@@ -42,58 +34,6 @@
   "https://safety4sea.com/transport-malta-investigation-explosion-during-berthing-operations/": {
     "ts": "2026-03-26T07:18:09.785020+00:00",
     "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/lng-shipping-stocks-a-volatile-week-of-growth/": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
-    "type": "highlight"
-  },
-  "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/03/24/ultimos-atos-castro.ghtml": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
-    "type": "other"
-  },
-  "https://g1.globo.com/mundo/noticia/2026/03/24/chefe-otan-grupo-22-paises-estreito-de-ormuz.ghtml": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/537211-oil-executives-flag-long-term-impact-of-iran-conflict": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/sea-cargo-charter-leaders-warn-against-decarbonisation-slowdown/": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/baker-hughes-breathing-life-into-offshore-lng-export-terminal-in-texas/": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/537214-exxonmobil-picks-sbm-offshore-for-guyana-fpso-feed-work": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/new-north-sea-fpso-job-in-enermechs-hands/": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/dire-straits-the-handful-of-marine-choke-points-holding-europes-economy-hostage/": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/cm-managing-risk-stress-and-responsibility-in-a-conflict-zone/": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
-    "type": "other"
-  },
-  "https://www.navaltoday.com/2026/03/24/uss-gerald-r-ford-pulls-into-souda-bay-for-repairs-after-red-sea-fire/": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/two-indian-tankers-pass-through-hormuz-amid-us-iran-standoff": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/conflicting-hormuz-claims-leave-shipping-in-limbo-and-markets-swinging/": {
-    "ts": "2026-03-24T13:25:08.932357+00:00",
-    "type": "other"
   },
   "https://gcaptain.com/report-damaged-russian-lng-tanker-arctic-metagaz-secured-after-weeks-adrift/": {
     "ts": "2026-03-25T07:10:50.478549+00:00",
@@ -1280,7 +1220,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/537498-oil-sales-from-california-s-santa-ynez-pipeline-begin": {
-    "ts": "2026-03-31T07:25:21.235562+00:00",
+    "ts": "2026-03-31T13:46:36.752043+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/liberacao-de-um-petroleiro-russo-carregado-em-cuba-pode-ser-um-sinal-de-avanco-nas-negociacoies-com-os-estados-unidos/": {
@@ -1412,7 +1352,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/vlcc-catches-fire-after-iranian-attack-off-dubai": {
-    "ts": "2026-03-31T07:25:21.235562+00:00",
+    "ts": "2026-03-31T13:46:36.752043+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/hambantota-international-port-invests-usd-108-million-in-new-cranes/": {
@@ -1461,6 +1401,78 @@
   },
   "https://www.marinelink.com/news/ammonia-fertilizer-trade-threatened-537507": {
     "ts": "2026-03-31T07:25:21.235562+00:00",
+    "type": "other"
+  },
+  "https://www.cnnbrasil.com.br/nacional/sudeste/sp/explosao-em-aviao-em-guarulhos-pode-ter-sido-por-objetos-diz-especialista/": {
+    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/drone-strike-kuwaiti-oil-tanker-off-dubai-537527": {
+    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/industry-groups-urge-gulf-states-to-act-as-20000-seafarers-remain-stranded-by-hormuz-crisis/": {
+    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/537529-petrobras-taps-fugro-for-brazil-s-first-licensed-offshore-wind-survey": {
+    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/especialista-alerta-que-a-invasao-terrestre-ao-ira-pode-desencadear-a-pior-crise-de-energia-da-historia/": {
+    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/iran-attacks-kuwaiti-oil-tanker-in-dubai/": {
+    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/oil-to-hit-200-if-the-war-continues-until-end-of-june-strategist-says/": {
+    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/lithuanian-port-home-to-first-joint-bio-lng-bunkering-in-europe/": {
+    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/norwegian-shipowner-finalizes-sale-of-2016-built-psv/": {
+    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/3-crew-still-missing-after-iranian-attack-on-thai-ship-in-strait-of-hormuz-no-trace-found-after-full-inspection/?utm_source=rss&utm_medium=rss&utm_campaign=3-crew-still-missing-after-iranian-attack-on-thai-ship-in-strait-of-hormuz-no-trace-found-after-full-inspection": {
+    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/hormuz-now-a-pay-to-pass-corridor/": {
+    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/two-chinese-container-ships-exit-strait-of-hormuz-on-second-attempt-after-failed-transit/?utm_source=rss&utm_medium=rss&utm_campaign=two-chinese-container-ships-exit-strait-of-hormuz-on-second-attempt-after-failed-transit": {
+    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/ics-itf-meet-gulf-state-representatives-537532": {
+    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537528-heerema-completes-installation-of-first-hornsea-3-offshore-converter-station": {
+    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/us-holds-firm-on-cuba-policy-despite-russian-tanker-delivery": {
+    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/indias-abs-marine-services-to-acquire-multi-purpose-offshore-vessel": {
+    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/another-greek-oil-tanker-exits-hormuz-despite-irans-blockade/": {
+    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/venergy-lifts-mr-options-at-k-shipbuilding/": {
+    "ts": "2026-03-31T13:46:36.752043+00:00",
     "type": "other"
   }
 }
