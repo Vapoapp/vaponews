@@ -1,14 +1,10 @@
 {
-  "https://www.bairdmaritime.com/offshore/exploration-development": {
-    "ts": "2026-03-24T07:12:43.431282+00:00",
-    "type": "highlight"
-  },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-03-31T02:51:24.878047+00:00",
+    "ts": "2026-03-31T07:25:21.235562+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-03-31T02:51:24.878047+00:00",
+    "ts": "2026-03-31T07:25:21.235562+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/vessel-reviews": {
@@ -17,18 +13,6 @@
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-decommissioning": {
     "ts": "2026-03-26T07:18:09.785020+00:00",
-    "type": "highlight"
-  },
-  "https://splash247.com/ukraine-strikes-primorsrk-port/": {
-    "ts": "2026-03-24T07:12:43.431282+00:00",
-    "type": "highlight"
-  },
-  "https://www.marineinsight.com/barbadian-flagged-bulk-carrier-hit-by-gunfire-in-strait-of-hormuz-sailor-says-we-were-attacked/?utm_source=rss&utm_medium=rss&utm_campaign=barbadian-flagged-bulk-carrier-hit-by-gunfire-in-strait-of-hormuz-sailor-says-we-were-attacked": {
-    "ts": "2026-03-24T07:12:43.431282+00:00",
-    "type": "highlight"
-  },
-  "https://www.oedigital.com/news/537154-qatar-lng-exports-cut-17-after-missile-strikes-20b-revenue-loss-expected": {
-    "ts": "2026-03-24T07:12:43.431282+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/outpacing-the-evolution-of-the-cyber-threat/": {
@@ -47,57 +31,9 @@
     "ts": "2026-03-24T13:25:08.932357+00:00",
     "type": "highlight"
   },
-  "https://www.hellenicshippingnews.com/germanys-economy-hit-by-middle-east-energy-crunch-2/": {
-    "ts": "2026-03-24T07:12:43.431282+00:00",
-    "type": "highlight"
-  },
   "https://petronoticias.com.br/agencia-internacional-de-energia-diz-que-o-fechamento-de-ormuz-e-a-maior-ameaca-energetica-da-historia-global/": {
     "ts": "2026-03-24T19:12:49.528952+00:00",
     "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/st-lng-selects-baker-hughes-as-technology-provider-for-u-s-offshore-lng-project/": {
-    "ts": "2026-03-24T07:12:43.431282+00:00",
-    "type": "highlight"
-  },
-  "https://www.marinelink.com/news/bahrain-proposes-force-protect-hormuz-537173": {
-    "ts": "2026-03-24T07:12:43.431282+00:00",
-    "type": "highlight"
-  },
-  "https://gcaptain.com/trump-administration-reimburses-totalenergies-928m-to-scrap-offshore-wind-leases-pivot-to-lng/": {
-    "ts": "2026-03-24T07:12:43.431282+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/taiwanese-wave-energy-project-secures-land-lease/": {
-    "ts": "2026-03-24T07:12:43.431282+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/aker-bp-and-armada-bring-offshore-modular-data-center-to-norwegian-drilling-scene/": {
-    "ts": "2026-03-24T07:12:43.431282+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/indian-register-of-shipping-welcomes-one-of-indias-largest-crude-tankers-vlcc-lila-jamnagar/?utm_source=rss&utm_medium=rss&utm_campaign=indian-register-of-shipping-welcomes-one-of-indias-largest-crude-tankers-vlcc-lila-jamnagar": {
-    "ts": "2026-03-24T07:12:43.431282+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/exploration-development/subsea-surveying/tgs-wraps-up-three-year-acquisition-project-in-norwegian-sea": {
-    "ts": "2026-03-24T07:12:43.431282+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/chinese-yard-delivers-fifth-dual-fuel-lng-carrier-in-series-to-adnoc-ls": {
-    "ts": "2026-03-24T07:12:43.431282+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/boxships/construction-begins-on-final-11000teu-ship-in-series-for-thailands-rcl": {
-    "ts": "2026-03-24T07:12:43.431282+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/boxships/hong-kongs-ts-lines-taps-chinese-builder-for-new-2900teu-ships": {
-    "ts": "2026-03-24T07:12:43.431282+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/hormuz-the-maritime-risk-premium-and-fear/": {
-    "ts": "2026-03-24T07:12:43.431282+00:00",
-    "type": "other"
   },
   "https://www.oedigital.com/news/537209-australia-s-santos-halts-darwin-lng-exports-during-supply-crunch": {
     "ts": "2026-03-25T07:10:50.478549+00:00",
@@ -1232,7 +1168,7 @@
     "type": "other"
   },
   "https://www.cnnbrasil.com.br/nacional/sudeste/rj/pai-e-filho-sao-identificados-como-vitimas-de-acidente-aereo-no-rj/": {
-    "ts": "2026-03-30T07:52:13.304239+00:00",
+    "ts": "2026-03-31T07:25:21.235562+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/sp/noticia/2026/03/30/video-mostra-passageiros-em-aviao-que-pegou-fogo-apos-decolagem-em-guarulhos.ghtml": {
@@ -1276,7 +1212,7 @@
     "type": "other"
   },
   "https://gcaptain.com/missing-crew-not-found-in-iran-hit-vessel-thai-ship-owner-says/": {
-    "ts": "2026-03-31T02:51:24.878047+00:00",
+    "ts": "2026-03-31T07:25:21.235562+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/mundo/noticia/2026/03/30/novo-video-mostra-colisao-frontal-entre-aviao-e-helicoptero-em-washington-nos-eua.ghtml": {
@@ -1344,7 +1280,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/537498-oil-sales-from-california-s-santa-ynez-pipeline-begin": {
-    "ts": "2026-03-31T02:51:24.878047+00:00",
+    "ts": "2026-03-31T07:25:21.235562+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/liberacao-de-um-petroleiro-russo-carregado-em-cuba-pode-ser-um-sinal-de-avanco-nas-negociacoies-com-os-estados-unidos/": {
@@ -1408,11 +1344,11 @@
     "type": "highlight"
   },
   "https://www.marinelink.com/news/kuwaiti-tanker-ablaze-dubai-port-537512": {
-    "ts": "2026-03-31T02:51:24.878047+00:00",
+    "ts": "2026-03-31T07:25:21.235562+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/middle-east-conflict-straits-of-hormuz-transits-95-down-says-clarksons-research/": {
-    "ts": "2026-03-31T02:51:24.878047+00:00",
+    "ts": "2026-03-31T07:25:21.235562+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/03/30/desembargador-determina-pagamento-de-60-salarios-minimos-para-argentina-acusada-de-injuria-racial-deixar-o-brasil.ghtml": {
@@ -1469,6 +1405,62 @@
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/heavy-lift/aal-shipping-takes-delivery-of-32000dwt-heavy-lift-vessel": {
     "ts": "2026-03-31T02:51:24.878047+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/03/31/ataque-explode-deposito-de-municoes-no-ira.ghtml": {
+    "ts": "2026-03-31T07:25:21.235562+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/vlcc-catches-fire-after-iranian-attack-off-dubai": {
+    "ts": "2026-03-31T07:25:21.235562+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/hambantota-international-port-invests-usd-108-million-in-new-cranes/": {
+    "ts": "2026-03-31T07:25:21.235562+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/drone-strike-hits-laden-supertanker-off-dubai-as-gulf-shipping-incidents-flare-again/": {
+    "ts": "2026-03-31T07:25:21.235562+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/chiyoda-nyk-and-kncc-jointly-pursuing-global-carbon-capture-and-storage-projects/": {
+    "ts": "2026-03-31T07:25:21.235562+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/french-court-jails-chinese-shadow-fleet-captain-in-absentia/": {
+    "ts": "2026-03-31T07:25:21.235562+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/cyclone-narelle-damages-jadestone-energys-platform-off-australia/": {
+    "ts": "2026-03-31T07:25:21.235562+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/boxships/two-chinese-containerships-clear-strait-of-hormuz-on-second-attempt": {
+    "ts": "2026-03-31T07:25:21.235562+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/genco-rejects-new-diana-shipping-takeover-bid-as-undervaluation": {
+    "ts": "2026-03-31T07:25:21.235562+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/totalenergies-upstream-merger-with-neo-next-crosses-finish-line/": {
+    "ts": "2026-03-31T07:25:21.235562+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/trump-lifts-blockade-to-allow-100000-tons-of-russian-oil-into-cuba-after-vowing-to-take-the-island/?utm_source=rss&utm_medium=rss&utm_campaign=trump-lifts-blockade-to-allow-100000-tons-of-russian-oil-into-cuba-after-vowing-to-take-the-island": {
+    "ts": "2026-03-31T07:25:21.235562+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/ports/port-of-barcelona-grants-balearia-concession-for-new-ferry-terminal": {
+    "ts": "2026-03-31T07:25:21.235562+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/report-white-house-considers-ending-war-without-opening-strait-of-hormuz": {
+    "ts": "2026-03-31T07:25:21.235562+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/ammonia-fertilizer-trade-threatened-537507": {
+    "ts": "2026-03-31T07:25:21.235562+00:00",
     "type": "other"
   }
 }
