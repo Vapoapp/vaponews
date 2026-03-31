@@ -1164,7 +1164,7 @@
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/regiao-sudeste-tem-a-maior-movimentacao-de-passageiros-aereos-em-fevereiro-desde-o-ano-2000": {
-    "ts": "2026-03-30T13:47:33.975135+00:00",
+    "ts": "2026-03-31T19:10:26.791211+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/537484-offshore-ccs-moves-to-reality-with-agogo-fpso-pilot": {
@@ -1220,7 +1220,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/537498-oil-sales-from-california-s-santa-ynez-pipeline-begin": {
-    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "ts": "2026-03-31T19:10:26.791211+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/liberacao-de-um-petroleiro-russo-carregado-em-cuba-pode-ser-um-sinal-de-avanco-nas-negociacoies-com-os-estados-unidos/": {
@@ -1352,7 +1352,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/vlcc-catches-fire-after-iranian-attack-off-dubai": {
-    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "ts": "2026-03-31T19:10:26.791211+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/hambantota-international-port-invests-usd-108-million-in-new-cranes/": {
@@ -1408,11 +1408,11 @@
     "type": "highlight"
   },
   "https://www.marinelink.com/news/drone-strike-kuwaiti-oil-tanker-off-dubai-537527": {
-    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "ts": "2026-03-31T19:10:26.791211+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/industry-groups-urge-gulf-states-to-act-as-20000-seafarers-remain-stranded-by-hormuz-crisis/": {
-    "ts": "2026-03-31T13:46:36.752043+00:00",
+    "ts": "2026-03-31T19:10:26.791211+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/537529-petrobras-taps-fugro-for-brazil-s-first-licensed-offshore-wind-survey": {
@@ -1473,6 +1473,70 @@
   },
   "https://splash247.com/venergy-lifts-mr-options-at-k-shipbuilding/": {
     "ts": "2026-03-31T13:46:36.752043+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/cenario/forum-infraestrutura-veja-portos-ferrovias-hidrovias-brasil": {
+    "ts": "2026-03-31T19:10:26.791211+00:00",
+    "type": "highlight"
+  },
+  "https://www.rigzone.com/news/wire/trump_tells_allies_to_fight_for_fuel_or_buy_from_usa-31-mar-2026-183339-article/": {
+    "ts": "2026-03-31T19:10:26.791211+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/dp-world-adds-three-quay-cranes-at-jeddah-to-support-red-sea-trade/": {
+    "ts": "2026-03-31T19:10:26.791211+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/fugro-wins-early-stage-work-on-petrobras-wind-pilot/": {
+    "ts": "2026-03-31T19:10:26.791211+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/transporte-aereo/21193/aena-vence-leilao-do-galeao-com-proposta-de-r-2-9-bilhoes-e-assume-concessao-ate-2039/": {
+    "ts": "2026-03-31T19:10:26.791211+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/ditadura-cubana-prende-menino-de-16-anos-como-sabotador-por-protestar-marco-rubio-diz-observar-se-petroleo-russo-ajudara-a-populacao/": {
+    "ts": "2026-03-31T19:10:26.791211+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/portos/suape-missao-europa-antuerpia-bruges-agenda-internacional": {
+    "ts": "2026-03-31T19:10:26.791211+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/carriers-sales-purchase-market-carriers-sales-purchase-market-report-week-12-13-week-12-3/": {
+    "ts": "2026-03-31T19:10:26.791211+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/russian-oil-tanker-begins-discharging-cargo-in-cubas-matanzas-terminal/": {
+    "ts": "2026-03-31T19:10:26.791211+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537538-romania-refuses-to-sell-offshore-blocks-for-black-sea-exploration-project": {
+    "ts": "2026-03-31T19:10:26.791211+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/pakistan-steps-in-to-host-us-iran-peace-talks-as-strait-of-hormuz-crisis-disrupts-global-shipping/?utm_source=rss&utm_medium=rss&utm_campaign=pakistan-steps-in-to-host-us-iran-peace-talks-as-strait-of-hormuz-crisis-disrupts-global-shipping": {
+    "ts": "2026-03-31T19:10:26.791211+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/boxships/chinese-shipbuilder-secures-980m-in-new-vessel-orders-in-q1-2026": {
+    "ts": "2026-03-31T19:10:26.791211+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/uss-george-h-w-bush-gets-underway-starting-deployment-from-norfolk": {
+    "ts": "2026-03-31T19:10:26.791211+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/an-unusual-detour-how-an-indian-lpg-tanker-cleared-the-strait-of-hormuz": {
+    "ts": "2026-03-31T19:10:26.791211+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/romania-is-hindering-offshore-gas-development-in-black-sea-ceo-says": {
+    "ts": "2026-03-31T19:10:26.791211+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537525-tekmar-secures-2-6m-offshore-wind-contracts-in-japan": {
+    "ts": "2026-03-31T19:10:26.791211+00:00",
     "type": "other"
   }
 }
