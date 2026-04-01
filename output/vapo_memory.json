@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-03-26",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A eliminação do comandante naval iraniano pelo ataque israelense intensifica a instabilidade no Estreito de Ormuz, mantendo a restrição à passagem de VLCCs. Essa limitação segue pressionando tarifas de frete e força importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais, sem perspectiva de alívio estrutural no curto prazo. A operação naval indiana atua como resposta tática, mas não reduz a complexidade operacional nem os custos logísticos. No Golfo, ataques iranianos redu"
-  },
-  {
     "date": "2026-03-27",
     "drivers": [
       "contratos marítimos",
@@ -315,5 +304,16 @@
       "risco geopolítico"
     ],
     "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz mantém o transporte marítimo de petróleo e gás em níveis críticos, pressionando tarifas de frete a patamares recordes. A exigência iraniana de autorização e cobrança de pedágio criam gargalos estruturais que não são mitigados pela presença naval regional, elevando o risco geopolítico e forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais, com aumento significativo nos custos operacionais e complexidade logístic"
+  },
+  {
+    "date": "2026-04-01",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz mantém o transporte marítimo de petróleo e gás em níveis críticos, pressionando tarifas de frete a patamares recordes. A exigência iraniana de autorização e cobrança de pedágio criam gargalos estruturais que não são mitigados pela presença naval regional, forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais. Isso eleva custos operacionais e aumenta a complexidade logística sem perspectiva de normalização no cur"
   }
 ]
