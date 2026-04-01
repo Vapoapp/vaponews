@@ -8,17 +8,6 @@
       "logística e portos",
       "risco geopolítico"
     ],
-    "summary": "A passagem restrita de VLCCs pelo Estreito de Ormuz segue limitando a capacidade global de transporte de petróleo, elevando tarifas de frete e forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais. A operação naval indiana atua como resposta tática, mas não reduz o gargalo estrutural, mantendo custos logísticos elevados e complexidade operacional. No Golfo, ataques iranianos reduziram em 17% a capacidade exportadora de GNL do Catar, ampliando a pressão sobre pre"
-  },
-  {
-    "date": "2026-03-26",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
     "summary": "A restrição persistente no Estreito de Ormuz segue limitando a capacidade de passagem de VLCCs, elevando tarifas de frete e forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais. A operação naval indiana atua como medida tática, mas não resolve o gargalo estrutural, mantendo custos logísticos elevados e complexidade operacional. A instabilidade regional amplia o risco geopolítico, impactando diretamente a cadeia de abastecimento de petróleo. No Golfo, ataques re"
   },
   {
@@ -315,5 +304,16 @@
       "risco geopolítico"
     ],
     "summary": "O bloqueio de 95% do tráfego pelo Estreito de Ormuz segue restringindo o transporte marítimo de petróleo e gás, elevando tarifas de frete a níveis recordes. A exigência iraniana de autorização para passagem e a cobrança de pedágio mantêm o risco geopolítico elevado, sem perspectiva de normalização no curto prazo. A presença naval indiana atua como mitigação pontual, insuficiente para alterar o cenário. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, aumentando custos op"
+  },
+  {
+    "date": "2026-04-01",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz mantém o transporte marítimo de petróleo e gás em níveis críticos, com tarifas de frete atingindo patamares recordes. A exigência iraniana de autorização para passagem e a cobrança de pedágio criam gargalos estruturais que não são mitigados pela presença naval regional, mantendo o risco geopolítico elevado e sem perspectiva de normalização no curto prazo. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, elevando custos o"
   }
 ]
