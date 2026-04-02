@@ -1108,7 +1108,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/537559-fugro-to-conduct-site-investigation-for-south-america-s-first-offshore-wind-project": {
-    "ts": "2026-04-01T03:21:32.050781+00:00",
+    "ts": "2026-04-02T13:28:02.876915+00:00",
     "type": "other"
   },
   "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/03/31/estudo-da-firjan-aponta-ate-r-526-bilhoes-em-investimentos-no-rj-nos-proximos-anos.ghtml": {
@@ -1164,11 +1164,11 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/after-ukrainian-attacks-fires-halt-oil-loading-at-ust-luga-for-days": {
-    "ts": "2026-04-02T07:21:51.315274+00:00",
+    "ts": "2026-04-02T13:28:02.876915+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03/presidente-lula-anuncia-tome-franca-como-novo-ministro-de-portos-e-aeroportos": {
-    "ts": "2026-04-01T07:43:07.883951+00:00",
+    "ts": "2026-04-02T13:28:02.876915+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/intercargo-convenes-maritime-industry-to-advance-common-approach-to-dry-bulk-sts-transfers/": {
@@ -1184,7 +1184,7 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03/novo-ministro-de-portos-e-aeroportos-toma-posse-em-cerimonia-no-mpor": {
-    "ts": "2026-04-01T07:43:07.883951+00:00",
+    "ts": "2026-04-02T13:28:02.876915+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/china-fuel-export-ban-expected-to-continue-with-limited-exceptions": {
@@ -1268,7 +1268,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/china-and-pakistan-propose-5-point-peace-plan-to-protect-shipping-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=china-and-pakistan-propose-5-point-peace-plan-to-protect-shipping-in-strait-of-hormuz": {
-    "ts": "2026-04-02T07:21:51.315274+00:00",
+    "ts": "2026-04-02T13:28:02.876915+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/oleo-e-gas/vast-realiza-primeira-operacao-de-transbordo-de-petroleo-da-exxonmobil-no-brasil": {
@@ -1312,11 +1312,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/fugro-assina-contrato-de-levantamento-geotecnico-para-projeto-eolico-offshore-da-petrobras/": {
-    "ts": "2026-04-02T07:21:51.315274+00:00",
+    "ts": "2026-04-02T13:28:02.876915+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/safesea-calls-for-international-probe-after-deadly-tanker-attack-near-iraq-kills-indian-seafarer/?utm_source=rss&utm_medium=rss&utm_campaign=safesea-calls-for-international-probe-after-deadly-tanker-attack-near-iraq-kills-indian-seafarer": {
-    "ts": "2026-04-02T07:21:51.315274+00:00",
+    "ts": "2026-04-02T13:28:02.876915+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/european-shipowners-and-european-transport-workers-federation-etf-reaffirm-commitment-to-upskilling-and-reskilling-of-seafarers/": {
@@ -1405,6 +1405,62 @@
   },
   "https://www.offshore-energy.biz/soil-survey-underway-for-dutch-hydrogen-and-co2-pipeline-network/": {
     "ts": "2026-04-02T07:21:51.315274+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/ntsb-investigation-fire-onboard-bulk-carrier-in-alabama/": {
+    "ts": "2026-04-02T13:28:02.876915+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/iran-strikes-second-tanker-and-third-ship-in-new-surge-targeting-shipping": {
+    "ts": "2026-04-02T13:28:02.876915+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/04/02/pai-de-menino-morto-em-acidente-abre-album-com-momentos-do-filho.ghtml": {
+    "ts": "2026-04-02T13:28:02.876915+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/537618-iea-oil-supply-disruptions-to-impact-europe-from-april": {
+    "ts": "2026-04-02T13:28:02.876915+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537614-energean-warns-prolonged-conflict-may-delay-1b-gas-project": {
+    "ts": "2026-04-02T13:28:02.876915+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/dnv-45-alternative-fuelled-vessels-ordered-in-q1-of-2026/": {
+    "ts": "2026-04-02T13:28:02.876915+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/windward-iran-is-gradually-increasing-transits-daily/": {
+    "ts": "2026-04-02T13:28:02.876915+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/bahrain-push-hormuz-shipping-resolution-537617": {
+    "ts": "2026-04-02T13:28:02.876915+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/vessel-review-havstraum-utkilens-lng-fuelled-chemical-tanker-to-serve-shortsea-routes": {
+    "ts": "2026-04-02T13:28:02.876915+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/irans-tollbooth-tightens-grip-on-hormuz-as-ships-offered-safe-passage-for-a-price/": {
+    "ts": "2026-04-02T13:28:02.876915+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/hormuz-crisis-places-seafarers-in-conditions-unmatched-since-wwii/": {
+    "ts": "2026-04-02T13:28:02.876915+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/rerouted-ships-lift-bunker-demand-around-africa-as-availability-tightens/": {
+    "ts": "2026-04-02T13:28:02.876915+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/scorpio-tankers-bets-on-nuclear-powered-ships/": {
+    "ts": "2026-04-02T13:28:02.876915+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/us-portrays-offshore-leasing-and-planning-as-critical-to-historic-oil-output-highs/": {
+    "ts": "2026-04-02T13:28:02.876915+00:00",
     "type": "other"
   }
 }

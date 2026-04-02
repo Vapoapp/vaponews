@@ -2,17 +2,6 @@
   {
     "date": "2026-03-27",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A persistente restrição à passagem de VLCCs no Estreito de Ormuz mantém tarifas de frete em patamares recordes, forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais. A operação naval indiana atua como mitigação tática, mas não reduz o gargalo estrutural nem o risco geopolítico, ampliando complexidade e custos operacionais. No Golfo Pérsico, ataques iranianos reduziram em 17% a capacidade exportadora de GNL do Catar, aumentando a volatilidade do mercado energéti"
-  },
-  {
-    "date": "2026-03-27",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -315,5 +304,16 @@
       "risco geopolítico"
     ],
     "summary": "A redução de 95% do tráfego pelo Estreito de Ormuz segue restringindo o transporte marítimo de petróleo e gás, elevando tarifas de frete a níveis inéditos. A exigência iraniana de autorização e cobrança de pedágio cria gargalos estruturais que não são mitigados pela presença naval regional, prolongando o risco geopolítico sem perspectiva de normalização no curto prazo. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, elevando custos operacionais e complexidade logística."
+  },
+  {
+    "date": "2026-04-02",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz mantém o transporte marítimo de petróleo e gás em níveis críticos, com tarifas de frete atingindo patamares recordes. A exigência iraniana de autorização e cobrança de pedágio cria gargalos estruturais que não são mitigados pela presença naval regional, elevando o risco geopolítico e forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais. Isso aumenta custos operacionais e complexidade logística sem perspectiva d"
   }
 ]
