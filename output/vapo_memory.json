@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-03-27",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A passagem limitada de VLCCs no Estreito de Ormuz segue elevando tarifas de frete a níveis recordes, sem perspectiva de alívio estrutural. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, aumentando custos e complexidade operacional. A operação naval indiana atua como mitigação tática, mas não reduz o gargalo nem o risco geopolítico, mantendo a volatilidade no fornecimento de petróleo e GNL. No Mar Vermelho, a ameaça iraniana de bloquear Bab al-Mandeb eleva o risco geopo"
-  },
-  {
     "date": "2026-03-28",
     "drivers": [
       "contratos marítimos",
@@ -315,5 +304,16 @@
       "risco geopolítico"
     ],
     "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz mantém o transporte marítimo de petróleo e gás em níveis críticos, com tarifas de frete atingindo patamares recordes. A exigência iraniana de autorização e cobrança de pedágio cria gargalos estruturais que não são mitigados pela presença naval regional, elevando o risco geopolítico e forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais. Isso aumenta custos operacionais e complexidade logística sem perspectiva d"
+  },
+  {
+    "date": "2026-04-02",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A queda de 95% no tráfego pelo Estreito de Ormuz segue restringindo o fluxo marítimo de petróleo e gás, elevando tarifas de frete a níveis recordes. A exigência iraniana de autorização e cobrança de pedágio cria gargalos estruturais que não são mitigados pela presença naval, prolongando o risco geopolítico sem perspectiva de normalização no curto prazo. Importadores asiáticos já reestruturam contratos e adotam rotas multimodais, elevando custos operacionais e complexidade logística. No Brasil, c"
   }
 ]
