@@ -2,17 +2,6 @@
   {
     "date": "2026-03-28",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A restrição persistente à passagem de VLCCs no Estreito de Ormuz mantém tarifas de frete em níveis recordes, forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais. A operação naval indiana atua como mitigação tática, mas não reduz o gargalo estrutural nem o risco geopolítico, elevando custos e complexidade operacional. A volatilidade no fornecimento de petróleo e GNL segue alta, com impacto direto na cadeia global de energia. No Mar Vermelho, a ameaça iraniana d"
-  },
-  {
-    "date": "2026-03-28",
-    "drivers": [
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -315,5 +304,16 @@
       "risco geopolítico"
     ],
     "summary": "A queda de 95% no tráfego pelo Estreito de Ormuz segue restringindo o fluxo marítimo de petróleo e gás, elevando tarifas de frete a níveis recordes. A exigência iraniana de autorização e cobrança de pedágio cria gargalos estruturais que não são mitigados pela presença naval, prolongando o risco geopolítico sem perspectiva de normalização no curto prazo. Importadores asiáticos já reestruturam contratos e adotam rotas multimodais, elevando custos operacionais e complexidade logística. No Brasil, c"
+  },
+  {
+    "date": "2026-04-03",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz segue restringindo o fluxo marítimo de petróleo, elevando tarifas de frete a níveis inéditos. A exigência iraniana de autorização e cobrança de pedágio cria gargalos que não são mitigados pela presença naval, prolongando o risco geopolítico e forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais. O impacto operacional é aumento de custos e complexidade logística sem perspectiva de reversão no curto prazo. No mer"
   }
 ]
