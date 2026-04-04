@@ -2,17 +2,6 @@
   {
     "date": "2026-03-29",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A imposição iraniana de autorização para passagem no Estreito de Ormuz segue restringindo o tráfego de VLCCs, elevando tarifas de frete a níveis recordes sem perspectiva de alívio. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, aumentando custos e complexidade operacional. A presença naval indiana atua apenas como mitigação pontual, sem alterar o gargalo estrutural ou o risco geopolítico. No Mar Vermelho, a ameaça iraniana de bloqueio do Bab al-Mandeb e a escalada dos"
-  },
-  {
-    "date": "2026-03-29",
-    "drivers": [
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -317,5 +306,16 @@
       "risco geopolítico"
     ],
     "summary": "A redução de 95% do tráfego pelo Estreito de Ormuz eleva tarifas de frete a níveis recordes, refletindo gargalos causados pela exigência iraniana de autorização e pedágio. A presença naval não mitiga esses entraves, mantendo o risco geopolítico elevado e forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais, com impacto direto em custos e complexidade logística. No Brasil, a ExxonMobil intensifica operações de transbordo no Porto do Açu, sinalizando adaptação op"
+  },
+  {
+    "date": "2026-04-04",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A redução de 95% do tráfego pelo Estreito de Ormuz segue elevando tarifas de frete a níveis recordes, refletindo gargalos causados pela exigência iraniana de autorização e cobrança de pedágio. A presença naval não reduz o risco geopolítico nem os entraves operacionais, forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais, o que eleva custos e complexidade logística sem perspectiva de reversão no curto prazo. No mercado brasileiro, a ExxonMobil intensifica opera"
   }
 ]
