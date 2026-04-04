@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-03-28",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O novo regime iraniano de autorização para trânsito no Estreito de Ormuz mantém a passagem de VLCCs restrita, pressionando tarifas de frete a níveis recordes. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, elevando custos e complexidade logística sem perspectiva de alívio estrutural. A presença naval indiana atua como mitigação pontual, mas não reduz o gargalo nem o risco geopolítico. No Mar Vermelho, a escalada da ameaça dos Houthis ao bloqueio do Bab el-Mandeb adicio"
-  },
-  {
     "date": "2026-03-29",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -317,5 +306,16 @@
       "risco geopolítico"
     ],
     "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz segue elevando tarifas de frete a níveis recordes, impulsionada pela exigência iraniana de autorização e pedágio. A presença naval não mitiga gargalos estruturais, prolongando o risco geopolítico e forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais, elevando custos e complexidade operacional sem perspectiva de reversão no curto prazo. No Brasil, a ExxonMobil intensifica operações de transbordo no Porto do Açu"
+  },
+  {
+    "date": "2026-04-04",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A redução de 95% do tráfego no Estreito de Ormuz segue elevando tarifas de frete a níveis recordes, devido à exigência iraniana de autorização e cobrança de pedágio. A presença naval não resolve os gargalos, mantendo o risco geopolítico elevado e forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais, com aumento de custos e complexidade operacional sem perspectiva de reversão no curto prazo. No Brasil, a ExxonMobil intensifica operações de transbordo no Porto do"
   }
 ]
