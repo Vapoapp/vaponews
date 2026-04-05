@@ -2,16 +2,6 @@
   {
     "date": "2026-03-29",
     "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A exigência iraniana de autorização para passagem no Estreito de Ormuz mantém o tráfego de VLCCs restrito, pressionando tarifas de frete a níveis recordes. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, elevando custos logísticos e complexidade operacional sem perspectiva de alívio estrutural. A presença naval indiana atua como mitigação pontual, mas não reduz gargalos nem o risco geopolítico. No Mar Vermelho, a ameaça iraniana de bloquear o Bab el-Mandeb adiciona pres"
-  },
-  {
-    "date": "2026-03-29",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -319,5 +309,16 @@
       "risco geopolítico"
     ],
     "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz persiste elevando tarifas de frete a níveis recordes. A exigência iraniana de autorização e cobrança de pedágio cria gargalos estruturais que não são mitigados pela presença naval, mantendo o risco geopolítico elevado. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, ampliando custos e complexidade operacional sem perspectiva de reversão no curto prazo. No offshore brasileiro, a ExxonMobil intensifica operações de transb"
+  },
+  {
+    "date": "2026-04-05",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A redução de 95% do tráfego no Estreito de Ormuz segue elevando tarifas de frete a níveis recordes, impulsionada pela exigência iraniana de autorização e pedágio. A presença naval não reduz gargalos nem o risco geopolítico, obrigando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais, o que aumenta custos e complexidade operacional sem perspectiva de reversão no curto prazo. No offshore brasileiro, a renovação dos contratos da Ventura Offshore com a Petrobras até 2029"
   }
 ]
