@@ -2,17 +2,6 @@
   {
     "date": "2026-03-30",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A exigência iraniana de autorização para passagem no Estreito de Ormuz segue restringindo o fluxo de VLCCs, elevando tarifas de frete a níveis recordes. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, aumentando custos operacionais e complexidade logística sem perspectiva de alívio no curto prazo. A presença naval indiana atua como mitigação pontual, insuficiente para alterar o gargalo estrutural. No Mar Vermelho, ataques dos Houthis ampliam o risco para o tráfego marít"
-  },
-  {
-    "date": "2026-03-30",
-    "drivers": [
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -320,5 +309,16 @@
       "risco geopolítico"
     ],
     "summary": "A redução persistente de cerca de 95% no tráfego pelo Estreito de Ormuz mantém tarifas de frete em patamares recordes. A exigência iraniana de autorizações e cobrança de pedágio gera gargalos operacionais que a presença naval não consegue mitigar, forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais. Essa dinâmica amplia custos e complexidade logística, sem perspectiva de reversão no curto prazo. No mercado offshore brasileiro, a Petrobras estendeu o contrato d"
+  },
+  {
+    "date": "2026-04-06",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A queda persistente de 95% no tráfego pelo Estreito de Ormuz mantém tarifas de frete em níveis recordes, ampliando custos logísticos e complexidade operacional para importadores asiáticos. A exigência iraniana de autorizações e pedágio não encontra solução na presença naval, forçando ajustes contratuais e adoção de rotas multimodais sem perspectiva de reversão no curto prazo. No Brasil, o mercado offshore sinaliza expansão contratual. Petrobras e parceiros estenderam contratos de sondas e unidad"
   }
 ]
