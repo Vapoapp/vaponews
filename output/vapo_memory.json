@@ -1,14 +1,5 @@
 [
   {
-    "date": "2026-03-29",
-    "drivers": [
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A exigência iraniana de autorização para passagem mantém o tráfego de VLCCs restrito, elevando tarifas de frete a níveis recordes. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, aumentando custos operacionais e complexidade logística sem perspectiva de normalização. A mitigação naval indiana atua apenas pontualmente, insuficiente para aliviar o gargalo estrutural. No Mar Vermelho, a escalada de ataques dos Houthis e a ameaça de bloqueio do Bab el-Mandeb ampliam o risco"
-  },
-  {
     "date": "2026-03-30",
     "drivers": [
       "operações offshore",
@@ -318,5 +309,15 @@
       "petróleo e gás"
     ],
     "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz segue elevando tarifas de frete a patamares recordes, sem sinais de reversão no curto prazo. A exigência iraniana de autorização e pedágio cria gargalos operacionais que a presença naval não consegue mitigar, elevando o risco geopolítico e forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais, com impacto direto em custos e complexidade logística. No offshore brasileiro, a ExxonMobil intensifica operações de tra"
+  },
+  {
+    "date": "2026-04-06",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A queda de 95% no tráfego pelo Estreito de Ormuz persiste, impulsionada pela exigência iraniana de autorizações e pedágio. A presença naval não reduz gargalos operacionais nem o risco geopolítico, forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais. Isso eleva custos logísticos e complexidade operacional, sem perspectiva de reversão no curto prazo. No mercado offshore brasileiro, a ExxonMobil intensifica operações de transbordo, indicando aumento da atividade"
   }
 ]
