@@ -2724,6 +2724,14 @@ h3{{font-size:.97rem;}}
 @media(max-width:1040px){{.highlights-grid{{grid-template-columns:1fr;}}.highlight-card{{grid-column:auto;}}.card-grid{{grid-template-columns:1fr;}}}}
 @media(max-width:720px){{.header-inner{{padding:0 16px;height:auto;min-height:52px;flex-wrap:wrap;padding-top:10px;padding-bottom:10px;}}.header-right{{flex-wrap:wrap;gap:8px;}}.wrap{{padding:18px 16px 48px;}}.card{{grid-template-columns:1fr;}}.thumb-wrap{{aspect-ratio:16/9;}}.site-footer{{padding:0 16px 32px;}}}}
 </style>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZWN759NS6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){{dataLayer.push(arguments);}}
+  gtag('js', new Date());
+  gtag('config', 'G-9ZWN759NS6');
+</script>
 </head>
 <body>
 <header class="site-header"><div class="header-inner"><div class="header-left"><a class="back-btn" href="https://vapozeiro.com.br/#ferramentas" aria-label="Voltar"><span class="back-arrow">←</span> Voltar</a><div class="brand"><div class="brand-name">VAPO<span class="news"> News</span></div><span class="brand-sep">·</span><div class="brand-tagline">Radar Marítimo</div></div></div><div class="header-right"><div class="header-date">Edição de hoje<strong>{weekday_pt}, {today}</strong></div><div class="header-controls"><span class="edition-badge"><span class="pulse-dot"></span>{total_news} notícias</span><button id="themeToggle" class="theme-btn" type="button">🌑 Escuro</button></div></div></div></header>
