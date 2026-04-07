@@ -3,17 +3,6 @@
     "date": "2026-03-31",
     "drivers": [
       "atividade Petrobras/Transpetro",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz mantém o transporte de petróleo e gás em níveis críticos, pressionando tarifas de frete para patamares recordes. A exigência iraniana de autorização e a cobrança de pedágio restringem o acesso, especialmente para navios ligados a EUA e Israel, gerando gargalos estruturais que não são mitigados pela presença naval regional. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, elevando custos operacionais e complexidade logíst"
-  },
-  {
-    "date": "2026-03-31",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -320,5 +309,15 @@
       "petróleo e gás"
     ],
     "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz, devido à exigência iraniana de autorizações e pedágio, sustenta tarifas de frete em níveis recordes. A presença naval não reduz gargalos nem o risco geopolítico, forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais, o que eleva custos e complexidade operacional sem perspectiva de reversão no curto prazo. No mercado offshore brasileiro, a Petrobras estendeu contratos de sondas, incluindo ativos estratégicos com"
+  },
+  {
+    "date": "2026-04-07",
+    "drivers": [
+      "contratos marítimos",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A queda de 95% no tráfego pelo Estreito de Ormuz segue sustentando tarifas de frete em níveis recordes, devido à exigência iraniana de autorizações e pedágio. A presença naval não alivia gargalos nem o risco geopolítico, forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais, elevando custos e complexidade operacional sem perspectiva de reversão no curto prazo. No mercado offshore brasileiro, a Petrobras estendeu contratos de sondas estratégicas, indicando contin"
   }
 ]
