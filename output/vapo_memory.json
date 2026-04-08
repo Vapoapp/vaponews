@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-03-31",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A queda de 95% no tráfego pelo Estreito de Ormuz mantém o transporte de petróleo e gás em níveis críticos, pressionando tarifas de frete para patamares recordes. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, elevando custos operacionais e complexidade logística sem perspectiva de normalização no curto prazo. A presença naval indiana não altera o gargalo estrutural, mantendo o risco geopolítico elevado. No Mar Vermelho, a intensificação dos ataques a petroleiros aument"
-  },
-  {
     "date": "2026-04-01",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -319,5 +308,15 @@
       "petróleo e gás"
     ],
     "summary": "A queda de 95% no tráfego pelo Estreito de Ormuz segue sustentando tarifas de frete em níveis recordes, devido à exigência iraniana de autorizações e pedágio. A presença naval não alivia gargalos nem o risco geopolítico, forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais, elevando custos e complexidade operacional sem perspectiva de reversão no curto prazo. No mercado offshore brasileiro, a Petrobras estendeu contratos de sondas estratégicas, indicando contin"
+  },
+  {
+    "date": "2026-04-08",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A queda de 95% no tráfego pelo Estreito de Ormuz persiste, sustentada pela exigência iraniana de autorizações e pedágio, sem solução apesar do cessar-fogo temporário e da presença naval. Essa situação mantém tarifas de frete em patamares recordes, forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais mais complexas e onerosas. A ausência de avanços na resolução do impasse, agravada pelo veto de Rússia e China a medidas da ONU, indica continuidade da instabilidad"
   }
 ]
