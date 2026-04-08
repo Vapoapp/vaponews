@@ -900,7 +900,7 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/governo-brasileiro-anuncia-medidas-para-conter-alta-do-combustivel-de-aviacao": {
-    "ts": "2026-04-08T07:44:10.311100+00:00",
+    "ts": "2026-04-08T13:44:53.600403+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/re-naval-forces-ready-to-keep-the-bab-el-mandeb-open": {
@@ -952,7 +952,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/tanker-truck-blast-closes-bridge-over-panama-canal": {
-    "ts": "2026-04-08T07:44:10.311100+00:00",
+    "ts": "2026-04-08T13:44:53.600403+00:00",
     "type": "highlight"
   },
   "https://splash247.com/trump-floats-us-toll-on-hormuz/": {
@@ -1052,7 +1052,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/a-timenow-completa-30-anos-se-destacando-no-mundo-da-engenharia-e-visando-ampliar-seus-horizontes-no-mercado-externo/": {
-    "ts": "2026-04-08T07:44:10.311100+00:00",
+    "ts": "2026-04-08T13:44:53.600403+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/ntsb-boiler-fuel-leak-sparked-5-5m-engine-room-fire-on-bulker-in-mobile/": {
@@ -1108,7 +1108,7 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/eua-e-ira-anunciam-cessar-fogo-de-duas-semanas-e-estreito-de-ormuz-deve-ter-passagem-liberada/": {
-    "ts": "2026-04-08T07:44:10.311100+00:00",
+    "ts": "2026-04-08T13:44:53.600403+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/russia-and-china-veto-un-security-council-resolution-on-hormuz-security": {
@@ -1160,7 +1160,7 @@
     "type": "highlight"
   },
   "https://splash247.com/in-demand-cable-layers-get-the-supersize-treatment/": {
-    "ts": "2026-04-08T07:44:10.311100+00:00",
+    "ts": "2026-04-08T13:44:53.600403+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/oil-gas-duo-join-forces-to-find-rig-for-drilling-campaigns-in-southeast-asia/": {
@@ -1193,6 +1193,70 @@
   },
   "https://www.offshore-energy.biz/jan-de-nul-launches-second-cable-laying-giant/": {
     "ts": "2026-04-08T07:44:10.311100+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/two-week-ceasefire-deal-putting-strait-of-hormuz-back-in-business/": {
+    "ts": "2026-04-08T13:44:53.600403+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/hapaglloyd-estimates-m-weekly-costs-rise-537797": {
+    "ts": "2026-04-08T13:44:53.600403+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/navios-voltam-a-trafegar-pelo-estreito-de-ormuz-e-preco-do-petroleo-despenca-para-menos-de-us-100/": {
+    "ts": "2026-04-08T13:44:53.600403+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/apesar-do-cessar-fogo-na-guerra-do-ira-varios-paises-ainda-terao-que-lidar-com-aumentos-de-ate-80-nos-custos-da-eletricidade/": {
+    "ts": "2026-04-08T13:44:53.600403+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/transporte-maritimo/21223/craft-inicia-operacao-de-fcl-no-mexico-e-amplia-presenca-na-america-latina/": {
+    "ts": "2026-04-08T13:44:53.600403+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/suspected-shadow-fleet-tanker-involved-in-deadly-collision-to-be-scrapped-in-pakistan": {
+    "ts": "2026-04-08T13:44:53.600403+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/saudi-players-takeover-bid-deadline-for-uk-oil-gas-firm-gets-prolonged/": {
+    "ts": "2026-04-08T13:44:53.600403+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537794-france-leads-15-country-effort-to-reopen-strait-of-hormuz": {
+    "ts": "2026-04-08T13:44:53.600403+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537792-oil-tumbles-stocks-surge-on-middle-east-ceasefire": {
+    "ts": "2026-04-08T13:44:53.600403+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/european-gas-prices-plunge-on-hopes-for-restored-lng-flows-following-us-iran-ceasefire": {
+    "ts": "2026-04-08T13:44:53.600403+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/maersk-cautious-on-strait-of-hormuz-shipping-despite-us-iran-ceasefire/": {
+    "ts": "2026-04-08T13:44:53.600403+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/shipowners-eye-hormuz-truce-with-800-vessels-still-trapped/": {
+    "ts": "2026-04-08T13:44:53.600403+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/boxships/maersk-awaits-clarity-on-hormuz-passage-after-ceasefire-deal": {
+    "ts": "2026-04-08T13:44:53.600403+00:00",
+    "type": "other"
+  },
+  "https://www.nytimes.com/2026/04/08/business/strait-hormuz-ships-traffic-iran-ceasefire.html": {
+    "ts": "2026-04-08T13:44:53.600403+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/iran-oman-to-charge-for-strait-of-hormuz-passage/": {
+    "ts": "2026-04-08T13:44:53.600403+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/u-s-irans-2-week-ceasefire-deal-to-reopen-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-irans-2-week-ceasefire-deal-to-reopen-strait-of-hormuz": {
+    "ts": "2026-04-08T13:44:53.600403+00:00",
     "type": "other"
   }
 }

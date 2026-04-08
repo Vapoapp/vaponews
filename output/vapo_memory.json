@@ -2,17 +2,6 @@
   {
     "date": "2026-04-01",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz mantém o transporte marítimo de petróleo e gás em níveis críticos, com tarifas de frete atingindo patamares recordes. A exigência iraniana de autorização para passagem e a cobrança de pedágio criam gargalos estruturais que não são mitigados pela presença naval regional, mantendo o risco geopolítico elevado e sem perspectiva de normalização no curto prazo. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, elevando custos o"
-  },
-  {
-    "date": "2026-04-01",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -317,5 +306,13 @@
       "petróleo e gás"
     ],
     "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz, mesmo com cessar-fogo temporário, mantém as tarifas de frete em níveis recordes. A exigência iraniana de autorizações e pedágio não foi revertida, e o veto de Rússia e China a resoluções da ONU bloqueia avanços na segurança da navegação. Importadores asiáticos intensificam uso de rotas multimodais, elevando custos e complexidade operacional sem perspectiva de alívio no curto prazo. No mercado offshore brasileiro, a Petrobras reforça a expansão"
+  },
+  {
+    "date": "2026-04-08",
+    "drivers": [
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O cessar-fogo temporário entre EUA e Irã reabriu parcialmente o Estreito de Ormuz, mas o tráfego permanece restrito e sujeito à cobrança de pedágio por Irã e Omã. Essa combinação sustenta tarifas de frete em níveis recordes, forçando importadores asiáticos a adotar rotas multimodais mais complexas e onerosas, sem perspectiva de reversão no curto prazo. A insegurança operacional e a ausência de avanços diplomáticos efetivos mantêm a volatilidade no transporte marítimo de petróleo e GNL, impactand"
   }
 ]
