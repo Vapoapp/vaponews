@@ -8,17 +8,6 @@
       "logística e portos",
       "risco geopolítico"
     ],
-    "summary": "A redução de 95% do tráfego pelo Estreito de Ormuz segue restringindo o transporte marítimo de petróleo e gás, elevando tarifas de frete a níveis inéditos. A exigência iraniana de autorização e cobrança de pedágio cria gargalos estruturais que não são mitigados pela presença naval regional, prolongando o risco geopolítico sem perspectiva de normalização no curto prazo. Importadores asiáticos reestruturam contratos e adotam rotas multimodais, elevando custos operacionais e complexidade logística."
-  },
-  {
-    "date": "2026-04-02",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
     "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz mantém o transporte marítimo de petróleo e gás em níveis críticos, com tarifas de frete atingindo patamares recordes. A exigência iraniana de autorização e cobrança de pedágio cria gargalos estruturais que não são mitigados pela presença naval regional, elevando o risco geopolítico e forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais. Isso aumenta custos operacionais e complexidade logística sem perspectiva d"
   },
   {
@@ -313,5 +302,16 @@
       "petróleo e gás"
     ],
     "summary": "O cessar-fogo temporário entre EUA e Irã reabriu parcialmente o Estreito de Ormuz, mas a exigência iraniana de autorizações e pedágio mantém o tráfego 95% abaixo do normal. Essa restrição sustenta tarifas de frete em níveis recordes, obrigando importadores asiáticos a migrar para rotas multimodais mais complexas e onerosas, sem perspectiva de alívio no curto prazo. A insegurança operacional persiste, impactando diretamente a logística global de petróleo e gás. No mercado offshore, a expansão da"
+  },
+  {
+    "date": "2026-04-09",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O cessar-fogo entre EUA e Irã não alterou a quase paralisação do tráfego no Estreito de Ormuz, que permanece 95% abaixo do normal devido à exigência iraniana de autorizações e pedágio. Essa restrição mantém tarifas de frete em níveis recordes e força importadores asiáticos a migrar para rotas multimodais mais complexas e custosas, elevando custos logísticos sem perspectiva de reversão no curto prazo. A ausência de avanços diplomáticos efetivos, agravada pelo veto de Rússia e China a resoluções d"
   }
 ]
