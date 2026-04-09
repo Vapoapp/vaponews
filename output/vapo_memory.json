@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-04-01",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz mantém o transporte marítimo de petróleo e gás em níveis críticos, pressionando tarifas de frete a patamares recordes. A exigência iraniana de autorização e cobrança de pedágio criam gargalos estruturais que não são mitigados pela presença naval regional, forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais. Isso eleva custos operacionais e aumenta a complexidade logística sem perspectiva de normalização no cur"
-  },
-  {
     "date": "2026-04-02",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -314,5 +303,15 @@
       "petróleo e gás"
     ],
     "summary": "A instabilidade no Estreito de Ormuz segue impactando diretamente custos e operações no transporte marítimo de petróleo e gás. A exigência iraniana de autorizações e pedágio, combinada com o veto de Rússia e China a resoluções da ONU, mantém o tráfego reduzido em 95%, sustentando tarifas recordes e forçando importadores asiáticos a adotar rotas multimodais mais complexas e onerosas. A ausência de solução diplomática no curto prazo reforça a volatilidade e o risco geopolítico na região, com conse"
+  },
+  {
+    "date": "2026-04-09",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O cessar-fogo temporário entre EUA e Irã reabriu parcialmente o Estreito de Ormuz, mas a exigência iraniana de autorizações e pedágio mantém o tráfego 95% abaixo do normal. Essa restrição sustenta tarifas de frete em níveis recordes, forçando importadores asiáticos a migrar para rotas multimodais mais complexas e custosas, sem perspectiva de alívio no curto prazo. A instabilidade operacional e o veto de Rússia e China a resoluções da ONU impedem avanços diplomáticos que possam reduzir o risco ge"
   }
 ]
