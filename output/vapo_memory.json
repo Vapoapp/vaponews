@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-04-02",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A queda de 95% no tráfego pelo Estreito de Ormuz segue restringindo o fluxo marítimo de petróleo e gás, elevando tarifas de frete a níveis recordes. A exigência iraniana de autorização e cobrança de pedágio cria gargalos estruturais que não são mitigados pela presença naval, prolongando o risco geopolítico sem perspectiva de normalização no curto prazo. Importadores asiáticos já reestruturam contratos e adotam rotas multimodais, elevando custos operacionais e complexidade logística. No Brasil, c"
-  },
-  {
     "date": "2026-04-03",
     "drivers": [
       "contratos marítimos",
@@ -312,5 +301,16 @@
       "petróleo e gás"
     ],
     "summary": "O cessar-fogo entre EUA e Irã não alterou a quase paralisação do tráfego no Estreito de Ormuz, que permanece 95% abaixo do normal. A exigência iraniana de autorizações e cobrança de pedágio mantém as tarifas de frete em patamares recordes, pressionando importadores asiáticos a recorrer a rotas multimodais mais complexas e dispendiosas. A ausência de avanços diplomáticos, agravada pelo veto de Rússia e China a resoluções da ONU, impede qualquer redução do risco geopolítico no curto prazo. Essa re"
+  },
+  {
+    "date": "2026-04-10",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O cessar-fogo entre EUA e Irã não alterou a quase paralisação do tráfego no Estreito de Ormuz, que opera a menos de 10% da capacidade normal. A exigência iraniana de autorizações e pedágio mantém tarifas de frete em níveis recordes, forçando importadores asiáticos a adotar rotas multimodais mais complexas e onerosas, sem perspectiva de reversão no curto prazo. A instabilidade geopolítica permanece elevada, com vetos de Rússia e China a resoluções da ONU impedindo avanços diplomáticos. No mercado"
   }
 ]
