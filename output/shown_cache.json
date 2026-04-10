@@ -4,24 +4,12 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-04-10T13:23:38.133346+00:00",
+    "ts": "2026-04-10T19:02:46.856801+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
     "ts": "2026-04-07T07:27:29.975936+00:00",
     "type": "highlight"
-  },
-  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/ministerio-articula-acoes-para-garantir-protecao-e-seguranca-a-mulheres-no-setor-portuario": {
-    "ts": "2026-04-03T18:56:18.306141+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/537618-iea-oil-supply-disruptions-to-impact-europe-from-april": {
-    "ts": "2026-04-03T18:56:18.306141+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/537614-energean-warns-prolonged-conflict-may-delay-1b-gas-project": {
-    "ts": "2026-04-03T18:56:18.306141+00:00",
-    "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/vessel-review-havstraum-utkilens-lng-fuelled-chemical-tanker-to-serve-shortsea-routes": {
     "ts": "2026-04-04T07:08:58.238253+00:00",
@@ -135,14 +123,6 @@
     "ts": "2026-04-05T13:10:07.068474+00:00",
     "type": "highlight"
   },
-  "https://maritime-executive.com/article/cma-cgm-vessel-is-first-major-carrier-vessel-through-strait-of-hormuz": {
-    "ts": "2026-04-03T18:56:18.306141+00:00",
-    "type": "highlight"
-  },
-  "https://g1.globo.com/mundo/noticia/2026/04/03/onu-vota-uso-de-forca-em-ormuz-china-russia-e-franca-se-opoem.ghtml": {
-    "ts": "2026-04-03T18:56:18.306141+00:00",
-    "type": "highlight"
-  },
   "https://gcaptain.com/french-and-japanese-owned-ships-make-first-hormuz-crossings/": {
     "ts": "2026-04-05T02:58:12.412710+00:00",
     "type": "other"
@@ -157,18 +137,6 @@
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction/subsea-7-wins-offshore-installation-contract-in-equatorial-guinea": {
     "ts": "2026-04-05T02:58:12.412710+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/three-largest-oil-tankers-carrying-2-million-barrels-each-enter-hormuz-via-unusual-route/?utm_source=rss&utm_medium=rss&utm_campaign=three-largest-oil-tankers-carrying-2-million-barrels-each-enter-hormuz-via-unusual-route": {
-    "ts": "2026-04-03T18:56:18.306141+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/container-rates-stall-as-capacity-glut-offsets-hormuz-shock/": {
-    "ts": "2026-04-03T18:56:18.306141+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/wah-kwong-and-bureau-veritas-deliver-first-smart-augmented-lr2-tanker-in-newbuild-series/?utm_source=rss&utm_medium=rss&utm_campaign=wah-kwong-and-bureau-veritas-deliver-first-smart-augmented-lr2-tanker-in-newbuild-series": {
-    "ts": "2026-04-03T18:56:18.306141+00:00",
     "type": "other"
   },
   "https://maritime-executive.com/article/human-remains-reportedly-found-on-thai-bulker-attacked-by-iranians": {
@@ -960,7 +928,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/iran-publishes-redrawn-traffic-scheme-for-strait-of-hormuz": {
-    "ts": "2026-04-09T02:48:38.314474+00:00",
+    "ts": "2026-04-10T19:02:46.856801+00:00",
     "type": "other"
   },
   "https://www.marinelink.com/news/shippers-look-clarity-reopening-hormuz-537821": {
@@ -1052,7 +1020,7 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21227/suape-pe-e-itaqui-ma-lideram-portos-publicos-do-nordeste-e-respondem-por-20-da-movimentacao-do-setor/": {
-    "ts": "2026-04-09T13:56:19.006537+00:00",
+    "ts": "2026-04-10T19:02:46.856801+00:00",
     "type": "other"
   },
   "https://gcaptain.com/shipping-avoids-hormuz-lanes-as-iran-pushes-vessels-toward-controlled-corridors/": {
@@ -1148,7 +1116,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/a-vale-vai-afretar-navios-que-serao-os-primeiros-a-transportar-minerio-de-ferro-usando-o-etanol-como-combustivel/": {
-    "ts": "2026-04-10T13:23:38.133346+00:00",
+    "ts": "2026-04-10T19:02:46.856801+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/two-week-us-iran-ceasefire-not-enough-to-end-ocean-container-shipping-disruption-or-surging-freight-rates/": {
@@ -1156,7 +1124,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/after-ceasefire-attacks-on-saudi-pipelines-and-oilfields-cut-production": {
-    "ts": "2026-04-10T13:23:38.133346+00:00",
+    "ts": "2026-04-10T19:02:46.856801+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/ferroviario/brado-alcoa-rotamultimodal-saopaulo-maranhao-aluminio": {
@@ -1204,7 +1172,7 @@
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/subsea7-rakes-in-over-1-25-billion-for-brazilian-oil-gas-job/": {
-    "ts": "2026-04-10T07:50:44.076505+00:00",
+    "ts": "2026-04-10T19:02:46.856801+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/iran-blocks-strait-of-hormuz-again-after-israel-violates-ceasefire-deal-by-attacking-lebanons-hezbollah/?utm_source=rss&utm_medium=rss&utm_campaign=iran-blocks-strait-of-hormuz-again-after-israel-violates-ceasefire-deal-by-attacking-lebanons-hezbollah": {
@@ -1252,7 +1220,7 @@
     "type": "highlight"
   },
   "https://gcaptain.com/hormuz-strait-remains-shut-as-lebanon-fighting-strains-truce/": {
-    "ts": "2026-04-10T13:23:38.133346+00:00",
+    "ts": "2026-04-10T19:02:46.856801+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/iran-allows-only-15-ships-to-cross-strait-of-hormuz-daily-per-the-ceasefire-agreement/?utm_source=rss&utm_medium=rss&utm_campaign=iran-allows-only-15-ships-to-cross-strait-of-hormuz-daily-per-the-ceasefire-agreement": {
@@ -1305,6 +1273,62 @@
   },
   "https://www.hellenicshippingnews.com/shipping-the-hormuz-strait-conundrum-after-the-war-in-the-middle-east/": {
     "ts": "2026-04-10T13:23:38.133346+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/a-ecovix-recebe-as-primeiras-toneladas-de-aco-para-construir-o-primeiro-dos-quatro-navios-handy-max-para-a-transpetro/": {
+    "ts": "2026-04-10T19:02:46.856801+00:00",
+    "type": "highlight"
+  },
+  "https://www.rigzone.com/news/wire/lebanon_and_hormuz_top_of_agenda_in_truce_talks-10-apr-2026-183427-article/": {
+    "ts": "2026-04-10T19:02:46.856801+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/middle-east-producers-gear-hormuz-export-537907": {
+    "ts": "2026-04-10T19:02:46.856801+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/subsea-7-assina-contrato-bilionario-com-a-petrobras-para-desenvolver-o-campo-de-sepia-2-na-bacia-de-santos/": {
+    "ts": "2026-04-10T19:02:46.856801+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/antaq/pt-br/noticias/2026/definida-data-de-audiencia-publica-da-antaq-para-concessao-do-canal-de-acesso-ao-porto-de-santos": {
+    "ts": "2026-04-10T19:02:46.856801+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/estaleiro-enseada-vai-construir-as-novas-embarcacoes-liberadas-pelo-fundo-da-marinha-mercante-em-contratos-de-r-1369-milhoes/": {
+    "ts": "2026-04-10T19:02:46.856801+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/petrobras-takes-back-full-ownership-of-brazilian-offshore-oil-fields/": {
+    "ts": "2026-04-10T19:02:46.856801+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/ministerio-de-portos-e-aeroportos-amplia-inclusao-no-setor-aereo-com-bolsas-de-estudo-para-alunos-de-baixa-renda": {
+    "ts": "2026-04-10T19:02:46.856801+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction/subsea-7-wins-1b-offshore-contract-for-brazils-field-development": {
+    "ts": "2026-04-10T19:02:46.856801+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/drilling-production/ventura-offshore-secures-drillship-contract-extension-in-brazil": {
+    "ts": "2026-04-10T19:02:46.856801+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/saudi-arabia-maintains-oil-exports-from-key-red-sea-port-for-now/": {
+    "ts": "2026-04-10T19:02:46.856801+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/amazon-leads-northern-brazil-port-traffic-as-shipping-volumes-rise-in-january": {
+    "ts": "2026-04-10T19:02:46.856801+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/india-grants-reliances-request-for-iranian-oil-tankers-to-berth-at-port": {
+    "ts": "2026-04-10T19:02:46.856801+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/us-likely-to-extend-waiver-allowing-purchase-of-russian-oil": {
+    "ts": "2026-04-10T19:02:46.856801+00:00",
     "type": "other"
   }
 }
