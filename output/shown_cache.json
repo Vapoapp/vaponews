@@ -4,7 +4,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-04-09T07:46:29.130641+00:00",
+    "ts": "2026-04-10T07:50:44.076505+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
@@ -23,17 +23,9 @@
     "ts": "2026-04-03T13:16:10.607753+00:00",
     "type": "highlight"
   },
-  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/licitacao-para-modernizacao-da-ip4-de-parintins-am-tem-investimento-estimado-em-r-51-3-milhoes": {
-    "ts": "2026-04-03T07:18:16.828005+00:00",
-    "type": "other"
-  },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/ministerio-articula-acoes-para-garantir-protecao-e-seguranca-a-mulheres-no-setor-portuario": {
     "ts": "2026-04-03T18:56:18.306141+00:00",
     "type": "other"
-  },
-  "https://safety4sea.com/ntsb-investigation-fire-onboard-bulk-carrier-in-alabama/": {
-    "ts": "2026-04-03T07:18:16.828005+00:00",
-    "type": "highlight"
   },
   "https://www.oedigital.com/news/537618-iea-oil-supply-disruptions-to-impact-europe-from-april": {
     "ts": "2026-04-03T18:56:18.306141+00:00",
@@ -49,10 +41,6 @@
   },
   "https://petronoticias.com.br/a-exxonmobil-usa-o-terminal-da-vast-para-fazer-o-transbordo-de-1-milhao-de-barris-de-petroleo-para-o-mercado-exterior/": {
     "ts": "2026-04-04T13:08:02.559896+00:00",
-    "type": "highlight"
-  },
-  "https://safety4sea.com/vessels-collide-in-kaohsiung-causing-containers-to-fall-overboard/": {
-    "ts": "2026-04-03T07:18:16.828005+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/fundo-da-marinha-mercante-aprova-r-409-7-milhoes-para-a-industria-naval-no-amazonas": {
@@ -115,52 +103,12 @@
     "ts": "2026-04-04T07:08:58.238253+00:00",
     "type": "other"
   },
-  "https://splash247.com/ventura-offshore-secures-brazil-rig-extensions-with-petrobras/": {
-    "ts": "2026-04-03T07:18:16.828005+00:00",
-    "type": "highlight"
-  },
   "https://www.hellenicshippingnews.com/vhbs-new-contex-container-ship-time-charter-assessment-index-week-14-2/": {
     "ts": "2026-04-04T18:52:16.118319+00:00",
     "type": "highlight"
   },
-  "https://www.bairdmaritime.com/shipping/detentions-of-panama-flagged-ships-in-china-concerning-rubio-says": {
-    "ts": "2026-04-03T07:18:16.828005+00:00",
-    "type": "highlight"
-  },
   "https://petronoticias.com.br/transocean-amplia-duracao-de-contratos-de-sondas-afretadas-para-a-petrobras/": {
     "ts": "2026-04-04T13:08:02.559896+00:00",
-    "type": "other"
-  },
-  "https://www.rigzone.com/news/wire/russia_preparing_to_send_2nd_oil_tanker_to_cuba-03-apr-2026-183365-article/": {
-    "ts": "2026-04-03T07:18:16.828005+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/ciner-adds-six-ultramaxes-in-fresh-204m-china-order/": {
-    "ts": "2026-04-03T07:18:16.828005+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/first-lng-carrier-among-three-omani-ships-breaking-out-through-hormuz": {
-    "ts": "2026-04-03T07:18:16.828005+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/537620-enquest-enters-malaysia-with-cendramas-production-sharing-deal": {
-    "ts": "2026-04-03T07:18:16.828005+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/no-significant-gas-volumes-in-black-sea-exploration-well/": {
-    "ts": "2026-04-03T07:18:16.828005+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/first-malta-italy-interconnector-back-in-service-after-works-on-second-link-demanded-shut-down/": {
-    "ts": "2026-04-03T07:18:16.828005+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/u-s-offshore-oil-hits-record-714m-barrels-as-gulf-deepwater-leads-surge/": {
-    "ts": "2026-04-03T07:18:16.828005+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/iranian-missile-strikes-qatarenergy-leased-oil-tanker-in-the-persian-gulf/?utm_source=rss&utm_medium=rss&utm_campaign=iranian-missile-strikes-qatarenergy-leased-oil-tanker-in-the-persian-gulf": {
-    "ts": "2026-04-03T07:18:16.828005+00:00",
     "type": "other"
   },
   "https://www.offshore-energy.biz/ventura-offshore-scores-multimillion-dollar-rig-extensions-with-petrobras/": {
@@ -1036,7 +984,7 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/mpor-preve-entrega-das-obras-de-ampliacao-do-canal-de-nova-avanhandava-sp-para-junho": {
-    "ts": "2026-04-09T02:48:38.314474+00:00",
+    "ts": "2026-04-10T07:50:44.076505+00:00",
     "type": "other"
   },
   "https://www.marineinsight.com/faulty-o-ring-caused-5-5m-engine-room-fire-on-bulk-carrier-lem-verbena-ntsb-finds/?utm_source=rss&utm_medium=rss&utm_campaign=faulty-o-ring-caused-5-5m-engine-room-fire-on-bulk-carrier-lem-verbena-ntsb-finds": {
@@ -1060,11 +1008,11 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/baltimore-fireboats-respond-to-sinking-tug": {
-    "ts": "2026-04-10T03:19:47.768636+00:00",
+    "ts": "2026-04-10T07:50:44.076505+00:00",
     "type": "highlight"
   },
   "https://www.nytimes.com/2026/04/09/business/iran-strait-of-hormuz-what-to-know.html": {
-    "ts": "2026-04-10T03:19:47.768636+00:00",
+    "ts": "2026-04-10T07:50:44.076505+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-vessel-news-roundup-april-9-hybrid-csov-delivery-cable-layer-launch-and-more": {
@@ -1084,7 +1032,7 @@
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/reuniao-da-antaq-em-manaus-define-diretrizes-operacionais-de-travessias": {
-    "ts": "2026-04-09T07:46:29.130641+00:00",
+    "ts": "2026-04-10T07:50:44.076505+00:00",
     "type": "other"
   },
   "https://maritime-executive.com/article/russia-s-shadow-fleet-thumbs-its-nose-at-the-royal-navy": {
@@ -1168,7 +1116,7 @@
     "type": "other"
   },
   "https://www.marinelink.com/news/hormuz-shipping-traffic-remains-below-537884": {
-    "ts": "2026-04-10T03:19:47.768636+00:00",
+    "ts": "2026-04-10T07:50:44.076505+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/sp/sao-paulo/noticia/2026/04/09/centro-de-controle-foi-esvaziado-apos-pane-e-anac-estuda-ampliar-horario-de-congonhas-diz-diretor-tarcisio-cita-incendio.ghtml": {
@@ -1232,15 +1180,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/a-vale-vai-afretar-navios-que-serao-os-primeiros-a-transportar-minerio-de-ferro-usando-o-etanol-como-combustivel/": {
-    "ts": "2026-04-10T03:19:47.768636+00:00",
+    "ts": "2026-04-10T07:50:44.076505+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/two-week-us-iran-ceasefire-not-enough-to-end-ocean-container-shipping-disruption-or-surging-freight-rates/": {
-    "ts": "2026-04-10T03:19:47.768636+00:00",
+    "ts": "2026-04-10T07:50:44.076505+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/after-ceasefire-attacks-on-saudi-pipelines-and-oilfields-cut-production": {
-    "ts": "2026-04-10T03:19:47.768636+00:00",
+    "ts": "2026-04-10T07:50:44.076505+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/ferroviario/brado-alcoa-rotamultimodal-saopaulo-maranhao-aluminio": {
@@ -1281,6 +1229,54 @@
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/ministro-tome-franca-realiza-visita-institucional-a-cnt-e-apresenta-agenda-do-mpor-para-2026": {
     "ts": "2026-04-10T03:19:47.768636+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/energean-cleared-to-restart-gas-field-off-israel-after-ceasefire/": {
+    "ts": "2026-04-10T07:50:44.076505+00:00",
+    "type": "highlight"
+  },
+  "https://www.offshore-energy.biz/subsea7-rakes-in-over-1-25-billion-for-brazilian-oil-gas-job/": {
+    "ts": "2026-04-10T07:50:44.076505+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/iran-blocks-strait-of-hormuz-again-after-israel-violates-ceasefire-deal-by-attacking-lebanons-hezbollah/?utm_source=rss&utm_medium=rss&utm_campaign=iran-blocks-strait-of-hormuz-again-after-israel-violates-ceasefire-deal-by-attacking-lebanons-hezbollah": {
+    "ts": "2026-04-10T07:50:44.076505+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/537845-brazil-court-lifts-export-tax-for-select-oil-firms": {
+    "ts": "2026-04-10T07:50:44.076505+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537896-van-oord-completes-low-noise-monopile-installation": {
+    "ts": "2026-04-10T07:50:44.076505+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/resumption-of-iraqi-flows-via-strait-of-hormuz/": {
+    "ts": "2026-04-10T07:50:44.076505+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/splash-wrap-fragile-hormuz-ceasefire-fails-to-lift-traffic/": {
+    "ts": "2026-04-10T07:50:44.076505+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/3-crew-members-die-after-deadly-attack-on-thai-flagged-vessel-in-hormuz-thailand-confirms/?utm_source=rss&utm_medium=rss&utm_campaign=3-crew-members-die-after-deadly-attack-on-thai-flagged-vessel-in-hormuz-thailand-confirms": {
+    "ts": "2026-04-10T07:50:44.076505+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537856-european-consortium-targets-marine-noise-from-offshore-wind-projects": {
+    "ts": "2026-04-10T07:50:44.076505+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/hhi-delivers-two-ammonia-powered-gas-carriers/": {
+    "ts": "2026-04-10T07:50:44.076505+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/russia-says-it-asserts-right-to-protect-tankers-from-british-piracy": {
+    "ts": "2026-04-10T07:50:44.076505+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/orsted-bets-on-an-offshore-wind-surge-as-energy-supplies-tighten": {
+    "ts": "2026-04-10T07:50:44.076505+00:00",
     "type": "other"
   }
 }

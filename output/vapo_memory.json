@@ -2,17 +2,6 @@
   {
     "date": "2026-04-03",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz segue restringindo o fluxo marítimo de petróleo, elevando tarifas de frete a níveis inéditos. A exigência iraniana de autorização e cobrança de pedágio cria gargalos que não são mitigados pela presença naval, prolongando o risco geopolítico e forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais. O impacto operacional é aumento de custos e complexidade logística sem perspectiva de reversão no curto prazo. No mer"
-  },
-  {
-    "date": "2026-04-03",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -312,5 +301,16 @@
       "petróleo e gás"
     ],
     "summary": "O cessar-fogo entre EUA e Irã não alterou a quase paralisação do tráfego no Estreito de Ormuz, que opera a menos de 10% da capacidade normal. A exigência iraniana de autorizações e pedágio mantém tarifas de frete em níveis recordes, forçando importadores asiáticos a adotar rotas multimodais mais complexas e onerosas, sem perspectiva de reversão no curto prazo. A instabilidade geopolítica permanece elevada, com vetos de Rússia e China a resoluções da ONU impedindo avanços diplomáticos. No mercado"
+  },
+  {
+    "date": "2026-04-10",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz segue abaixo de 10% da capacidade normal, apesar do cessar-fogo temporário entre EUA e Irã. A exigência iraniana de autorizações e pedágio mantém as tarifas de frete em níveis recordes, forçando importadores asiáticos a adotarem rotas multimodais mais complexas e onerosas, sem perspectiva de reversão no curto prazo. Essa condição reforça a volatilidade operacional e eleva custos na cadeia de petróleo e gás. No mercado offshore brasileiro, a contratação da Subsea7 p"
   }
 ]
