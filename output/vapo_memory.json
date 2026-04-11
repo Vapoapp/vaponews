@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-04-03",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz segue elevando tarifas de frete a níveis recordes, impulsionada pela exigência iraniana de autorização e pedágio. A presença naval não mitiga gargalos estruturais, prolongando o risco geopolítico e forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais, elevando custos e complexidade operacional sem perspectiva de reversão no curto prazo. No Brasil, a ExxonMobil intensifica operações de transbordo no Porto do Açu"
-  },
-  {
     "date": "2026-04-04",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -312,5 +301,16 @@
       "risco geopolítico"
     ],
     "summary": "O tráfego no Estreito de Ormuz opera abaixo de 10% da capacidade, mesmo após cessar-fogo entre EUA e Irã. A exigência iraniana de autorizações e pedágio mantém tarifas de frete em patamares recordes, forçando importadores asiáticos a adotarem rotas multimodais mais complexas e dispendiosas. A ausência de avanços diplomáticos, agravada por vetos da Rússia e China na ONU, indica manutenção da volatilidade geopolítica e custos elevados no curto prazo. No mercado offshore brasileiro, a Petrobras ref"
+  },
+  {
+    "date": "2026-04-11",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz segue abaixo de 10% da capacidade, mesmo após cessar-fogo temporário entre EUA e Irã. A exigência iraniana de autorizações e pedágio mantém tarifas de frete em níveis recordes, elevando custos logísticos e forçando importadores asiáticos a adotarem rotas multimodais mais complexas e onerosas. A ausência de avanços diplomáticos, agravada por vetos da Rússia e China na ONU, indica manutenção da volatilidade geopolítica e custos elevados no curto prazo. No mercado off"
   }
 ]
