@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-04-04",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz segue elevando tarifas de frete a níveis recordes, devido à exigência iraniana de autorização e cobrança de pedágio. A presença naval não resolve os gargalos nem reduz o risco geopolítico, forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais, o que aumenta custos e complexidade operacional sem perspectiva de reversão no curto prazo. No cenário offshore brasileiro, a ExxonMobil intensifica operações de transbord"
-  },
-  {
     "date": "2026-04-05",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -312,5 +301,16 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, mesmo após cessar-fogo temporário entre EUA e Irã. A exigência iraniana de autorizações e pedágio mantém tarifas de frete em níveis recordes, forçando importadores asiáticos a migrar para rotas multimodais mais complexas e onerosas. A ausência de avanços diplomáticos, agravada por vetos da Rússia e China na ONU, indica que a volatilidade geopolítica e os custos elevados persistirão no curto prazo. No mercado brasileiro,"
+  },
+  {
+    "date": "2026-04-12",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, apesar do cessar-fogo temporário entre EUA e Irã. A exigência iraniana de autorizações e pedágio mantém as tarifas de frete em patamares recordes, forçando importadores asiáticos a adotarem rotas multimodais mais complexas e caras. A ausência de avanços diplomáticos sólidos, agravada por vetos na ONU, indica continuidade da volatilidade geopolítica e pressão nos custos logísticos no curto prazo. No Brasil, o mercado offshore m"
   }
 ]
