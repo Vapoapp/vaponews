@@ -2,17 +2,6 @@
   {
     "date": "2026-04-05",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A redução de 95% do tráfego no Estreito de Ormuz segue elevando tarifas de frete a níveis recordes, impulsionada pela exigência iraniana de autorização e pedágio. A presença naval não reduz gargalos nem o risco geopolítico, obrigando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais, o que aumenta custos e complexidade operacional sem perspectiva de reversão no curto prazo. No offshore brasileiro, a renovação dos contratos da Ventura Offshore com a Petrobras até 2029"
-  },
-  {
-    "date": "2026-04-05",
-    "drivers": [
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -312,5 +301,15 @@
       "risco geopolítico"
     ],
     "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, mesmo após cessar-fogo temporário entre EUA e Irã. A exigência iraniana de autorizações e pedágio eleva tarifas de frete a patamares recordes, obrigando importadores asiáticos a adotarem rotas multimodais mais complexas e onerosas. A ausência de avanços diplomáticos sólidos, agravada por vetos na ONU, sinaliza manutenção da volatilidade geopolítica e custos elevados no curto prazo. No mercado brasileiro, a Petrobras avan"
+  },
+  {
+    "date": "2026-04-12",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, mesmo após cessar-fogo temporário entre EUA e Irã. A exigência iraniana de autorizações e pedágio mantém as tarifas de frete em níveis recordes, forçando importadores asiáticos a adotarem rotas multimodais mais complexas e onerosas. A operação de limpeza de minas submarinas pelos EUA indica escalada tática, mas não altera o cenário de risco e custo elevado no curto prazo. No mercado offshore brasileiro, a extensão do con"
   }
 ]
