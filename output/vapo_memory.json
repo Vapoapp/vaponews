@@ -2,16 +2,6 @@
   {
     "date": "2026-04-06",
     "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A redução persistente de 95% no tráfego pelo Estreito de Ormuz, devido à exigência iraniana de autorizações e pedágio, eleva tarifas de frete a níveis recordes. A presença naval não mitiga gargalos nem o risco geopolítico, forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais. Isso amplia custos e complexidade operacional, sem perspectiva de reversão no curto prazo. No offshore brasileiro, a ExxonMobil intensifica operações de transbordo, indicando aumento da at"
-  },
-  {
-    "date": "2026-04-06",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -312,5 +302,16 @@
       "risco geopolítico"
     ],
     "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, com tarifas de frete em níveis recordes devido à exigência iraniana de autorizações e cobrança de pedágio. A operação americana de remoção de minas não reduz o risco tático nem os custos, enquanto vetos na ONU indicam que a volatilidade geopolítica deve persistir no curto prazo. Importadores asiáticos continuam a migrar para rotas multimodais mais complexas e onerosas, impactando a cadeia logística global. No Brasil, a P"
+  },
+  {
+    "date": "2026-04-13",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, com tarifas de frete em níveis recordes devido à exigência iraniana de autorizações e pedágio. A operação americana de remoção de minas não reduziu o risco tático nem os custos, enquanto o fracasso nas negociações entre EUA e Irã indica que a volatilidade geopolítica deve persistir no curto prazo. Importadores asiáticos continuam migrando para rotas multimodais mais complexas, elevando custos logísticos e impactando a ca"
   }
 ]
