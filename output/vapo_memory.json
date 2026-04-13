@@ -1,14 +1,5 @@
 [
   {
-    "date": "2026-04-05",
-    "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz segue elevando tarifas de frete a níveis recordes, devido à exigência iraniana de autorização e cobrança de pedágio. A presença naval não mitiga gargalos nem o risco, obrigando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais, o que amplia custos e complexidade operacional sem perspectiva de reversão no curto prazo. A volatilidade na região mantém o ambiente de incerteza para planejamento logístico e comercial. No B"
-  },
-  {
     "date": "2026-04-06",
     "drivers": [
       "operações offshore",
@@ -310,5 +301,14 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, mesmo após breve cessar-fogo entre EUA e Irã. A exigência iraniana de autorizações e pedágio sustenta tarifas recordes, pressionando importadores asiáticos a adotarem rotas multimodais mais complexas e onerosas. A ausência de avanços diplomáticos, reforçada por vetos de Rússia e China na ONU, indica que a volatilidade e os custos elevados persistirão no curto prazo. A operação de desobstrução por navios americanos não altera o"
+  },
+  {
+    "date": "2026-04-13",
+    "drivers": [
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, mesmo após breve cessar-fogo entre EUA e Irã. A exigência iraniana de autorizações e cobrança de pedágio mantém tarifas de frete em níveis recordes, forçando importadores asiáticos a adotarem rotas multimodais mais complexas e onerosas. A operação americana de remoção de minas não altera o cenário de risco tático nem reduz custos no curto prazo. A ausência de avanços diplomáticos concretos, reforçada pelos vetos da Rússi"
   }
 ]
