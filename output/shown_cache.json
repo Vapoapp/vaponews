@@ -4,23 +4,15 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-04-12T07:22:58.949692+00:00",
+    "ts": "2026-04-13T13:53:06.542415+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
     "ts": "2026-04-07T07:27:29.975936+00:00",
     "type": "highlight"
   },
-  "https://petronoticias.com.br/aeroportos-do-sudeste-do-pais-batem-recorde-depassageiros-e-tem-a-maior-movimentacao-desde-o-ano-2000/": {
-    "ts": "2026-04-06T13:22:55.243534+00:00",
-    "type": "highlight"
-  },
   "https://www.oedigital.com/news/537593-oceanalpha-shares-usv-offerings-at-oi26": {
     "ts": "2026-04-07T02:52:55.795318+00:00",
-    "type": "highlight"
-  },
-  "https://maritime-executive.com/article/iran-claims-to-have-hit-an-msc-container-ship-in-the-mideast": {
-    "ts": "2026-04-06T13:22:55.243534+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/iran-says-iraqi-ships-are-allowed-to-use-strait-of-hormuz/": {
@@ -35,10 +27,6 @@
     "ts": "2026-04-08T07:44:10.311100+00:00",
     "type": "highlight"
   },
-  "https://www.offshore-energy.biz/seadrills-drillship-staying-1095-days-longer-with-petrobras/": {
-    "ts": "2026-04-06T13:22:55.243534+00:00",
-    "type": "highlight"
-  },
   "https://www.marineinsight.com/israel-linked-ship-severely-damaged-by-onboard-fire-after-iranian-attack-in-hormuz-strait/?utm_source=rss&utm_medium=rss&utm_campaign=israel-linked-ship-severely-damaged-by-onboard-fire-after-iranian-attack-in-hormuz-strait": {
     "ts": "2026-04-07T07:27:29.975936+00:00",
     "type": "highlight"
@@ -47,52 +35,8 @@
     "ts": "2026-04-07T19:13:45.374810+00:00",
     "type": "other"
   },
-  "https://g1.globo.com/g1-explica/noticia/2026/04/06/como-navios-parados-do-outro-lado-do-mundo-atrapalham-a-sua-vida-aqui-no-brasil-g1-explica.ghtml": {
-    "ts": "2026-04-06T13:22:55.243534+00:00",
-    "type": "other"
-  },
   "https://www.marineinsight.com/remains-of-indian-seafarer-reach-mumbai-after-35-days-family-refuses-last-rites-without-a-dna-test/?utm_source=rss&utm_medium=rss&utm_campaign=remains-of-indian-seafarer-reach-mumbai-after-35-days-family-refuses-last-rites-without-a-dna-test": {
     "ts": "2026-04-07T13:42:52.263204+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/ten-workers-suffer-injuries-as-fire-breaks-out-at-asian-offshore-oil-platform/": {
-    "ts": "2026-04-06T13:22:55.243534+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/tanker-with-iraqi-oil-passes-hormuz-under-petronas-charter": {
-    "ts": "2026-04-06T13:22:55.243534+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/tankers-loaded-with-qatari-lng-turn-back-before-reaching-strait-of-hormuz": {
-    "ts": "2026-04-06T13:22:55.243534+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/ships-with-qatar-lng-attempt-first-hormuz-exit-since-war-started/": {
-    "ts": "2026-04-06T13:22:55.243534+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/iran-claims-attack-on-container-vessel-in-strait-of-hormuz/": {
-    "ts": "2026-04-06T13:22:55.243534+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/jmic-middle-east-conflict-shows-a-rhythm-with-recurring-pulses/": {
-    "ts": "2026-04-06T13:22:55.243534+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/novorossiysk-in-flames-as-kyiv-intensifies-campaign-against-russian-energy-exports/": {
-    "ts": "2026-04-06T13:22:55.243534+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/two-more-indian-flagged-lpg-tankers-clear-the-persian-gulf": {
-    "ts": "2026-04-06T13:22:55.243534+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/column-offshore-takes-on-the-easter-story-seafarer-wages-south-african-judgements-pilate-in-copenhagen-strait-of-hormuz-blockages-offshore-accounts": {
-    "ts": "2026-04-06T13:22:55.243534+00:00",
-    "type": "other"
-  },
-  "https://www.nytimes.com/2026/04/06/business/dealbook/jamie-dimon-war-private-credit.html": {
-    "ts": "2026-04-06T13:22:55.243534+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/537690-seadrill-s-west-polaris-drillship-on-prolonged-stay-with-petrobras-off-brazil": {
@@ -1140,7 +1084,7 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/navios-americanos-entram-no-estreito-de-ormuz-para-limpar-as-minas-submarinas-iranianas/": {
-    "ts": "2026-04-13T08:13:03.783357+00:00",
+    "ts": "2026-04-13T13:53:06.542415+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/trump-empty-oil-tankers-heading-to-us-to-load-up-with-oil-gas": {
@@ -1172,7 +1116,7 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/pela-primeira-vez-mulher-assume-comando-de-navio-graneleiro-em-rota-de-bauxita-entre-maranhao-e-para/": {
-    "ts": "2026-04-13T08:13:03.783357+00:00",
+    "ts": "2026-04-13T13:53:06.542415+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/vineyard-wind-sues-ge-vernova-to-block-it-from-abandoning-work-on-wind-farm": {
@@ -1216,11 +1160,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/fracassam-as-negociacoes-de-paz-entre-estados-unidos-e-ira-ja-na-primeira-rodada-fim-do-cessar-fogo-parece-proximo/": {
-    "ts": "2026-04-13T08:13:03.783357+00:00",
+    "ts": "2026-04-13T13:53:06.542415+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/editorials/iran-crisis-puts-china-s-un-diplomacy-to-the-test": {
-    "ts": "2026-04-13T08:13:03.783357+00:00",
+    "ts": "2026-04-13T13:53:06.542415+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/fresh-thinking-for-the-strait-of-hormuz-the-plan-emerges": {
@@ -1244,11 +1188,11 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/537956-hormuz-crisis-signals-new-era-of-risk-for-gulf-energy": {
-    "ts": "2026-04-13T08:13:03.783357+00:00",
+    "ts": "2026-04-13T13:53:06.542415+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/singaporean-responders-put-out-container-fire-on-evergreen-boxship": {
-    "ts": "2026-04-13T08:13:03.783357+00:00",
+    "ts": "2026-04-13T13:53:06.542415+00:00",
     "type": "highlight"
   },
   "https://www.cnnbrasil.com.br/economia/macroeconomia/analise-reabertura-de-ormuz-sera-insuficiente-para-resolver-crise/": {
@@ -1261,6 +1205,62 @@
   },
   "https://splash247.com/chinese-bulker-owner-yangpu-zhongxin-doubles-down-on-tankers/": {
     "ts": "2026-04-13T08:13:03.783357+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/fpso-returns-to-operation-mode-in-eastern-mediterranean/": {
+    "ts": "2026-04-13T13:53:06.542415+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/537964-solstad-s-normand-fortress-csv-gets-56m-extension-with-petrobras": {
+    "ts": "2026-04-13T13:53:06.542415+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/fire-breaks-out-on-evergreen-container-ship-at-singapores-psa-pasir-panjang-terminal/?utm_source=rss&utm_medium=rss&utm_campaign=fire-breaks-out-on-evergreen-container-ship-at-singapores-psa-pasir-panjang-terminal": {
+    "ts": "2026-04-13T13:53:06.542415+00:00",
+    "type": "highlight"
+  },
+  "https://www.offshore-energy.biz/petrobras-strikes-fresh-deepwater-hydrocarbon-discovery-in-brazil/": {
+    "ts": "2026-04-13T13:53:06.542415+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/navegacao-brasileira-cresce-em-fevereiro-aquece-o-comercio-e-a-economia": {
+    "ts": "2026-04-13T13:53:06.542415+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/04/13/o-que-e-um-bloqueio-naval-e-como-ele-funcionaria-no-estreito-de-ormuz.ghtml": {
+    "ts": "2026-04-13T13:53:06.542415+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/537962-oil-surges-over-7-to-above-102-ahead-of-us-hormuz-blockade": {
+    "ts": "2026-04-13T13:53:06.542415+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/antaq/pt-br/noticias/2026/estatistico-aquaviario-da-antaq-divulga-dados-relativos-a-fevereiro-2026": {
+    "ts": "2026-04-13T13:53:06.542415+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/oil-tankers-avoid-strait-of-hormuz-ahead-of-planned-us-blockade": {
+    "ts": "2026-04-13T13:53:06.542415+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/two-tankers-held-in-malaysia-for-illegal-ship-to-ship-transfer": {
+    "ts": "2026-04-13T13:53:06.542415+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/watch-rnli-and-coastguard-airlift-injured-seafarer-after-cargo-ship-fire-in-english-channel/?utm_source=rss&utm_medium=rss&utm_campaign=watch-rnli-and-coastguard-airlift-injured-seafarer-after-cargo-ship-fire-in-english-channel": {
+    "ts": "2026-04-13T13:53:06.542415+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/opinion-irans-high-stakes-hormuz-gamble-creates-a-fragile-new-normal-for-gulf-oil": {
+    "ts": "2026-04-13T13:53:06.542415+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/totalenergies-finds-more-hydrocarbons-near-its-congo-offshore-fields": {
+    "ts": "2026-04-13T13:53:06.542415+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/column-quick-updates-maersk-supply-service-sold-in-brazil-turkey-drills-in-somalia-exxonmobil-eni-and-shell-plan-big-in-nigeria-offshore-accounts": {
+    "ts": "2026-04-13T13:53:06.542415+00:00",
     "type": "other"
   }
 }
