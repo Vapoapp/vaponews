@@ -2,17 +2,6 @@
   {
     "date": "2026-04-07",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A queda de 95% no tráfego pelo Estreito de Ormuz persiste, sustentando tarifas de frete em níveis recordes. A exigência iraniana de autorizações e pedágio não encontra solução na presença naval, forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais. Essa dinâmica eleva custos logísticos e complexidade operacional, sem perspectiva de reversão no curto prazo. No mercado offshore brasileiro, a Petrobras estendeu contratos de sondas, incluindo o West Polaris, por pe"
-  },
-  {
-    "date": "2026-04-07",
-    "drivers": [
       "operações offshore",
       "risco geopolítico",
       "petróleo e gás"
@@ -313,5 +302,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de tráfego no Estreito de Ormuz permanece abaixo de 10%, com tarifas de frete em patamares recordes devido à exigência iraniana de autorizações e pedágios. A remoção de minas pelos EUA não reduziu o risco tático, mantendo a volatilidade geopolítica elevada e forçando importadores asiáticos a adotar rotas multimodais mais complexas e onerosas. Essa dinâmica segue impactando diretamente custos e prazos na cadeia global de suprimentos marítimos. No Brasil, Petrobras avança em investime"
+  },
+  {
+    "date": "2026-04-14",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de tráfego no Estreito de Ormuz segue restrita a menos de 10%, com tarifas de frete em níveis recordes devido a exigências iranianas e pedágios. A operação americana de remoção de minas não reduziu o risco tático nem os custos, mantendo a volatilidade geopolítica elevada e forçando importadores asiáticos a adotarem rotas multimodais mais complexas e onerosas. Essa dinâmica pressiona a cadeia global de suprimentos marítimos, impactando prazos e custos operacionais. No Brasil, Petrobr"
   }
 ]
