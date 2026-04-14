@@ -8,17 +8,6 @@
       "logística e portos",
       "risco geopolítico"
     ],
-    "summary": "A redução persistente de cerca de 95% no tráfego pelo Estreito de Ormuz mantém tarifas de frete em patamares recordes. A exigência iraniana de autorizações e cobrança de pedágio gera gargalos operacionais que a presença naval não consegue mitigar, forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais. Essa dinâmica amplia custos e complexidade logística, sem perspectiva de reversão no curto prazo. No mercado offshore brasileiro, a Petrobras estendeu o contrato d"
-  },
-  {
-    "date": "2026-04-06",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
     "summary": "A queda persistente de 95% no tráfego pelo Estreito de Ormuz mantém tarifas de frete em níveis recordes, ampliando custos logísticos e complexidade operacional para importadores asiáticos. A exigência iraniana de autorizações e pedágio não encontra solução na presença naval, forçando ajustes contratuais e adoção de rotas multimodais sem perspectiva de reversão no curto prazo. No Brasil, o mercado offshore sinaliza expansão contratual. Petrobras e parceiros estenderam contratos de sondas e unidad"
   },
   {
@@ -313,5 +302,16 @@
       "risco geopolítico"
     ],
     "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, com tarifas de frete em níveis recordes devido à exigência iraniana de autorizações e pedágio. A operação americana de remoção de minas não reduziu o risco tático nem os custos, enquanto o fracasso nas negociações entre EUA e Irã indica que a volatilidade geopolítica deve persistir no curto prazo. Importadores asiáticos continuam migrando para rotas multimodais mais complexas, elevando custos logísticos e impactando a ca"
+  },
+  {
+    "date": "2026-04-14",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, com tarifas de frete em níveis recordes devido à exigência iraniana de autorizações e pedágio. A operação americana de remoção de minas não reduziu o risco tático nem os custos, enquanto a ausência de avanços diplomáticos e vetos na ONU indicam que a volatilidade geopolítica deve persistir no curto prazo. Importadores asiáticos intensificam o uso de rotas multimodais, elevando custos e complexidade logística. No setor of"
   }
 ]
