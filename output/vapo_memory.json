@@ -2,16 +2,6 @@
   {
     "date": "2026-04-08",
     "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A queda de 95% no tráfego pelo Estreito de Ormuz persiste, sustentada pela exigência iraniana de autorizações e pedágio, sem solução apesar do cessar-fogo temporário e da presença naval. Essa situação mantém tarifas de frete em patamares recordes, forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais mais complexas e onerosas. A ausência de avanços na resolução do impasse, agravada pelo veto de Rússia e China a medidas da ONU, indica continuidade da instabilidad"
-  },
-  {
-    "date": "2026-04-08",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "risco geopolítico",
@@ -316,5 +306,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade do Estreito de Ormuz segue abaixo de 10%, com tarifas de frete em níveis recordes devido às exigências iranianas e pedágios. A operação americana de remoção de minas não reduziu o risco tático, mantendo a volatilidade geopolítica e forçando importadores asiáticos a adotarem rotas multimodais mais complexas, elevando custos e prazos logísticos. Essa dinâmica reforça a necessidade de ajustes operacionais e planejamento de contingência para o comércio marítimo global. No Brasil, Petrob"
+  },
+  {
+    "date": "2026-04-15",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de tráfego no Estreito de Ormuz permanece abaixo de 10%, com tarifas de frete em níveis recordes devido às exigências iranianas e pedágios. A operação americana de remoção de minas não reduziu o risco tático, mantendo a volatilidade geopolítica elevada e forçando importadores asiáticos a adotarem rotas multimodais mais complexas, elevando custos e prazos logísticos. A ausência de avanços diplomáticos indica que a restrição deve persistir no curto prazo, impactando diretamente a cade"
   }
 ]
