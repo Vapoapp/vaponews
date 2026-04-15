@@ -1,15 +1,5 @@
 [
   {
-    "date": "2026-04-07",
-    "drivers": [
-      "contratos marítimos",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A queda de 95% no tráfego pelo Estreito de Ormuz segue sustentando tarifas de frete em níveis recordes, devido à exigência iraniana de autorizações e pedágio. A presença naval não alivia gargalos nem o risco geopolítico, forçando importadores asiáticos a reestruturarem contratos e adotarem rotas multimodais, elevando custos e complexidade operacional sem perspectiva de reversão no curto prazo. No mercado offshore brasileiro, a Petrobras estendeu contratos de sondas estratégicas, indicando contin"
-  },
-  {
     "date": "2026-04-08",
     "drivers": [
       "operações offshore",
@@ -315,5 +305,16 @@
       "risco geopolítico"
     ],
     "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, com tarifas de frete em níveis recordes devido às exigências iranianas e pedágios. A operação americana de remoção de minas não reduziu o risco tático nem os custos, mantendo a volatilidade geopolítica elevada. Importadores asiáticos intensificam o uso de rotas multimodais mais complexas, elevando custos e prazos na cadeia global. No Brasil, Petrobras avança com investimentos superiores a R$ 60 bilhões no projeto SEAP, i"
+  },
+  {
+    "date": "2026-04-15",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade do Estreito de Ormuz segue abaixo de 10%, com tarifas de frete em níveis recordes devido às exigências iranianas e pedágios. A operação americana de remoção de minas não reduziu o risco tático, mantendo a volatilidade geopolítica e forçando importadores asiáticos a adotarem rotas multimodais mais complexas, elevando custos e prazos logísticos. Essa dinâmica reforça a necessidade de ajustes operacionais e planejamento de contingência para o comércio marítimo global. No Brasil, Petrob"
   }
 ]
