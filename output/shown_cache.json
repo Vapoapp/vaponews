@@ -19,10 +19,6 @@
     "ts": "2026-04-08T13:44:53.600403+00:00",
     "type": "highlight"
   },
-  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/centro-oeste-registra-mais-de-7-8-milhoes-de-passageiros-em-fevereiro": {
-    "ts": "2026-04-08T02:53:51.325879+00:00",
-    "type": "other"
-  },
   "https://maritime-executive.com/article/tanker-truck-blast-closes-bridge-over-panama-canal": {
     "ts": "2026-04-08T19:25:40.502381+00:00",
     "type": "highlight"
@@ -62,46 +58,6 @@
   "https://maritime-executive.com/article/russia-and-china-veto-un-security-council-resolution-on-hormuz-security": {
     "ts": "2026-04-08T07:44:10.311100+00:00",
     "type": "highlight"
-  },
-  "https://g1.globo.com/economia/noticia/2026/04/07/o-que-e-o-estreito-de-ormuz-crucial-para-o-petroleo-global-ira-indica-reabertura-apos-39-dias-de-impacto-na-economia.ghtml": {
-    "ts": "2026-04-08T02:53:51.325879+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/537729-oil-shoots-over-110-as-trump-s-iran-deadline-looms": {
-    "ts": "2026-04-08T02:53:51.325879+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/qatar-lng-tankers-turn-back-at-strait-of-hormuz-materializing-gas-crisis/": {
-    "ts": "2026-04-08T02:53:51.325879+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/537751-abl-transports-northern-endeavour-fpso-to-recycling-yard": {
-    "ts": "2026-04-08T02:53:51.325879+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/strait-of-hormuz-multi-segment-shipping-disruption/": {
-    "ts": "2026-04-08T02:53:51.325879+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/russia-china-block-hormuz-action-at-un-as-shipping-crisis-continues/": {
-    "ts": "2026-04-08T02:53:51.325879+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/ports/factbox-energy-sites-and-shipping-casualties-of-iran-war": {
-    "ts": "2026-04-08T02:53:51.325879+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/two-qatar-lng-tankers-attempt-first-strait-of-hormuz-exit-since-us-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=two-qatar-lng-tankers-attempt-first-strait-of-hormuz-exit-since-us-iran-war": {
-    "ts": "2026-04-08T02:53:51.325879+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/vessel-review-ena-haven-eastern-navigation-welcomes-multi-role-vessel-to-offshore-services-fleet": {
-    "ts": "2026-04-08T02:53:51.325879+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/vessel-reviews": {
-    "ts": "2026-04-08T02:53:51.325879+00:00",
-    "type": "other"
   },
   "https://gcaptain.com/us-iran-temporary-ceasefire-deal-reopens-hormuz-with-major-strings-attached/": {
     "ts": "2026-04-08T07:44:10.311100+00:00",
@@ -1060,7 +1016,7 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/governo-assina-emprestimo-do-banco-do-brasil-para-conclusao-das-obras-do-tunel-santos-guaruja": {
-    "ts": "2026-04-14T19:25:00.505506+00:00",
+    "ts": "2026-04-15T03:17:41.470203+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/537970-borr-drilling-expects-higher-activity-as-rigs-return-to-work": {
@@ -1068,7 +1024,7 @@
     "type": "highlight"
   },
   "https://gcaptain.com/north-korea-tests-cruise-and-anti-ship-missiles-from-destroyer/": {
-    "ts": "2026-04-14T19:25:00.505506+00:00",
+    "ts": "2026-04-15T03:17:41.470203+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/ferroviario/vli-recordes-corredor-norte-matopiba-porto-do-itaqui": {
@@ -1104,7 +1060,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/first-india-flagged-lpg-tanker-transits-strait-of-hormuz-after-ceasefire-15-ships-still-await-passage/?utm_source=rss&utm_medium=rss&utm_campaign=first-india-flagged-lpg-tanker-transits-strait-of-hormuz-after-ceasefire-15-ships-still-await-passage": {
-    "ts": "2026-04-14T07:56:47.978454+00:00",
+    "ts": "2026-04-15T03:17:41.470203+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/mundo/noticia/2026/04/14/petroleiros-atravessam-o-estreito-de-ormuz-apesar-do-bloqueio-americano-mostram-dados.ghtml": {
@@ -1156,15 +1112,15 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/transporte-maritimo/21242/fundo-da-marinha-mercante-aprova-r-136-9-milhoes-para-construcao-de-embarcacoes-na-bahia/": {
-    "ts": "2026-04-14T19:25:00.505506+00:00",
+    "ts": "2026-04-15T03:17:41.470203+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/ukmto-reports-fire-aboard-bulker-following-attack-near-oman/": {
-    "ts": "2026-04-14T19:25:00.505506+00:00",
+    "ts": "2026-04-15T03:17:41.470203+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/538022-petrobras-makes-fid-for-brazil-s-deepwater-scheme-picks-sbm-offshore-for-fpsos": {
-    "ts": "2026-04-14T13:58:36.344077+00:00",
+    "ts": "2026-04-15T03:17:41.470203+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/malaysian-authorities-detain-two-tankers-over-illegal-diesel-transfer/": {
@@ -1208,15 +1164,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/floatel-anuncia-assinatura-de-contrato-com-a-equinor-para-embarcacao-de-acomodacao-em-bacalhau/": {
-    "ts": "2026-04-14T19:25:00.505506+00:00",
+    "ts": "2026-04-15T03:17:41.470203+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-realizara-consulta-e-audiencia-publicas-para-aprimorar-fiscalizacao-dos-servicos-portuarios": {
-    "ts": "2026-04-14T19:25:00.505506+00:00",
+    "ts": "2026-04-15T03:17:41.470203+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/report-saudi-arabia-pushes-u-s-to-lift-new-blockade-on-iranian-traffic": {
-    "ts": "2026-04-14T19:25:00.505506+00:00",
+    "ts": "2026-04-15T03:17:41.470203+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/petrobras-confirma-contrato-com-a-sbm-offshore-e-anuncia-investimento-para-mais-uma-plataforma-em-sergipe-aguas-profundas/": {
@@ -1265,6 +1221,54 @@
   },
   "https://gcaptain.com/bulk-carrier-hit-by-projectiles-off-oman-as-maritime-threats-spill-beyond-hormuz/": {
     "ts": "2026-04-14T19:25:00.505506+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/aeroportos-do-nordeste-e-da-amazonia-legal-passam-a-integrar-concessao-da-gru-airport-e-terao-r-630-milhoes-em-melhorias": {
+    "ts": "2026-04-15T03:17:41.470203+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/camorim-e-grupo-tome-apresentam-na-intermodal-o-projeto-de-uma-super-cabrea-que-e-a-maior-da-america-latina/": {
+    "ts": "2026-04-15T03:17:41.470203+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/editorials/op-ed-mideast-conflict-provides-a-test-of-economic-resilience": {
+    "ts": "2026-04-15T03:17:41.470203+00:00",
+    "type": "highlight"
+  },
+  "https://www.guiamaritimo.com.br/noticias/portos/porto-do-acu-bmj-par-condominio-logistico-truck-center-rj": {
+    "ts": "2026-04-15T03:17:41.470203+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/transocean-locks-in-445m-petrobras-drillship-extension/": {
+    "ts": "2026-04-15T03:17:41.470203+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/mpor-celebra-acordo-com-abdib-para-o-desenvolvimento-da-infraestrutura-de-portos-aeroportos-e-hidrovias": {
+    "ts": "2026-04-15T03:17:41.470203+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/politica/noticia/2026/04/14/eleicoes-2026-tse-novo-comando.ghtml": {
+    "ts": "2026-04-15T03:17:41.470203+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/performance-shipping-sells-aframax-tanker-to-trafigura-unit-for-4265m": {
+    "ts": "2026-04-15T03:17:41.470203+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538015-chevron-swaps-offshore-gas-assets-to-boost-venezuela-heavy-oil-stake": {
+    "ts": "2026-04-15T03:17:41.470203+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/chinese-tanker-sanctioned-by-u-s-crosses-strait-of-hormuz-despite-u-s-naval-blockade/?utm_source=rss&utm_medium=rss&utm_campaign=chinese-tanker-sanctioned-by-u-s-crosses-strait-of-hormuz-despite-u-s-naval-blockade": {
+    "ts": "2026-04-15T03:17:41.470203+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/us-blockade-unlikely-to-change-hormuz-shipping-hiatus-imo-chief/": {
+    "ts": "2026-04-15T03:17:41.470203+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/march-vlcc-outlook-historic-shockwaves-through-the-market/": {
+    "ts": "2026-04-15T03:17:41.470203+00:00",
     "type": "other"
   }
 }
