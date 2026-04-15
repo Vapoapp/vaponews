@@ -2,16 +2,6 @@
   {
     "date": "2026-04-08",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A redução de 95% no tráfego pelo Estreito de Ormuz, mesmo com cessar-fogo temporário, mantém as tarifas de frete em níveis recordes. A exigência iraniana de autorizações e pedágio não foi revertida, e o veto de Rússia e China a resoluções da ONU bloqueia avanços na segurança da navegação. Importadores asiáticos intensificam uso de rotas multimodais, elevando custos e complexidade operacional sem perspectiva de alívio no curto prazo. No mercado offshore brasileiro, a Petrobras reforça a expansão"
-  },
-  {
-    "date": "2026-04-08",
-    "drivers": [
       "risco geopolítico",
       "petróleo e gás"
     ],
@@ -317,5 +307,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de tráfego no Estreito de Ormuz permanece abaixo de 10%, com tarifas de frete em níveis recordes devido às exigências iranianas e pedágios. A operação americana de remoção de minas não reduziu o risco tático, mantendo a volatilidade geopolítica elevada e forçando importadores asiáticos a adotarem rotas multimodais mais complexas, elevando custos e prazos logísticos. A ausência de avanços diplomáticos indica que a restrição deve persistir no curto prazo, impactando diretamente a cade"
+  },
+  {
+    "date": "2026-04-15",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, com tarifas de frete em níveis recordes. As exigências iranianas e pedágios mantêm o risco tático elevado, apesar da remoção de minas pelos EUA. Importadores asiáticos intensificam o uso de rotas multimodais, elevando custos e prazos logísticos, o que reforça a necessidade de ajustes operacionais e planejamento de contingência para o comércio marítimo global. No Brasil, Petrobras confirma avanço no projeto SEAP com inves"
   }
 ]
