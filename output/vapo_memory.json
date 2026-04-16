@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-04-08",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A instabilidade no Estreito de Ormuz segue impactando diretamente custos e operações no transporte marítimo de petróleo e gás. A exigência iraniana de autorizações e pedágio, combinada com o veto de Rússia e China a resoluções da ONU, mantém o tráfego reduzido em 95%, sustentando tarifas recordes e forçando importadores asiáticos a adotar rotas multimodais mais complexas e onerosas. A ausência de solução diplomática no curto prazo reforça a volatilidade e o risco geopolítico na região, com conse"
-  },
-  {
     "date": "2026-04-09",
     "drivers": [
       "operações offshore",
@@ -321,5 +310,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de tráfego no Estreito de Ormuz permanece abaixo de 10%, com tarifas de frete em patamares recordes devido a exigências iranianas e pedágios. A operação americana de remoção de minas não reduziu o risco tático nem os custos, mantendo a volatilidade geopolítica elevada. Importadores asiáticos intensificam o uso de rotas multimodais, elevando custos e prazos logísticos, o que exige ajustes operacionais e planejamento de contingência. No Brasil, Petrobras avança com investimentos super"
+  },
+  {
+    "date": "2026-04-16",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de passagem no Estreito de Ormuz segue abaixo de 10%, com tarifas de frete em patamares recordes devido a exigências iranianas e pedágios. A operação americana de remoção de minas não reduziu o risco tático, mantendo a volatilidade geopolítica e forçando importadores asiáticos a adotarem rotas multimodais mais complexas, elevando custos e prazos na cadeia marítima global. No Brasil, a Petrobras renovou contrato de US$ 445 milhões com a Transocean para a sonda Deepwater Corcovado até"
   }
 ]

@@ -1,30 +1,14 @@
 {
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-04-14T19:25:00.505506+00:00",
+    "ts": "2026-04-16T07:57:42.383560+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-04-16T03:26:26.269504+00:00",
+    "ts": "2026-04-16T07:57:42.383560+00:00",
     "type": "highlight"
-  },
-  "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-convida-cidadaos-a-participarem-do-conselho-de-usuarios-de-servicos-publicos": {
-    "ts": "2026-04-09T07:46:29.130641+00:00",
-    "type": "other"
-  },
-  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/transporte-entre-portos-brasileiros-movimentou-1-85-milhao-de-toneladas-na-regiao-norte-em-janeiro": {
-    "ts": "2026-04-09T07:46:29.130641+00:00",
-    "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/acordo-de-cooperacao-tecnica-entre-antaq-e-anpd-fortalece-protecao-de-dados-no-setor-aquaviario": {
     "ts": "2026-04-09T19:16:59.570450+00:00",
-    "type": "highlight"
-  },
-  "https://www.offshore-energy.biz/two-week-ceasefire-deal-putting-strait-of-hormuz-back-in-business/": {
-    "ts": "2026-04-09T07:46:29.130641+00:00",
-    "type": "highlight"
-  },
-  "https://petronoticias.com.br/navios-voltam-a-trafegar-pelo-estreito-de-ormuz-e-preco-do-petroleo-despenca-para-menos-de-us-100/": {
-    "ts": "2026-04-09T07:46:29.130641+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/transporte-maritimo/21223/craft-inicia-operacao-de-fcl-no-mexico-e-amplia-presenca-na-america-latina/": {
@@ -33,10 +17,6 @@
   },
   "https://gcaptain.com/hapag-lloyd-sees-slow-return-to-gulf-shipping-after-u-s-iran-ceasefire-warns-of-rising-disruption-costs/": {
     "ts": "2026-04-09T13:56:19.006537+00:00",
-    "type": "highlight"
-  },
-  "https://www.oedigital.com/news/537812-shell-balances-gas-weakness-with-oil-trading-gains": {
-    "ts": "2026-04-09T07:46:29.130641+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/fundo-da-marinha-mercante-aprova-r-81-milhoes-para-a-industria-naval-no-sul-do-pais": {
@@ -51,10 +31,6 @@
     "ts": "2026-04-09T13:56:19.006537+00:00",
     "type": "highlight"
   },
-  "https://gcaptain.com/russia-oil-export-revenues-hit-highest-since-early-ukraine-war-as-prices-surge-despite-ukrainian-port-attacks/": {
-    "ts": "2026-04-09T07:46:29.130641+00:00",
-    "type": "highlight"
-  },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/nordeste-registra-alta-de-10-na-movimentacao-aerea-em-fevereiro": {
     "ts": "2026-04-10T03:19:47.768636+00:00",
     "type": "other"
@@ -67,10 +43,6 @@
     "ts": "2026-04-10T19:02:46.856801+00:00",
     "type": "other"
   },
-  "https://www.rigzone.com/news/wire/china_oil_tankers_join_line_testing_hormuz_and_iran_truce-09-apr-2026-183410-article/": {
-    "ts": "2026-04-09T07:46:29.130641+00:00",
-    "type": "highlight"
-  },
   "https://maritime-executive.com/article/baltimore-fireboats-respond-to-sinking-tug": {
     "ts": "2026-04-10T13:23:38.133346+00:00",
     "type": "highlight"
@@ -79,36 +51,8 @@
     "ts": "2026-04-10T07:50:44.076505+00:00",
     "type": "highlight"
   },
-  "https://www.bairdmaritime.com/offshore/offshore-vessel-news-roundup-april-9-hybrid-csov-delivery-cable-layer-launch-and-more": {
-    "ts": "2026-04-09T07:46:29.130641+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/denmarks-celsius-shipping-welcomes-new-lng-carrier-to-fleet": {
-    "ts": "2026-04-09T07:46:29.130641+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/consortium-developing-subsea-noise-reduction-system-for-floating-jacket-offshore-wind-foundations/": {
-    "ts": "2026-04-09T07:46:29.130641+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/ethical-farming-ireland-objects-pregnant-537835": {
-    "ts": "2026-04-09T07:46:29.130641+00:00",
-    "type": "other"
-  },
   "https://www.gov.br/antaq/pt-br/noticias/2026/reuniao-da-antaq-em-manaus-define-diretrizes-operacionais-de-travessias": {
     "ts": "2026-04-10T07:50:44.076505+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/russia-s-shadow-fleet-thumbs-its-nose-at-the-royal-navy": {
-    "ts": "2026-04-09T07:46:29.130641+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/537795-sunda-finder-target-shared-rig-for-timor-leste-offshore-drilling": {
-    "ts": "2026-04-09T07:46:29.130641+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/537809-sca-secures-first-50hertz-contract-for-cable-carousel-systems": {
-    "ts": "2026-04-09T07:46:29.130641+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/537843-israel-orders-restart-of-ops-at-karish-offshore-gas-platform": {
@@ -888,7 +832,7 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/transporte-maritimo/21242/fundo-da-marinha-mercante-aprova-r-136-9-milhoes-para-construcao-de-embarcacoes-na-bahia/": {
-    "ts": "2026-04-16T03:26:26.269504+00:00",
+    "ts": "2026-04-16T07:57:42.383560+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/ukmto-reports-fire-aboard-bulker-following-attack-near-oman/": {
@@ -944,7 +888,7 @@
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-realizara-consulta-e-audiencia-publicas-para-aprimorar-fiscalizacao-dos-servicos-portuarios": {
-    "ts": "2026-04-16T03:26:26.269504+00:00",
+    "ts": "2026-04-16T07:57:42.383560+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/report-saudi-arabia-pushes-u-s-to-lift-new-blockade-on-iranian-traffic": {
@@ -1020,7 +964,7 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/mpor-celebra-acordo-com-abdib-para-o-desenvolvimento-da-infraestrutura-de-portos-aeroportos-e-hidrovias": {
-    "ts": "2026-04-15T03:17:41.470203+00:00",
+    "ts": "2026-04-16T07:57:42.383560+00:00",
     "type": "other"
   },
   "https://g1.globo.com/politica/noticia/2026/04/14/eleicoes-2026-tse-novo-comando.ghtml": {
@@ -1088,11 +1032,11 @@
     "type": "highlight"
   },
   "https://safety4sea.com/lessons-learned-familiar-tasks-can-lead-to-complacency/": {
-    "ts": "2026-04-16T03:26:26.269504+00:00",
+    "ts": "2026-04-16T07:57:42.383560+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/538064-transocean-s-drillship-on-prolonged-445m-stay-with-petrobras": {
-    "ts": "2026-04-16T03:26:26.269504+00:00",
+    "ts": "2026-04-16T07:57:42.383560+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/jornal-nacional/noticia/2026/04/14/aeroporto-de-guarulhos-o-maior-do-pais-registra-media-de-4-furtos-por-dia-em-2025.ghtml": {
@@ -1124,7 +1068,7 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/aeroportos-do-nordeste-e-da-amazonia-legal-passam-a-integrar-concessao-da-gru-airport-e-terao-r-630-milhoes-em-melhorias": {
-    "ts": "2026-04-16T03:26:26.269504+00:00",
+    "ts": "2026-04-16T07:57:42.383560+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/04/15/jovem-morto-em-acidente-de-triciclo-estava-com-mais-3-no-veiculo.ghtml": {
@@ -1172,15 +1116,15 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/tome-franca-participa-da-intermodal-e-assina-contrato-de-r-72-8-milhoes-para-o-porto-de-imbituba-sc": {
-    "ts": "2026-04-16T03:26:26.269504+00:00",
+    "ts": "2026-04-16T07:57:42.383560+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/a-petrobras-escolhe-mais-uma-vez-a-chc-helicopteros-para-receber-o-premio-petroam-pela-qualidade-dos-servicos/": {
-    "ts": "2026-04-16T03:26:26.269504+00:00",
+    "ts": "2026-04-16T07:57:42.383560+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/russian-strike-hits-foreign-flagged-bulker-off-coast-of-odesa": {
-    "ts": "2026-04-16T03:26:26.269504+00:00",
+    "ts": "2026-04-16T07:57:42.383560+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/ministerio-de-portos-e-aeroportos-firma-parceria-com-abdib-para-dinamizar-a-infraestrutura-nacional": {
@@ -1221,6 +1165,46 @@
   },
   "https://www.hellenicshippingnews.com/bureau-veritas-releases-new-report-on-eu-rules-impact-to-shipowners/": {
     "ts": "2026-04-16T03:26:26.269504+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/u-s-treasury-takes-aim-at-iran-s-shamkhani-shipping-network": {
+    "ts": "2026-04-16T07:57:42.383560+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/538058-eni-ships-venezuelan-crude-to-europe-after-two-year-gap": {
+    "ts": "2026-04-16T07:57:42.383560+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/ussanctioned-russian-lng-makes-india-538101": {
+    "ts": "2026-04-16T07:57:42.383560+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/saipem-bags-400m-in-offshore-deals-from-aramco/": {
+    "ts": "2026-04-16T07:57:42.383560+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/uk-approves-1-5gw-offshore-wind-farm-off-lincolnshire-coast/": {
+    "ts": "2026-04-16T07:57:42.383560+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538073-v-r-energi-submits-360m-goliat-gas-export-plan-to-boost-output": {
+    "ts": "2026-04-16T07:57:42.383560+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/rupee-depreciation-fuels-incremental-gains-in-indias-dry-bulk-export-volumes/": {
+    "ts": "2026-04-16T07:57:42.383560+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/japan-to-boost-shipbuilding-with-ai-and-robotics/": {
+    "ts": "2026-04-16T07:57:42.383560+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/hns-convention-moves-closer-to-entry-into-force/": {
+    "ts": "2026-04-16T07:57:42.383560+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/iraq-bound-tanker-sails-into-gulf-after-second-attempt-at-hormuz/": {
+    "ts": "2026-04-16T07:57:42.383560+00:00",
     "type": "other"
   }
 }
