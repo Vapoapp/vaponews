@@ -7,10 +7,6 @@
     "ts": "2026-04-16T07:57:42.383560+00:00",
     "type": "highlight"
   },
-  "https://www.gov.br/antaq/pt-br/noticias/2026/acordo-de-cooperacao-tecnica-entre-antaq-e-anpd-fortalece-protecao-de-dados-no-setor-aquaviario": {
-    "ts": "2026-04-09T19:16:59.570450+00:00",
-    "type": "highlight"
-  },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/fundo-da-marinha-mercante-aprova-r-81-milhoes-para-a-industria-naval-no-sul-do-pais": {
     "ts": "2026-04-10T03:19:47.768636+00:00",
     "type": "other"
@@ -51,10 +47,6 @@
     "ts": "2026-04-10T03:19:47.768636+00:00",
     "type": "highlight"
   },
-  "https://petronoticias.com.br/centro-de-pesquisa-rcgi-usp-desenvolve-novos-metodos-para-melhorar-caracterizacao-de-reservatorios-do-pre-sal/": {
-    "ts": "2026-04-09T19:16:59.570450+00:00",
-    "type": "highlight"
-  },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-decommissioning/mota-engil-group-signs-127m-decommissioning-contract-with-petrobras": {
     "ts": "2026-04-11T02:44:43.842125+00:00",
     "type": "other"
@@ -71,25 +63,9 @@
     "ts": "2026-04-10T07:50:44.076505+00:00",
     "type": "highlight"
   },
-  "https://g1.globo.com/sp/sao-paulo/noticia/2026/04/09/centro-de-controle-foi-esvaziado-apos-pane-e-anac-estuda-ampliar-horario-de-congonhas-diz-diretor-tarcisio-cita-incendio.ghtml": {
-    "ts": "2026-04-09T19:16:59.570450+00:00",
-    "type": "highlight"
-  },
   "https://gcaptain.com/imo-warns-hormuz-toll-would-set-dangerous-precedent/": {
     "ts": "2026-04-10T13:23:38.133346+00:00",
     "type": "highlight"
-  },
-  "https://g1.globo.com/mundo/noticia/2026/04/09/160-misseis-em-10-minutos-250-mortos-imagens-mostram-destruicao-ataque-israel-libano.ghtml": {
-    "ts": "2026-04-09T19:16:59.570450+00:00",
-    "type": "other"
-  },
-  "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/04/09/justica-autoriza-defensoria-a-atuar-em-acao-pela-memoria-de-joao-candido.ghtml": {
-    "ts": "2026-04-09T19:16:59.570450+00:00",
-    "type": "other"
-  },
-  "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/04/09/marinha-emite-aviso-de-ressaca-com-ondas-de-ate-3-metros-no-litoral-do-rio-nesta-sexta.ghtml": {
-    "ts": "2026-04-09T19:16:59.570450+00:00",
-    "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/porto-de-santos-da-prioridades-a-navio-com-combustivel-para-evitar-desabastecimento": {
     "ts": "2026-04-11T02:44:43.842125+00:00",
@@ -101,34 +77,6 @@
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/novos-voos-entre-brasil-e-cabo-verde-comecam-em-maio-partindo-de-recife": {
     "ts": "2026-04-11T07:08:13.524971+00:00",
-    "type": "other"
-  },
-  "https://g1.globo.com/sp/sao-paulo/noticia/2026/04/09/aeroporto-de-congonhas-tem-pousos-e-decolagens-suspensos.ghtml": {
-    "ts": "2026-04-09T19:16:59.570450+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/uk-deploys-military-deter-russian-537883": {
-    "ts": "2026-04-09T19:16:59.570450+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/china-tankers-join-line-to-test-hormuz-exit-and-iran-truce/": {
-    "ts": "2026-04-09T19:16:59.570450+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/deepocean-charters-boskalis-recently-purchased-subsea-vessel/": {
-    "ts": "2026-04-09T19:16:59.570450+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/cbi-all-done-with-acquisition-of-petrofacs-asset-solutions-business/": {
-    "ts": "2026-04-09T19:16:59.570450+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/537858-northern-lights-adds-third-co2-carrier-to-expand-ccs-network": {
-    "ts": "2026-04-09T19:16:59.570450+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/traffic-through-strait-of-hormuz-remains-at-a-trickle-due-to-uncertainties": {
-    "ts": "2026-04-09T19:16:59.570450+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/a-vale-vai-afretar-navios-que-serao-os-primeiros-a-transportar-minerio-de-ferro-usando-o-etanol-como-combustivel/": {
@@ -952,7 +900,7 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/do-campo-aos-portos-cafe-brasileiro-mantem-lideranca-global-e-movimenta-exportacoes": {
-    "ts": "2026-04-15T07:57:30.018606+00:00",
+    "ts": "2026-04-16T19:24:09.367654+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/g7-crude-tankers-withdraw-from-russia-with-urals-rising-above-price-cap/": {
@@ -1012,7 +960,7 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/aeroportos-do-nordeste-e-da-amazonia-legal-passam-a-integrar-concessao-da-gru-airport-e-terao-r-630-milhoes-em-melhorias": {
-    "ts": "2026-04-16T14:00:49.666347+00:00",
+    "ts": "2026-04-16T19:24:09.367654+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/04/15/jovem-morto-em-acidente-de-triciclo-estava-com-mais-3-no-veiculo.ghtml": {
@@ -1060,7 +1008,7 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/tome-franca-participa-da-intermodal-e-assina-contrato-de-r-72-8-milhoes-para-o-porto-de-imbituba-sc": {
-    "ts": "2026-04-16T14:00:49.666347+00:00",
+    "ts": "2026-04-16T19:24:09.367654+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/a-petrobras-escolhe-mais-uma-vez-a-chc-helicopteros-para-receber-o-premio-petroam-pela-qualidade-dos-servicos/": {
@@ -1068,7 +1016,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/russian-strike-hits-foreign-flagged-bulker-off-coast-of-odesa": {
-    "ts": "2026-04-16T14:00:49.666347+00:00",
+    "ts": "2026-04-16T19:24:09.367654+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/ministerio-de-portos-e-aeroportos-firma-parceria-com-abdib-para-dinamizar-a-infraestrutura-nacional": {
@@ -1112,7 +1060,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/u-s-treasury-takes-aim-at-iran-s-shamkhani-shipping-network": {
-    "ts": "2026-04-16T14:00:49.666347+00:00",
+    "ts": "2026-04-16T19:24:09.367654+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/538058-eni-ships-venezuelan-crude-to-europe-after-two-year-gap": {
@@ -1152,11 +1100,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/repsol-sinopec-destaca-brasil-como-mercado-estrategico-e-traca-proximos-passos-para-o-pais/": {
-    "ts": "2026-04-16T14:00:49.666347+00:00",
+    "ts": "2026-04-16T19:24:09.367654+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/company-gets-approval-to-build-ammonia-terminal-in-hamburg/": {
-    "ts": "2026-04-16T14:00:49.666347+00:00",
+    "ts": "2026-04-16T19:24:09.367654+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/indian-lpg-carrier-jag-vikram-arrives-at-kandla-with-20400-mt-cargo-after-crossing-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=indian-lpg-carrier-jag-vikram-arrives-at-kandla-with-20400-mt-cargo-after-crossing-strait-of-hormuz": {
@@ -1201,6 +1149,62 @@
   },
   "https://gcaptain.com/us-sanctioned-supertankers-enter-gulf-despite-blockade/": {
     "ts": "2026-04-16T14:00:49.666347+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/petrobras-finalizou-a-interligacao-do-campo-de-buzios-ao-fpso-p-79/": {
+    "ts": "2026-04-16T19:24:09.367654+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/traffic-recovery-around-hormuz-reversed-after-us-counter-blockade/": {
+    "ts": "2026-04-16T19:24:09.367654+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/us-sets-clear-mines-strait-hormuz-538163": {
+    "ts": "2026-04-16T19:24:09.367654+00:00",
+    "type": "highlight"
+  },
+  "https://www.guiamaritimo.com.br/noticias/ferroviario/vli-renovacao-contrato-bp-bioenergy-acucar-baixada-santista": {
+    "ts": "2026-04-16T19:24:09.367654+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/cabotagem/alianca-armazenagem-pre-embarque-depot-rio-grande": {
+    "ts": "2026-04-16T19:24:09.367654+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/ferroviario/porto-seco-bauru-brado-recorde-containers-2025": {
+    "ts": "2026-04-16T19:24:09.367654+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/performance-shipping-inc-announces-long-term-time-charters-for-two-suezmax-newbuilding-tankers-delivering-in-2028-and-2029/": {
+    "ts": "2026-04-16T19:24:09.367654+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/yangzijiang-maritime-to-acquire-eight-vlccs-and-sell-four-mr-tankers": {
+    "ts": "2026-04-16T19:24:09.367654+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538147-abl-group-petrosafe-partner-up-for-offshore-energy-services-in-egypt": {
+    "ts": "2026-04-16T19:24:09.367654+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/portos/21264/apm-terminals-destaca-novo-terminal-100-eletrificado-em-suape-na-intermodal-south-america/": {
+    "ts": "2026-04-16T19:24:09.367654+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/logistica/rhenus-intermodal-2026-china-brasil-gru-vcp-asia-brasil-amsterda": {
+    "ts": "2026-04-16T19:24:09.367654+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538138-deepocean-woodside-wrap-up-dual-scope-subsea-survey-at-sangomar-field": {
+    "ts": "2026-04-16T19:24:09.367654+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538127-saipem-bags-400m-in-offshore-contracts-from-aramco-in-saudi-arabia": {
+    "ts": "2026-04-16T19:24:09.367654+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/u-s-blockade-forces-sanctioned-chinese-tanker-to-turn-back-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-blockade-forces-sanctioned-chinese-tanker-to-turn-back-in-strait-of-hormuz": {
+    "ts": "2026-04-16T19:24:09.367654+00:00",
     "type": "other"
   }
 }
