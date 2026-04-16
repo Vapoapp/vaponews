@@ -2,14 +2,6 @@
   {
     "date": "2026-04-08",
     "drivers": [
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O cessar-fogo temporário entre EUA e Irã reabriu parcialmente o Estreito de Ormuz, mas o tráfego permanece restrito e sujeito à cobrança de pedágio por Irã e Omã. Essa combinação sustenta tarifas de frete em níveis recordes, forçando importadores asiáticos a adotar rotas multimodais mais complexas e onerosas, sem perspectiva de reversão no curto prazo. A insegurança operacional e a ausência de avanços diplomáticos efetivos mantêm a volatilidade no transporte marítimo de petróleo e GNL, impactand"
-  },
-  {
-    "date": "2026-04-08",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -318,5 +310,16 @@
       "risco geopolítico"
     ],
     "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, com tarifas de frete em níveis recordes. As exigências iranianas e pedágios mantêm o risco tático elevado, apesar da remoção de minas pelos EUA. Importadores asiáticos intensificam o uso de rotas multimodais, elevando custos e prazos logísticos, o que reforça a necessidade de ajustes operacionais e planejamento de contingência para o comércio marítimo global. No Brasil, Petrobras confirma avanço no projeto SEAP com inves"
+  },
+  {
+    "date": "2026-04-16",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de tráfego no Estreito de Ormuz permanece abaixo de 10%, com tarifas de frete em patamares recordes devido a exigências iranianas e pedágios. A operação americana de remoção de minas não reduziu o risco tático nem os custos, mantendo a volatilidade geopolítica elevada. Importadores asiáticos intensificam o uso de rotas multimodais, elevando custos e prazos logísticos, o que exige ajustes operacionais e planejamento de contingência. No Brasil, Petrobras avança com investimentos super"
   }
 ]
