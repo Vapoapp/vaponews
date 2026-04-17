@@ -5,17 +5,6 @@
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz segue abaixo de 10% da capacidade normal, apesar do cessar-fogo temporário entre EUA e Irã. A exigência iraniana de autorizações e pedágio mantém as tarifas de frete em níveis recordes, forçando importadores asiáticos a adotarem rotas multimodais mais complexas e onerosas, sem perspectiva de reversão no curto prazo. Essa condição reforça a volatilidade operacional e eleva custos na cadeia de petróleo e gás. No mercado offshore brasileiro, a contratação da Subsea7 p"
-  },
-  {
-    "date": "2026-04-10",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
       "logística e portos",
       "risco geopolítico"
     ],
@@ -323,5 +312,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de tráfego no Estreito de Ormuz segue abaixo de 10%, com tarifas de frete em níveis recordes devido a exigências iranianas e pedágios. A remoção de minas pelos EUA não reduziu o risco tático, mantendo a volatilidade geopolítica elevada. Importadores asiáticos intensificam o uso de rotas multimodais, elevando custos e prazos logísticos globais, o que exige ajustes operacionais e planejamento de contingência nas cadeias de suprimentos. No Brasil, a Petrobras ampliou sua presença offsh"
+  },
+  {
+    "date": "2026-04-17",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade efetiva de tráfego no Estreito de Ormuz permanece abaixo de 10%, com tarifas de frete em níveis recordes devido a exigências iranianas e pedágios, mesmo após a remoção de minas pelos EUA. O risco tático elevado mantém importadores asiáticos sob pressão para adotar rotas multimodais mais complexas, elevando custos e prazos logísticos globais, exigindo ajustes operacionais e planejamento de contingência nas cadeias de suprimentos. No mercado brasileiro, a Petrobras renovou contrato re"
   }
 ]
