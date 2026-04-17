@@ -2,17 +2,6 @@
   {
     "date": "2026-04-09",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O cessar-fogo entre EUA e Irã não alterou a quase paralisação do tráfego no Estreito de Ormuz, que permanece 95% abaixo do normal devido à exigência iraniana de autorizações e pedágio. Essa restrição mantém tarifas de frete em níveis recordes e força importadores asiáticos a migrar para rotas multimodais mais complexas e custosas, elevando custos logísticos sem perspectiva de reversão no curto prazo. A ausência de avanços diplomáticos efetivos, agravada pelo veto de Rússia e China a resoluções d"
-  },
-  {
-    "date": "2026-04-09",
-    "drivers": [
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -322,5 +311,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de tráfego no Estreito de Ormuz segue abaixo de 10%, com tarifas de frete em níveis recordes devido a exigências iranianas e pedágios. A operação americana de remoção de minas não reduziu o risco tático nem os custos, mantendo a volatilidade geopolítica elevada. Importadores asiáticos intensificam o uso de rotas multimodais, elevando custos e prazos, o que exige ajustes operacionais e planejamento de contingência para cadeias globais de suprimentos. No Brasil, Petrobras renovou cont"
+  },
+  {
+    "date": "2026-04-17",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de tráfego no Estreito de Ormuz permanece abaixo de 10%, com tarifas de frete em níveis recordes. As exigências iranianas e pedágios mantêm o risco tático elevado, mesmo após a remoção de minas pelos EUA, forçando importadores asiáticos a adotarem rotas multimodais mais complexas, o que eleva custos e prazos logísticos globais. Esse cenário exige ajustes operacionais e planejamento de contingência para cadeias de suprimentos. No Brasil, a Petrobras renovou contrato de US$ 445 milhõe"
   }
 ]
