@@ -11,10 +11,6 @@
     "ts": "2026-04-10T19:02:46.856801+00:00",
     "type": "other"
   },
-  "https://maritime-executive.com/article/baltimore-fireboats-respond-to-sinking-tug": {
-    "ts": "2026-04-10T13:23:38.133346+00:00",
-    "type": "highlight"
-  },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-decommissioning/mota-engil-group-signs-127m-decommissioning-contract-with-petrobras": {
     "ts": "2026-04-11T02:44:43.842125+00:00",
     "type": "other"
@@ -26,10 +22,6 @@
   "https://www.marineinsight.com/fuel-carrying-tugboat-partially-sinks-in-baltimore-waterway/?utm_source=rss&utm_medium=rss&utm_campaign=fuel-carrying-tugboat-partially-sinks-in-baltimore-waterway": {
     "ts": "2026-04-11T02:44:43.842125+00:00",
     "type": "other"
-  },
-  "https://gcaptain.com/imo-warns-hormuz-toll-would-set-dangerous-precedent/": {
-    "ts": "2026-04-10T13:23:38.133346+00:00",
-    "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/porto-de-santos-da-prioridades-a-navio-com-combustivel-para-evitar-desabastecimento": {
     "ts": "2026-04-11T02:44:43.842125+00:00",
@@ -111,44 +103,12 @@
     "ts": "2026-04-11T18:54:55.510471+00:00",
     "type": "other"
   },
-  "https://www.rigzone.com/news/wire/tanker_with_russian_flag_transits_hormuz-10-apr-2026-183419-article/": {
-    "ts": "2026-04-10T13:23:38.133346+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/norways-rfocean-takes-delivery-of-new-chemical-tanker": {
-    "ts": "2026-04-10T13:23:38.133346+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/great-eastern-clears-out-ageing-tankers/": {
-    "ts": "2026-04-10T13:23:38.133346+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/exploration-development/subsea-surveying/next-geosolutions-led-consortium-awarded-28m-contract-for-italian-subsea-power-cable-project": {
-    "ts": "2026-04-10T13:23:38.133346+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/maryland-secures-settlement-with-cargo-ship-owners-over-baltimore-bridge-collapse-that-killed-6/?utm_source=rss&utm_medium=rss&utm_campaign=maryland-secures-settlement-with-cargo-ship-owners-over-baltimore-bridge-collapse-that-killed-6": {
-    "ts": "2026-04-10T13:23:38.133346+00:00",
-    "type": "other"
-  },
   "https://splash247.com/toll-wars-and-diverging-agendas-cloud-hormuz-outlook/": {
     "ts": "2026-04-11T18:54:55.510471+00:00",
     "type": "other"
   },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/vale-shandong-shipping-conclude-agreement-for-ethanol-powered-vessels": {
-    "ts": "2026-04-10T13:23:38.133346+00:00",
-    "type": "other"
-  },
   "https://www.marinelink.com/news/oil-spill-forces-partial-shipping-halt-537912": {
     "ts": "2026-04-12T03:23:19.049821+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/imo-says-strait-of-hormuz-tolls-would-set-a-dangerous-precedent": {
-    "ts": "2026-04-10T13:23:38.133346+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/shipping-the-hormuz-strait-conundrum-after-the-war-in-the-middle-east/": {
-    "ts": "2026-04-10T13:23:38.133346+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/a-ecovix-recebe-as-primeiras-toneladas-de-aco-para-construir-o-primeiro-dos-quatro-navios-handy-max-para-a-transpetro/": {
@@ -920,7 +880,7 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/tome-franca-participa-da-intermodal-e-assina-contrato-de-r-72-8-milhoes-para-o-porto-de-imbituba-sc": {
-    "ts": "2026-04-17T07:58:03.712100+00:00",
+    "ts": "2026-04-17T13:43:27.078379+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/a-petrobras-escolhe-mais-uma-vez-a-chc-helicopteros-para-receber-o-premio-petroam-pela-qualidade-dos-servicos/": {
@@ -928,7 +888,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/russian-strike-hits-foreign-flagged-bulker-off-coast-of-odesa": {
-    "ts": "2026-04-17T07:58:03.712100+00:00",
+    "ts": "2026-04-17T13:43:27.078379+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/ministerio-de-portos-e-aeroportos-firma-parceria-com-abdib-para-dinamizar-a-infraestrutura-nacional": {
@@ -1064,7 +1024,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/petrobras-finalizou-a-interligacao-do-campo-de-buzios-ao-fpso-p-79/": {
-    "ts": "2026-04-17T07:58:03.712100+00:00",
+    "ts": "2026-04-17T13:43:27.078379+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/traffic-recovery-around-hormuz-reversed-after-us-counter-blockade/": {
@@ -1120,7 +1080,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/desempenho-e-resultados-da-acelen-mostram-que-a-privatizacao-fez-bem-para-refinaria-em-resposta-clara-aos-seus-criticos/": {
-    "ts": "2026-04-17T07:58:03.712100+00:00",
+    "ts": "2026-04-17T13:43:27.078379+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/one-week-into-the-ceasefire-a-maritime-intelligence-breakdown/": {
@@ -1128,7 +1088,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/carrier-uss-gerald-r-ford-sets-post-vietnam-record-for-longest-deployment": {
-    "ts": "2026-04-17T07:58:03.712100+00:00",
+    "ts": "2026-04-17T13:43:27.078379+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/multimodalidade/vports-vli-multilift-moega-ferro-gusa-espirito-santo": {
@@ -1217,6 +1177,70 @@
   },
   "https://www.navaltoday.com/2026/04/15/russian-naval-vessel-spotted-hanging-around-uk-offshore-wind-farms-report/": {
     "ts": "2026-04-17T07:58:03.712100+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/2021-built-vessel-opens-ultra-deepwater-market-doors-for-astro-offshore/": {
+    "ts": "2026-04-17T13:43:27.078379+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/538194-petrobras-takes-operatorship-of-offshore-block-in-central-africa": {
+    "ts": "2026-04-17T13:43:27.078379+00:00",
+    "type": "highlight"
+  },
+  "https://safety4sea.com/iswan-managing-welfare-and-resources-amid-the-middle-east-conflict/": {
+    "ts": "2026-04-17T13:43:27.078379+00:00",
+    "type": "highlight"
+  },
+  "https://www.tecnologistica.com.br/noticias/desempenho/21270/portos-do-norte-crescem-12-85-no-inicio-de-2026-e-reforcam-papel-estrategico-nas-exportacoes/": {
+    "ts": "2026-04-17T13:43:27.078379+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/economia/noticia/2026/04/17/preco-petroleo-reabertura-ormuz.ghtml": {
+    "ts": "2026-04-17T13:43:27.078379+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/performance-shipping-secures-repsol-charters-for-suezmax-newbuilds/": {
+    "ts": "2026-04-17T13:43:27.078379+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/himalaya-shipping-scores-fresh-premium-index-linked-charter/": {
+    "ts": "2026-04-17T13:43:27.078379+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/chirp-annual-digest-of-reports-and-insight-articles-2025/": {
+    "ts": "2026-04-17T13:43:27.078379+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538190-strike-threat-grows-at-ichthys-lng-after-workers-reject-deal": {
+    "ts": "2026-04-17T13:43:27.078379+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/france-and-uk-to-lead-discussions-on-reopening-hormuz/": {
+    "ts": "2026-04-17T13:43:27.078379+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/iran-might-allow-ships-to-pass-through-the-omani-side-of-hormuz-strait/?utm_source=rss&utm_medium=rss&utm_campaign=iran-might-allow-ships-to-pass-through-the-omani-side-of-hormuz-strait": {
+    "ts": "2026-04-17T13:43:27.078379+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/intenational-shipping-under-threat-from-blockade/": {
+    "ts": "2026-04-17T13:43:27.078379+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/karachi-bound-pakistani-tanker-loaded-with-uae-crude-clears-the-strait-of-hormuz": {
+    "ts": "2026-04-17T13:43:27.078379+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/pakistan-oil-tanker-makes-rare-entry-and-exit-through-hormuz/": {
+    "ts": "2026-04-17T13:43:27.078379+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/catching-the-harmonic-breeze-inpexs-charts-lng-fleets-course-with-new-carrier/": {
+    "ts": "2026-04-17T13:43:27.078379+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/france-releases-suspected-russian-shadow-fleet-tanker-after-fine-payment/?utm_source=rss&utm_medium=rss&utm_campaign=france-releases-suspected-russian-shadow-fleet-tanker-after-fine-payment": {
+    "ts": "2026-04-17T13:43:27.078379+00:00",
     "type": "other"
   }
 }

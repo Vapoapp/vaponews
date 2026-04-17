@@ -2,17 +2,6 @@
   {
     "date": "2026-04-10",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O cessar-fogo entre EUA e Irã não alterou a quase paralisação do tráfego no Estreito de Ormuz, que opera a menos de 10% da capacidade normal. A exigência iraniana de autorizações e pedágio mantém tarifas de frete em níveis recordes, forçando importadores asiáticos a adotar rotas multimodais mais complexas e onerosas, sem perspectiva de reversão no curto prazo. A instabilidade geopolítica permanece elevada, com vetos de Rússia e China a resoluções da ONU impedindo avanços diplomáticos. No mercado"
-  },
-  {
-    "date": "2026-04-10",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -323,5 +312,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de tráfego no Estreito de Ormuz permanece abaixo de 10%, com tarifas de frete em níveis recordes devido a exigências iranianas e pedágios. A remoção de minas pelos EUA não reduziu o risco tático, mantendo a volatilidade geopolítica elevada. Importadores asiáticos intensificam o uso de rotas multimodais, elevando custos e prazos, o que exige ajustes operacionais e planejamento de contingência para cadeias globais de suprimentos. No Brasil, Petrobras renovou contrato de US$ 445 milhõe"
+  },
+  {
+    "date": "2026-04-17",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de tráfego no Estreito de Ormuz segue abaixo de 10%, com tarifas de frete em níveis recordes devido a exigências iranianas e pedágios. A remoção de minas pelos EUA não reduziu o risco tático, mantendo a volatilidade geopolítica elevada. Importadores asiáticos intensificam o uso de rotas multimodais, elevando custos e prazos logísticos globais, o que exige ajustes operacionais e planejamento de contingência nas cadeias de suprimentos. No Brasil, a Petrobras ampliou sua presença offsh"
   }
 ]
