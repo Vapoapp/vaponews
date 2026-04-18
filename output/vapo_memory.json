@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-04-10",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz opera abaixo de 10% da capacidade, mesmo após cessar-fogo entre EUA e Irã. A exigência iraniana de autorizações e pedágio mantém tarifas de frete em patamares recordes, forçando importadores asiáticos a adotarem rotas multimodais mais complexas e dispendiosas. A ausência de avanços diplomáticos, agravada por vetos da Rússia e China na ONU, indica manutenção da volatilidade geopolítica e custos elevados no curto prazo. No mercado offshore brasileiro, a Petrobras ref"
-  },
-  {
     "date": "2026-04-11",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -323,5 +312,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de tráfego no Estreito de Ormuz permanece abaixo de 10%, com tarifas de frete em níveis recordes devido a exigências iranianas e pedágios, mesmo após ações de remoção de minas pelos EUA. O risco tático elevado força importadores asiáticos a adotarem rotas multimodais mais complexas, elevando custos e prazos logísticos globais e demandando ajustes operacionais e planejamento de contingência nas cadeias de suprimentos. No Brasil, Petrobras amplia presença offshore ao assumir operação"
+  },
+  {
+    "date": "2026-04-18",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade efetiva de tráfego no Estreito de Ormuz segue abaixo de 10%, apesar da reabertura anunciada. Tarifas de frete atingem níveis recordes devido a exigências iranianas e pedágios, enquanto o risco tático permanece elevado. Importadores asiáticos intensificam uso de rotas multimodais, elevando custos e prazos logísticos, exigindo ajustes operacionais e planejamento de contingência para cadeias globais. No offshore, Petrobras amplia presença ao assumir operação de bloco em São Tomé e Prín"
   }
 ]
