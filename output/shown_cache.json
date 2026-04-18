@@ -7,22 +7,6 @@
     "ts": "2026-04-17T07:58:03.712100+00:00",
     "type": "highlight"
   },
-  "https://www.bairdmaritime.com/offshore/exploration-development/offshore-decommissioning/mota-engil-group-signs-127m-decommissioning-contract-with-petrobras": {
-    "ts": "2026-04-11T02:44:43.842125+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/fuel-carrying-tugboat-partially-sinks-in-baltimore-waterway/?utm_source=rss&utm_medium=rss&utm_campaign=fuel-carrying-tugboat-partially-sinks-in-baltimore-waterway": {
-    "ts": "2026-04-11T02:44:43.842125+00:00",
-    "type": "other"
-  },
-  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/porto-de-santos-da-prioridades-a-navio-com-combustivel-para-evitar-desabastecimento": {
-    "ts": "2026-04-11T02:44:43.842125+00:00",
-    "type": "other"
-  },
-  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/cabotagem-movimenta-1-82-milhao-de-toneladas-no-nordeste-brasileiro-em-janeiro": {
-    "ts": "2026-04-11T02:44:43.842125+00:00",
-    "type": "other"
-  },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/novos-voos-entre-brasil-e-cabo-verde-comecam-em-maio-partindo-de-recife": {
     "ts": "2026-04-11T07:08:13.524971+00:00",
     "type": "other"
@@ -73,10 +57,6 @@
   },
   "https://gcaptain.com/hormuz-strait-remains-shut-as-lebanon-fighting-strains-truce/": {
     "ts": "2026-04-12T07:22:58.949692+00:00",
-    "type": "highlight"
-  },
-  "https://www.marineinsight.com/iran-allows-only-15-ships-to-cross-strait-of-hormuz-daily-per-the-ceasefire-agreement/?utm_source=rss&utm_medium=rss&utm_campaign=iran-allows-only-15-ships-to-cross-strait-of-hormuz-daily-per-the-ceasefire-agreement": {
-    "ts": "2026-04-11T02:44:43.842125+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/537915-subsea7-nets-over-1-2m-for-work-at-petrobras-s-pia-2-off-brazil": {
@@ -137,10 +117,6 @@
   },
   "https://maritime-executive.com/article/royal-navy-tracks-russian-warships-for-ten-days-in-uk-waters": {
     "ts": "2026-04-12T03:23:19.049821+00:00",
-    "type": "highlight"
-  },
-  "https://splash247.com/thenamaris-moves-into-ammonia-shipping-segment/": {
-    "ts": "2026-04-11T02:44:43.842125+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/mota-engil-fecha-contrato-de-r-728-milhoes-com-a-petrobras-para-servicos-de-descomissionamento/": {
@@ -1024,7 +1000,7 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21264/apm-terminals-destaca-novo-terminal-100-eletrificado-em-suape-na-intermodal-south-america/": {
-    "ts": "2026-04-16T19:24:09.367654+00:00",
+    "ts": "2026-04-18T02:52:59.490252+00:00",
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/logistica/rhenus-intermodal-2026-china-brasil-gru-vcp-asia-brasil-amsterda": {
@@ -1144,11 +1120,11 @@
     "type": "other"
   },
   "https://www.offshore-energy.biz/2021-built-vessel-opens-ultra-deepwater-market-doors-for-astro-offshore/": {
-    "ts": "2026-04-17T19:10:49.732190+00:00",
+    "ts": "2026-04-18T02:52:59.490252+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/538194-petrobras-takes-operatorship-of-offshore-block-in-central-africa": {
-    "ts": "2026-04-17T13:43:27.078379+00:00",
+    "ts": "2026-04-18T02:52:59.490252+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/iswan-managing-welfare-and-resources-amid-the-middle-east-conflict/": {
@@ -1208,15 +1184,15 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/maritimo/maersk-novo-depositos-rio-grande-paranagua": {
-    "ts": "2026-04-17T19:10:49.732190+00:00",
+    "ts": "2026-04-18T02:52:59.490252+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/iran-and-trump-declare-hormuz-open-but-route-and-u-s-blockade-cloud-reality/": {
-    "ts": "2026-04-17T19:10:49.732190+00:00",
+    "ts": "2026-04-18T02:52:59.490252+00:00",
     "type": "highlight"
   },
   "https://www.nytimes.com/2026/04/17/world/middleeast/strait-hormuz-open-iran-lebanon-ceasefire.html": {
-    "ts": "2026-04-17T19:10:49.732190+00:00",
+    "ts": "2026-04-18T02:52:59.490252+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/embarcacoes/wilson-sons-ferroport-vast-biocombustivel-be8-porto-do-acu": {
@@ -1265,6 +1241,66 @@
   },
   "https://www.bairdmaritime.com/shipping/iranian-fm-all-ships-may-now-sail-through-strait-of-hormuz-after-lebanon-ceasefire-reached": {
     "ts": "2026-04-17T19:10:49.732190+00:00",
+    "type": "other"
+  },
+  "https://www.cnnbrasil.com.br/nacional/sudeste/mg/familia-decide-doar-orgaos-de-reporter-da-band-que-morreu-em-acidente/": {
+    "ts": "2026-04-18T02:52:59.490252+00:00",
+    "type": "highlight"
+  },
+  "https://www.tecnologistica.com.br/noticias/transporte-maritimo/21273/alianca-lanca-servico-de-armazenagem-pre-embarque/": {
+    "ts": "2026-04-18T02:52:59.490252+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/pacific-basin-cancels-methanol-vessels-due-to-climate-rules-uncertainty": {
+    "ts": "2026-04-18T02:52:59.490252+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/marinha-e-atech-fecham-acordo-para-aprimoramento-de-sistema-de-combate-das-fragatas-tamandare/": {
+    "ts": "2026-04-18T02:52:59.490252+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/antaq/pt-br/noticias/2026/adiada-audiencia-publica-da-antaq-para-concessao-do-canal-de-acesso-ao-porto-de-santos": {
+    "ts": "2026-04-18T02:52:59.490252+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/depois-dos-estados-unidos-nao-acabarem-com-o-bloqueio-naval-o-ira-ameaca-novamente-fechar-o-estreito-de-ormuz/": {
+    "ts": "2026-04-18T02:52:59.490252+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/producao-de-aco-bruto-no-brasil-tem-uma-queda-de-31-no-primeiro-trimestre-so-produzimos-81-milhoes-de-toneladas/": {
+    "ts": "2026-04-18T02:52:59.490252+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/ecopetrol-and-petrobras-readying-tests-at-offshore-gas-discovery-in-colombia-results-due-in-june": {
+    "ts": "2026-04-18T02:52:59.490252+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/obras-no-aeroporto-do-recife-e-entorno-serao-acompanhadas-por-grupo-com-prefeitura-concessionaria-e-mpor": {
+    "ts": "2026-04-18T02:52:59.490252+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/tanker-market-reached-record-levels-in-march/": {
+    "ts": "2026-04-18T02:52:59.490252+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/u-s-flagged-cargo-ship-goes-missing-during-passage-of-typhoon-sinlaku": {
+    "ts": "2026-04-18T02:52:59.490252+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/gibson-tanker-report-the-clock-is-ticking-2/": {
+    "ts": "2026-04-18T02:52:59.490252+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/greek-shipowner-sends-biggest-oil-tanker-yet-through-hormuz/": {
+    "ts": "2026-04-18T02:52:59.490252+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538186-mideast-energy-output-recovery-to-take-two-years-iea-says": {
+    "ts": "2026-04-18T02:52:59.490252+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-promove-audiencia-para-debater-prestacao-de-servicos-portuarios-e-infracoes-administrativas": {
+    "ts": "2026-04-18T02:52:59.490252+00:00",
     "type": "other"
   }
 }
