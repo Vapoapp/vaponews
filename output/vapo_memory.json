@@ -8,17 +8,6 @@
       "logística e portos",
       "risco geopolítico"
     ],
-    "summary": "O tráfego no Estreito de Ormuz segue abaixo de 10% da capacidade, mesmo após cessar-fogo temporário entre EUA e Irã. A exigência iraniana de autorizações e pedágio mantém tarifas de frete em níveis recordes, elevando custos logísticos e forçando importadores asiáticos a adotarem rotas multimodais mais complexas e onerosas. A ausência de avanços diplomáticos, agravada por vetos da Rússia e China na ONU, indica manutenção da volatilidade geopolítica e custos elevados no curto prazo. No mercado off"
-  },
-  {
-    "date": "2026-04-11",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
     "summary": "O tráfego no Estreito de Ormuz opera abaixo de 10% da capacidade, mesmo após cessar-fogo temporário entre EUA e Irã. A exigência iraniana de autorizações e pedágio mantém tarifas de frete em níveis recordes, pressionando importadores asiáticos a adotarem rotas multimodais mais complexas e onerosas. A ausência de avanços diplomáticos, agravada por vetos da Rússia e China na ONU, indica que a volatilidade geopolítica e os custos elevados persistirão no curto prazo. No mercado offshore brasileiro,"
   },
   {
@@ -323,5 +312,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade efetiva de tráfego no Estreito de Ormuz segue abaixo de 10%, apesar da reabertura anunciada. Tarifas de frete atingem níveis recordes devido a exigências iranianas e pedágios, enquanto o risco tático permanece elevado. Importadores asiáticos intensificam uso de rotas multimodais, elevando custos e prazos logísticos, exigindo ajustes operacionais e planejamento de contingência para cadeias globais. No offshore, Petrobras amplia presença ao assumir operação de bloco em São Tomé e Prín"
+  },
+  {
+    "date": "2026-04-18",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com tarifas de frete em patamares recordes devido a exigências iranianas e pedágios. A reabertura formal do canal não reduz o risco tático, mantendo as operações marítimas sob forte volatilidade e incerteza, o que impõe cautela às empresas e eleva custos logísticos globais. Importadores asiáticos intensificam o uso de rotas multimodais, gerando impactos diretos em prazos e planejamento de cadeias de suprimentos. No offshore,"
   }
 ]
