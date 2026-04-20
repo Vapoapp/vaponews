@@ -1068,7 +1068,7 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/tome-franca-visita-aeroportos-de-araripina-e-serra-talhada-e-acompanha-avancos-do-programa-ampliar": {
-    "ts": "2026-04-20T13:55:43.363623+00:00",
+    "ts": "2026-04-20T19:15:39.221733+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/india-flags-deep-concerns-over-attack-on-two-indian-ships-in-strait-of-hormuz/": {
@@ -1120,7 +1120,7 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/aeroporto-de-garanhuns-recebera-r-22-1-milhoes-em-investimentos-por-meio-do-ampliar": {
-    "ts": "2026-04-20T13:55:43.363623+00:00",
+    "ts": "2026-04-20T19:15:39.221733+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/reassessing-the-short-term-global-aluminium-outlook-amid-rising-market-risk/": {
@@ -1148,7 +1148,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/u-s-navy-attacks-and-seizes-it-first-vessel-in-blockade-of-iran-s-seaports": {
-    "ts": "2026-04-20T13:55:43.363623+00:00",
+    "ts": "2026-04-20T19:15:39.221733+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/woodside-orders-four-tugs-louisiana-lng-538220": {
@@ -1164,7 +1164,7 @@
     "type": "other"
   },
   "https://splash247.com/hormuz-crisis-intensifies/": {
-    "ts": "2026-04-20T13:55:43.363623+00:00",
+    "ts": "2026-04-20T19:15:39.221733+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/what-does-ais-have-to-do-with-100-oil-400k-day-tankers-and-gasoline-up-25/": {
@@ -1188,15 +1188,15 @@
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/hormuz-shipping-chaos-returns-as-iran-reverses-transit-reopening/": {
-    "ts": "2026-04-20T13:55:43.363623+00:00",
+    "ts": "2026-04-20T19:15:39.221733+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/538229-oil-flows-to-lag-even-if-hormuz-strait-reopens": {
-    "ts": "2026-04-20T13:55:43.363623+00:00",
+    "ts": "2026-04-20T19:15:39.221733+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/iran-strikes-american-warships-in-sea-of-oman-after-u-s-seizes-iranian-ship-near-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=iran-strikes-american-warships-in-sea-of-oman-after-u-s-seizes-iranian-ship-near-hormuz": {
-    "ts": "2026-04-20T13:55:43.363623+00:00",
+    "ts": "2026-04-20T19:15:39.221733+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/538232-odfjell-drilling-suspends-rig-ops-following-equipment-incident": {
@@ -1241,6 +1241,62 @@
   },
   "https://www.bairdmaritime.com/offshore/vessel-reviews": {
     "ts": "2026-04-20T13:55:43.363623+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/a-usiminas-aprimora-o-aco-que-esta-sendo-usado-do-programa-de-construcao-das-novas-fragatas-do-brasil/": {
+    "ts": "2026-04-20T19:15:39.221733+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/shipping-hormuz-strait-slows-again-538256": {
+    "ts": "2026-04-20T19:15:39.221733+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/korean-crude-tanker-uses-red-sea-detour-amid-risks/": {
+    "ts": "2026-04-20T19:15:39.221733+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/navy/": {
+    "ts": "2026-04-20T19:15:39.221733+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/depois-de-passar-pela-suprema-corte-caso-do-oleoduto-da-linha-5-em-michigan-esta-mais-perto-de-uma-solucao/": {
+    "ts": "2026-04-20T19:15:39.221733+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/uscg-confirms-finding-capsized-us-cargo-ship-but-no-sign-of-crew": {
+    "ts": "2026-04-20T19:15:39.221733+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538254-sable-offshore-sees-more-offshore-wells-restart-boosts-california-output": {
+    "ts": "2026-04-20T19:15:39.221733+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/hormuz-crisis-enters-dangerous-new-phase-as-u-s-seizes-vessel-and-attacks-resume/": {
+    "ts": "2026-04-20T19:15:39.221733+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/oil-prices-soar-again-as-u-s-iran-war-escalates-with-increased-ship-strikes-in-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=oil-prices-soar-again-as-u-s-iran-war-escalates-with-increased-ship-strikes-in-hormuz": {
+    "ts": "2026-04-20T19:15:39.221733+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/eni-discovers-five-trillion-cubic-feet-of-gas-offshore-indonesia": {
+    "ts": "2026-04-20T19:15:39.221733+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/tanker-clears-hormuz-chokepoint-bound-for-south-korea": {
+    "ts": "2026-04-20T19:15:39.221733+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/drilling-production/sable-offshore-ramps-up-california-output-as-more-wells-restart": {
+    "ts": "2026-04-20T19:15:39.221733+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/huge-gas-discovery-surfaces-in-southeast-asian-waters/": {
+    "ts": "2026-04-20T19:15:39.221733+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/china-launches-worlds-largest-fully-electric-intelligent-containership/": {
+    "ts": "2026-04-20T19:15:39.221733+00:00",
     "type": "other"
   }
 }

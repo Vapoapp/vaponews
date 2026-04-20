@@ -5,17 +5,6 @@
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz permanece restrito a menos de 10% da capacidade, apesar do cessar-fogo temporário entre EUA e Irã. A exigência iraniana de autorizações e pedágio sustenta tarifas de frete em níveis recordes, forçando importadores asiáticos a adotarem rotas multimodais mais complexas e onerosas. A operação americana de remoção de minas não altera o cenário tático, mantendo o risco elevado e a volatilidade geopolítica no curto prazo. No Golfo Pérsico, a instabilidade afeta diretamen"
-  },
-  {
-    "date": "2026-04-13",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
       "logística e portos",
       "risco geopolítico"
     ],
@@ -324,5 +313,15 @@
       "petróleo e gás"
     ],
     "summary": "A retomada do bloqueio iraniano limita o tráfego a menos de 10% da capacidade, mantendo o risco tático elevado e gerando ataques a navios comerciais, inclusive indianos. Esse cenário sustenta tarifas de frete em patamares recordes, pressionando importadores asiáticos a migrar para rotas multimodais mais longas e complexas, com impacto direto em custos e prazos logísticos. No offshore, a instabilidade geopolítica reforça a necessidade de revisão imediata do planejamento operacional e contingência"
+  },
+  {
+    "date": "2026-04-20",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A retomada do bloqueio iraniano restringe o tráfego a menos de 10% da capacidade, mantendo ataques a navios comerciais e elevando tarifas de frete a patamares recordes. Importadores asiáticos intensificam o uso de rotas multimodais mais longas, aumentando custos e prazos logísticos, o que exige revisão imediata do planejamento operacional e contingência nas cadeias globais. No offshore, a instabilidade geopolítica reforça a necessidade de ajustes operacionais, especialmente em áreas estratégicas"
   }
 ]
