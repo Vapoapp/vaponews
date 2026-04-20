@@ -1,14 +1,5 @@
 [
   {
-    "date": "2026-04-12",
-    "drivers": [
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, mesmo após breve cessar-fogo entre EUA e Irã. A exigência iraniana de autorizações e pedágio sustenta tarifas recordes, pressionando importadores asiáticos a adotarem rotas multimodais mais complexas e onerosas. A ausência de avanços diplomáticos, reforçada por vetos de Rússia e China na ONU, indica que a volatilidade e os custos elevados persistirão no curto prazo. A operação de desobstrução por navios americanos não altera o"
-  },
-  {
     "date": "2026-04-13",
     "drivers": [
       "operações offshore",
@@ -321,5 +312,15 @@
       "petróleo e gás"
     ],
     "summary": "A retomada do bloqueio iraniano no Estreito de Ormuz limita o tráfego a menos de 10% da capacidade, mantendo o risco tático elevado. Ataques a navios comerciais, incluindo embarcações indianas, pressionam tarifas de frete a níveis recordes, forçando importadores asiáticos a adotarem rotas multimodais mais longas e complexas, com impacto direto em custos e prazos logísticos. A persistência da instabilidade exige revisão urgente do planejamento operacional e contingência nas cadeias globais de sup"
+  },
+  {
+    "date": "2026-04-20",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A retomada do bloqueio iraniano no Estreito de Ormuz restringe o tráfego a menos de 10% da capacidade, mantendo o risco tático elevado e provocando ataques a navios comerciais, inclusive indianos. Essa instabilidade sustenta tarifas de frete em patamares recordes, forçando importadores asiáticos a adotarem rotas multimodais mais longas e complexas, com impacto direto em custos e prazos logísticos. O cenário exige revisão imediata do planejamento operacional e contingência nas cadeias globais, es"
   }
 ]
