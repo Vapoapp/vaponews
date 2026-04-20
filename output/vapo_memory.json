@@ -2,15 +2,6 @@
   {
     "date": "2026-04-13",
     "drivers": [
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, mesmo após breve cessar-fogo entre EUA e Irã. A exigência iraniana de autorizações e cobrança de pedágio mantém tarifas de frete em níveis recordes, forçando importadores asiáticos a adotarem rotas multimodais mais complexas e onerosas. A operação americana de remoção de minas não altera o cenário de risco tático nem reduz custos no curto prazo. A ausência de avanços diplomáticos concretos, reforçada pelos vetos da Rússi"
-  },
-  {
-    "date": "2026-04-13",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -322,5 +313,16 @@
       "petróleo e gás"
     ],
     "summary": "A retomada do bloqueio iraniano no Estreito de Ormuz restringe o tráfego a menos de 10% da capacidade, mantendo o risco tático elevado e provocando ataques a navios comerciais, inclusive indianos. Essa instabilidade sustenta tarifas de frete em patamares recordes, forçando importadores asiáticos a adotarem rotas multimodais mais longas e complexas, com impacto direto em custos e prazos logísticos. O cenário exige revisão imediata do planejamento operacional e contingência nas cadeias globais, es"
+  },
+  {
+    "date": "2026-04-20",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A retomada do bloqueio iraniano limita o tráfego a menos de 10% da capacidade, mantendo o risco tático elevado e gerando ataques a navios comerciais, inclusive indianos. Esse cenário sustenta tarifas de frete em patamares recordes, pressionando importadores asiáticos a migrar para rotas multimodais mais longas e complexas, com impacto direto em custos e prazos logísticos. No offshore, a instabilidade geopolítica reforça a necessidade de revisão imediata do planejamento operacional e contingência"
   }
 ]
