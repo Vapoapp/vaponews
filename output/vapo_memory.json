@@ -2,16 +2,6 @@
   {
     "date": "2026-04-12",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, mesmo após cessar-fogo temporário entre EUA e Irã. A exigência iraniana de autorizações e pedágio mantém as tarifas de frete em níveis recordes, forçando importadores asiáticos a adotarem rotas multimodais mais complexas e onerosas. A operação de limpeza de minas submarinas pelos EUA indica escalada tática, mas não altera o cenário de risco e custo elevado no curto prazo. No mercado offshore brasileiro, a extensão do con"
-  },
-  {
-    "date": "2026-04-12",
-    "drivers": [
       "operações offshore",
       "risco geopolítico",
       "petróleo e gás"
@@ -321,5 +311,15 @@
       "petróleo e gás"
     ],
     "summary": "O Irã retomou o bloqueio do Estreito de Ormuz, limitando o tráfego a menos de 10% da capacidade e mantendo o risco tático elevado. Ataques a navios comerciais, incluindo embarcações indianas, reforçam a volatilidade regional, pressionando tarifas de frete para níveis inéditos. Importadores asiáticos intensificam o uso de rotas multimodais, ampliando custos e prazos nas cadeias globais. Essa instabilidade exige revisão imediata do planejamento operacional e contingência para operadores marítimos"
+  },
+  {
+    "date": "2026-04-20",
+    "drivers": [
+      "contratos marítimos",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A retomada do bloqueio iraniano no Estreito de Ormuz limita o tráfego a menos de 10% da capacidade, mantendo o risco tático elevado. Ataques a navios comerciais, incluindo embarcações indianas, pressionam tarifas de frete a níveis recordes, forçando importadores asiáticos a adotarem rotas multimodais mais longas e complexas, com impacto direto em custos e prazos logísticos. A persistência da instabilidade exige revisão urgente do planejamento operacional e contingência nas cadeias globais de sup"
   }
 ]
