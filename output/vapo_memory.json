@@ -5,17 +5,6 @@
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, com tarifas de frete em patamares recordes devido à exigência iraniana de autorizações e pedágios. A operação americana de remoção de minas não reduziu o risco tático, mantendo a volatilidade geopolítica elevada e forçando importadores asiáticos a adotarem rotas multimodais mais complexas e onerosas. A persistência do bloqueio e a ausência de avanços diplomáticos indicam que o cenário de restrição deve se estender no curto pra"
-  },
-  {
-    "date": "2026-04-14",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
       "logística e portos",
       "risco geopolítico"
     ],
@@ -323,5 +312,16 @@
       "risco geopolítico"
     ],
     "summary": "A restrição do tráfego no Estreito de Ormuz a menos de 10% da capacidade segue elevando o risco tático e sustentando tarifas de frete em níveis recordes. Importadores asiáticos intensificam o uso de rotas multimodais mais longas, impactando custos e prazos logísticos e exigindo revisão imediata dos planos de contingência para operadores marítimos e cadeias globais. A volatilidade geopolítica reforça a necessidade de ajustes operacionais em áreas offshore estratégicas. No segmento de transporte d"
+  },
+  {
+    "date": "2026-04-21",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, com ataques a navios comerciais elevando o risco operacional e sustentando tarifas de frete em níveis recordes. Importadores asiáticos intensificam o uso de rotas multimodais mais longas, elevando custos e prazos, o que exige ajustes imediatos na gestão de risco e planejamento logístico para operadores marítimos. No offshore, a volatilidade geopolítica reforça a necessidade de revisão das operações em áreas estratégicas,"
   }
 ]
