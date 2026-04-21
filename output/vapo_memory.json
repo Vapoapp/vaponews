@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-04-13",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, com tarifas de frete em níveis recordes devido à exigência iraniana de autorizações e pedágio. A operação americana de remoção de minas não reduziu o risco tático nem os custos, enquanto o fracasso nas negociações entre EUA e Irã indica que a volatilidade geopolítica deve persistir no curto prazo. Importadores asiáticos continuam migrando para rotas multimodais mais complexas, elevando custos logísticos e impactando a ca"
-  },
-  {
     "date": "2026-04-14",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -323,5 +312,16 @@
       "petróleo e gás"
     ],
     "summary": "A restrição do tráfego no Estreito de Ormuz a menos de 10% da capacidade mantém o risco tático elevado, com ataques a navios comerciais ampliando a volatilidade. Isso sustenta tarifas de frete em níveis recordes e força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos. Operadores marítimos precisam revisar imediatamente seus planos de contingência e gestão de risco. No offshore, a instabilidade geopolítica reforça a necessidade de ajustes opera"
+  },
+  {
+    "date": "2026-04-21",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A restrição do tráfego no Estreito de Ormuz a menos de 10% da capacidade segue elevando o risco tático e sustentando tarifas de frete em níveis recordes. Importadores asiáticos intensificam o uso de rotas multimodais mais longas, aumentando custos e prazos logísticos, o que exige ajustes imediatos no planejamento operacional e gestão de risco para operadores marítimos e cadeias globais. No segmento offshore, a instabilidade geopolítica reforça a necessidade de revisão das operações em áreas estr"
   }
 ]
