@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-04-14",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade de tráfego no Estreito de Ormuz segue restrita a menos de 10%, com tarifas de frete em níveis recordes devido a exigências iranianas e pedágios. A operação americana de remoção de minas não reduziu o risco tático nem os custos, mantendo a volatilidade geopolítica elevada e forçando importadores asiáticos a adotarem rotas multimodais mais complexas e onerosas. Essa dinâmica pressiona a cadeia global de suprimentos marítimos, impactando prazos e custos operacionais. No Brasil, Petrobr"
-  },
-  {
     "date": "2026-04-15",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -323,5 +312,16 @@
       "risco geopolítico"
     ],
     "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, com ataques a navios comerciais elevando o risco operacional e sustentando tarifas de frete em níveis recordes. Importadores asiáticos intensificam o uso de rotas multimodais mais longas, o que aumenta custos e prazos logísticos, exigindo ajustes imediatos na gestão de risco e planejamento para operadores marítimos. No setor offshore, a instabilidade geopolítica reforça a necessidade de revisão das operações em áreas est"
+  },
+  {
+    "date": "2026-04-22",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz permanece restrito a menos de 10% da capacidade, com ataques recentes a navios comerciais ampliando o risco tático. Essa situação sustenta tarifas de frete em patamares recordes e força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos. Operadores marítimos precisam revisar imediatamente seus planos de contingência e gestão de risco para mitigar impactos na cadeia global. No offshore, a instabilidade geopolítica associada ao"
   }
 ]
