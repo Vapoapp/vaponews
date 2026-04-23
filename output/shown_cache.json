@@ -1,39 +1,19 @@
 {
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-04-23T03:24:02.721992+00:00",
+    "ts": "2026-04-23T08:04:32.564511+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-04-23T03:24:02.721992+00:00",
-    "type": "highlight"
-  },
-  "https://www.tecnologistica.com.br/noticias/transporte-maritimo/21242/fundo-da-marinha-mercante-aprova-r-136-9-milhoes-para-construcao-de-embarcacoes-na-bahia/": {
-    "ts": "2026-04-16T07:57:42.383560+00:00",
-    "type": "highlight"
-  },
-  "https://www.oedigital.com/news/538022-petrobras-makes-fid-for-brazil-s-deepwater-scheme-picks-sbm-offshore-for-fpsos": {
-    "ts": "2026-04-16T03:26:26.269504+00:00",
+    "ts": "2026-04-23T08:04:32.564511+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-realizara-consulta-e-audiencia-publicas-para-aprimorar-fiscalizacao-dos-servicos-portuarios": {
     "ts": "2026-04-16T14:00:49.666347+00:00",
     "type": "highlight"
   },
-  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/mpor-celebra-acordo-com-abdib-para-o-desenvolvimento-da-infraestrutura-de-portos-aeroportos-e-hidrovias": {
-    "ts": "2026-04-16T07:57:42.383560+00:00",
-    "type": "other"
-  },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/do-campo-aos-portos-cafe-brasileiro-mantem-lideranca-global-e-movimenta-exportacoes": {
     "ts": "2026-04-16T19:24:09.367654+00:00",
     "type": "other"
-  },
-  "https://safety4sea.com/lessons-learned-familiar-tasks-can-lead-to-complacency/": {
-    "ts": "2026-04-16T07:57:42.383560+00:00",
-    "type": "highlight"
-  },
-  "https://www.oedigital.com/news/538064-transocean-s-drillship-on-prolonged-445m-stay-with-petrobras": {
-    "ts": "2026-04-16T07:57:42.383560+00:00",
-    "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/evento/21254/mrs-avanca-na-multimodalidade-com-integracao-da-hidrovia-tiete-parana-a-ferrovia/": {
     "ts": "2026-04-16T14:00:49.666347+00:00",
@@ -67,81 +47,9 @@
     "ts": "2026-04-17T07:58:03.712100+00:00",
     "type": "other"
   },
-  "https://g1.globo.com/economia/noticia/2026/04/15/proposta-do-governo-para-regras-do-orcamento-de-2027-estima-salario-minimo-de-r-1717.ghtml": {
-    "ts": "2026-04-16T03:26:26.269504+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/dht-holdings-inc-business-update-4/": {
-    "ts": "2026-04-16T03:26:26.269504+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/russian-lng-cargo-from-sanctioned-portovaya-plant-heads-to-india": {
-    "ts": "2026-04-16T03:26:26.269504+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/ports/port-expansion-commences-at-cuxhaven-offshore-wind-terminal": {
-    "ts": "2026-04-16T03:26:26.269504+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/cosco-shipping-energy-transportation-to-order-two-newbuild-panamax-tankers": {
-    "ts": "2026-04-16T03:26:26.269504+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/u-s-navy-redeploys-for-next-phase-of-gulf-operations": {
-    "ts": "2026-04-16T03:26:26.269504+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction/saipem-secures-offshore-contracts-in-saudi-arabia-worth-400m": {
-    "ts": "2026-04-16T03:26:26.269504+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction/coremarine-and-jumbo-offshore-secure-mooring-installation-contract-in-argentina": {
-    "ts": "2026-04-16T03:26:26.269504+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/bureau-veritas-releases-new-report-on-eu-rules-impact-to-shipowners/": {
-    "ts": "2026-04-16T03:26:26.269504+00:00",
-    "type": "other"
-  },
   "https://maritime-executive.com/article/u-s-treasury-takes-aim-at-iran-s-shamkhani-shipping-network": {
     "ts": "2026-04-16T19:24:09.367654+00:00",
     "type": "highlight"
-  },
-  "https://www.oedigital.com/news/538058-eni-ships-venezuelan-crude-to-europe-after-two-year-gap": {
-    "ts": "2026-04-16T07:57:42.383560+00:00",
-    "type": "highlight"
-  },
-  "https://www.marinelink.com/news/ussanctioned-russian-lng-makes-india-538101": {
-    "ts": "2026-04-16T07:57:42.383560+00:00",
-    "type": "highlight"
-  },
-  "https://splash247.com/saipem-bags-400m-in-offshore-deals-from-aramco/": {
-    "ts": "2026-04-16T07:57:42.383560+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/uk-approves-1-5gw-offshore-wind-farm-off-lincolnshire-coast/": {
-    "ts": "2026-04-16T07:57:42.383560+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/538073-v-r-energi-submits-360m-goliat-gas-export-plan-to-boost-output": {
-    "ts": "2026-04-16T07:57:42.383560+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/rupee-depreciation-fuels-incremental-gains-in-indias-dry-bulk-export-volumes/": {
-    "ts": "2026-04-16T07:57:42.383560+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/japan-to-boost-shipbuilding-with-ai-and-robotics/": {
-    "ts": "2026-04-16T07:57:42.383560+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/hns-convention-moves-closer-to-entry-into-force/": {
-    "ts": "2026-04-16T07:57:42.383560+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/iraq-bound-tanker-sails-into-gulf-after-second-attempt-at-hormuz/": {
-    "ts": "2026-04-16T07:57:42.383560+00:00",
-    "type": "other"
   },
   "https://petronoticias.com.br/repsol-sinopec-destaca-brasil-como-mercado-estrategico-e-traca-proximos-passos-para-o-pais/": {
     "ts": "2026-04-16T19:24:09.367654+00:00",
@@ -1144,7 +1052,7 @@
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/valeura-charters-shelf-drillings-19-year-old-rig/": {
-    "ts": "2026-04-23T03:24:02.721992+00:00",
+    "ts": "2026-04-23T08:04:32.564511+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/trabalho-e-carreira/noticia/2026/04/22/quais-sao-os-proximos-feriados-de-2026.ghtml": {
@@ -1252,11 +1160,11 @@
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/comunicado-2013-instabilidade-no-sistema-sama": {
-    "ts": "2026-04-23T03:24:02.721992+00:00",
+    "ts": "2026-04-23T08:04:32.564511+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/asian-shipowners-to-cross-hormuz-before-western-firms-executives-say/": {
-    "ts": "2026-04-23T03:24:02.721992+00:00",
+    "ts": "2026-04-23T08:04:32.564511+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/04/22/video-imagem-mostra-momento-da-explosao-que-matou-quatro-pessoas-na-via-dutra-em-barra-mansa.ghtml": {
@@ -1324,11 +1232,11 @@
     "type": "other"
   },
   "https://gcaptain.com/three-vessels-hit-by-gunfire-in-strait-of-hormuz-crews-safe/": {
-    "ts": "2026-04-23T03:24:02.721992+00:00",
+    "ts": "2026-04-23T08:04:32.564511+00:00",
     "type": "highlight"
   },
   "https://www.cnnbrasil.com.br/economia/macroeconomia/setor-de-transporte-maritimo-aguarda-retomada-de-travessias-por-ormuz/": {
-    "ts": "2026-04-23T03:24:02.721992+00:00",
+    "ts": "2026-04-23T08:04:32.564511+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/first-lng-export-cargo-departs-sabine-538377": {
@@ -1373,6 +1281,62 @@
   },
   "https://www.oedigital.com/news/538329-bourbon-expands-fleet-with-13-vessels-worth-over-180m": {
     "ts": "2026-04-23T03:24:02.721992+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538389-santos-quarterly-sales-revenue-down-on-barossa-weather-disruptions": {
+    "ts": "2026-04-23T08:04:32.564511+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/hormuz-becomes-frontline-in-weaponisation-of-trade/": {
+    "ts": "2026-04-23T08:04:32.564511+00:00",
+    "type": "highlight"
+  },
+  "https://www.navaltoday.com/2026/04/22/iran-opens-fire-in-strait-of-hormuz-one-vessel-stopped-another-damaged-near-oman/": {
+    "ts": "2026-04-23T08:04:32.564511+00:00",
+    "type": "highlight"
+  },
+  "https://www.rigzone.com/news/wire/hormuz_stalls_after_iran_made_first_ship_seizures-23-apr-2026-183516-article/": {
+    "ts": "2026-04-23T08:04:32.564511+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/grid-bottlenecks-threaten-to-waste-europes-offshore-wind-boom/": {
+    "ts": "2026-04-23T08:04:32.564511+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/macgregor-equipment-ordered-for-ultra-large-turkiye-built-clvs/": {
+    "ts": "2026-04-23T08:04:32.564511+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/growing-push-for-revisions-adds-uncertainty-to-imo-green-bunker-rules/": {
+    "ts": "2026-04-23T08:04:32.564511+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/mpa-singapore-shows-interest-in-advancing-smart-shipping/": {
+    "ts": "2026-04-23T08:04:32.564511+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/bourbon-s-new-shareholders-drive-rapid-expansion-in-offshore-operations": {
+    "ts": "2026-04-23T08:04:32.564511+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/argus-vm-unlocks-sensor-free-fleet-wide-structural-insights-for-abs-smartshm-tier-1-compliance/": {
+    "ts": "2026-04-23T08:04:32.564511+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538346-bureau-veritas-expands-offshore-services-with-new-asia-hub": {
+    "ts": "2026-04-23T08:04:32.564511+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538336-deepocean-to-install-inter-array-cables-at-taiwan-s-offshore-wind-farm": {
+    "ts": "2026-04-23T08:04:32.564511+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/dnv-launches-phase-two-of-coe-during-smw-2026/": {
+    "ts": "2026-04-23T08:04:32.564511+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/subsea-surveying/shell-eyes-sierra-leones-offshore-potential-in-new-survey-deal": {
+    "ts": "2026-04-23T08:04:32.564511+00:00",
     "type": "other"
   }
 }

@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-04-15",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, com tarifas de frete em níveis recordes. As exigências iranianas e pedágios mantêm o risco tático elevado, apesar da remoção de minas pelos EUA. Importadores asiáticos intensificam o uso de rotas multimodais, elevando custos e prazos logísticos, o que reforça a necessidade de ajustes operacionais e planejamento de contingência para o comércio marítimo global. No Brasil, Petrobras confirma avanço no projeto SEAP com inves"
-  },
-  {
     "date": "2026-04-16",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -323,5 +312,15 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego no Estreito de Ormuz permanece restrito a menos de 10% da capacidade, com ataques e apreensões recentes ampliando o risco operacional. Essa situação mantém as tarifas de frete em níveis recordes, forçando importadores asiáticos a adotarem rotas multimodais mais longas, o que eleva custos e prazos logísticos. Operadores marítimos precisam revisar imediatamente planos de contingência para mitigar impactos na cadeia global. No offshore, a instabilidade geopolítica no Golfo Pérsico levou à"
+  },
+  {
+    "date": "2026-04-23",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O bloqueio parcial do Estreito de Ormuz segue reduzindo o tráfego a menos de 10% da capacidade, com ataques e apreensões recentes elevando o risco operacional. Essa situação sustenta tarifas de frete em níveis recordes e força importadores asiáticos a adotarem rotas multimodais mais longas, impactando custos e prazos logísticos. Operadores marítimos precisam ajustar planos de contingência e gestão de risco para evitar rupturas na cadeia global. No offshore, a instabilidade geopolítica no Golfo P"
   }
 ]
