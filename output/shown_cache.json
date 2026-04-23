@@ -1092,7 +1092,7 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/terminais/hapag-lloyd-tcp-parceria-servicos-transporte-mairitmo-navegacao": {
-    "ts": "2026-04-23T03:24:02.721992+00:00",
+    "ts": "2026-04-23T13:58:19.842664+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/538325-oil-prices-jump-as-ships-come-under-fire-in-strait-of-hormuz": {
@@ -1104,11 +1104,11 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/538350-middle-east-conflict-jolts-offshore-drilling-market": {
-    "ts": "2026-04-22T13:56:40.804553+00:00",
+    "ts": "2026-04-23T13:58:19.842664+00:00",
     "type": "other"
   },
   "https://safety4sea.com/inland-freighter-collision-with-pier-leaves-captain-injured/": {
-    "ts": "2026-04-22T13:56:40.804553+00:00",
+    "ts": "2026-04-23T13:58:19.842664+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/538326-nam-cheong-sells-two-offshore-support-vessels-for-37m": {
@@ -1132,7 +1132,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/two-ships-report-iranian-attacks-in-strait-of-hormuz": {
-    "ts": "2026-04-22T13:56:40.804553+00:00",
+    "ts": "2026-04-23T13:58:19.842664+00:00",
     "type": "other"
   },
   "https://maritime-executive.com/article/report-russian-oil-output-falls-after-ukrainian-drone-strikes": {
@@ -1160,11 +1160,11 @@
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/comunicado-2013-instabilidade-no-sistema-sama": {
-    "ts": "2026-04-23T08:04:32.564511+00:00",
+    "ts": "2026-04-23T13:58:19.842664+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/asian-shipowners-to-cross-hormuz-before-western-firms-executives-say/": {
-    "ts": "2026-04-23T08:04:32.564511+00:00",
+    "ts": "2026-04-23T13:58:19.842664+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/04/22/video-imagem-mostra-momento-da-explosao-que-matou-quatro-pessoas-na-via-dutra-em-barra-mansa.ghtml": {
@@ -1236,11 +1236,11 @@
     "type": "highlight"
   },
   "https://www.cnnbrasil.com.br/economia/macroeconomia/setor-de-transporte-maritimo-aguarda-retomada-de-travessias-por-ormuz/": {
-    "ts": "2026-04-23T08:04:32.564511+00:00",
+    "ts": "2026-04-23T13:58:19.842664+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/first-lng-export-cargo-departs-sabine-538377": {
-    "ts": "2026-04-23T03:24:02.721992+00:00",
+    "ts": "2026-04-23T13:58:19.842664+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/logistica/ceva-inovacao-cabotagem-gargalos-logisticos-intermodal-2026": {
@@ -1284,15 +1284,15 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/538389-santos-quarterly-sales-revenue-down-on-barossa-weather-disruptions": {
-    "ts": "2026-04-23T08:04:32.564511+00:00",
+    "ts": "2026-04-23T13:58:19.842664+00:00",
     "type": "highlight"
   },
   "https://splash247.com/hormuz-becomes-frontline-in-weaponisation-of-trade/": {
-    "ts": "2026-04-23T08:04:32.564511+00:00",
+    "ts": "2026-04-23T13:58:19.842664+00:00",
     "type": "highlight"
   },
   "https://www.navaltoday.com/2026/04/22/iran-opens-fire-in-strait-of-hormuz-one-vessel-stopped-another-damaged-near-oman/": {
-    "ts": "2026-04-23T08:04:32.564511+00:00",
+    "ts": "2026-04-23T13:58:19.842664+00:00",
     "type": "highlight"
   },
   "https://www.rigzone.com/news/wire/hormuz_stalls_after_iran_made_first_ship_seizures-23-apr-2026-183516-article/": {
@@ -1337,6 +1337,46 @@
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/subsea-surveying/shell-eyes-sierra-leones-offshore-potential-in-new-survey-deal": {
     "ts": "2026-04-23T08:04:32.564511+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/transporte-ferroviario/21288/mrs-logistica-e-dp-world-lancam-solucao-logistica-multimodal-conectando-o-centro-oeste-ao-porto-de-santos/": {
+    "ts": "2026-04-23T13:58:19.842664+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/hormuz-traffic-grinds-to-a-halt-after-iran-seizes-first-vessels/": {
+    "ts": "2026-04-23T13:58:19.842664+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/rio-tinto-to-charter-two-methanol-dual-fuel-bulk-carriers/": {
+    "ts": "2026-04-23T13:58:19.842664+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/santos-defies-q1-production-setbacks-to-hold-annual-targets": {
+    "ts": "2026-04-23T13:58:19.842664+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538401-tight-supply-drives-surge-in-high-end-ahts-dayrates": {
+    "ts": "2026-04-23T13:58:19.842664+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/iran-captures-2-foreign-flagged-ships-in-hormuz-after-u-s-proposes-to-extend-ceasefire/?utm_source=rss&utm_medium=rss&utm_campaign=iran-captures-2-foreign-flagged-ships-in-hormuz-after-u-s-proposes-to-extend-ceasefire": {
+    "ts": "2026-04-23T13:58:19.842664+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/mpa-and-psa-singapore-seek-proposals-for-autonomous-shipping-to-modernise-port-operations/": {
+    "ts": "2026-04-23T13:58:19.842664+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/us-blockade-tightens-iranian-tankers-intercepted-in-asian-waters": {
+    "ts": "2026-04-23T13:58:19.842664+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/iranian-oil-tankers-go-dark-to-evade-u-s-naval-blockade-in-hormuz-strait/?utm_source=rss&utm_medium=rss&utm_campaign=iranian-oil-tankers-go-dark-to-evade-u-s-naval-blockade-in-hormuz-strait": {
+    "ts": "2026-04-23T13:58:19.842664+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/shipping-giants-refuse-persian-gulf-transit-until-hormuz-risks-vanish": {
+    "ts": "2026-04-23T13:58:19.842664+00:00",
     "type": "other"
   }
 }
