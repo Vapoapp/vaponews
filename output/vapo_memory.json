@@ -2,17 +2,6 @@
   {
     "date": "2026-04-17",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade de tráfego no Estreito de Ormuz segue abaixo de 10%, com tarifas de frete em níveis recordes devido a exigências iranianas e pedágios. A remoção de minas pelos EUA não reduziu o risco tático, mantendo a volatilidade geopolítica elevada. Importadores asiáticos intensificam o uso de rotas multimodais, elevando custos e prazos logísticos globais, o que exige ajustes operacionais e planejamento de contingência nas cadeias de suprimentos. No Brasil, a Petrobras ampliou sua presença offsh"
-  },
-  {
-    "date": "2026-04-17",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -322,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "O bloqueio parcial do Estreito de Ormuz segue restringindo o tráfego a menos de 10% da capacidade, com apreensões recentes e ameaça de minas elevando o risco operacional. Essa condição sustenta tarifas de frete em níveis recordes, forçando importadores asiáticos a adotar rotas multimodais mais longas, o que aumenta custos e prazos logísticos. Operadores marítimos devem ajustar planos de contingência para evitar rupturas na cadeia global. No setor offshore, a instabilidade regional mantém operaçõ"
+  },
+  {
+    "date": "2026-04-25",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, mantendo o risco operacional elevado e tarifas de frete em níveis recordes. Importadores asiáticos ampliam uso de rotas multimodais mais longas, pressionando custos e prazos logísticos. Operadores marítimos devem revisar planos de contingência para evitar rupturas na cadeia global. No offshore, a instabilidade no Golfo Pérsico mantém operações suspensas e força ajustes contratuais para MODUs, impactando cronogramas e investime"
   }
 ]
