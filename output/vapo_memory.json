@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-04-17",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade efetiva de tráfego no Estreito de Ormuz permanece abaixo de 10%, com tarifas de frete em níveis recordes devido a exigências iranianas e pedágios, mesmo após a remoção de minas pelos EUA. O risco tático elevado mantém importadores asiáticos sob pressão para adotar rotas multimodais mais complexas, elevando custos e prazos logísticos globais, exigindo ajustes operacionais e planejamento de contingência nas cadeias de suprimentos. No mercado brasileiro, a Petrobras renovou contrato re"
-  },
-  {
     "date": "2026-04-18",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -322,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, mantendo o risco operacional elevado e tarifas de frete em níveis recordes. Importadores asiáticos ampliam uso de rotas multimodais mais longas, pressionando custos e prazos logísticos. Operadores marítimos devem revisar planos de contingência para evitar rupturas na cadeia global. No offshore, a instabilidade no Golfo Pérsico mantém operações suspensas e força ajustes contratuais para MODUs, impactando cronogramas e investime"
+  },
+  {
+    "date": "2026-04-25",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O tráfego marítimo no Estreito de Ormuz permanece abaixo de 10% da capacidade, sustentando tarifas de frete em patamares recordes. A continuidade das apreensões e ameaças de minas reforça o risco operacional, forçando importadores asiáticos a adotarem rotas multimodais mais longas, com aumento direto nos custos logísticos e nos prazos de entrega. Operadores precisam ajustar planos de contingência para evitar rupturas na cadeia global. No setor offshore, a instabilidade regional mantém operações"
   }
 ]
