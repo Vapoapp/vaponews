@@ -3,17 +3,6 @@
     "date": "2026-04-18",
     "drivers": [
       "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade efetiva de tráfego no Estreito de Ormuz segue abaixo de 10%, apesar da reabertura anunciada. Tarifas de frete atingem níveis recordes devido a exigências iranianas e pedágios, enquanto o risco tático permanece elevado. Importadores asiáticos intensificam uso de rotas multimodais, elevando custos e prazos logísticos, exigindo ajustes operacionais e planejamento de contingência para cadeias globais. No offshore, Petrobras amplia presença ao assumir operação de bloco em São Tomé e Prín"
-  },
-  {
-    "date": "2026-04-18",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -322,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, sustentando tarifas de frete em níveis recordes devido a riscos operacionais elevados, como minas navais e apreensões. Importadores asiáticos ampliam uso de rotas multimodais mais longas, elevando custos e prazos, o que exige revisão imediata dos planos de contingência para evitar rupturas na cadeia logística global. No setor offshore, a instabilidade no Golfo Pérsico mantém operações suspensas e força ajustes contratuai"
+  },
+  {
+    "date": "2026-04-25",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, com presença contínua de minas navais e apreensões que mantêm o risco operacional elevado. Essa condição sustenta tarifas de frete em níveis recordes, pressionando importadores asiáticos a adotarem rotas multimodais mais longas, o que amplia custos e prazos logísticos. Operadores marítimos devem revisar planos de contingência para mitigar impactos na cadeia global. No setor offshore, a instabilidade regional mantém opera"
   }
 ]
