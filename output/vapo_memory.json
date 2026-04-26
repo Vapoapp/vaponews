@@ -2,17 +2,6 @@
   {
     "date": "2026-04-19",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com retomada do bloqueio iraniano e ataques a embarcações comerciais, incluindo navios indianos. Esse cenário sustenta tarifas de frete em níveis recordes e força importadores asiáticos a adotarem rotas multimodais mais complexas, elevando custos e prazos logísticos. A volatilidade regional exige revisão urgente de planejamento operacional e contingência nas cadeias globais. No offshore, a Petrobras avança na expansão interna"
-  },
-  {
-    "date": "2026-04-19",
-    "drivers": [
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -320,5 +309,15 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, sustentando tarifas de frete em níveis recordes. A persistência de minas navais e apreensões mantém o risco operacional elevado, forçando importadores asiáticos a adotarem rotas multimodais mais longas, com impacto direto em custos e prazos. Operadores marítimos devem revisar planos de contingência para evitar rupturas na cadeia global. No setor offshore, a instabilidade regional mantém operações suspensas, especialmente"
+  },
+  {
+    "date": "2026-04-26",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz permanece restrito a menos de 10% da capacidade, sustentando tarifas de frete em patamares recordes. A persistência de minas navais e operações militares restringe o trânsito, forçando importadores asiáticos a adotarem rotas multimodais mais longas, o que pressiona custos e prazos nas cadeias globais de suprimento. Operadores marítimos precisam revisar planos de contingência para mitigar riscos de rupturas logísticas. No setor offshore, a instabilidade regional man"
   }
 ]
