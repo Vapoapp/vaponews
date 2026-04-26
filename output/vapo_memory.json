@@ -3,17 +3,6 @@
     "date": "2026-04-18",
     "drivers": [
       "atividade Petrobras/Transpetro",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com tarifas de frete em patamares recordes devido a exigências iranianas e pedágios. A reabertura formal do canal não reduz o risco tático, mantendo as operações marítimas sob forte volatilidade e incerteza, o que impõe cautela às empresas e eleva custos logísticos globais. Importadores asiáticos intensificam o uso de rotas multimodais, gerando impactos diretos em prazos e planejamento de cadeias de suprimentos. No offshore,"
-  },
-  {
-    "date": "2026-04-18",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -322,5 +311,15 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, com presença contínua de minas navais e apreensões que mantêm o risco operacional elevado. Essa condição sustenta tarifas de frete em níveis recordes, pressionando importadores asiáticos a adotarem rotas multimodais mais longas, o que amplia custos e prazos logísticos. Operadores marítimos devem revisar planos de contingência para mitigar impactos na cadeia global. No setor offshore, a instabilidade regional mantém opera"
+  },
+  {
+    "date": "2026-04-26",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, sustentando tarifas de frete em níveis recordes devido a riscos operacionais como minas navais e apreensões. Importadores asiáticos ampliam uso de rotas multimodais mais longas, elevando custos e prazos, o que exige revisão imediata dos planos de contingência para evitar rupturas na cadeia global. A instabilidade regional mantém operações offshore suspensas, forçando ajustes contratuais em MODUs e impactando cronogramas e inve"
   }
 ]
