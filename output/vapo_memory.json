@@ -2,16 +2,6 @@
   {
     "date": "2026-04-20",
     "drivers": [
-      "contratos marítimos",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A retomada do bloqueio iraniano no Estreito de Ormuz limita o tráfego a menos de 10% da capacidade, mantendo o risco tático elevado. Ataques a navios comerciais, incluindo embarcações indianas, pressionam tarifas de frete a níveis recordes, forçando importadores asiáticos a adotarem rotas multimodais mais longas e complexas, com impacto direto em custos e prazos logísticos. A persistência da instabilidade exige revisão urgente do planejamento operacional e contingência nas cadeias globais de sup"
-  },
-  {
-    "date": "2026-04-20",
-    "drivers": [
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -319,5 +309,15 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade devido a minas navais e bloqueios militares, sustentando tarifas de frete em níveis recordes. Importadores asiáticos ampliam uso de rotas multimodais mais longas, pressionando custos e prazos nas cadeias globais. Operadores marítimos precisam revisar planos de contingência para mitigar riscos de rupturas e garantir continuidade operacional. No setor offshore, a instabilidade regional mantém operações suspensas, impactando"
+  },
+  {
+    "date": "2026-04-27",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O bloqueio persistente no Estreito de Ormuz restringe o tráfego a menos de 10% da capacidade, sustentando tarifas de frete em níveis recordes. Importadores asiáticos ampliam uso de rotas multimodais mais longas, elevando custos e prazos, o que exige revisão imediata dos planos de contingência para evitar rupturas nas cadeias globais de suprimento. A presença contínua de minas navais e apreensões mantém o risco operacional elevado, impactando a previsibilidade das operações marítimas. No setor of"
   }
 ]
