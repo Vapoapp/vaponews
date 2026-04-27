@@ -63,18 +63,6 @@
     "ts": "2026-04-20T19:15:39.221733+00:00",
     "type": "highlight"
   },
-  "https://www.marinelink.com/news/woodside-orders-four-tugs-louisiana-lng-538220": {
-    "ts": "2026-04-20T03:30:34.270141+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/europe-looks-to-secure-shipping-in-strait-of-hormuz/": {
-    "ts": "2026-04-20T03:30:34.270141+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/pcc-pctc/grimaldi-takes-delivery-of-ammonia-ready-pctc-grande-tokyo": {
-    "ts": "2026-04-20T03:30:34.270141+00:00",
-    "type": "other"
-  },
   "https://splash247.com/hormuz-crisis-intensifies/": {
     "ts": "2026-04-21T03:21:59.367758+00:00",
     "type": "highlight"
@@ -1132,7 +1120,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/indian-captain-recalls-harrowing-45-days-spent-on-his-ship-stuck-in-hormuz-strait/?utm_source=rss&utm_medium=rss&utm_campaign=indian-captain-recalls-harrowing-45-days-spent-on-his-ship-stuck-in-hormuz-strait": {
-    "ts": "2026-04-26T19:03:43.900338+00:00",
+    "ts": "2026-04-27T03:37:13.324463+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/caught-in-the-crossfire-seafarers-stuck-in-the-persian-gulf": {
@@ -1160,27 +1148,27 @@
     "type": "other"
   },
   "https://petronoticias.com.br/a-russia-cria-uma-sede-logistica-no-artico-para-atender-a-rota-do-mar-do-norte-atraves-do-porto-de-pevek/": {
-    "ts": "2026-04-26T19:03:43.900338+00:00",
+    "ts": "2026-04-27T03:37:13.324463+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/u-s-navy-sailor-assigned-to-remove-mines-in-strait-of-hormuz-sidelined-after-monkey-attack/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-navy-sailor-assigned-to-remove-mines-in-strait-of-hormuz-sidelined-after-monkey-attack": {
-    "ts": "2026-04-26T07:47:19.095214+00:00",
+    "ts": "2026-04-27T03:37:13.324463+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/strait-of-hormuz-remains-near-empty-with-just-a-few-iran-ships-moving/": {
-    "ts": "2026-04-26T19:03:43.900338+00:00",
+    "ts": "2026-04-27T03:37:13.324463+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/editorials/with-the-ceasefire-on-the-brink-gulf-states-prepare": {
-    "ts": "2026-04-26T19:03:43.900338+00:00",
+    "ts": "2026-04-27T03:37:13.324463+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/feature-us-law-enforcement-raids-offices-of-houston-fuel-trader-ikon-midstream": {
-    "ts": "2026-04-26T19:03:43.900338+00:00",
+    "ts": "2026-04-27T03:37:13.324463+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/538289-smd-electrifies-their-qtrencher-rovs": {
-    "ts": "2026-04-26T19:03:43.900338+00:00",
+    "ts": "2026-04-27T03:37:13.324463+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/france-reaffirms-efforts-to-reopen-strait-of-hormuz/": {
@@ -1200,7 +1188,7 @@
     "type": "other"
   },
   "https://gcaptain.com/trumps-hormuz-blockade-has-deepened-a-historic-shipping-crisis/": {
-    "ts": "2026-04-26T19:03:43.900338+00:00",
+    "ts": "2026-04-27T03:37:13.324463+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/coal-falls-to-over-7-week-low/": {
@@ -1217,6 +1205,38 @@
   },
   "https://www.bairdmaritime.com/shipping/eu-to-insist-on-controversial-carbon-tax-setting-stage-for-clash-with-us": {
     "ts": "2026-04-26T19:03:43.900338+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/imo-safe-passage-strait-hormuz-538472": {
+    "ts": "2026-04-27T03:37:13.324463+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/qatar-lng-faces-long-road-back-after-unprecedented-disruption/": {
+    "ts": "2026-04-27T03:37:13.324463+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/04/26/ira-oferece-aos-eua-um-acordo-para-reabrir-ormuz-mas-adia-negociacoes-nucleares-diz-site.ghtml": {
+    "ts": "2026-04-27T03:37:13.324463+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/us-intercepts-sanctioned-tanker-arabian-538470": {
+    "ts": "2026-04-27T03:37:13.324463+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/u-s-energy-exports-hit-record-highs-as-strait-of-hormuz-conflict-persists/": {
+    "ts": "2026-04-27T03:37:13.324463+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/imo-passes-major-reform-of-ship-registration-process": {
+    "ts": "2026-04-27T03:37:13.324463+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/genco-and-diana-lock-horns-over-meeting-timing-as-takeover-battle-heats-up/": {
+    "ts": "2026-04-27T03:37:13.324463+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/xeneta-weekly-ocean-container-shipping-market-update-rates-softening/": {
+    "ts": "2026-04-27T03:37:13.324463+00:00",
     "type": "other"
   }
 }

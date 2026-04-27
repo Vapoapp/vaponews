@@ -2,16 +2,6 @@
   {
     "date": "2026-04-19",
     "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz segue abaixo de 10%, com o Irã retomando o bloqueio e ataques a navios comerciais, incluindo embarcações indianas. Essa persistência do risco tático mantém tarifas de frete em níveis recordes e força importadores asiáticos a adotar rotas multimodais mais complexas, elevando custos e prazos logísticos. A volatilidade regional exige revisão imediata do planejamento operacional e contingência nas cadeias globais, impactando diretamente a logística marítima internacion"
-  },
-  {
-    "date": "2026-04-19",
-    "drivers": [
       "contratos marítimos",
       "logística e portos",
       "risco geopolítico",
@@ -319,5 +309,14 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego no Estreito de Ormuz permanece restrito a menos de 10% da capacidade, sustentando tarifas de frete em patamares recordes. A persistência de minas navais e operações militares restringe o trânsito, forçando importadores asiáticos a adotarem rotas multimodais mais longas, o que pressiona custos e prazos nas cadeias globais de suprimento. Operadores marítimos precisam revisar planos de contingência para mitigar riscos de rupturas logísticas. No setor offshore, a instabilidade regional man"
+  },
+  {
+    "date": "2026-04-27",
+    "drivers": [
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade devido a minas navais, apreensões e bloqueios militares. Essa condição sustenta tarifas de frete em níveis recordes, forçando importadores asiáticos a adotar rotas multimodais mais longas, com impacto direto em custos e prazos das cadeias globais. Operadores marítimos devem ajustar planos de contingência para mitigar riscos de rupturas logísticas e garantir previsibilidade operacional. No setor offshore, a instabilidade r"
   }
 ]
