@@ -1,15 +1,5 @@
 [
   {
-    "date": "2026-04-19",
-    "drivers": [
-      "contratos marítimos",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O Irã retomou o bloqueio do Estreito de Ormuz, limitando o tráfego a menos de 10% da capacidade e mantendo o risco tático elevado. Ataques a navios comerciais, incluindo embarcações indianas, reforçam a volatilidade regional, pressionando tarifas de frete para níveis inéditos. Importadores asiáticos intensificam o uso de rotas multimodais, ampliando custos e prazos nas cadeias globais. Essa instabilidade exige revisão imediata do planejamento operacional e contingência para operadores marítimos"
-  },
-  {
     "date": "2026-04-20",
     "drivers": [
       "contratos marítimos",
@@ -318,5 +308,16 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade devido a minas navais, apreensões e bloqueios militares. Essa condição sustenta tarifas de frete em níveis recordes, forçando importadores asiáticos a adotar rotas multimodais mais longas, com impacto direto em custos e prazos das cadeias globais. Operadores marítimos devem ajustar planos de contingência para mitigar riscos de rupturas logísticas e garantir previsibilidade operacional. No setor offshore, a instabilidade r"
+  },
+  {
+    "date": "2026-04-27",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade devido a minas navais e bloqueios militares, sustentando tarifas de frete em níveis recordes. Importadores asiáticos ampliam uso de rotas multimodais mais longas, pressionando custos e prazos nas cadeias globais. Operadores marítimos precisam revisar planos de contingência para mitigar riscos de rupturas e garantir continuidade operacional. No setor offshore, a instabilidade regional mantém operações suspensas, impactando"
   }
 ]
