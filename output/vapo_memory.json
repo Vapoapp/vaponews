@@ -2,17 +2,6 @@
   {
     "date": "2026-04-21",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A restrição do tráfego no Estreito de Ormuz a menos de 10% da capacidade mantém o risco tático elevado, com ataques a navios comerciais ampliando a volatilidade. Isso sustenta tarifas de frete em níveis recordes e força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos. Operadores marítimos precisam revisar imediatamente seus planos de contingência e gestão de risco. No offshore, a instabilidade geopolítica reforça a necessidade de ajustes opera"
-  },
-  {
-    "date": "2026-04-21",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -320,5 +309,16 @@
       "petróleo e gás"
     ],
     "summary": "A restrição do tráfego no Estreito de Ormuz a menos de 10% da capacidade segue sustentando tarifas de frete em patamares recordes. Importadores asiáticos ampliam o uso de rotas multimodais mais longas, elevando custos e prazos nas cadeias globais. Operadores marítimos devem revisar planos de contingência para mitigar riscos de rupturas logísticas e garantir previsibilidade operacional. No segmento offshore, a instabilidade geopolítica mantém operações suspensas, impactando cronogramas e investim"
+  },
+  {
+    "date": "2026-04-28",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A restrição do tráfego no Estreito de Ormuz a menos de 10% da capacidade segue sustentando tarifas de frete em níveis recordes, ampliando custos e prazos nas cadeias logísticas globais. Importadores asiáticos intensificam o uso de rotas multimodais mais longas, o que exige revisão imediata de planos de contingência para evitar rupturas operacionais e garantir previsibilidade no transporte marítimo. No setor offshore, a instabilidade geopolítica regional mantém operações suspensas, impactando cro"
   }
 ]
