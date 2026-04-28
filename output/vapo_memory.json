@@ -1,15 +1,5 @@
 [
   {
-    "date": "2026-04-20",
-    "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A retomada do bloqueio iraniano restringe o tráfego a menos de 10% da capacidade, mantendo ataques a navios comerciais e elevando tarifas de frete a patamares recordes. Importadores asiáticos intensificam o uso de rotas multimodais mais longas, aumentando custos e prazos logísticos, o que exige revisão imediata do planejamento operacional e contingência nas cadeias globais. No offshore, a instabilidade geopolítica reforça a necessidade de ajustes operacionais, especialmente em áreas estratégicas"
-  },
-  {
     "date": "2026-04-21",
     "drivers": [
       "contratos marítimos",
@@ -319,5 +309,16 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade devido a minas navais e bloqueios militares, sustentando tarifas de frete em níveis recordes. Importadores asiáticos ampliam o uso de rotas multimodais mais longas, elevando custos e prazos nas cadeias globais, o que exige revisão urgente dos planos de contingência para evitar rupturas logísticas. A persistência do impasse entre Irã e EUA mantém o risco operacional elevado e a volatilidade no transporte marítimo de petról"
+  },
+  {
+    "date": "2026-04-28",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A restrição do tráfego no Estreito de Ormuz a menos de 10% da capacidade segue sustentando tarifas de frete em patamares recordes. Importadores asiáticos ampliam o uso de rotas multimodais mais longas, elevando custos e prazos nas cadeias globais. Operadores marítimos devem revisar planos de contingência para mitigar riscos de rupturas logísticas e garantir previsibilidade operacional. No segmento offshore, a instabilidade geopolítica mantém operações suspensas, impactando cronogramas e investim"
   }
 ]
