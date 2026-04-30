@@ -4,11 +4,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-04-30T14:10:19.266755+00:00",
-    "type": "highlight"
-  },
-  "https://www.guiamaritimo.com.br/noticias/terminais/hapag-lloyd-tcp-parceria-servicos-transporte-mairitmo-navegacao": {
-    "ts": "2026-04-23T19:20:21.625691+00:00",
+    "ts": "2026-04-30T19:41:23.532870+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/ukmto-reports-two-new-incidents-in-the-strait-of-hormuz/": {
@@ -47,10 +43,6 @@
     "ts": "2026-04-24T08:12:47.764237+00:00",
     "type": "other"
   },
-  "https://gcaptain.com/three-vessels-hit-by-gunfire-in-strait-of-hormuz-crews-safe/": {
-    "ts": "2026-04-23T19:20:21.625691+00:00",
-    "type": "highlight"
-  },
   "https://www.cnnbrasil.com.br/economia/macroeconomia/setor-de-transporte-maritimo-aguarda-retomada-de-travessias-por-ormuz/": {
     "ts": "2026-04-24T13:49:59.564601+00:00",
     "type": "highlight"
@@ -75,53 +67,9 @@
     "ts": "2026-04-24T13:49:59.564601+00:00",
     "type": "highlight"
   },
-  "https://www.hellenicshippingnews.com/rio-tinto-to-charter-two-methanol-dual-fuel-bulk-carriers/": {
-    "ts": "2026-04-23T19:20:21.625691+00:00",
-    "type": "highlight"
-  },
   "https://www.guiamaritimo.com.br/noticias/embarcacoes/rebocadores-transverse-svitzer-3000-operacoes-eficiencia-portuaria": {
     "ts": "2026-04-24T19:02:01.111535+00:00",
     "type": "highlight"
-  },
-  "https://www.marinelink.com/news/brent-crude-prices-rise-trump-threatens-538414": {
-    "ts": "2026-04-23T19:20:21.625691+00:00",
-    "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/offshore/exploration-development/sierra-leone-grants-offshore-exploration-rights-to-nigerian-firm": {
-    "ts": "2026-04-23T19:20:21.625691+00:00",
-    "type": "highlight"
-  },
-  "https://www.guiamaritimo.com.br/noticias/portos/suape-crescimento-primeiro-trimestre-expansao": {
-    "ts": "2026-04-23T19:20:21.625691+00:00",
-    "type": "other"
-  },
-  "https://www.guiamaritimo.com.br/noticias/logistica/allog-intermodal-2026-rodrigo-viti-desafios-geopoliticos-infraestrutura-logistica": {
-    "ts": "2026-04-23T19:20:21.625691+00:00",
-    "type": "other"
-  },
-  "https://g1.globo.com/mundo/noticia/2026/04/23/trump-diz-que-ordenou-marinha-a-atirar-qualquer-embarcacao-que-esteja-colocando-minas-em-ormuz.ghtml": {
-    "ts": "2026-04-23T19:20:21.625691+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/us-forces-board-shadow-tanker-in-indian-ocean-as-iran-blockade-efforts-grow": {
-    "ts": "2026-04-23T19:20:21.625691+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/538402-well-safe-solutions-nets-north-sea-decom-deal-with-apache": {
-    "ts": "2026-04-23T19:20:21.625691+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/538395-european-tsos-explore-joint-approach-to-offshore-cable-infrastructure": {
-    "ts": "2026-04-23T19:20:21.625691+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/wartsila-and-erik-thun-group-partnership-to-enhance-reliability-sustainability-and-performance-throughout-the-fleet/": {
-    "ts": "2026-04-23T19:20:21.625691+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/india-bound-container-ship-is-one-of-the-violating-vessels-seized-by-iran-in-hormuz-strait/?utm_source=rss&utm_medium=rss&utm_campaign=india-bound-container-ship-is-one-of-the-violating-vessels-seized-by-iran-in-hormuz-strait": {
-    "ts": "2026-04-23T19:20:21.625691+00:00",
-    "type": "other"
   },
   "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/04/24/fragata-tamandare-e-incorporada-a-marinha-no-rio-veja-o-raio-x-do-novo-navio-de-guerra-do-brasil.ghtml": {
     "ts": "2026-04-24T19:02:01.111535+00:00",
@@ -976,7 +924,7 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21312/porto-do-acu-ganha-condominio-logistico-e-patio-para-caminhoes/": {
-    "ts": "2026-04-30T14:10:19.266755+00:00",
+    "ts": "2026-04-30T19:41:23.532870+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/strait-of-hormuz-traffic-still-at-just-5-of-pre-war-levels-why-shipping-remains-crippled-despite-ceasefire/": {
@@ -988,15 +936,15 @@
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21309/tecadi-inaugura-depot-em-itajai-e-amplia-capacidade-para-ate-5-mil-conteineres-na-regiao/": {
-    "ts": "2026-04-29T14:12:15.190383+00:00",
+    "ts": "2026-04-30T19:41:23.532870+00:00",
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21308/parceria-entre-ultracargo-inpasa-e-pbio-viabiliza-modelo-integrado-para-exportacao-de-biocombustiveis-pelo-porto-de-aratu/": {
-    "ts": "2026-04-29T14:12:15.190383+00:00",
+    "ts": "2026-04-30T19:41:23.532870+00:00",
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/portonave-e-o-primeiro-terminal-portuario-de-santa-catarina-a-atingir-a-marca-de-15-milhoes-de-teus-movimentados": {
-    "ts": "2026-04-29T14:12:15.190383+00:00",
+    "ts": "2026-04-30T19:41:23.532870+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/538576-noble-lifts-rig-utilization-with-over-550m-in-new-drilling-contracts": {
@@ -1044,7 +992,7 @@
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/publicado-da-antaq-para-bienio-2026-2028": {
-    "ts": "2026-04-30T14:10:19.266755+00:00",
+    "ts": "2026-04-30T19:41:23.532870+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/logistica/wilson-sons-testa-entregas-por-drone-no-offshore-no-rj": {
@@ -1148,7 +1096,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/538633-bp-inks-deal-with-venezuela-to-develop-offshore-gas-fields": {
-    "ts": "2026-04-30T14:10:19.266755+00:00",
+    "ts": "2026-04-30T19:41:23.532870+00:00",
     "type": "highlight"
   },
   "https://splash247.com/euroseas-in-fresh-china-newbuild-move/": {
@@ -1257,6 +1205,62 @@
   },
   "https://gcaptain.com/us-seeks-forfeiture-of-seized-oil-tankers-linked-to-iran/": {
     "ts": "2026-04-30T14:10:19.266755+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/paranagua-sedia-a-7a-edicao-das-caravanas-da-inovacao-portuaria": {
+    "ts": "2026-04-30T19:41:23.532870+00:00",
+    "type": "highlight"
+  },
+  "https://www.gov.br/antaq/pt-br/noticias/2026/seminario-promovido-pela-antaq-debate-aprimoramento-do-evtea": {
+    "ts": "2026-04-30T19:41:23.532870+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/the-mission-to-seafarers-appoints-guy-platten-as-new-chair/": {
+    "ts": "2026-04-30T19:41:23.532870+00:00",
+    "type": "highlight"
+  },
+  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/aeroportos-brasileiros-ampliam-espacos-multissensoriais-e-reforcam-inclusao-de-passageiros-neurodivergentes": {
+    "ts": "2026-04-30T19:41:23.532870+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/maritimo/hapag-lloyd-dsv-combustiveis-maritimo-descarbonizacao-gee": {
+    "ts": "2026-04-30T19:41:23.532870+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/petrobras-retoma-producao-de-ureia-na-ansa-no-parana-para-atender-a-agroindustria-do-pais/": {
+    "ts": "2026-04-30T19:41:23.532870+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/mercado/rhenus-conclui-aquisicao-integral-lbh-global-agencies-agencia-portuaria": {
+    "ts": "2026-04-30T19:41:23.532870+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction/subsea-7-and-slb-partnership-secures-angolan-offshore-work": {
+    "ts": "2026-04-30T19:41:23.532870+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/ardmore-shipping-provides-update-on-fleet-investment-dividend-policy-and-vessel-sale/": {
+    "ts": "2026-04-30T19:41:23.532870+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/u-s-releases-six-iranian-seafarers-while-moving-for-forfeiture-of-tankers": {
+    "ts": "2026-04-30T19:41:23.532870+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538647-jdr-nets-subsea-umbilicals-deal-for-australian-gas-project": {
+    "ts": "2026-04-30T19:41:23.532870+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/boxships/euroseas-orders-four-feeder-containerships-from-chinese-yards": {
+    "ts": "2026-04-30T19:41:23.532870+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/imo-carbon-plan-faces-growing-revolt-as-u-s-courts-silent-majority/": {
+    "ts": "2026-04-30T19:41:23.532870+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/iran-war-is-supercharging-the-energy-transition-unfccc-says/": {
+    "ts": "2026-04-30T19:41:23.532870+00:00",
     "type": "other"
   }
 }

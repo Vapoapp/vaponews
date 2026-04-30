@@ -4,16 +4,6 @@
     "drivers": [
       "contratos marítimos",
       "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O bloqueio parcial do Estreito de Ormuz segue reduzindo o tráfego a menos de 10% da capacidade, com ataques e apreensões recentes elevando o risco operacional. Essa situação sustenta tarifas de frete em níveis recordes e força importadores asiáticos a adotarem rotas multimodais mais longas, impactando custos e prazos logísticos. Operadores marítimos precisam ajustar planos de contingência e gestão de risco para evitar rupturas na cadeia global. No offshore, a instabilidade geopolítica no Golfo P"
-  },
-  {
-    "date": "2026-04-23",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
       "logística e portos",
       "risco geopolítico",
       "petróleo e gás"
@@ -317,5 +307,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas de frete em patamares recordes. Importadores asiáticos ampliam uso de rotas multimodais mais longas, elevando custos e prazos logísticos, especialmente no petróleo e gás. Isso exige revisão imediata dos planos de contingência para garantir previsibilidade nas cadeias de suprimento. No offshore, a instabilidade geopolítica regional mantém operações suspensas, atrasando cronogramas e investimentos em projetos es"
+  },
+  {
+    "date": "2026-04-30",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, sustentando tarifas de frete em níveis recordes. Importadores asiáticos ampliam o uso de rotas multimodais mais longas, elevando custos logísticos e prazos, especialmente para o segmento de petróleo e gás. Isso exige revisão imediata dos planos de contingência para garantir continuidade e previsibilidade nas cadeias de suprimento. No offshore, a instabilidade geopolítica regional mantém operações suspensas e adia investimentos"
   }
 ]
