@@ -2,17 +2,6 @@
   {
     "date": "2026-04-22",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "O bloqueio do Estreito de Ormuz segue restrito a menos de 10% da capacidade, com ataques recentes a navios comerciais elevando o risco operacional e sustentando tarifas de frete em níveis recordes. Importadores asiáticos intensificam o uso de rotas multimodais mais longas, aumentando custos e prazos, o que exige revisão imediata dos planos de contingência para operadores marítimos e cadeias globais. No offshore, a instabilidade geopolítica no Golfo Pérsico provoca suspensão temporária de jack-up"
-  },
-  {
-    "date": "2026-04-22",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -318,5 +307,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade do Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes de frete e elevando custos logísticos para importadores asiáticos. A ampliação do uso de rotas multimodais mais longas impõe ajustes urgentes nos planos de contingência, com impacto direto em prazos e previsibilidade das cadeias de suprimento, especialmente para petróleo e gás. No offshore, a instabilidade geopolítica regional mantém operações suspensas, atrasando cronogramas e investimentos em projetos estra"
+  },
+  {
+    "date": "2026-04-30",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas de frete em níveis recordes e elevando custos logísticos para importadores asiáticos. A ampliação de rotas multimodais mais longas impõe ajustes urgentes nos planos de contingência, impactando prazos e previsibilidade das cadeias de suprimento, especialmente no segmento de petróleo e gás. No offshore, a instabilidade geopolítica prolonga a suspensão de operações e adia investimentos, pressionando cronogramas d"
   }
 ]
