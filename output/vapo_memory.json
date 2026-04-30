@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-04-22",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz permanece restrito a menos de 10% da capacidade, com ataques recentes a navios comerciais e apreensões pelo Irã ampliando o risco tático. Essa situação mantém as tarifas de frete em níveis recordes, pressionando operadores marítimos a revisar planos de contingência e gestão de risco, especialmente para rotas asiáticas que buscam alternativas multimodais mais longas. No offshore, a instabilidade geopolítica no Golfo Pérsico provoca suspensão temporária de operações"
-  },
-  {
     "date": "2026-04-23",
     "drivers": [
       "contratos marítimos",
@@ -318,5 +307,15 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas de frete em níveis recordes e elevando custos logísticos para importadores asiáticos. A ampliação de rotas multimodais mais longas impõe ajustes urgentes nos planos de contingência, impactando prazos e previsibilidade das cadeias de suprimento, especialmente no segmento de petróleo e gás. No offshore, a instabilidade geopolítica prolonga a suspensão de operações e adia investimentos, pressionando cronogramas d"
+  },
+  {
+    "date": "2026-04-30",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, sustentando tarifas de frete em níveis recordes. Importadores asiáticos ampliam rotas multimodais mais longas, elevando custos e prazos logísticos, especialmente para petróleo e gás, o que exige revisão urgente dos planos de contingência para garantir continuidade e previsibilidade nas cadeias de suprimento. No offshore, a instabilidade geopolítica prolonga a suspensão de operações e adia investimentos em projetos estrat"
   }
 ]
