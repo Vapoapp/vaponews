@@ -4,17 +4,6 @@
     "drivers": [
       "contratos marítimos",
       "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz permanece restrito a menos de 10% da capacidade, com ataques e apreensões recentes ampliando o risco operacional. Essa situação mantém as tarifas de frete em níveis recordes, forçando importadores asiáticos a adotarem rotas multimodais mais longas, o que eleva custos e prazos logísticos. Operadores marítimos precisam revisar imediatamente planos de contingência para mitigar impactos na cadeia global. No offshore, a instabilidade geopolítica no Golfo Pérsico levou à"
-  },
-  {
-    "date": "2026-04-23",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
       "risco geopolítico",
       "petróleo e gás"
     ],
@@ -317,5 +306,16 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, sustentando tarifas de frete em níveis recordes. Importadores asiáticos ampliam rotas multimodais mais longas, elevando custos e prazos logísticos, especialmente para petróleo e gás, o que exige revisão urgente dos planos de contingência para garantir continuidade e previsibilidade nas cadeias de suprimento. No offshore, a instabilidade geopolítica prolonga a suspensão de operações e adia investimentos em projetos estrat"
+  },
+  {
+    "date": "2026-04-30",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas de frete em patamares recordes. Importadores asiáticos ampliam uso de rotas multimodais mais longas, elevando custos e prazos logísticos, especialmente no petróleo e gás. Isso exige revisão imediata dos planos de contingência para garantir previsibilidade nas cadeias de suprimento. No offshore, a instabilidade geopolítica regional mantém operações suspensas, atrasando cronogramas e investimentos em projetos es"
   }
 ]

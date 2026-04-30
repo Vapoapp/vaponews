@@ -4,35 +4,19 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-04-30T08:30:02.953486+00:00",
+    "ts": "2026-04-30T14:10:19.266755+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/terminais/hapag-lloyd-tcp-parceria-servicos-transporte-mairitmo-navegacao": {
     "ts": "2026-04-23T19:20:21.625691+00:00",
     "type": "highlight"
   },
-  "https://www.oedigital.com/news/538350-middle-east-conflict-jolts-offshore-drilling-market": {
-    "ts": "2026-04-23T13:58:19.842664+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/inland-freighter-collision-with-pier-leaves-captain-injured/": {
-    "ts": "2026-04-23T13:58:19.842664+00:00",
-    "type": "other"
-  },
   "https://safety4sea.com/ukmto-reports-two-new-incidents-in-the-strait-of-hormuz/": {
     "ts": "2026-04-24T03:26:38.091993+00:00",
     "type": "other"
   },
-  "https://maritime-executive.com/article/two-ships-report-iranian-attacks-in-strait-of-hormuz": {
-    "ts": "2026-04-23T13:58:19.842664+00:00",
-    "type": "other"
-  },
   "https://www.gov.br/antaq/pt-br/noticias/2026/comunicado-2013-instabilidade-no-sistema-sama": {
     "ts": "2026-04-24T13:49:59.564601+00:00",
-    "type": "highlight"
-  },
-  "https://gcaptain.com/asian-shipowners-to-cross-hormuz-before-western-firms-executives-say/": {
-    "ts": "2026-04-23T13:58:19.842664+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/exxonmobil-escolhe-a-saipem-para-construcao-de-infraestrutura-submarina-em-projeto-offshore-na-guiana/": {
@@ -71,10 +55,6 @@
     "ts": "2026-04-24T13:49:59.564601+00:00",
     "type": "highlight"
   },
-  "https://www.marinelink.com/news/first-lng-export-cargo-departs-sabine-538377": {
-    "ts": "2026-04-23T13:58:19.842664+00:00",
-    "type": "highlight"
-  },
   "https://www.oedigital.com/news/538389-santos-quarterly-sales-revenue-down-on-barossa-weather-disruptions": {
     "ts": "2026-04-24T08:12:47.764237+00:00",
     "type": "highlight"
@@ -98,34 +78,6 @@
   "https://www.hellenicshippingnews.com/rio-tinto-to-charter-two-methanol-dual-fuel-bulk-carriers/": {
     "ts": "2026-04-23T19:20:21.625691+00:00",
     "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/santos-defies-q1-production-setbacks-to-hold-annual-targets": {
-    "ts": "2026-04-23T13:58:19.842664+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/538401-tight-supply-drives-surge-in-high-end-ahts-dayrates": {
-    "ts": "2026-04-23T13:58:19.842664+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/iran-captures-2-foreign-flagged-ships-in-hormuz-after-u-s-proposes-to-extend-ceasefire/?utm_source=rss&utm_medium=rss&utm_campaign=iran-captures-2-foreign-flagged-ships-in-hormuz-after-u-s-proposes-to-extend-ceasefire": {
-    "ts": "2026-04-23T13:58:19.842664+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/mpa-and-psa-singapore-seek-proposals-for-autonomous-shipping-to-modernise-port-operations/": {
-    "ts": "2026-04-23T13:58:19.842664+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/us-blockade-tightens-iranian-tankers-intercepted-in-asian-waters": {
-    "ts": "2026-04-23T13:58:19.842664+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/iranian-oil-tankers-go-dark-to-evade-u-s-naval-blockade-in-hormuz-strait/?utm_source=rss&utm_medium=rss&utm_campaign=iranian-oil-tankers-go-dark-to-evade-u-s-naval-blockade-in-hormuz-strait": {
-    "ts": "2026-04-23T13:58:19.842664+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/shipping-giants-refuse-persian-gulf-transit-until-hormuz-risks-vanish": {
-    "ts": "2026-04-23T13:58:19.842664+00:00",
-    "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/embarcacoes/rebocadores-transverse-svitzer-3000-operacoes-eficiencia-portuaria": {
     "ts": "2026-04-24T19:02:01.111535+00:00",
@@ -1024,7 +976,7 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21312/porto-do-acu-ganha-condominio-logistico-e-patio-para-caminhoes/": {
-    "ts": "2026-04-30T08:30:02.953486+00:00",
+    "ts": "2026-04-30T14:10:19.266755+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/strait-of-hormuz-traffic-still-at-just-5-of-pre-war-levels-why-shipping-remains-crippled-despite-ceasefire/": {
@@ -1084,7 +1036,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/a-wilson-sons-comeca-testes-usando-drones-especiais-de-singapura-para-recolher-documentos-de-navios-na-baia-da-guanabara/": {
-    "ts": "2026-04-30T08:30:02.953486+00:00",
+    "ts": "2026-04-30T14:10:19.266755+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/totalenergies-pauses-middle-east-538609": {
@@ -1092,7 +1044,7 @@
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/publicado-da-antaq-para-bienio-2026-2028": {
-    "ts": "2026-04-30T08:30:02.953486+00:00",
+    "ts": "2026-04-30T14:10:19.266755+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/logistica/wilson-sons-testa-entregas-por-drone-no-offshore-no-rj": {
@@ -1152,7 +1104,7 @@
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/com-grande-potencial-brasil-avanca-em-concessoes-para-ampliar-e-modernizar-suas-vias-navegaveis": {
-    "ts": "2026-04-30T08:30:02.953486+00:00",
+    "ts": "2026-04-30T14:10:19.266755+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/recursos-humanos/transpetro-e-senai-iniciam-projeto-de-capacitacao-em-maua-sp": {
@@ -1196,7 +1148,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/538633-bp-inks-deal-with-venezuela-to-develop-offshore-gas-fields": {
-    "ts": "2026-04-30T08:30:02.953486+00:00",
+    "ts": "2026-04-30T14:10:19.266755+00:00",
     "type": "highlight"
   },
   "https://splash247.com/euroseas-in-fresh-china-newbuild-move/": {
@@ -1245,6 +1197,66 @@
   },
   "https://www.offshore-energy.biz/subsea7-onesubsea-chosen-for-feed-at-canadian-12-billion-oil-project/": {
     "ts": "2026-04-30T08:30:02.953486+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/portos/21322/coamo-e-yara-estudam-oportunidades-em-futuro-terminal-conjunto-no-porto-de-itapoa/": {
+    "ts": "2026-04-30T14:10:19.266755+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/mission-to-seafarers-appoints-guy-platten-as-chairman/": {
+    "ts": "2026-04-30T14:10:19.266755+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/india-plans-62-new-ships-with-%e2%82%b951383-crore-investment-to-boost-shipping-sector/?utm_source=rss&utm_medium=rss&utm_campaign=india-plans-62-new-ships-with-%25e2%2582%25b951383-crore-investment-to-boost-shipping-sector": {
+    "ts": "2026-04-30T14:10:19.266755+00:00",
+    "type": "highlight"
+  },
+  "https://safety4sea.com/msf-inadequate-inspection-leads-to-tank-washer-detachment/": {
+    "ts": "2026-04-30T14:10:19.266755+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538644-woodside-completes-scarborough-fpu-subsea-link-ahead-of-lng-start-up": {
+    "ts": "2026-04-30T14:10:19.266755+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538638-bw-offshore-equinor-move-forward-on-bay-du-nord-fpso": {
+    "ts": "2026-04-30T14:10:19.266755+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/vessel-reviews": {
+    "ts": "2026-04-30T14:10:19.266755+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/u-s-seeks-allied-support-to-form-international-coalition-to-restore-shipping-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-seeks-allied-support-to-form-international-coalition-to-restore-shipping-in-strait-of-hormuz": {
+    "ts": "2026-04-30T14:10:19.266755+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/plotting-the-path-to-safer-sailing-with-e-navigation/": {
+    "ts": "2026-04-30T14:10:19.266755+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/fmc-judge-orders-oocl-to-pay-45-6-million-in-landmark-bed-bath-beyond-shipping-case/": {
+    "ts": "2026-04-30T14:10:19.266755+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/vessels-rigs/crewboats/vessel-review-embracer-versatile-hybrid-crewboat-delivered-to-northern-offshore-services": {
+    "ts": "2026-04-30T14:10:19.266755+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/from-tankers-to-gas-tanks-hormuz-tensions-rattle-global-energy-markets/": {
+    "ts": "2026-04-30T14:10:19.266755+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/second-maersk-tankers-vessel-fitted-with-spain-made-suction-sails/": {
+    "ts": "2026-04-30T14:10:19.266755+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/re-entry-into-asian-lng-project-bolsters-eneos-energy-bonds-with-petronas/": {
+    "ts": "2026-04-30T14:10:19.266755+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/us-seeks-forfeiture-of-seized-oil-tankers-linked-to-iran/": {
+    "ts": "2026-04-30T14:10:19.266755+00:00",
     "type": "other"
   }
 }
