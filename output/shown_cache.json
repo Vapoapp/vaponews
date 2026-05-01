@@ -1,34 +1,18 @@
 {
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-04-30T08:30:02.953486+00:00",
+    "ts": "2026-05-01T08:20:44.692205+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-05-01T03:53:42.364036+00:00",
+    "ts": "2026-05-01T08:20:44.692205+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/comunicado-2013-instabilidade-no-sistema-sama": {
     "ts": "2026-04-24T13:49:59.564601+00:00",
     "type": "highlight"
   },
-  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/mpor-participa-da-entrega-de-diplomas-de-mestrado-em-logistica-e-gestao-portuaria-na-embaixada-da-espanha": {
-    "ts": "2026-04-24T08:12:47.764237+00:00",
-    "type": "other"
-  },
-  "https://www.tecnologistica.com.br/noticias/transporte-aereo/21258/motiva-aeroportos-mira-em-certificacao-ceiv-para-terminal-refrigerado-em-goiania/": {
-    "ts": "2026-04-24T08:12:47.764237+00:00",
-    "type": "other"
-  },
-  "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-prorroga-prazo-para-entrega-do-inventario-de-bens-da-uniao-ate-31-de-julho-de-2026": {
-    "ts": "2026-04-24T08:12:47.764237+00:00",
-    "type": "other"
-  },
   "https://www.cnnbrasil.com.br/economia/macroeconomia/setor-de-transporte-maritimo-aguarda-retomada-de-travessias-por-ormuz/": {
     "ts": "2026-04-24T13:49:59.564601+00:00",
-    "type": "highlight"
-  },
-  "https://www.oedigital.com/news/538389-santos-quarterly-sales-revenue-down-on-barossa-weather-disruptions": {
-    "ts": "2026-04-24T08:12:47.764237+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/transporte-ferroviario/21288/mrs-logistica-e-dp-world-lancam-solucao-logistica-multimodal-conectando-o-centro-oeste-ao-porto-de-santos/": {
@@ -45,10 +29,6 @@
   },
   "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/04/24/fragata-tamandare-e-incorporada-a-marinha-no-rio-veja-o-raio-x-do-novo-navio-de-guerra-do-brasil.ghtml": {
     "ts": "2026-04-24T19:02:01.111535+00:00",
-    "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/three-non-iranian-container-ships-attempt-crossing-the-hormuz-all-three-attacked/": {
-    "ts": "2026-04-24T08:12:47.764237+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/indonesia-says-just-kidding-after-finance-minister-proposes-malacca-tolls": {
@@ -71,32 +51,8 @@
     "ts": "2026-04-24T19:02:01.111535+00:00",
     "type": "highlight"
   },
-  "https://www.hellenicshippingnews.com/bimco-statement-on-the-security-situation-in-the-strait-of-hormuz/": {
-    "ts": "2026-04-24T08:12:47.764237+00:00",
-    "type": "highlight"
-  },
-  "https://www.guiamaritimo.com.br/noticias/logistica/freight-forwarders-geopolitica-dc-logistics-intermodal-2026": {
-    "ts": "2026-04-24T08:12:47.764237+00:00",
-    "type": "other"
-  },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/cmn-aprova-linha-de-financiamento-com-recursos-do-fnac-para-o-setor-aereo": {
     "ts": "2026-04-25T13:17:10.502868+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/editorials/the-irgc-s-hormuz-toll-system-is-unlikely-to-be-exposed": {
-    "ts": "2026-04-24T08:12:47.764237+00:00",
-    "type": "other"
-  },
-  "https://www.rigzone.com/news/wire/hormuz_tensions_heat_up-24-apr-2026-183530-article/": {
-    "ts": "2026-04-24T08:12:47.764237+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/hornbeck-offshore-to-merge-with-helix-energy-solutions": {
-    "ts": "2026-04-24T08:12:47.764237+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/bimco-warns-hormuz-reopening-hinges-on-mine-clearance-as-trump-orders-sweep-surge/": {
-    "ts": "2026-04-24T08:12:47.764237+00:00",
     "type": "other"
   },
   "https://www.offshore-energy.biz/australian-fpso-production-ramp-up-on-santos-agenda-next-week/": {
@@ -880,7 +836,7 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21312/porto-do-acu-ganha-condominio-logistico-e-patio-para-caminhoes/": {
-    "ts": "2026-05-01T03:53:42.364036+00:00",
+    "ts": "2026-05-01T08:20:44.692205+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/strait-of-hormuz-traffic-still-at-just-5-of-pre-war-levels-why-shipping-remains-crippled-despite-ceasefire/": {
@@ -948,7 +904,7 @@
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/publicado-da-antaq-para-bienio-2026-2028": {
-    "ts": "2026-05-01T03:53:42.364036+00:00",
+    "ts": "2026-05-01T08:20:44.692205+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/logistica/wilson-sons-testa-entregas-por-drone-no-offshore-no-rj": {
@@ -1008,7 +964,7 @@
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/com-grande-potencial-brasil-avanca-em-concessoes-para-ampliar-e-modernizar-suas-vias-navegaveis": {
-    "ts": "2026-05-01T03:53:42.364036+00:00",
+    "ts": "2026-05-01T08:20:44.692205+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/recursos-humanos/transpetro-e-senai-iniciam-projeto-de-capacitacao-em-maua-sp": {
@@ -1052,7 +1008,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/538633-bp-inks-deal-with-venezuela-to-develop-offshore-gas-fields": {
-    "ts": "2026-05-01T03:53:42.364036+00:00",
+    "ts": "2026-05-01T08:20:44.692205+00:00",
     "type": "highlight"
   },
   "https://splash247.com/euroseas-in-fresh-china-newbuild-move/": {
@@ -1104,7 +1060,7 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21322/coamo-e-yara-estudam-oportunidades-em-futuro-terminal-conjunto-no-porto-de-itapoa/": {
-    "ts": "2026-05-01T03:53:42.364036+00:00",
+    "ts": "2026-05-01T08:20:44.692205+00:00",
     "type": "highlight"
   },
   "https://splash247.com/mission-to-seafarers-appoints-guy-platten-as-chairman/": {
@@ -1112,7 +1068,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/india-plans-62-new-ships-with-%e2%82%b951383-crore-investment-to-boost-shipping-sector/?utm_source=rss&utm_medium=rss&utm_campaign=india-plans-62-new-ships-with-%25e2%2582%25b951383-crore-investment-to-boost-shipping-sector": {
-    "ts": "2026-05-01T03:53:42.364036+00:00",
+    "ts": "2026-05-01T08:20:44.692205+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/msf-inadequate-inspection-leads-to-tank-washer-detachment/": {
@@ -1164,11 +1120,11 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/paranagua-sedia-a-7a-edicao-das-caravanas-da-inovacao-portuaria": {
-    "ts": "2026-05-01T03:53:42.364036+00:00",
+    "ts": "2026-05-01T08:20:44.692205+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/seminario-promovido-pela-antaq-debate-aprimoramento-do-evtea": {
-    "ts": "2026-05-01T03:53:42.364036+00:00",
+    "ts": "2026-05-01T08:20:44.692205+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/the-mission-to-seafarers-appoints-guy-platten-as-new-chair/": {
@@ -1220,15 +1176,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/carlos-travassos-vai-representar-a-brava-energia-que-recebera-o-principal-premio-conferido-pela-otc-em-houston/": {
-    "ts": "2026-05-01T03:53:42.364036+00:00",
+    "ts": "2026-05-01T08:20:44.692205+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/u-s-coast-guard-suspends-search-for-missing-crew-of-capsized-cargo-ship": {
-    "ts": "2026-05-01T03:53:42.364036+00:00",
+    "ts": "2026-05-01T08:20:44.692205+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/fmc-chairman-laura-dibella-releases-538674": {
-    "ts": "2026-05-01T03:53:42.364036+00:00",
+    "ts": "2026-05-01T08:20:44.692205+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/03-1/tunel-santos-guaruja-transforma-travessia-historica-em-novo-eixo-de-mobilidade-no-pais": {
@@ -1257,6 +1213,38 @@
   },
   "https://www.bairdmaritime.com/offshore/offshore-vessel-news-roundup-may-1-european-and-japanese-cable-layers-windfarm-sov-and-trenching-vessel-construction": {
     "ts": "2026-05-01T03:53:42.364036+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538675-api-noia-reports-benefits-of-expanding-south-central-gulf-energy-development": {
+    "ts": "2026-05-01T08:20:44.692205+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/hormuz-disruption-shows-why-early-warning-data-matters/": {
+    "ts": "2026-05-01T08:20:44.692205+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/bimco-rolls-out-first-co2-shipping-charter-party/": {
+    "ts": "2026-05-01T08:20:44.692205+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/subsea7-and-slb-alliance-secures-angola-contract-with-exxonmobil/": {
+    "ts": "2026-05-01T08:20:44.692205+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/india-moves-to-accelerate-expanding-shipping-capacity-by-adding-62-vessels": {
+    "ts": "2026-05-01T08:20:44.692205+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/shipping-interrupted-tracking-the-impact-of-disruptions-in-the-strait-of-hormuz-3/": {
+    "ts": "2026-05-01T08:20:44.692205+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538646-indonesia-s-mako-gas-project-on-track-for-first-gas-in-2027": {
+    "ts": "2026-05-01T08:20:44.692205+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/bp-moves-into-venezuela-with-new-offshore-gas-development-deal": {
+    "ts": "2026-05-01T08:20:44.692205+00:00",
     "type": "other"
   }
 }
