@@ -8,17 +8,6 @@
       "risco geopolítico",
       "petróleo e gás"
     ],
-    "summary": "A capacidade do Estreito de Ormuz segue limitada a menos de 10%, com ataques e apreensões recentes aumentando o risco operacional. Essa restrição mantém tarifas de frete em níveis recordes, pressionando importadores asiáticos a adotarem rotas multimodais mais longas, o que eleva custos e prazos logísticos. Operadores marítimos devem revisar planos de contingência para mitigar impactos na cadeia global. No setor offshore, a instabilidade geopolítica no Golfo Pérsico provocou suspensão temporária"
-  },
-  {
-    "date": "2026-04-23",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
     "summary": "O bloqueio parcial do Estreito de Ormuz mantém o tráfego abaixo de 10% da capacidade, com ataques e apreensões recentes ampliando o risco operacional. Essa situação sustenta tarifas de frete em patamares recordes, forçando importadores asiáticos a adotarem rotas multimodais mais longas, o que eleva custos e prazos logísticos. Operadores marítimos precisam ajustar planos de contingência para evitar rupturas na cadeia global. No offshore, a instabilidade no Golfo Pérsico provoca suspensão temporár"
   },
   {
@@ -318,5 +307,15 @@
       "risco geopolítico"
     ],
     "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, sustentando tarifas de frete em níveis recordes. Importadores asiáticos ampliam o uso de rotas multimodais mais longas, elevando custos logísticos e prazos, especialmente para o segmento de petróleo e gás. Isso exige revisão imediata dos planos de contingência para garantir continuidade e previsibilidade nas cadeias de suprimento. No offshore, a instabilidade geopolítica regional mantém operações suspensas e adia investimentos"
+  },
+  {
+    "date": "2026-05-01",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "petróleo e gás"
+    ],
+    "summary": "A continuidade da limitação do tráfego no Estreito de Ormuz abaixo de 10% mantém tarifas de frete em níveis recordes, impactando diretamente a cadeia de suprimentos de petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, elevando custos e prazos, o que exige revisão imediata dos planos de contingência para garantir previsibilidade operacional. No offshore, a instabilidade geopolítica prolonga a suspensão de operações e adia investimentos em projetos estratégicos, pressio"
   }
 ]
