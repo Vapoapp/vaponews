@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-04-25",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, com presença contínua de minas navais e apreensões que mantêm o risco operacional elevado. Essa condição sustenta tarifas de frete em níveis recordes, pressionando importadores asiáticos a adotarem rotas multimodais mais longas, o que amplia custos e prazos logísticos. Operadores marítimos devem revisar planos de contingência para mitigar impactos na cadeia global. No setor offshore, a instabilidade regional mantém opera"
-  },
-  {
     "date": "2026-04-26",
     "drivers": [
       "contratos marítimos",
@@ -316,5 +305,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas de frete em patamares recordes para petróleo e gás. Importadores asiáticos ampliam rotas multimodais, elevando custos e prazos logísticos, o que exige revisão imediata dos planos de contingência para evitar rupturas nas cadeias de suprimento. A complexidade operacional cresce e impacta diretamente a previsibilidade do setor. No offshore, a instabilidade geopolítica regional mantém operações suspensas e adia in"
+  },
+  {
+    "date": "2026-05-03",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, mantendo tarifas de frete em níveis recordes para petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, elevando custos e prazos logísticos, o que exige revisão imediata dos planos de contingência para garantir a continuidade das cadeias de suprimento. A complexidade operacional e o risco de rupturas permanecem elevados. No offshore, a instabilidade geopolítica na região do Golfo de Aden e Iêmen intensific"
   }
 ]
