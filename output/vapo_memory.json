@@ -5,16 +5,6 @@
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, sustentando tarifas de frete em níveis recordes devido a riscos operacionais como minas navais e apreensões. Importadores asiáticos ampliam uso de rotas multimodais mais longas, elevando custos e prazos, o que exige revisão imediata dos planos de contingência para evitar rupturas na cadeia global. A instabilidade regional mantém operações offshore suspensas, forçando ajustes contratuais em MODUs e impactando cronogramas e inve"
-  },
-  {
-    "date": "2026-04-26",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
       "risco geopolítico",
       "petróleo e gás"
     ],
@@ -315,5 +305,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, mantendo tarifas de frete em níveis recordes para petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, elevando custos e prazos logísticos, o que exige revisão imediata dos planos de contingência para garantir a continuidade das cadeias de suprimento. A complexidade operacional e o risco de rupturas permanecem elevados. No offshore, a instabilidade geopolítica na região do Golfo de Aden e Iêmen intensific"
+  },
+  {
+    "date": "2026-05-03",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas de frete em níveis recordes para petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, elevando custos e prazos, o que exige revisão imediata dos planos de contingência para evitar rupturas nas cadeias de suprimento. A complexidade operacional e a volatilidade logística permanecem elevadas. No Golfo de Aden e região do Iêmen, ataques e abordagens suspeitas continuam a impactar a seguran"
   }
 ]
