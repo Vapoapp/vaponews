@@ -2,15 +2,6 @@
   {
     "date": "2026-04-27",
     "drivers": [
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade devido a minas navais, apreensões e bloqueios militares. Essa condição sustenta tarifas de frete em níveis recordes, forçando importadores asiáticos a adotar rotas multimodais mais longas, com impacto direto em custos e prazos das cadeias globais. Operadores marítimos devem ajustar planos de contingência para mitigar riscos de rupturas logísticas e garantir previsibilidade operacional. No setor offshore, a instabilidade r"
-  },
-  {
-    "date": "2026-04-27",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -317,5 +308,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes para transporte de petróleo e gás. A ampliação de rotas multimodais asiáticas eleva custos e prazos, exigindo revisão urgente dos planos de contingência para evitar rupturas nas cadeias de suprimento. A volatilidade operacional e o risco geopolítico seguem altos, reduzindo a previsibilidade do setor. Na região do Golfo de Aden e Iêmen, o sequestro de petroleiro por piratas somalis reforça a ameaça"
+  },
+  {
+    "date": "2026-05-04",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes para transporte de petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, elevando custos e prazos, o que exige revisão urgente dos planos de contingência para evitar rupturas nas cadeias de suprimento. A volatilidade operacional e o risco geopolítico permanecem elevados, reduzindo a previsibilidade do setor. No Golfo de Aden e região do Iêmen, ataques com drones e sequestro de"
   }
 ]
