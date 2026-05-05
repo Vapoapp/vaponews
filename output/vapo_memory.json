@@ -2,16 +2,6 @@
   {
     "date": "2026-04-27",
     "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O bloqueio persistente no Estreito de Ormuz restringe o tráfego a menos de 10% da capacidade, sustentando tarifas de frete em níveis recordes. Importadores asiáticos ampliam uso de rotas multimodais mais longas, elevando custos e prazos, o que exige revisão imediata dos planos de contingência para evitar rupturas nas cadeias globais de suprimento. A presença contínua de minas navais e apreensões mantém o risco operacional elevado, impactando a previsibilidade das operações marítimas. No setor of"
-  },
-  {
-    "date": "2026-04-27",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -319,5 +309,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes para transporte de petróleo e gás. A escalada de ataques iranianos a navios e infraestrutura na região intensifica a volatilidade operacional, pressionando importadores asiáticos a ampliar rotas multimodais mais longas, o que eleva custos e prazos logísticos. A necessidade de revisão imediata dos planos de contingência é crítica para evitar rupturas nas cadeias de suprimento. No Golfo de Aden, o s"
+  },
+  {
+    "date": "2026-05-05",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes para transporte de petróleo e gás. A escalada dos ataques iranianos a navios e infraestrutura na região intensifica a volatilidade operacional, forçando importadores asiáticos a ampliar rotas multimodais mais longas, o que eleva custos e prazos logísticos. Revisões urgentes nos planos de contingência são necessárias para evitar rupturas nas cadeias de suprimento. No Brasil, a Petrobras iniciou a p"
   }
 ]
