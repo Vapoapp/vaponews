@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-04-27",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz permanece restrito a menos de 10% da capacidade devido a minas navais e bloqueios militares, mantendo tarifas de frete em níveis recordes. Importadores asiáticos ampliam o uso de rotas multimodais mais longas, elevando custos e prazos nas cadeias globais de suprimento. Operadores marítimos precisam revisar planos de contingência para garantir continuidade operacional e mitigar riscos de rupturas logísticas. No setor offshore, a instabilidade regional mantém operaçõ"
-  },
-  {
     "date": "2026-04-28",
     "drivers": [
       "contratos marítimos",
@@ -320,5 +309,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes para transporte de petróleo e gás. A escalada dos ataques iranianos a navios e infraestrutura na região intensifica a volatilidade operacional, forçando importadores asiáticos a ampliar rotas multimodais mais longas, o que eleva custos e prazos logísticos. Revisões urgentes nos planos de contingência são necessárias para evitar rupturas nas cadeias de suprimento. No Brasil, a Petrobras iniciou a p"
+  },
+  {
+    "date": "2026-05-05",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes para transporte de petróleo e gás. A escalada dos ataques iranianos a navios e infraestrutura na região amplia a volatilidade operacional, forçando importadores asiáticos a adotar rotas multimodais mais longas, o que eleva custos e prazos logísticos. Revisões urgentes nos planos de contingência são necessárias para evitar rupturas nas cadeias de suprimento. No Brasil, a Petrobras iniciou a produção da"
   }
 ]
