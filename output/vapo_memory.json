@@ -2,16 +2,6 @@
   {
     "date": "2026-04-28",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade devido a minas navais e bloqueios militares, sustentando tarifas de frete em níveis recordes. Importadores asiáticos ampliam o uso de rotas multimodais mais longas, elevando custos e prazos nas cadeias globais, o que exige revisão urgente dos planos de contingência para evitar rupturas logísticas. A persistência do impasse entre Irã e EUA mantém o risco operacional elevado e a volatilidade no transporte marítimo de petról"
-  },
-  {
-    "date": "2026-04-28",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -320,5 +310,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes para transporte de petróleo e gás. A escalada dos ataques iranianos a navios e infraestrutura na região amplia a volatilidade operacional, forçando importadores asiáticos a adotar rotas multimodais mais longas, o que eleva custos e prazos logísticos. Revisões urgentes nos planos de contingência são necessárias para evitar rupturas nas cadeias de suprimento. No Brasil, a Petrobras iniciou a produção da"
+  },
+  {
+    "date": "2026-05-05",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com ataques iranianos recentes ampliando a volatilidade operacional. Isso mantém tarifas de transporte de petróleo e gás em patamares recordes, forçando importadores asiáticos a adotar rotas multimodais mais longas, elevando custos e prazos logísticos. A urgência na revisão dos planos de contingência para evitar rupturas nas cadeias de suprimento se intensifica. No Brasil, a Petrobras avançou na individualização da produção em ca"
   }
 ]
