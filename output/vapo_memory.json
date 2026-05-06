@@ -1,14 +1,5 @@
 [
   {
-    "date": "2026-04-28",
-    "drivers": [
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A restrição do tráfego no Estreito de Ormuz a menos de 10% da capacidade segue sustentando tarifas de frete em níveis recordes, elevando custos e prazos logísticos para importadores asiáticos. A ampliação do uso de rotas multimodais mais longas impõe revisão urgente de planos de contingência para evitar rupturas nas cadeias de suprimento, especialmente no transporte de petróleo e gás. A instabilidade geopolítica na região mantém o risco operacional elevado, impactando cronogramas e previsibilida"
-  },
-  {
     "date": "2026-04-29",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -321,5 +312,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes e ampliando custos logísticos para importadores asiáticos, que adotam rotas multimodais mais longas. Ataques recentes, incluindo explosão em navio sul-coreano e ofensivas iranianas contra embarcações militares e comerciais, reforçam a volatilidade operacional e a urgência na revisão de planos de contingência para evitar rupturas nas cadeias globais de suprimento. No Brasil, a Petrobras avança em c"
+  },
+  {
+    "date": "2026-05-06",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes no transporte de petróleo e gás. Ataques recentes a navios comerciais e militares intensificam a volatilidade, forçando importadores asiáticos a adotar rotas multimodais mais longas, com impacto direto em custos e prazos logísticos. A redução do tráfego em mais de 90% exige revisão imediata dos planos de contingência para evitar rupturas nas cadeias globais de suprimento. No mercado offshore brasi"
   }
 ]
