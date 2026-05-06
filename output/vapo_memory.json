@@ -3,17 +3,6 @@
     "date": "2026-04-28",
     "drivers": [
       "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A restrição do tráfego no Estreito de Ormuz a menos de 10% da capacidade segue sustentando tarifas de frete em patamares recordes. Importadores asiáticos ampliam o uso de rotas multimodais mais longas, elevando custos e prazos nas cadeias globais. Operadores marítimos devem revisar planos de contingência para mitigar riscos de rupturas logísticas e garantir previsibilidade operacional. No segmento offshore, a instabilidade geopolítica mantém operações suspensas, impactando cronogramas e investim"
-  },
-  {
-    "date": "2026-04-28",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -321,5 +310,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com ataques iranianos recentes ampliando a volatilidade operacional. Isso mantém tarifas de transporte de petróleo e gás em patamares recordes, forçando importadores asiáticos a adotar rotas multimodais mais longas, elevando custos e prazos logísticos. A urgência na revisão dos planos de contingência para evitar rupturas nas cadeias de suprimento se intensifica. No Brasil, a Petrobras avançou na individualização da produção em ca"
+  },
+  {
+    "date": "2026-05-06",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes no transporte de petróleo e gás. Ataques iranianos recentes ampliam a volatilidade operacional, forçando importadores asiáticos a adotar rotas multimodais mais longas, elevando custos e prazos logísticos. A necessidade de revisão imediata dos planos de contingência é crítica para evitar rupturas nas cadeias de suprimento. No Brasil, a Petrobras avança em contratos estratégicos, incluindo descomissiona"
   }
 ]
