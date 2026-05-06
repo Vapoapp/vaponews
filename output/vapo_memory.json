@@ -2,17 +2,6 @@
   {
     "date": "2026-04-28",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A restrição do tráfego no Estreito de Ormuz a menos de 10% da capacidade segue sustentando tarifas de frete em níveis recordes, ampliando custos e prazos nas cadeias logísticas globais. Importadores asiáticos intensificam o uso de rotas multimodais mais longas, o que exige revisão imediata de planos de contingência para evitar rupturas operacionais e garantir previsibilidade no transporte marítimo. No setor offshore, a instabilidade geopolítica regional mantém operações suspensas, impactando cro"
-  },
-  {
-    "date": "2026-04-28",
-    "drivers": [
       "logística e portos",
       "risco geopolítico",
       "petróleo e gás"
@@ -321,5 +310,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes no transporte de petróleo e gás. Ataques iranianos recentes ampliam a volatilidade operacional, forçando importadores asiáticos a adotar rotas multimodais mais longas, elevando custos e prazos logísticos. A necessidade de revisão imediata dos planos de contingência é crítica para evitar rupturas nas cadeias de suprimento. No Brasil, a Petrobras avança em contratos estratégicos, incluindo descomissiona"
+  },
+  {
+    "date": "2026-05-06",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes e ampliando custos logísticos para importadores asiáticos, que adotam rotas multimodais mais longas. Ataques recentes, incluindo explosão em navio sul-coreano e ofensivas iranianas contra embarcações militares e comerciais, reforçam a volatilidade operacional e a urgência na revisão de planos de contingência para evitar rupturas nas cadeias globais de suprimento. No Brasil, a Petrobras avança em c"
   }
 ]
