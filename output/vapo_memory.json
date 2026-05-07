@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-04-29",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade do Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes de frete e elevando custos logísticos para importadores asiáticos. A ampliação do uso de rotas multimodais mais longas impõe ajustes urgentes nos planos de contingência, com impacto direto em prazos e previsibilidade das cadeias de suprimento, especialmente para petróleo e gás. No offshore, a instabilidade geopolítica regional mantém operações suspensas, atrasando cronogramas e investimentos em projetos estra"
-  },
-  {
     "date": "2026-04-30",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -323,5 +312,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes no transporte de petróleo e gás. Ataques recentes a embarcações comerciais e militares intensificam a volatilidade operacional, forçando importadores asiáticos a adotar rotas multimodais mais longas, com impacto direto em custos e prazos logísticos. A urgência na revisão dos planos de contingência é crescente para evitar rupturas nas cadeias globais de suprimento. No mercado brasileiro, a Petrobras av"
+  },
+  {
+    "date": "2026-05-07",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes no transporte de petróleo e gás. Ataques recentes a embarcações comerciais e militares intensificam a volatilidade operacional, forçando importadores asiáticos a adotar rotas multimodais mais longas. Isso eleva custos e prazos logísticos, exigindo revisão urgente dos planos de contingência para evitar rupturas nas cadeias globais de suprimento. No mercado brasileiro, a Petrobras contratou a DOF para c"
   }
 ]
