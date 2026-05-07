@@ -8,17 +8,6 @@
       "risco geopolítico",
       "petróleo e gás"
     ],
-    "summary": "O tráfego no Estreito de Ormuz opera abaixo de 10% da capacidade, sustentando tarifas de frete em níveis excepcionalmente altos. Importadores asiáticos ampliam o uso de rotas multimodais mais longas, elevando custos e prazos, o que exige revisão imediata dos planos de contingência para garantir continuidade e previsibilidade nas cadeias de suprimento. No offshore, a instabilidade geopolítica regional mantém operações suspensas, atrasando cronogramas e investimentos, especialmente em projetos de"
-  },
-  {
-    "date": "2026-04-29",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
     "summary": "A capacidade do Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes de frete e elevando custos logísticos para importadores asiáticos. A ampliação do uso de rotas multimodais mais longas impõe ajustes urgentes nos planos de contingência, com impacto direto em prazos e previsibilidade das cadeias de suprimento, especialmente para petróleo e gás. No offshore, a instabilidade geopolítica regional mantém operações suspensas, atrasando cronogramas e investimentos em projetos estra"
   },
   {
@@ -323,5 +312,16 @@
       "risco geopolítico"
     ],
     "summary": "O bloqueio de mais de 90% da capacidade no Estreito de Ormuz, agravado por ataques recentes a navios comerciais e militares, mantém tarifas de transporte de petróleo e gás em níveis recordes. Importadores asiáticos ampliam uso de rotas multimodais, elevando custos e prazos, o que exige revisão urgente dos planos de contingência para evitar rupturas nas cadeias globais de suprimento. No Brasil, a Petrobras avança em contratos estratégicos com a DOF para construção de quatro embarcações de suporte"
+  },
+  {
+    "date": "2026-05-07",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes no transporte de petróleo e gás. Ataques recentes a embarcações comerciais e militares intensificam a volatilidade operacional, forçando importadores asiáticos a adotar rotas multimodais mais longas, com impacto direto em custos e prazos logísticos. A urgência na revisão dos planos de contingência é crescente para evitar rupturas nas cadeias globais de suprimento. No mercado brasileiro, a Petrobras av"
   }
 ]
