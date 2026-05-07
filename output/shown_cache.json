@@ -868,7 +868,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/uae-accuses-iran-of-drone-strike-on-adnoc-tanker-in-strait-of-hormuz-warns-of-global-energy-threat/?utm_source=rss&utm_medium=rss&utm_campaign=uae-accuses-iran-of-drone-strike-on-adnoc-tanker-in-strait-of-hormuz-warns-of-global-energy-threat": {
-    "ts": "2026-05-06T19:53:40.600665+00:00",
+    "ts": "2026-05-07T03:40:09.474153+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/eventos/otc-2026-primeiro-dia-e-marcado-pela-abertura-do-pavilhao-brasil": {
@@ -884,7 +884,7 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/04/caravanas-da-inovacao-portuaria-inicia-primeira-edicao-de-2026-com-visitas-tecnicas-em-paranagua": {
-    "ts": "2026-05-05T19:42:24.995889+00:00",
+    "ts": "2026-05-07T03:40:09.474153+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/a-marinha-americana-destruiu-seis-embarcacoes-de-ataque-do-ira-mas-o-comando-diz-que-nao-retomara-a-guerra-ainda/": {
@@ -1032,15 +1032,15 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/538841-dof-to-build-four-new-subsea-vessels-for-petrobras-work": {
-    "ts": "2026-05-06T19:53:40.600665+00:00",
+    "ts": "2026-05-07T03:40:09.474153+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/vessel-attacks-in-strait-of-hormuz-persist-as-security-concerns-rise/": {
-    "ts": "2026-05-06T19:53:40.600665+00:00",
+    "ts": "2026-05-07T03:40:09.474153+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/column-courting-disaster-heavy-hitters-in-offshore-get-their-day-in-court-part-two-of-two-offshore-accounts": {
-    "ts": "2026-05-06T14:28:20.859094+00:00",
+    "ts": "2026-05-07T03:40:09.474153+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/transporte-aereo/21336/proair-introduz-loaders-hibridos-no-aeroporto-de-guarulhos/": {
@@ -1092,11 +1092,11 @@
     "type": "other"
   },
   "https://brasilenergia.com.br/petroleoegas/empresas/dof-vence-licitacao-da-petrobras-para-construcao-de-4-rsvs": {
-    "ts": "2026-05-06T19:53:40.600665+00:00",
+    "ts": "2026-05-07T03:40:09.474153+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/u-s-navy-jet-fires-upon-disables-iranian-tanker-accused-of-violating-washingtons-blockade/": {
-    "ts": "2026-05-06T19:53:40.600665+00:00",
+    "ts": "2026-05-07T03:40:09.474153+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/iranian-embassy-denies-attacking-korean-ship-rebutting-trumps-claim/": {
@@ -1149,6 +1149,62 @@
   },
   "https://safety4sea.com/lessons-learned-safe-in-transit-fumigation-requires-proper-crew-training/": {
     "ts": "2026-05-06T19:53:40.600665+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/dof-vai-construir-quatro-embarcacoes-para-a-petrobras-no-estaleiro-navship-em-santa-catarina/": {
+    "ts": "2026-05-07T03:40:09.474153+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/us-official-says-boxship-operator-was-at-fault-for-iranian-missile-strike": {
+    "ts": "2026-05-07T03:40:09.474153+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/utkilen-christens-new-lng-fuelled-chemical-tanker": {
+    "ts": "2026-05-07T03:40:09.474153+00:00",
+    "type": "highlight"
+  },
+  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/04/na-inauguracao-da-abdinfra-ministro-de-portos-e-aeroportos-reforca-papel-da-seguranca-juridica-na-infraestrutura": {
+    "ts": "2026-05-07T03:40:09.474153+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/04/segundo-dia-das-caravanas-da-inovacao-tem-paineis-sobre-tecnologia-sustentabilidade-e-protecao-das-criancas": {
+    "ts": "2026-05-07T03:40:09.474153+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/us-forces-disable-unladen-tanker-538901": {
+    "ts": "2026-05-07T03:40:09.474153+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/sarah-mccoy-takes-helm-as-ceo-of-port-of-virginia": {
+    "ts": "2026-05-07T03:40:09.474153+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/construction-underway-new-matson-538898": {
+    "ts": "2026-05-07T03:40:09.474153+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538858-europe-s-offshore-wind-turbine-prices-jump-40-45-as-supply-tightens": {
+    "ts": "2026-05-07T03:40:09.474153+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/maritime-risks-remain-high-in-strait-of-hormuz-despite-us-navy-escorts-imo/": {
+    "ts": "2026-05-07T03:40:09.474153+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/cma-cgm-containership-confirmed-attacked-in-hormuz-crew-injured/": {
+    "ts": "2026-05-07T03:40:09.474153+00:00",
+    "type": "other"
+  },
+  "https://www.nytimes.com/2026/05/06/business/french-ship-hormuz-central-command.html": {
+    "ts": "2026-05-07T03:40:09.474153+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/cm-risk4sea-launches-industrys-first-psc-climate-indicator-measuring-the-psc-stress-level/": {
+    "ts": "2026-05-07T03:40:09.474153+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538852-spie-nets-offshore-wind-cable-work-for-polish-baltic-projects": {
+    "ts": "2026-05-07T03:40:09.474153+00:00",
     "type": "other"
   }
 }

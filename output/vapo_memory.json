@@ -2,17 +2,6 @@
   {
     "date": "2026-04-29",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "O tráfego restrito a menos de 10% da capacidade no Estreito de Ormuz sustenta tarifas de frete em níveis recordes, elevando custos e prazos nas cadeias logísticas globais. Importadores asiáticos ampliam o uso de rotas multimodais mais longas, exigindo revisão imediata dos planos de contingência para evitar rupturas e garantir previsibilidade operacional. No segmento offshore, a instabilidade geopolítica regional mantém operações suspensas, impactando cronogramas e investimentos, especialmente em"
-  },
-  {
-    "date": "2026-04-29",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -323,5 +312,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes no transporte de petróleo e gás. Ataques recentes a navios comerciais e militares, incluindo o desabilitamento de petroleiro iraniano pelos EUA e ofensivas iranianas contra embarcações, ampliam a volatilidade operacional. Importadores asiáticos são forçados a adotar rotas multimodais mais longas, elevando custos e prazos logísticos, o que exige revisão imediata dos planos de contingência para evit"
+  },
+  {
+    "date": "2026-05-07",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "O bloqueio de mais de 90% da capacidade no Estreito de Ormuz, agravado por ataques recentes a navios comerciais e militares, mantém tarifas de transporte de petróleo e gás em níveis recordes. Importadores asiáticos ampliam uso de rotas multimodais, elevando custos e prazos, o que exige revisão urgente dos planos de contingência para evitar rupturas nas cadeias globais de suprimento. No Brasil, a Petrobras avança em contratos estratégicos com a DOF para construção de quatro embarcações de suporte"
   }
 ]
