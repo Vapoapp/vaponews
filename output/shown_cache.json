@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-05-07T08:42:20.925880+00:00",
+    "ts": "2026-05-08T03:34:23.021456+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
@@ -916,15 +916,15 @@
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/04/porto-de-paranagua-recebe-visitas-tecnicas-durante-a-7o-edicao-das-caravanas-da-inovacao-portuaria": {
-    "ts": "2026-05-06T19:53:40.600665+00:00",
+    "ts": "2026-05-08T03:34:23.021456+00:00",
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/04/ministro-tome-franca-participa-da-abertura-da-10a-edicao-do-salao-do-turismo": {
-    "ts": "2026-05-06T19:53:40.600665+00:00",
+    "ts": "2026-05-08T03:34:23.021456+00:00",
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/regulacao-e-inovacao-pautam-debate-sobre-futuro-do-setor-de-infraestrutura-no-pais": {
-    "ts": "2026-05-06T19:53:40.600665+00:00",
+    "ts": "2026-05-08T03:34:23.021456+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/second-adnoc-managed-tanker-makes-it-out-of-strait-of-hormuz": {
@@ -1024,11 +1024,11 @@
     "type": "highlight"
   },
   "https://splash247.com/gunboat-diplomacy-returns-to-hormuz/": {
-    "ts": "2026-05-07T19:48:26.245663+00:00",
+    "ts": "2026-05-08T03:34:23.021456+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/substitute-engine-parts-cause-of-fire-on-board-uk-survey-vessel-report-says/": {
-    "ts": "2026-05-07T19:48:26.245663+00:00",
+    "ts": "2026-05-08T03:34:23.021456+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/538907-iea-middle-east-conflict-reshaping-medium-term-gas-outlook": {
@@ -1056,11 +1056,11 @@
     "type": "other"
   },
   "https://splash247.com/vlcc-asset-prices-defy-gravity-as-five-year-old-tonnage-trades-above-newbuild-contracts/": {
-    "ts": "2026-05-07T19:48:26.245663+00:00",
+    "ts": "2026-05-08T03:34:23.021456+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/south-korean-cargo-ship-damaged-by-fire-in-strait-of-hormuz-to-be-towed-to-dubai/?utm_source=rss&utm_medium=rss&utm_campaign=south-korean-cargo-ship-damaged-by-fire-in-strait-of-hormuz-to-be-towed-to-dubai": {
-    "ts": "2026-05-07T19:48:26.245663+00:00",
+    "ts": "2026-05-08T03:34:23.021456+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/mundo/noticia/2026/05/07/pacientes-nos-eua-e-na-holanda-estao-com-suspeita-de-hantavirus.ghtml": {
@@ -1153,6 +1153,58 @@
   },
   "https://www.hellenicshippingnews.com/iran-says-ports-ready-to-support-shipping-in-strait-of-hormuz/": {
     "ts": "2026-05-07T19:48:26.245663+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/o-ibama-vai-comecar-um-censo-para-conhecer-o-perfil-da-forca-de-trabalho-da-industria-do-petroleo/": {
+    "ts": "2026-05-08T03:34:23.021456+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/strait-of-hormuz-in-april-a-stop-start-recovery-under-persistent-risk/": {
+    "ts": "2026-05-08T03:34:23.021456+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/amidst-ceasefire-u-s-launches-new-strikes-on-bandar-abbas-and-qeshm": {
+    "ts": "2026-05-08T03:34:23.021456+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/meio-ambiente/ibama-vistoria-empreendimentos-de-resposta-a-acidentes-no-ap": {
+    "ts": "2026-05-08T03:34:23.021456+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/abs-e-seatrium-fecham-parceria-com-foco-nos-setores-maritimo-e-offshore/": {
+    "ts": "2026-05-08T03:34:23.021456+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/a-gerdau-leva-para-feimac-em-sao-paulo-o-seu-portfolio-de-arames-de-multiplas-aplicacoes/": {
+    "ts": "2026-05-08T03:34:23.021456+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/04/protocolo-de-intencoes-entre-governo-federal-e-companhias-aereas-formaliza-cooperacao-para-estimular-viagens-no-brasil": {
+    "ts": "2026-05-08T03:34:23.021456+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/05/07/eua-ataca-portos-no-ira-diz-tv.ghtml": {
+    "ts": "2026-05-08T03:34:23.021456+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/salvors-refloat-grounded-drill-rig-off-the-coast-of-tunisia": {
+    "ts": "2026-05-08T03:34:23.021456+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538926-opt-demos-autonomous-offshore-charging-for-maritime-drones": {
+    "ts": "2026-05-08T03:34:23.021456+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/538917-amplitude-energy-secures-production-license-for-annie-gas-field-off-australia": {
+    "ts": "2026-05-08T03:34:23.021456+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/maritime-visibility-collapses-as-tensions-escalate-around-hormuz/": {
+    "ts": "2026-05-08T03:34:23.021456+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/u-s-confirms-iranian-attack-on-u-s-navy-destroyers-in-strait-of-hormuz/": {
+    "ts": "2026-05-08T03:34:23.021456+00:00",
     "type": "other"
   }
 }
