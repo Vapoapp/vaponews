@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-04-30",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, sustentando tarifas de frete em níveis recordes. Importadores asiáticos ampliam o uso de rotas multimodais mais longas, elevando custos logísticos e prazos, especialmente para o segmento de petróleo e gás. Isso exige revisão imediata dos planos de contingência para garantir continuidade e previsibilidade nas cadeias de suprimento. No offshore, a instabilidade geopolítica regional mantém operações suspensas e adia investimentos"
-  },
-  {
     "date": "2026-05-01",
     "drivers": [
       "contratos marítimos",
@@ -322,5 +311,15 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, sustentando tarifas recordes no transporte de petróleo e gás. Ataques recentes a embarcações comerciais e militares intensificam a volatilidade operacional, forçando importadores asiáticos a ampliar uso de rotas multimodais mais longas, com impacto direto em custos e prazos logísticos. A instabilidade geopolítica exige revisão imediata dos planos de contingência para evitar rupturas nas cadeias globais de suprimento. No Brasil"
+  },
+  {
+    "date": "2026-05-08",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz continua abaixo de 10%, sustentando tarifas recordes no transporte marítimo de petróleo e gás. Ataques recentes a petroleiros e embarcações militares ampliam a volatilidade operacional, forçando importadores asiáticos a adotar rotas multimodais mais longas, com impacto direto em custos e prazos logísticos. A necessidade de revisão urgente dos planos de contingência é clara para evitar rupturas nas cadeias globais de suprimento. No Brasil, a Petrobras"
   }
 ]
