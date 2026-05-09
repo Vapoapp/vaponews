@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-05-01",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "Tráfego no Estreito de Ormuz permanece abaixo de 10%, mantendo tarifas de frete em níveis recordes e ampliando custos logísticos para importadores asiáticos de petróleo e gás. A ampliação de rotas multimodais mais longas impõe ajustes urgentes nos planos de contingência, elevando riscos de ruptura nas cadeias de suprimento e exigindo revisão operacional imediata. No offshore, a instabilidade geopolítica regional prolonga a suspensão de operações e adia investimentos em projetos estratégicos, pre"
-  },
-  {
     "date": "2026-05-02",
     "drivers": [
       "contratos marítimos",
@@ -322,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com ataques recentes a embarcações militares e comerciais elevando tarifas e volatilidade operacional. Importadores asiáticos ampliam uso de rotas multimodais mais longas, pressionando custos e prazos logísticos, o que demanda revisão imediata dos planos de contingência para evitar rupturas nas cadeias globais de suprimento. No Brasil, a Petrobras avança em contratos offshore estratégicos, incluindo serviços de perfuração e inter"
+  },
+  {
+    "date": "2026-05-09",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, elevando tarifas e volatilidade operacional no transporte de petróleo e gás. Ataques recentes a embarcações militares e comerciais forçam importadores asiáticos a ampliar rotas multimodais, aumentando custos e prazos logísticos. A instabilidade exige revisão imediata dos planos de contingência para evitar rupturas nas cadeias globais de suprimento. No Brasil, a Petrobras avança em contratos offshore estratégicos, incluindo ser"
   }
 ]
