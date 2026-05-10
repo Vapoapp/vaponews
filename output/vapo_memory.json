@@ -2,17 +2,6 @@
   {
     "date": "2026-05-03",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas de frete em patamares recordes para petróleo e gás. Importadores asiáticos ampliam rotas multimodais, elevando custos e prazos logísticos, o que exige revisão imediata dos planos de contingência para evitar rupturas nas cadeias de suprimento. A complexidade operacional cresce e impacta diretamente a previsibilidade do setor. No offshore, a instabilidade geopolítica regional mantém operações suspensas e adia in"
-  },
-  {
-    "date": "2026-05-03",
-    "drivers": [
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -322,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego no Estreito de Ormuz segue abaixo de 10% da capacidade devido a ataques recentes a embarcações militares e comerciais, elevando tarifas no transporte de petróleo e gás. A instabilidade força importadores asiáticos a ampliar rotas multimodais, pressionando custos e prazos logísticos, o que exige revisão imediata dos planos de contingência para evitar rupturas nas cadeias globais de suprimento. No Brasil, a Petrobras avança em contratos offshore estratégicos, ampliando serviços de perfur"
+  },
+  {
+    "date": "2026-05-10",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz segue abaixo de 10% da capacidade, com ataques a embarcações elevando tarifas no transporte de petróleo e gás. Importadores asiáticos ampliam rotas multimodais, aumentando custos e prazos, o que demanda ajustes urgentes nos planos de contingência para evitar rupturas nas cadeias globais. A volatilidade operacional reforça o papel estratégico dos oleodutos, refletido no crescimento de 25% do lucro da Aramco no primeiro trimestre. No Brasil, a Petrobras avança em con"
   }
 ]
