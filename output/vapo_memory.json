@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-05-02",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas de frete em níveis recordes para petróleo e gás. Importadores asiáticos ampliam rotas multimodais, elevando custos logísticos e prazos, o que exige revisão imediata dos planos de contingência para evitar rupturas nas cadeias de suprimento. A complexidade operacional cresce, impactando diretamente a previsibilidade e os custos do setor. No offshore, a instabilidade geopolítica regional mantém operações susp"
-  },
-  {
     "date": "2026-05-03",
     "drivers": [
       "contratos marítimos",
@@ -322,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "O bloqueio persistente no Estreito de Ormuz reduz o tráfego a menos de 10% da capacidade, elevando tarifas e volatilidade no transporte de petróleo e gás. A intensificação dos ataques a embarcações militares e comerciais reforça a necessidade de ajustes imediatos nos planos logísticos, especialmente para importadores asiáticos que ampliam rotas multimodais mais longas, impactando prazos e custos operacionais. No Brasil, a Petrobras avança em contratos offshore estratégicos, com destaque para ser"
+  },
+  {
+    "date": "2026-05-10",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz segue abaixo de 10% da capacidade devido a ataques recentes a embarcações militares e comerciais, elevando tarifas no transporte de petróleo e gás. A instabilidade força importadores asiáticos a ampliar rotas multimodais, pressionando custos e prazos logísticos, o que exige revisão imediata dos planos de contingência para evitar rupturas nas cadeias globais de suprimento. No Brasil, a Petrobras avança em contratos offshore estratégicos, ampliando serviços de perfur"
   }
 ]
