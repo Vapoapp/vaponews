@@ -4,17 +4,6 @@
     "drivers": [
       "contratos marítimos",
       "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas de frete em níveis recordes. Importadores asiáticos ampliam rotas multimodais, elevando custos e prazos, o que exige revisão imediata dos planos de contingência para garantir previsibilidade nas cadeias de suprimento. O impacto operacional é direto, com maior complexidade logística e risco de rupturas. No offshore, a instabilidade geopolítica regional mantém operações suspensas e adia investimentos em projetos"
-  },
-  {
-    "date": "2026-05-02",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
       "risco geopolítico",
       "petróleo e gás"
     ],
@@ -322,5 +311,15 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego no Estreito de Ormuz segue abaixo de 10% da capacidade, com ataques recentes a navios militares e comerciais ampliando a volatilidade e elevando tarifas no transporte de petróleo e gás. Importadores asiáticos intensificam uso de rotas multimodais mais longas, pressionando custos logísticos e prazos de entrega, o que exige revisão imediata dos planos de contingência para evitar rupturas nas cadeias globais de suprimento. No Brasil, a Petrobras avança em contratos estratégicos para opera"
+  },
+  {
+    "date": "2026-05-10",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade devido a ataques recentes a petroleiros e embarcações militares, elevando tarifas e volatilidade operacional no transporte de petróleo e gás. Importadores asiáticos ampliam uso de rotas multimodais mais longas, pressionando custos e prazos logísticos e exigindo revisão imediata dos planos de contingência para evitar rupturas nas cadeias globais de suprimento. No Brasil, a Petrobras avança em contratos offshore estratégicos, inc"
   }
 ]
