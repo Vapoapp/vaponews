@@ -7,16 +7,6 @@
       "risco geopolítico",
       "petróleo e gás"
     ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, mantendo tarifas de frete em níveis recordes para petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, elevando custos e prazos logísticos, o que exige revisão imediata dos planos de contingência para garantir a continuidade das cadeias de suprimento. A complexidade operacional e o risco de rupturas permanecem elevados. No offshore, a instabilidade geopolítica na região do Golfo de Aden e Iêmen intensific"
-  },
-  {
-    "date": "2026-05-03",
-    "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas de frete em níveis recordes para petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, elevando custos e prazos, o que exige revisão imediata dos planos de contingência para evitar rupturas nas cadeias de suprimento. A complexidade operacional e a volatilidade logística permanecem elevadas. No Golfo de Aden e região do Iêmen, ataques e abordagens suspeitas continuam a impactar a seguran"
   },
   {
@@ -322,5 +312,15 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego no Estreito de Ormuz segue abaixo de 10% da capacidade, com ataques a embarcações elevando tarifas no transporte de petróleo e gás. Importadores asiáticos ampliam rotas multimodais, aumentando custos e prazos, o que demanda ajustes urgentes nos planos de contingência para evitar rupturas nas cadeias globais. A volatilidade operacional reforça o papel estratégico dos oleodutos, refletido no crescimento de 25% do lucro da Aramco no primeiro trimestre. No Brasil, a Petrobras avança em con"
+  },
+  {
+    "date": "2026-05-11",
+    "drivers": [
+      "contratos marítimos",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O tráfego marítimo no Estreito de Ormuz permanece abaixo de 10% da capacidade, com ataques recentes a embarcações comerciais e militares elevando tarifas e volatilidade no transporte de petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, aumentando custos e prazos, o que exige ajustes urgentes nos planos logísticos para evitar rupturas nas cadeias globais de suprimento. A instabilidade reforça a demanda por oleodutos, refletida no crescimento de 25% do lucro da Aramco n"
   }
 ]

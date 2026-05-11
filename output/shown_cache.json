@@ -15,14 +15,6 @@
     "ts": "2026-05-04T14:15:41.938010+00:00",
     "type": "highlight"
   },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/lng-canada-exports-hit-one-million-tonnes-for-first-time-in-single-month": {
-    "ts": "2026-05-04T03:43:15.000977+00:00",
-    "type": "highlight"
-  },
-  "https://gcaptain.com/saudi-arabia-set-for-oil-windfall-after-hormuz-boosts-prices/": {
-    "ts": "2026-05-04T03:43:15.000977+00:00",
-    "type": "other"
-  },
   "https://gcaptain.com/india-linked-ship-carrying-cooking-fuel-manages-hormuz-exit/": {
     "ts": "2026-05-04T08:37:11.894334+00:00",
     "type": "highlight"
@@ -50,22 +42,6 @@
   "https://www.marinelink.com/news/ukrainian-drones-hit-russian-port-tankers-538731": {
     "ts": "2026-05-04T14:15:41.938010+00:00",
     "type": "highlight"
-  },
-  "https://maritime-executive.com/article/china-s-production-capacity-for-green-fuels-reaches-eight-million-tons": {
-    "ts": "2026-05-04T03:43:15.000977+00:00",
-    "type": "highlight"
-  },
-  "https://g1.globo.com/trabalho-e-carreira/noticia/2026/05/04/quais-sao-os-proximos-feriados-de-2026-spoiler-restam-seis.ghtml": {
-    "ts": "2026-05-04T03:43:15.000977+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/sweden-boards-and-detains-falsely-flagged-tanker-off-trelleborg": {
-    "ts": "2026-05-04T03:43:15.000977+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/imo-progresses-net-zero-framework-538729": {
-    "ts": "2026-05-04T03:43:15.000977+00:00",
-    "type": "other"
   },
   "https://petronoticias.com.br/com-ausencia-de-alguns-paises-do-oriente-medio-comeca-em-houston-a-otc-a-maior-feira-de-petroleo-do-mundo/": {
     "ts": "2026-05-04T14:15:41.938010+00:00",
@@ -1116,7 +1092,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/seafarers-stuck-in-hormuz-suffer-from-anxiety-depression-mental-health-issues-on-the-rise/?utm_source=rss&utm_medium=rss&utm_campaign=seafarers-stuck-in-hormuz-suffer-from-anxiety-depression-mental-health-issues-on-the-rise": {
-    "ts": "2026-05-10T19:13:10.065362+00:00",
+    "ts": "2026-05-11T04:00:55.373012+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/uk-s-port-of-blyth-targets-offshore-wind-dominance": {
@@ -1144,15 +1120,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/a-eaton-lancou-uma-nova-linha-de-producao-para-chave-de-capacitor-em-sua-unidade-de-porto-feliz-em-sao-paulo/": {
-    "ts": "2026-05-10T19:13:10.065362+00:00",
+    "ts": "2026-05-11T04:00:55.373012+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/indian-sailor-dies-after-cargo-ship-sinks-in-us-iran-naval-crossfire-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=indian-sailor-dies-after-cargo-ship-sinks-in-us-iran-naval-crossfire-in-strait-of-hormuz": {
-    "ts": "2026-05-10T19:13:10.065362+00:00",
+    "ts": "2026-05-11T04:00:55.373012+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/qatari-lng-tanker-sailing-towards-hormuz-strait/": {
-    "ts": "2026-05-10T19:13:10.065362+00:00",
+    "ts": "2026-05-11T04:00:55.373012+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/mundo/noticia/2026/05/09/reino-unido-envia-navio-de-guerra-para-o-oriente-medio-de-olho-em-possivel-missao-no-estreito-de-ormuz.ghtml": {
@@ -1164,7 +1140,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/iranian-shadow-fleet-tanker-ablaze-off-jask": {
-    "ts": "2026-05-10T19:13:10.065362+00:00",
+    "ts": "2026-05-11T04:00:55.373012+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/mundo/noticia/2026/05/09/ataques-contra-navios-iranianos.ghtml": {
@@ -1220,11 +1196,11 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production/aramco-q1-profit-jumps-25-per-cent-as-hormuz-risks-push-pipeline-to-full-capacity": {
-    "ts": "2026-05-10T19:13:10.065362+00:00",
+    "ts": "2026-05-11T04:00:55.373012+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/aramco-ceo-warns-billion-barrels-lost-will-slow-oil-market-recovery": {
-    "ts": "2026-05-10T19:13:10.065362+00:00",
+    "ts": "2026-05-11T04:00:55.373012+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/trumps-iran-strategy-collides-with-hormuz-reality/": {
@@ -1233,6 +1209,34 @@
   },
   "https://www.hellenicshippingnews.com/gms-week-19-brent-breaks-backlog-holds/": {
     "ts": "2026-05-10T19:13:10.065362+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/two-tankers-exit-strait-hormuz-538998": {
+    "ts": "2026-05-11T04:00:55.373012+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/force-majeure-in-the-age-of-geopolitical-shock-and-energy-security/": {
+    "ts": "2026-05-11T04:00:55.373012+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/ukraine-strikes-russian-corvette-in-the-caspian-sea": {
+    "ts": "2026-05-11T04:00:55.373012+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/tanker-owners-post-record-earnings-as-hormuz-disruption-forces-detours/": {
+    "ts": "2026-05-11T04:00:55.373012+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/first-qatar-lng-shipment-moves-through-hormuz-since-war-started/": {
+    "ts": "2026-05-11T04:00:55.373012+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/uk-deploys-warship-middle-east-539001": {
+    "ts": "2026-05-11T04:00:55.373012+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/ports/finnlines-to-open-new-passenger-terminal-in-port-of-langnas": {
+    "ts": "2026-05-11T04:00:55.373012+00:00",
     "type": "other"
   }
 }
