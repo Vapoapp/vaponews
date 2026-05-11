@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-05-03",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas de frete em níveis recordes para petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, elevando custos e prazos logísticos, o que exige revisão imediata dos planos de contingência para evitar rupturas nas cadeias de suprimento. A volatilidade operacional e o risco geopolítico seguem elevados, impactando a previsibilidade do setor. No Golfo de Aden e região do Iêmen, ataques com dron"
-  },
-  {
     "date": "2026-05-04",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -323,5 +312,16 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego marítimo no Estreito de Ormuz segue abaixo de 10% da capacidade, com ataques frequentes a embarcações comerciais e militares elevando tarifas e volatilidade operacional. Importadores asiáticos ampliam rotas multimodais mais longas, pressionando custos e prazos logísticos, o que exige ajustes urgentes nos planos de contingência para evitar rupturas nas cadeias globais de suprimento. No setor offshore brasileiro, a Petrobras avança em contratos estratégicos, enquanto a Seadrill amplia se"
+  },
+  {
+    "date": "2026-05-11",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O bloqueio e ataques frequentes no Estreito de Ormuz reduzem o tráfego a menos de 10% da capacidade, elevando tarifas no transporte de petróleo e gás e ampliando a volatilidade operacional. Importadores asiáticos respondem com rotas multimodais mais longas, pressionando custos e prazos, o que exige revisão urgente dos planos logísticos para evitar rupturas nas cadeias globais de suprimento. No Brasil, a Petrobras avança em contratos offshore estratégicos, enquanto a Seadrill amplia seu backlog p"
   }
 ]
