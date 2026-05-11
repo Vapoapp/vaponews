@@ -7,14 +7,6 @@
     "ts": "2026-05-09T13:37:58.406469+00:00",
     "type": "highlight"
   },
-  "https://petronoticias.com.br/fugro-recebe-premio-na-otc-houston-por-solucao-que-usa-ia-para-interpretacao-de-dados/": {
-    "ts": "2026-05-04T19:48:03.899270+00:00",
-    "type": "highlight"
-  },
-  "https://maritime-executive.com/article/ukraine-hits-two-tankers-at-novorossiysk-and-three-vessels-at-primorsk": {
-    "ts": "2026-05-04T19:48:03.899270+00:00",
-    "type": "other"
-  },
   "https://www.offshore-energy.biz/eighth-fpso-at-brazils-giant-deepwater-field-begins-producing-four-to-go/": {
     "ts": "2026-05-05T08:19:30.049895+00:00",
     "type": "highlight"
@@ -43,52 +35,8 @@
     "ts": "2026-05-05T19:42:24.995889+00:00",
     "type": "highlight"
   },
-  "https://brasilenergia.com.br/petroleoegas/recursos-humanos/ibama-vai-mapear-perfil-de-trabalhadores-do-setor-de-og-offshore": {
-    "ts": "2026-05-04T19:48:03.899270+00:00",
-    "type": "other"
-  },
-  "https://petronoticias.com.br/o-presidente-da-guiana-fez-a-abertura-da-otc-2026-destacando-o-crescimento-do-pais-com-a-exploracao-do-petroleo/": {
-    "ts": "2026-05-04T19:48:03.899270+00:00",
-    "type": "other"
-  },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/04/investimentos-em-transportes-e-logistica-atingem-maior-nivel-dos-ultimos-11-anos": {
     "ts": "2026-05-06T03:40:35.109569+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/uae-accuses-iran-attacking-empty-oil-538756": {
-    "ts": "2026-05-04T19:48:03.899270+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/samsung-heavy-wins-485-billion-won-fsru-order-as-lng-demand-rises-in-asia/": {
-    "ts": "2026-05-04T19:48:03.899270+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/transport/pipeline-work-starts-on-romanias-biggest-black-sea-offshore-gas-project": {
-    "ts": "2026-05-04T19:48:03.899270+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/renewed-persian-gulf-shipping-attacks-spark-oil-price-rally": {
-    "ts": "2026-05-04T19:48:03.899270+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/fire-breaks-hmm-vessel-strait-hormuz-538758": {
-    "ts": "2026-05-04T19:48:03.899270+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/u-s-escorts-first-us-flagged-ships-through-hormuz-as-iran-warns-of-attack/": {
-    "ts": "2026-05-04T19:48:03.899270+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/chinese-captain-detained-after-swedish-raid-on-suspected-shadow-fleet-tanker": {
-    "ts": "2026-05-04T19:48:03.899270+00:00",
-    "type": "other"
-  },
-  "https://www.nytimes.com/2026/05/04/business/trump-hormuz-shipping-companies.html": {
-    "ts": "2026-05-04T19:48:03.899270+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/diana-shipping-attempts-takeover-of-genco-shipping-and-trading-again": {
-    "ts": "2026-05-04T19:48:03.899270+00:00",
     "type": "other"
   },
   "https://g1.globo.com/mg/minas-gerais/noticia/2026/05/05/acidente-com-aviao-que-bateu-em-predio-de-bh-entenda-ponto-a-ponto.ghtml": {
@@ -1020,7 +968,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/iranian-shadow-fleet-tanker-ablaze-off-jask": {
-    "ts": "2026-05-11T15:23:56.765328+00:00",
+    "ts": "2026-05-11T19:55:33.842783+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/mundo/noticia/2026/05/09/ataques-contra-navios-iranianos.ghtml": {
@@ -1100,7 +1048,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/ukraine-strikes-russian-corvette-in-the-caspian-sea": {
-    "ts": "2026-05-11T15:23:56.765328+00:00",
+    "ts": "2026-05-11T19:55:33.842783+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/tanker-owners-post-record-earnings-as-hormuz-disruption-forces-detours/": {
@@ -1128,7 +1076,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/539009-shell-selects-new-wave-offshore-for-orca-project-in-santos-basin": {
-    "ts": "2026-05-11T15:23:56.765328+00:00",
+    "ts": "2026-05-11T19:55:33.842783+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/539006-seadrill-s-backlog-reaches-3-1b-with-860m-in-new-rig-deals": {
@@ -1180,11 +1128,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/shell-contrata-new-wave-offshore-energy-para-vistoria-de-garantia-maritima-no-projeto-orca/": {
-    "ts": "2026-05-11T15:23:56.765328+00:00",
+    "ts": "2026-05-11T19:55:33.842783+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/ntsb-investigation-towing-vessel-collides-with-bulk-carrier-and-sinks/": {
-    "ts": "2026-05-11T15:23:56.765328+00:00",
+    "ts": "2026-05-11T19:55:33.842783+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/three-oil-tankers-carrying-6-million-barrels-exit-strait-of-hormuz-with-trackers-switched-off/?utm_source=rss&utm_medium=rss&utm_campaign=three-oil-tankers-carrying-6-million-barrels-exit-strait-of-hormuz-with-trackers-switched-off": {
@@ -1245,6 +1193,70 @@
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/syria-selects-offshore-block-for-first-deep-water-oil-gas-project-with-chevron": {
     "ts": "2026-05-11T15:23:56.765328+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/portos/aps-decisao-tcu-arrendamento-porto-de-santos": {
+    "ts": "2026-05-11T19:55:33.842783+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/bidding-announcement-of-psv-bourbon-liberty-154-with-her-bareboat-charter/": {
+    "ts": "2026-05-11T19:55:33.842783+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/us-iran-far-apart-in-talks-to-end-war-and-reopen-hormuz/": {
+    "ts": "2026-05-11T19:55:33.842783+00:00",
+    "type": "highlight"
+  },
+  "https://www.guiamaritimo.com.br/noticias/portos/governo-acelera-leilao-tecon-santos-10-retira-restricoes-armadores": {
+    "ts": "2026-05-11T19:55:33.842783+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/logistica/rhenus-trens-metro-bh-logistica-qingdao-sepetiba": {
+    "ts": "2026-05-11T19:55:33.842783+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/carteira-de-pedidos-da-seadrill-passou-de-us-3-bilhoes-apos-novos-contratos/": {
+    "ts": "2026-05-11T19:55:33.842783+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/portos/porto-itapoa-cabotagem-sul-do-brasil-e-contribui-para-evitar-a-emissao-de-ate-259-mil-toneladas-de-co": {
+    "ts": "2026-05-11T19:55:33.842783+00:00",
+    "type": "other"
+  },
+  "https://brasilenergia.com.br/petroleoegas/empresas/onesubsea-conclui-aquisicao-do-negocio-subsea-do-envirex-group": {
+    "ts": "2026-05-11T19:55:33.842783+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/tankers-carrying-iraqi-oil-cross-strait-of-hormuz-with-tracking-systems-turned-off/": {
+    "ts": "2026-05-11T19:55:33.842783+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/emergency-crews-battle-fire-on-offshore-oil-platform-in-californias-santa-barbara-channel/": {
+    "ts": "2026-05-11T19:55:33.842783+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/antaq/pt-br/noticias/antaq-participa-da-otc-2026-para-acompanhar-tendencias-e-fortalecer-cooperacao-internacional-no-setor-offshore": {
+    "ts": "2026-05-11T19:55:33.842783+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/aviacao-no-nordeste-cresce-acima-da-media-nacional-no-primeiro-trimestre-de-2026": {
+    "ts": "2026-05-11T19:55:33.842783+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/india-says-no-to-sanctioned-russian-lng-cargo-leaving-tanker-in-limbo": {
+    "ts": "2026-05-11T19:55:33.842783+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/oocl-names-worlds-largest-methanol-dual-fuel-containership/": {
+    "ts": "2026-05-11T19:55:33.842783+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/water-levels-on-rhine-rising-after-rain-may-normalise-this-week": {
+    "ts": "2026-05-11T19:55:33.842783+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/539028-syria-identifies-offshore-site-for-first-deep-water-chevron-project": {
+    "ts": "2026-05-11T19:55:33.842783+00:00",
     "type": "other"
   }
 }
