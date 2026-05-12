@@ -1096,7 +1096,7 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/aps-decisao-tcu-arrendamento-porto-de-santos": {
-    "ts": "2026-05-12T03:43:42.610723+00:00",
+    "ts": "2026-05-12T14:36:32.271678+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/bidding-announcement-of-psv-bourbon-liberty-154-with-her-bareboat-charter/": {
@@ -1104,7 +1104,7 @@
     "type": "highlight"
   },
   "https://gcaptain.com/us-iran-far-apart-in-talks-to-end-war-and-reopen-hormuz/": {
-    "ts": "2026-05-12T03:43:42.610723+00:00",
+    "ts": "2026-05-12T14:36:32.271678+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/governo-acelera-leilao-tecon-santos-10-retira-restricoes-armadores": {
@@ -1164,7 +1164,7 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/no-periodo-de-maior-investimento-em-sua-historia-a-cemig-faz-mudanca-na-presidencia-da-companhia/": {
-    "ts": "2026-05-12T08:48:11.049861+00:00",
+    "ts": "2026-05-12T14:36:32.271678+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/somali-piracy-adds-new-strain-to-global-shipping-and-trade-routes/": {
@@ -1220,7 +1220,7 @@
     "type": "highlight"
   },
   "https://gcaptain.com/iran-war-ceasefire-fragile-as-us-rejects-tehrans-latest-offer/": {
-    "ts": "2026-05-12T08:48:11.049861+00:00",
+    "ts": "2026-05-12T14:36:32.271678+00:00",
     "type": "highlight"
   },
   "https://splash247.com/fire-hits-california-offshore-platform-amid-trump-drilling-push/": {
@@ -1265,6 +1265,74 @@
   },
   "https://www.marineinsight.com/russian-lng-tanker-appears-to-load-cargo-from-us-sanctioned-arctic-lng-2-project/?utm_source=rss&utm_medium=rss&utm_campaign=russian-lng-tanker-appears-to-load-cargo-from-us-sanctioned-arctic-lng-2-project": {
     "ts": "2026-05-12T08:48:11.049861+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/zhoushan-is-accelerating-the-deployment-of-shore-power-systems/": {
+    "ts": "2026-05-12T14:36:32.271678+00:00",
+    "type": "highlight"
+  },
+  "https://www.offshore-energy.biz/lng-capacity-boost-emerging-in-oceania-as-new-gas-project-gets-the-green-light/": {
+    "ts": "2026-05-12T14:36:32.271678+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/fire-erupts-on-offshore-gas-platform-during-decommissioning-26-workers-evacuated/?utm_source=rss&utm_medium=rss&utm_campaign=fire-erupts-on-offshore-gas-platform-during-decommissioning-26-workers-evacuated": {
+    "ts": "2026-05-12T14:36:32.271678+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/ep/opc-anp-publica-edital-com-45-novos-blocos": {
+    "ts": "2026-05-12T14:36:32.271678+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/drilling-production/petrobras-q1-profit-falls-below-expectations-despite-high-oil-prices": {
+    "ts": "2026-05-12T14:36:32.271678+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/fire-breaks-out-aboard-offshore-platform-in-santa-barbara-channel/": {
+    "ts": "2026-05-12T14:36:32.271678+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/deadline-extended-for-innovation-program-targeting-offshore-energy-solutions/": {
+    "ts": "2026-05-12T14:36:32.271678+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/petronas-lng-signs-20-year-charter-agreement-with-misc-for-five-new-ships": {
+    "ts": "2026-05-12T14:36:32.271678+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/norway-leads-efforts-to-make-nuclear-propulsion-commercially-viable/": {
+    "ts": "2026-05-12T14:36:32.271678+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/539072-ned-marine-launches-drone-and-subsea-rov-inspection-services": {
+    "ts": "2026-05-12T14:36:32.271678+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/539062-nextgeo-scores-11-7m-mediterranean-subsea-job": {
+    "ts": "2026-05-12T14:36:32.271678+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/key-container-ship-data-trends-reported-in-april-2026/": {
+    "ts": "2026-05-12T14:36:32.271678+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/kr-leads-two-imo-expert-groups-ammonia-539083": {
+    "ts": "2026-05-12T14:36:32.271678+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/539054-equinor-s-gullfaks-field-reaches-5-000-oil-cargo-milestone-in-north-sea": {
+    "ts": "2026-05-12T14:36:32.271678+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/lng-shipping-stocks-first-tankers-pass-through-hormuz/": {
+    "ts": "2026-05-12T14:36:32.271678+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/economou-tied-to-vlgc-newbuild-slots-in-south-korea/": {
+    "ts": "2026-05-12T14:36:32.271678+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/knutsen-stacks-lng-orderbook-higher-with-hanwha-ocean-deal/": {
+    "ts": "2026-05-12T14:36:32.271678+00:00",
     "type": "other"
   }
 }
