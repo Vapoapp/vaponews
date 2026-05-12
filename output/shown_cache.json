@@ -1,31 +1,19 @@
 {
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-05-12T03:43:42.610723+00:00",
+    "ts": "2026-05-12T08:48:11.049861+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-05-09T13:37:58.406469+00:00",
-    "type": "highlight"
-  },
-  "https://www.offshore-energy.biz/eighth-fpso-at-brazils-giant-deepwater-field-begins-producing-four-to-go/": {
-    "ts": "2026-05-05T08:19:30.049895+00:00",
+    "ts": "2026-05-12T08:48:11.049861+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/gms-limited-tonnage-extends-lifespan-of-older-vessels/": {
     "ts": "2026-05-06T08:34:32.710386+00:00",
     "type": "highlight"
   },
-  "https://www.marineinsight.com/ukraine-strikes-primorsk-oil-terminal-damages-tankers-and-naval-ships-in-drone-attack/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-strikes-primorsk-oil-terminal-damages-tankers-and-naval-ships-in-drone-attack": {
-    "ts": "2026-05-05T08:19:30.049895+00:00",
-    "type": "highlight"
-  },
   "https://www.tecnologistica.com.br/noticias/reconhecimento/21328/portocel-obtem-certificacao-oea-e-amplia-eficiencia-nas-operacoes-de-comercio-exterior/": {
     "ts": "2026-05-06T08:34:32.710386+00:00",
     "type": "other"
-  },
-  "https://petronoticias.com.br/brava-foi-a-primeira-petroleira-independente-brasileira-a-ser-premiada-na-otc-houston/": {
-    "ts": "2026-05-05T08:19:30.049895+00:00",
-    "type": "highlight"
   },
   "https://gcaptain.com/explosion-hits-ship-as-trumps-hormuz-push-meets-reality/": {
     "ts": "2026-05-05T19:42:24.995889+00:00",
@@ -39,10 +27,6 @@
     "ts": "2026-05-06T03:40:35.109569+00:00",
     "type": "other"
   },
-  "https://g1.globo.com/mg/minas-gerais/noticia/2026/05/05/acidente-com-aviao-que-bateu-em-predio-de-bh-entenda-ponto-a-ponto.ghtml": {
-    "ts": "2026-05-05T08:19:30.049895+00:00",
-    "type": "highlight"
-  },
   "https://maritime-executive.com/article/maersk-boxship-collides-with-container-feeder-at-chattogram": {
     "ts": "2026-05-06T19:53:40.600665+00:00",
     "type": "highlight"
@@ -55,48 +39,8 @@
     "ts": "2026-05-06T03:40:35.109569+00:00",
     "type": "highlight"
   },
-  "https://gcaptain.com/stricken-russian-lng-tanker-arctic-metagaz-anchored-off-libya-after-two-month-odyssey-future-uncertain/": {
-    "ts": "2026-05-05T08:19:30.049895+00:00",
-    "type": "highlight"
-  },
-  "https://petronoticias.com.br/petroleiras-estatais-ampliam-investimentos-em-oleo-e-gas-diante-do-aumento-do-preco-do-barril/": {
-    "ts": "2026-05-05T08:19:30.049895+00:00",
-    "type": "other"
-  },
-  "https://www.rigzone.com/news/wire/iran_us_exchange_fire_in_persian_gulf-05-may-2026-183606-article/": {
-    "ts": "2026-05-05T08:19:30.049895+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/538776-brent-near-114-as-middle-east-conflict-continues": {
-    "ts": "2026-05-05T08:19:30.049895+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/solstad-csv-picked-by-reach-subsea-for-mediterranean-and-black-sea/": {
-    "ts": "2026-05-05T08:19:30.049895+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/misc-enters-fsru-market-with-samsung-heavy-newbuild-for-petronas/": {
-    "ts": "2026-05-05T08:19:30.049895+00:00",
-    "type": "other"
-  },
   "https://maritime-executive.com/article/iran-attacked-two-us-navy-destroyers-during-first-day-of-project-freedom": {
     "ts": "2026-05-06T08:34:32.710386+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/why-russias-northern-sea-route-is-a-risk-for-global-trade/": {
-    "ts": "2026-05-05T08:19:30.049895+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/538775-thailand-cancels-offshore-energy-exploration-pact-with-cambodia": {
-    "ts": "2026-05-05T08:19:30.049895+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/california-probes-trump-administration-538769": {
-    "ts": "2026-05-05T08:19:30.049895+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/dry-bulk-shipping-argentinian-market-adding-cargoes/": {
-    "ts": "2026-05-05T08:19:30.049895+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/a-firjan-promove-na-otc-a-primeira-rodada-internacional-para-fornecedores-da-industria-do-petroleo/": {
@@ -1032,7 +976,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/539009-shell-selects-new-wave-offshore-for-orca-project-in-santos-basin": {
-    "ts": "2026-05-12T03:43:42.610723+00:00",
+    "ts": "2026-05-12T08:48:11.049861+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/539006-seadrill-s-backlog-reaches-3-1b-with-860m-in-new-rig-deals": {
@@ -1088,11 +1032,11 @@
     "type": "highlight"
   },
   "https://safety4sea.com/ntsb-investigation-towing-vessel-collides-with-bulk-carrier-and-sinks/": {
-    "ts": "2026-05-12T03:43:42.610723+00:00",
+    "ts": "2026-05-12T08:48:11.049861+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/three-oil-tankers-carrying-6-million-barrels-exit-strait-of-hormuz-with-trackers-switched-off/?utm_source=rss&utm_medium=rss&utm_campaign=three-oil-tankers-carrying-6-million-barrels-exit-strait-of-hormuz-with-trackers-switched-off": {
-    "ts": "2026-05-12T03:43:42.610723+00:00",
+    "ts": "2026-05-12T08:48:11.049861+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/o-bloqueio-naval-americano-aos-portos-do-ira-completa-um-mes-com-prejuizos-superiores-a-us-135-bilhoes/": {
@@ -1216,15 +1160,15 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/539042-fire-breaks-out-on-california-gas-platform-during-decommissioning": {
-    "ts": "2026-05-12T03:43:42.610723+00:00",
+    "ts": "2026-05-12T08:48:11.049861+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/no-periodo-de-maior-investimento-em-sua-historia-a-cemig-faz-mudanca-na-presidencia-da-companhia/": {
-    "ts": "2026-05-12T03:43:42.610723+00:00",
+    "ts": "2026-05-12T08:48:11.049861+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/somali-piracy-adds-new-strain-to-global-shipping-and-trade-routes/": {
-    "ts": "2026-05-12T03:43:42.610723+00:00",
+    "ts": "2026-05-12T08:48:11.049861+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/maritimo/maersk-resultados-1t26-volumes": {
@@ -1269,6 +1213,58 @@
   },
   "https://www.hellenicshippingnews.com/how-a-handful-of-chokepoints-came-to-dominate-the-world-economy/": {
     "ts": "2026-05-12T03:43:42.610723+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/sp/sao-paulo/noticia/2026/05/12/a-janela-explodiu-na-minha-cara-jovem-fica-ferido-apos-explosao-atingir-imoveis-no-jaguare.ghtml": {
+    "ts": "2026-05-12T08:48:11.049861+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/iran-war-ceasefire-fragile-as-us-rejects-tehrans-latest-offer/": {
+    "ts": "2026-05-12T08:48:11.049861+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/fire-hits-california-offshore-platform-amid-trump-drilling-push/": {
+    "ts": "2026-05-12T08:48:11.049861+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/sp/sao-paulo/noticia/2026/05/12/tubulacao-de-gas-atingida-por-obra-da-sabesp-o-que-se-sabe-sobre-a-explosao-no-jaguare.ghtml": {
+    "ts": "2026-05-12T08:48:11.049861+00:00",
+    "type": "other"
+  },
+  "https://brasilenergia.com.br/petroleoegas/combustiveis/anp-aprova-novo-cronograma-de-duas-acoes-regulatorias": {
+    "ts": "2026-05-12T08:48:11.049861+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/539050-oil-prices-edge-higher-amid-uncertainty-over-iran-deal": {
+    "ts": "2026-05-12T08:48:11.049861+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/nextgeo-to-deploy-multiple-vessels-for-central-mediterranean-campaign/": {
+    "ts": "2026-05-12T08:48:11.049861+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/tanker-market-volatility-could-ramp-up-after-uaes-opec-exit/": {
+    "ts": "2026-05-12T08:48:11.049861+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/bauxite-storm-brewing-for-capesizes/": {
+    "ts": "2026-05-12T08:48:11.049861+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/gms-freight-surge-and-hormuz-risks-keep-shipping-backlog-intact/": {
+    "ts": "2026-05-12T08:48:11.049861+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/aramco-ramped-east-west-pipeline-to-maximum-as-hormuz-shipping-crisis-deepened/": {
+    "ts": "2026-05-12T08:48:11.049861+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/shipping-companies-leverage-arabian-peninsula-truck-routes-to-bypass-hormuz": {
+    "ts": "2026-05-12T08:48:11.049861+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/russian-lng-tanker-appears-to-load-cargo-from-us-sanctioned-arctic-lng-2-project/?utm_source=rss&utm_medium=rss&utm_campaign=russian-lng-tanker-appears-to-load-cargo-from-us-sanctioned-arctic-lng-2-project": {
+    "ts": "2026-05-12T08:48:11.049861+00:00",
     "type": "other"
   }
 }
