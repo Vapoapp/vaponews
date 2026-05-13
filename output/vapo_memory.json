@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-05-05",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com ataques iranianos recentes ampliando a volatilidade operacional. Isso mantém tarifas de transporte de petróleo e gás em patamares recordes, forçando importadores asiáticos a adotar rotas multimodais mais longas, elevando custos e prazos logísticos. A urgência na revisão dos planos de contingência para evitar rupturas nas cadeias de suprimento se intensifica. No Brasil, a Petrobras avançou na individualização da produção em ca"
-  },
-  {
     "date": "2026-05-06",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -322,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, elevando tarifas no transporte marítimo de petróleo e gás e ampliando a volatilidade do mercado. Importadores asiáticos expandem rotas multimodais mais longas, o que pressiona custos e prazos, exigindo revisão imediata dos planos logísticos para evitar rupturas nas cadeias globais. A operação máxima do oleoduto Leste-Oeste da Aramco reforça a importância das infraestruturas alternativas para mitigar riscos de fornecimento. No"
+  },
+  {
+    "date": "2026-05-13",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz segue abaixo de 10% da capacidade, elevando tarifas e volatilidade no transporte marítimo de petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, aumentando custos e prazos, o que demanda revisão urgente dos planos logísticos para evitar rupturas nas cadeias globais. A operação máxima do oleoduto Leste-Oeste da Aramco reforça a importância de infraestruturas alternativas para mitigar riscos. No Brasil, a Petrobras acelera contratos offshore"
   }
 ]
