@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-05-06",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes no transporte de petróleo e gás. Ataques recentes a navios comerciais e militares, incluindo o desabilitamento de petroleiro iraniano pelos EUA e ofensivas iranianas contra embarcações, ampliam a volatilidade operacional. Importadores asiáticos são forçados a adotar rotas multimodais mais longas, elevando custos e prazos logísticos, o que exige revisão imediata dos planos de contingência para evit"
-  },
-  {
     "date": "2026-05-07",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -322,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego no Estreito de Ormuz mantém-se abaixo de 10% da capacidade, elevando tarifas e volatilidade no transporte marítimo de petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, pressionando custos e prazos, o que exige revisão imediata dos planos logísticos para evitar rupturas nas cadeias globais. A operação máxima do oleoduto Leste-Oeste da Aramco reforça a dependência de infraestruturas alternativas para mitigar riscos de fornecimento. No mercado de afretamento, a"
+  },
+  {
+    "date": "2026-05-14",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz segue abaixo de 10% da capacidade, elevando custos e volatilidade no transporte marítimo de petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, o que pressiona prazos e exige revisão imediata dos planos logísticos para evitar rupturas nas cadeias globais. A operação máxima do oleoduto Leste-Oeste da Aramco reforça a dependência de infraestruturas alternativas para mitigar riscos de fornecimento. No mercado offshore, a guerra no Golfo Pérsi"
   }
 ]
