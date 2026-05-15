@@ -7,16 +7,6 @@
       "risco geopolítico",
       "petróleo e gás"
     ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes no transporte de petróleo e gás. Ataques recentes a embarcações comerciais e militares intensificam a volatilidade operacional, forçando importadores asiáticos a adotar rotas multimodais mais longas. Isso eleva custos e prazos logísticos, exigindo revisão urgente dos planos de contingência para evitar rupturas nas cadeias globais de suprimento. No mercado brasileiro, a Petrobras avança em contratos es"
-  },
-  {
-    "date": "2026-05-08",
-    "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
     "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, sustentando tarifas recordes no transporte de petróleo e gás. Ataques recentes a embarcações comerciais e militares intensificam a volatilidade operacional, forçando importadores asiáticos a ampliar uso de rotas multimodais mais longas, com impacto direto em custos e prazos logísticos. A instabilidade geopolítica exige revisão imediata dos planos de contingência para evitar rupturas nas cadeias globais de suprimento. No Brasil"
   },
   {
@@ -322,5 +312,16 @@
       "petróleo e gás"
     ],
     "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, elevando custos e volatilidade no transporte marítimo de petróleo e gás. A ampliação das rotas multimodais asiáticas alonga prazos e pressiona despesas logísticas, exigindo ajustes imediatos para evitar rupturas nas cadeias globais. A operação máxima do oleoduto Leste-Oeste da Aramco reforça a dependência de infraestruturas alternativas, mas não elimina riscos de desabastecimento. No mercado offshore brasileiro, a ABL conquist"
+  },
+  {
+    "date": "2026-05-15",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz segue abaixo de 10% da capacidade, elevando volatilidade e custos no transporte marítimo de petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, o que alonga prazos e pressiona despesas logísticas, exigindo revisão imediata dos planos para evitar rupturas nas cadeias globais. A operação máxima do oleoduto Leste-Oeste da Aramco reforça a dependência de infraestruturas alternativas, mas o risco de desabastecimento persiste. No mercado offshor"
   }
 ]
