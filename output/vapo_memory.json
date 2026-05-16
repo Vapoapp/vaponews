@@ -2,17 +2,6 @@
   {
     "date": "2026-05-09",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz segue abaixo de 10% da capacidade, com ataques recentes a petroleiros e embarcações militares elevando tarifas e custos logísticos. Importadores asiáticos ampliam uso de rotas multimodais mais longas, aumentando prazos e exigindo revisão urgente dos planos de contingência para evitar rupturas nas cadeias globais de suprimento. No Brasil, a Petrobras avança em contratos para operações offshore, incluindo serviços de perfuração e intervenção com a Weatherford em camp"
-  },
-  {
-    "date": "2026-05-09",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -325,5 +314,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, mantendo alta volatilidade e custos no transporte marítimo de petróleo e gás. Importadores asiáticos ampliam rotas multimodais, alongando prazos e elevando despesas logísticas, o que exige ajustes imediatos para evitar rupturas nas cadeias globais de suprimento. No mercado brasileiro, a Petrobras formalizou contratos de R$ 11 bilhões para construção e operação de quatro embarcações offshore, reforçando investimentos em infraestru"
+  },
+  {
+    "date": "2026-05-16",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "Estreito de Ormuz mantém pressão alta sobre custos e prazos no transporte de hidrocarbonetos. A capacidade operacional segue abaixo de 10%, elevando volatilidade e forçando importadores asiáticos a ampliar rotas multimodais, o que alonga prazos e pressiona despesas logísticas. Ajustes nas cadeias de suprimento são urgentes para evitar rupturas. No mercado offshore brasileiro, a Petrobras formalizou contratos de R$ 11 bilhões para construção e operação de quatro embarcações, sinalizando increment"
   }
 ]
