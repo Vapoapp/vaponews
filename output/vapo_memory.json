@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-05-09",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz segue abaixo de 10% da capacidade, com ataques recentes a navios militares e comerciais ampliando a volatilidade e elevando tarifas no transporte de petróleo e gás. Importadores asiáticos intensificam uso de rotas multimodais mais longas, pressionando custos logísticos e prazos de entrega, o que exige revisão imediata dos planos de contingência para evitar rupturas nas cadeias globais de suprimento. No Brasil, a Petrobras avança em contratos estratégicos para opera"
-  },
-  {
     "date": "2026-05-10",
     "drivers": [
       "contratos marítimos",
@@ -325,5 +314,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, elevando volatilidade e custos no transporte marítimo de petróleo e gás. Importadores asiáticos ampliam rotas multimodais, alongando prazos e pressionando despesas logísticas, o que exige ajustes imediatos nas cadeias globais para evitar rupturas. A operação máxima do oleoduto Leste-Oeste da Aramco reduz parcialmente a dependência do canal, mas não elimina riscos de desabastecimento. No mercado offshore brasileiro, a Petrobras fo"
+  },
+  {
+    "date": "2026-05-17",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A operação no Estreito de Ormuz permanece abaixo de 10%, pressionando custos e prazos no transporte marítimo de petróleo e gás. A resposta dos importadores asiáticos tem sido ampliar rotas multimodais, o que alonga os prazos e eleva despesas logísticas, exigindo ajustes imediatos nas cadeias globais para evitar rupturas. A operação máxima do oleoduto Leste-Oeste da Aramco reduz parcialmente a dependência do canal, mas o risco de desabastecimento persiste. No mercado brasileiro, a Petrobras forma"
   }
 ]
