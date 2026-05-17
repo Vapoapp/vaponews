@@ -1,19 +1,11 @@
 {
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-05-16T13:43:57.595281+00:00",
+    "ts": "2026-05-17T13:42:53.675678+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
     "ts": "2026-05-16T19:13:02.064141+00:00",
     "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/offshore/refining-processing/tankers-flee-zawiya-port-as-fighting-cripples-major-libyan-refinery": {
-    "ts": "2026-05-10T13:40:44.713728+00:00",
-    "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/diana-shipping-and-genco-trade-allegations-in-board-contest": {
-    "ts": "2026-05-10T13:40:44.713728+00:00",
-    "type": "other"
   },
   "https://petronoticias.com.br/weatherford-conquistou-dois-novos-contratos-com-a-constellation/": {
     "ts": "2026-05-10T19:13:10.065362+00:00",
@@ -31,10 +23,6 @@
     "ts": "2026-05-10T19:13:10.065362+00:00",
     "type": "other"
   },
-  "https://www.hellenicshippingnews.com/middle-east-april-bunker-fuel-demand-shifts-as-hormuz-shipping-risks-unsettle-trade-flows/": {
-    "ts": "2026-05-10T13:40:44.713728+00:00",
-    "type": "other"
-  },
   "https://www.hellenicshippingnews.com/six-types-of-shipping-crisis-and-what-they-mean-for-freight-procurement/": {
     "ts": "2026-05-10T19:13:10.065362+00:00",
     "type": "highlight"
@@ -42,10 +30,6 @@
   "https://www.marineinsight.com/seafarers-stuck-in-hormuz-suffer-from-anxiety-depression-mental-health-issues-on-the-rise/?utm_source=rss&utm_medium=rss&utm_campaign=seafarers-stuck-in-hormuz-suffer-from-anxiety-depression-mental-health-issues-on-the-rise": {
     "ts": "2026-05-11T09:51:06.701083+00:00",
     "type": "highlight"
-  },
-  "https://www.marineinsight.com/1-sailor-killed-4-others-missing-after-u-s-strike-on-iranian-cargo-vessel-near-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=1-sailor-killed-4-others-missing-after-u-s-strike-on-iranian-cargo-vessel-near-strait-of-hormuz": {
-    "ts": "2026-05-10T13:40:44.713728+00:00",
-    "type": "other"
   },
   "https://petronoticias.com.br/a-eaton-lancou-uma-nova-linha-de-producao-para-chave-de-capacitor-em-sua-unidade-de-porto-feliz-em-sao-paulo/": {
     "ts": "2026-05-11T15:23:56.765328+00:00",
@@ -62,42 +46,6 @@
   "https://maritime-executive.com/article/iranian-shadow-fleet-tanker-ablaze-off-jask": {
     "ts": "2026-05-11T19:55:33.842783+00:00",
     "type": "highlight"
-  },
-  "https://gcaptain.com/uk-deploys-warship-to-middle-east-for-potential-hormuz-mission/": {
-    "ts": "2026-05-10T13:40:44.713728+00:00",
-    "type": "highlight"
-  },
-  "https://maritime-executive.com/article/u-s-navy-remains-poised-in-the-arabian-sea": {
-    "ts": "2026-05-10T13:40:44.713728+00:00",
-    "type": "highlight"
-  },
-  "https://g1.globo.com/mundo/noticia/2026/05/10/navio-graneleiro-com-destino-ao-brasil-atravessa-estreito-de-ormuz-diz-agencia.ghtml": {
-    "ts": "2026-05-10T13:40:44.713728+00:00",
-    "type": "highlight"
-  },
-  "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/10/ype-entenda-os-proximos-passos-apos-empresa-recorrer-de-decisao-da-anvisa-mas-manter-producao-parada.ghtml": {
-    "ts": "2026-05-10T13:40:44.713728+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/drilling-production/equinor-selects-aker-solutions-for-north-sea-tie-in-feed-contract": {
-    "ts": "2026-05-10T13:40:44.713728+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/drilling-production": {
-    "ts": "2026-05-10T13:40:44.713728+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/tokyo-gas-and-shizuoka-gas-sign-lng-supply-contract-starting-2027": {
-    "ts": "2026-05-10T13:40:44.713728+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/inland-shipping/brazil-studies-reactivation-of-sao-francisco-waterway-to-lower-food-costs": {
-    "ts": "2026-05-10T13:40:44.713728+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/norway-gives-its-blessing-for-1-8-billion-subsea-redevelopment-project/": {
-    "ts": "2026-05-10T13:40:44.713728+00:00",
-    "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production/aramco-q1-profit-jumps-25-per-cent-as-hormuz-risks-push-pipeline-to-full-capacity": {
     "ts": "2026-05-11T04:00:55.373012+00:00",
@@ -1152,11 +1100,11 @@
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/comunicado-suspensao-dos-prazos-de-chamamento-publico": {
-    "ts": "2026-05-17T08:27:20.478310+00:00",
+    "ts": "2026-05-17T13:42:53.675678+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/diana-shipping-and-oldendorff-carriers-agree-on-bulker-charter-extension": {
-    "ts": "2026-05-17T08:27:20.478310+00:00",
+    "ts": "2026-05-17T13:42:53.675678+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/transporte-maritimo/21387/porto-do-rio-de-janeiro-recebe-primeiro-navio-de-366-metros-apos-ampliacao-do-canal-de-acesso/": {
@@ -1176,7 +1124,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/trump-and-iran-remarks-spark-surge-in-oil-prices": {
-    "ts": "2026-05-15T19:45:58.371688+00:00",
+    "ts": "2026-05-17T13:42:53.675678+00:00",
     "type": "other"
   },
   "https://maritime-executive.com/article/hormuz-traffic-increases-as-iran-metes-out-passage-for-political-gain": {
@@ -1196,15 +1144,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/depois-da-dragagem-do-canal-de-acesso-o-porto-do-rio-de-janeiro-recebe-o-primeiro-navio-de-366-metros/": {
-    "ts": "2026-05-17T08:27:20.478310+00:00",
+    "ts": "2026-05-17T13:42:53.675678+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/fernando-de-noronha-ganha-novo-terminal-e-amplia-capacidade-para-receber-turistas": {
-    "ts": "2026-05-17T08:27:20.478310+00:00",
+    "ts": "2026-05-17T13:42:53.675678+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/affinity-tanker-weekly-15-may-2026/": {
-    "ts": "2026-05-17T08:27:20.478310+00:00",
+    "ts": "2026-05-17T13:42:53.675678+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/empresas/dof-assina-contrato-de-r-11-bi-com-petrobras-para-4-rsv": {
@@ -1240,7 +1188,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/videos-mostram-navio-da-dof-group-apos-sofrer-adernamento-perto-de-praia-em-macae/": {
-    "ts": "2026-05-17T08:27:20.478310+00:00",
+    "ts": "2026-05-17T13:42:53.675678+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/vhbs-new-contex-container-ship-time-charter-assessment-index-week-20-2/": {
@@ -1264,7 +1212,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/uk-approves-three-offshore-wind-farms-as-it-looks-to-next-allocation-round": {
-    "ts": "2026-05-16T08:11:12.536791+00:00",
+    "ts": "2026-05-17T13:42:53.675678+00:00",
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/logistica/suzano-dhl-centro-distribuicao-sul-campina-grande-do-sul": {
@@ -1272,11 +1220,11 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/petrobras-wants-2-wells-built-in-new-discovery-at-aram-block-by-2030": {
-    "ts": "2026-05-17T08:27:20.478310+00:00",
+    "ts": "2026-05-17T13:42:53.675678+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/u-s-says-it-destroyed-90-of-irans-sea-mines-amid-ongoing-strait-of-hormuz-shipping-disruptions/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-says-it-destroyed-90-of-irans-sea-mines-amid-ongoing-strait-of-hormuz-shipping-disruptions": {
-    "ts": "2026-05-17T08:27:20.478310+00:00",
+    "ts": "2026-05-17T13:42:53.675678+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/norway-approves-emissions-reduction-requirements-for-offshore-vessels": {
@@ -1300,11 +1248,11 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development": {
-    "ts": "2026-05-16T19:13:02.064141+00:00",
+    "ts": "2026-05-17T13:42:53.675678+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/worlds-first-24000-teu-methanol-dual-fuel-container-ship-begins-sea-trials-in-china/?utm_source=rss&utm_medium=rss&utm_campaign=worlds-first-24000-teu-methanol-dual-fuel-container-ship-begins-sea-trials-in-china": {
-    "ts": "2026-05-17T08:27:20.478310+00:00",
+    "ts": "2026-05-17T13:42:53.675678+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/global-maritime-firms-prioritize-expansion-in-west-africa": {
@@ -1316,11 +1264,11 @@
     "type": "highlight"
   },
   "https://gcaptain.com/suezmax-tanker-with-iraqi-crude-reaches-india-after-hormuz-transit/": {
-    "ts": "2026-05-17T08:27:20.478310+00:00",
+    "ts": "2026-05-17T13:42:53.675678+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/uss-gerald-r-ford-and-strike-group-arrive-home-ending-record-deployment": {
-    "ts": "2026-05-17T03:57:22.779116+00:00",
+    "ts": "2026-05-17T13:42:53.675678+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/worlds-biggest-offshore-wind-farm-hornsea-3-installs-first-monopile-foundation-in-north-sea/?utm_source=rss&utm_medium=rss&utm_campaign=worlds-biggest-offshore-wind-farm-hornsea-3-installs-first-monopile-foundation-in-north-sea": {
@@ -1328,11 +1276,19 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/539183-bv-m-o-more-than-just-classification": {
-    "ts": "2026-05-17T08:27:20.478310+00:00",
+    "ts": "2026-05-17T13:42:53.675678+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/us-treasury-allows-sanctions-waiver-on-russian-seaborne-oil-to-lapse": {
-    "ts": "2026-05-17T08:27:20.478310+00:00",
+    "ts": "2026-05-17T13:42:53.675678+00:00",
     "type": "highlight"
+  },
+  "https://gcaptain.com/iraq-exported-10-million-barrels-of-oil-through-strait-of-hormuz-in-april/": {
+    "ts": "2026-05-17T13:42:53.675678+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/tanker-market-rates-remained-elevated-in-april/": {
+    "ts": "2026-05-17T13:42:53.675678+00:00",
+    "type": "other"
   }
 }

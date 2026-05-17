@@ -5,16 +5,6 @@
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade devido a ataques recentes a petroleiros e embarcações militares, elevando tarifas e volatilidade operacional no transporte de petróleo e gás. Importadores asiáticos ampliam uso de rotas multimodais mais longas, pressionando custos e prazos logísticos e exigindo revisão imediata dos planos de contingência para evitar rupturas nas cadeias globais de suprimento. No Brasil, a Petrobras avança em contratos offshore estratégicos, inc"
-  },
-  {
-    "date": "2026-05-10",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
       "risco geopolítico",
       "petróleo e gás"
     ],
@@ -325,5 +315,16 @@
       "risco geopolítico"
     ],
     "summary": "A operação no Estreito de Ormuz permanece abaixo de 10%, pressionando custos e prazos no transporte marítimo de petróleo e gás. A resposta dos importadores asiáticos tem sido ampliar rotas multimodais, o que alonga os prazos e eleva despesas logísticas, exigindo ajustes imediatos nas cadeias globais para evitar rupturas. A operação máxima do oleoduto Leste-Oeste da Aramco reduz parcialmente a dependência do canal, mas o risco de desabastecimento persiste. No mercado brasileiro, a Petrobras forma"
+  },
+  {
+    "date": "2026-05-17",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, mantendo custos e prazos elevados no transporte marítimo de petróleo e gás. Importadores asiáticos ampliam rotas multimodais, alongando prazos e elevando despesas logísticas, o que exige ajustes urgentes nas cadeias globais para evitar rupturas. A operação máxima do oleoduto Leste-Oeste da Aramco reduz parcialmente a dependência do canal, mas o risco de desabastecimento persiste. No mercado brasileiro, a Petrobras formalizou cont"
   }
 ]
