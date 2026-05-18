@@ -1104,7 +1104,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/firjan-senai-fara-nova-edicao-da-rede-de-oportunidades-para-fornecedores-durante-a-fpso-expo-2026/": {
-    "ts": "2026-05-18T15:44:03.110527+00:00",
+    "ts": "2026-05-18T19:50:24.741761+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/global-disruptions-are-testing-how-the-world-moves-goods-and-people/": {
@@ -1132,7 +1132,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/iran-s-empty-tankers-are-still-running-blockade-but-loadings-have-stopped": {
-    "ts": "2026-05-18T15:44:03.110527+00:00",
+    "ts": "2026-05-18T19:50:24.741761+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/imo-launches-gender-handbook-women-539276": {
@@ -1156,15 +1156,15 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/anchor-handler-runs-aground-just-off-a-popular-beach-in-brazil": {
-    "ts": "2026-05-18T15:44:03.110527+00:00",
+    "ts": "2026-05-18T19:50:24.741761+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/gms-tonnage-shortage-hardens-as-hormuz-risk-returns/": {
-    "ts": "2026-05-18T15:44:03.110527+00:00",
+    "ts": "2026-05-18T19:50:24.741761+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/539283-oil-climbs-above-110-after-gulf-drone-attacks-raise-supply-fears": {
-    "ts": "2026-05-18T15:44:03.110527+00:00",
+    "ts": "2026-05-18T19:50:24.741761+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/supply-vessel-runs-aground-after-striking-a-rock-in-brazil/": {
@@ -1208,15 +1208,15 @@
     "type": "other"
   },
   "https://www.marineinsight.com/india-bound-lpg-tanker-carrying-20000-mt-completes-strait-of-hormuz-transit-amid-regional-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=india-bound-lpg-tanker-carrying-20000-mt-completes-strait-of-hormuz-transit-amid-regional-crisis": {
-    "ts": "2026-05-18T15:44:03.110527+00:00",
+    "ts": "2026-05-18T19:50:24.741761+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/zestas-introduces-global-liquid-hydrogen-alliance/": {
-    "ts": "2026-05-18T15:44:03.110527+00:00",
+    "ts": "2026-05-18T19:50:24.741761+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/eidesviks-psv-begins-journey-to-ammonia-powered-operations/": {
-    "ts": "2026-05-18T15:44:03.110527+00:00",
+    "ts": "2026-05-18T19:50:24.741761+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/abs-and-hhi-sign-for-innovative-technologies-in-maritime-and-offshore/": {
@@ -1257,6 +1257,58 @@
   },
   "https://www.bairdmaritime.com/offshore/refining-processing": {
     "ts": "2026-05-18T15:44:03.110527+00:00",
+    "type": "other"
+  },
+  "https://brasilenergia.com.br/petroleoegas/seguranca-operacional/dof-mobiliza-recursos-adicionais-para-navio-encalhado-em-macae": {
+    "ts": "2026-05-18T19:50:24.741761+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/vietnam-bound-tanker-leaves-gulf-of-oman-after-us-navy-detention": {
+    "ts": "2026-05-18T19:50:24.741761+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/iran-launches-bitcoin-based-insurance-scheme-for-ships-crossing-hormuz/": {
+    "ts": "2026-05-18T19:50:24.741761+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/ocean-installer-chega-ao-mercado-brasileiro-de-olho-em-oportunidades-no-setor-offshore/": {
+    "ts": "2026-05-18T19:50:24.741761+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/bw-offshore-first-quarter-results-2026/": {
+    "ts": "2026-05-18T19:50:24.741761+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/internacional/21391/suzano-retoma-exportacao-de-celulose-para-louisiana-com-nova-operacao-multimodal/": {
+    "ts": "2026-05-18T19:50:24.741761+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/steven-grotsky-appointed-mo-sales-marketing-vice-president-at-bureau-veritas/": {
+    "ts": "2026-05-18T19:50:24.741761+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/539293-ades-extends-north-sea-rig-contract-to-three-year-term": {
+    "ts": "2026-05-18T19:50:24.741761+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/diana-shipping-and-genco-trade-barbs-once-again-over-stock-value": {
+    "ts": "2026-05-18T19:50:24.741761+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/panama-canal-congestion-fears-grow-ahead-of-june-lock-maintenance/": {
+    "ts": "2026-05-18T19:50:24.741761+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/china-imposes-penalties-on-major-companies-over-violations-of-freight-rate-regulations/": {
+    "ts": "2026-05-18T19:50:24.741761+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/539292-boskalis-orders-high-capacity-clv-for-offshore-wind-market": {
+    "ts": "2026-05-18T19:50:24.741761+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/supertanker-carrying-iraqi-crude-to-vietnam-resumes-voyage-after-us-navy-hold-up-near-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=supertanker-carrying-iraqi-crude-to-vietnam-resumes-voyage-after-us-navy-hold-up-near-hormuz": {
+    "ts": "2026-05-18T19:50:24.741761+00:00",
     "type": "other"
   }
 }
