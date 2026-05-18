@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-05-10",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz segue abaixo de 10% da capacidade, com ataques a embarcações elevando tarifas no transporte de petróleo e gás. Importadores asiáticos ampliam rotas multimodais, aumentando custos e prazos, o que demanda ajustes urgentes nos planos de contingência para evitar rupturas nas cadeias globais. A volatilidade operacional reforça o papel estratégico dos oleodutos, refletido no crescimento de 25% do lucro da Aramco no primeiro trimestre. No Brasil, a Petrobras avança em con"
-  },
-  {
     "date": "2026-05-11",
     "drivers": [
       "contratos marítimos",
@@ -326,5 +315,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o fluxo de petroleiros carregados e elevando custos logísticos globais. A ampliação de rotas multimodais na Ásia alonga prazos e aumenta despesas, exigindo ajustes imediatos nas cadeias de suprimento para evitar rupturas. A operação máxima do oleoduto Leste-Oeste da Aramco reduz parcialmente a dependência do canal, mas não elimina o risco de desabastecimento. No mercado offshore brasileiro, a Petrobras avança com con"
+  },
+  {
+    "date": "2026-05-18",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o fluxo de petroleiros carregados e elevando custos no transporte marítimo de petróleo e gás. A ampliação de rotas multimodais na Ásia alonga prazos e aumenta despesas logísticas, exigindo ajustes imediatos nas cadeias de suprimento para evitar rupturas. A operação máxima do oleoduto Leste-Oeste da Aramco reduz parcialmente a dependência do canal, mas o risco de desabastecimento persiste. No mercado offshore bras"
   }
 ]
