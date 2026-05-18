@@ -3,16 +3,6 @@
     "date": "2026-05-11",
     "drivers": [
       "contratos marítimos",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego marítimo no Estreito de Ormuz permanece abaixo de 10% da capacidade, com ataques recentes a embarcações comerciais e militares elevando tarifas e volatilidade no transporte de petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, aumentando custos e prazos, o que exige ajustes urgentes nos planos logísticos para evitar rupturas nas cadeias globais de suprimento. A instabilidade reforça a demanda por oleodutos, refletida no crescimento de 25% do lucro da Aramco n"
-  },
-  {
-    "date": "2026-05-11",
-    "drivers": [
-      "contratos marítimos",
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -326,5 +316,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o fluxo de petroleiros carregados e elevando custos no transporte marítimo de petróleo e gás. A ampliação de rotas multimodais na Ásia alonga prazos e aumenta despesas logísticas, exigindo ajustes imediatos nas cadeias de suprimento para evitar rupturas. A operação máxima do oleoduto Leste-Oeste da Aramco reduz parcialmente a dependência do canal, mas o risco de desabastecimento persiste. No mercado offshore bras"
+  },
+  {
+    "date": "2026-05-18",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o fluxo de petroleiros carregados e elevando custos logísticos globais. A continuidade do bloqueio parcial mantém a escassez de tonelagem, pressionando fretes e elevando o preço dos petroleiros no mercado secundário. A ampliação de rotas multimodais na Ásia alonga prazos e aumenta despesas, exigindo ajustes urgentes nas cadeias de suprimento para evitar rupturas. No mercado offshore, a Petrobras avança com contra"
   }
 ]
