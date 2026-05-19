@@ -2,16 +2,6 @@
   {
     "date": "2026-05-12",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego marítimo no Estreito de Ormuz segue abaixo de 10% da capacidade, elevando tarifas e volatilidade no transporte de petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, pressionando custos e prazos, o que exige revisão urgente dos planos logísticos para evitar rupturas nas cadeias globais. A Aramco opera seu oleoduto Leste-Oeste em capacidade máxima para compensar a redução do fluxo marítimo, reforçando a importância de infraestruturas alternativas. No Brasil, a"
-  },
-  {
-    "date": "2026-05-12",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -326,5 +316,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o fluxo de petroleiros carregados e elevando custos no transporte marítimo de petróleo e gás. A escassez de tonelagem mantém a volatilidade nos fretes, pressionando o mercado secundário e forçando importadores asiáticos a ampliar rotas multimodais, o que alonga prazos e aumenta despesas logísticas. A operação máxima do oleoduto Leste-Oeste da Aramco reduz parcialmente a dependência do canal, mas não elimina o risco d"
+  },
+  {
+    "date": "2026-05-19",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o fluxo de petroleiros carregados e ampliando a escassez de tonelagem disponível. Isso mantém a volatilidade nos fretes de petróleo e gás, pressionando o mercado secundário e elevando custos para importadores asiáticos, que ampliam rotas multimodais com prazos mais longos e despesas maiores. No mercado offshore brasileiro, a Petrobras avança na declaração de viabilidade comercial de nova descoberta na Bacia de Santos"
   }
 ]
