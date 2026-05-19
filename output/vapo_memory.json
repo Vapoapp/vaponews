@@ -2,17 +2,6 @@
   {
     "date": "2026-05-12",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade devido a ataques frequentes, elevando tarifas e volatilidade no transporte marítimo de petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, pressionando custos e prazos, o que exige revisão imediata dos planos logísticos para evitar rupturas nas cadeias globais. A instabilidade reforça o papel estratégico dos oleodutos como alternativa operacional. No Brasil, a Petrobras acelera contratos offshore estra"
-  },
-  {
-    "date": "2026-05-12",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "risco geopolítico",
@@ -326,5 +315,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o fluxo de petroleiros carregados e elevando custos no transporte marítimo de petróleo e gás. A escassez de tonelagem mantém a volatilidade dos fretes, pressionando o mercado secundário e forçando importadores asiáticos a ampliar rotas multimodais, o que alonga prazos e eleva despesas logísticas. A operação máxima do oleoduto Leste-Oeste da Aramco reduz parcialmente a dependência do canal, mas o risco de desabastecim"
+  },
+  {
+    "date": "2026-05-19",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o fluxo de petroleiros carregados e elevando custos no transporte marítimo de petróleo e gás. A escassez de tonelagem mantém a volatilidade nos fretes, pressionando o mercado secundário e forçando importadores asiáticos a ampliar rotas multimodais, o que alonga prazos e aumenta despesas logísticas. A operação máxima do oleoduto Leste-Oeste da Aramco reduz parcialmente a dependência do canal, mas não elimina o risco d"
   }
 ]
