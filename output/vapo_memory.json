@@ -2,17 +2,6 @@
   {
     "date": "2026-05-12",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "O tráfego marítimo no Estreito de Ormuz permanece abaixo de 10% da capacidade, elevando tarifas e volatilidade no transporte de petróleo e gás. Importadores asiáticos respondem ampliando rotas multimodais mais longas, o que pressiona custos e prazos logísticos, exigindo revisão imediata dos planos de contingência para evitar rupturas nas cadeias globais. A instabilidade reforça a importância estratégica de oleodutos, com a Aramco operando seu sistema Leste-Oeste em capacidade máxima para compens"
-  },
-  {
-    "date": "2026-05-12",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -327,5 +316,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o fluxo de petroleiros carregados e ampliando a escassez de tonelagem disponível. Isso mantém a volatilidade nos fretes de petróleo e gás, pressionando o mercado secundário e elevando custos para importadores asiáticos, que ampliam rotas multimodais com prazos mais longos e despesas maiores. No mercado offshore brasileiro, a Petrobras avança na declaração de viabilidade comercial de nova descoberta na Bacia de Santos"
+  },
+  {
+    "date": "2026-05-20",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A operação abaixo de 10% no Estreito de Ormuz segue restringindo o fluxo de petroleiros carregados, ampliando a escassez de tonelagem disponível para transporte de petróleo e gás. Essa limitação mantém a volatilidade dos fretes e pressiona o mercado secundário, forçando importadores asiáticos a ampliar rotas multimodais, com prazos mais longos e custos logísticos elevados. No Brasil, a Petrobras avança na declaração de viabilidade comercial da descoberta no bloco Aram, na Bacia de Santos, com po"
   }
 ]

@@ -7,30 +7,6 @@
     "ts": "2026-05-18T15:44:03.110527+00:00",
     "type": "highlight"
   },
-  "https://www.guiamaritimo.com.br/noticias/portos/aps-decisao-tcu-arrendamento-porto-de-santos": {
-    "ts": "2026-05-12T20:01:08.265253+00:00",
-    "type": "highlight"
-  },
-  "https://www.guiamaritimo.com.br/noticias/portos/governo-acelera-leilao-tecon-santos-10-retira-restricoes-armadores": {
-    "ts": "2026-05-12T20:01:08.265253+00:00",
-    "type": "other"
-  },
-  "https://www.guiamaritimo.com.br/noticias/logistica/rhenus-trens-metro-bh-logistica-qingdao-sepetiba": {
-    "ts": "2026-05-12T20:01:08.265253+00:00",
-    "type": "other"
-  },
-  "https://www.gov.br/antaq/pt-br/noticias/antaq-participa-da-otc-2026-para-acompanhar-tendencias-e-fortalecer-cooperacao-internacional-no-setor-offshore": {
-    "ts": "2026-05-12T20:01:08.265253+00:00",
-    "type": "other"
-  },
-  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/aviacao-no-nordeste-cresce-acima-da-media-nacional-no-primeiro-trimestre-de-2026": {
-    "ts": "2026-05-12T20:01:08.265253+00:00",
-    "type": "other"
-  },
-  "https://petronoticias.com.br/no-periodo-de-maior-investimento-em-sua-historia-a-cemig-faz-mudanca-na-presidencia-da-companhia/": {
-    "ts": "2026-05-12T20:01:08.265253+00:00",
-    "type": "highlight"
-  },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/rio-tapajos-se-consolida-como-importante-eixo-logistico-com-sustentabilidade-e-recordes-de-movimentacao": {
     "ts": "2026-05-13T08:51:56.538789+00:00",
     "type": "other"
@@ -39,16 +15,8 @@
     "ts": "2026-05-13T20:02:38.684457+00:00",
     "type": "other"
   },
-  "https://gcaptain.com/iran-war-ceasefire-fragile-as-us-rejects-tehrans-latest-offer/": {
-    "ts": "2026-05-13T03:53:26.357898+00:00",
-    "type": "highlight"
-  },
   "https://safety4sea.com/zhoushan-is-accelerating-the-deployment-of-shore-power-systems/": {
     "ts": "2026-05-13T08:51:56.538789+00:00",
-    "type": "highlight"
-  },
-  "https://www.offshore-energy.biz/lng-capacity-boost-emerging-in-oceania-as-new-gas-project-gets-the-green-light/": {
-    "ts": "2026-05-13T03:53:26.357898+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/fire-erupts-on-offshore-gas-platform-during-decommissioning-26-workers-evacuated/?utm_source=rss&utm_medium=rss&utm_campaign=fire-erupts-on-offshore-gas-platform-during-decommissioning-26-workers-evacuated": {
@@ -63,109 +31,13 @@
     "ts": "2026-05-14T14:27:20.512380+00:00",
     "type": "highlight"
   },
-  "https://www.hellenicshippingnews.com/bidding-announcement-of-psv-bourbon-explorer-502-with-her-bareboat-charter/": {
-    "ts": "2026-05-12T20:01:08.265253+00:00",
-    "type": "highlight"
-  },
-  "https://www.marinelink.com/news/us-indicts-two-foreign-operators-539103": {
-    "ts": "2026-05-12T20:01:08.265253+00:00",
-    "type": "highlight"
-  },
-  "https://petronoticias.com.br/petrobras-quer-ampliar-producao-de-diesel-em-500-mil-barris-por-dia-ate-2031-para-garantir-autossuficiencia-brasileira/": {
-    "ts": "2026-05-12T20:01:08.265253+00:00",
-    "type": "other"
-  },
-  "https://brasilenergia.com.br/petroleoegas/internacional/governo-do-peru-aprova-emprestimos-de-us-2-bi-para-petroperu": {
-    "ts": "2026-05-12T20:01:08.265253+00:00",
-    "type": "other"
-  },
-  "https://petronoticias.com.br/onesubsea-anuncia-conclusao-da-aquisicao-do-negocio-submarino-da-norueguesa-envirex-group/": {
-    "ts": "2026-05-12T20:01:08.265253+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/petronas-seals-20-year-deal-with-misc-for-newbuild-lng-vessel-quintet/": {
-    "ts": "2026-05-12T20:01:08.265253+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/quiet-deals-help-second-qatari-lng-tanker-clear-strait-of-hormuz": {
-    "ts": "2026-05-12T20:01:08.265253+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/new-russian-tanker-starts-loading-cargo-from-us-sanctioned-lng-plant": {
-    "ts": "2026-05-12T20:01:08.265253+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/maersk-keeping-strait-of-hormuz-transits-suspended-as-ceasefire-confidence-wavers/": {
-    "ts": "2026-05-12T20:01:08.265253+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/diana-launches-campaign-site-while-genco-fires-back-with-myths-and-facts-rebuttal/": {
-    "ts": "2026-05-12T20:01:08.265253+00:00",
-    "type": "other"
-  },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/portos-do-nordeste-registram-crescimento-de-29-59-na-movimentacao-de-petroleo-e-derivados": {
     "ts": "2026-05-14T19:52:58.707296+00:00",
-    "type": "highlight"
-  },
-  "https://g1.globo.com/jornal-nacional/noticia/2026/05/12/peritos-investigam-causas-da-explosao-de-gas-que-deixou-um-morto-e-destruiu-dezenas-de-casas-em-sao-paulo.ghtml": {
-    "ts": "2026-05-13T03:53:26.357898+00:00",
     "type": "highlight"
   },
   "https://splash247.com/how-war-is-remaking-the-agri-trades/": {
     "ts": "2026-05-14T03:53:04.785628+00:00",
     "type": "highlight"
-  },
-  "https://petronoticias.com.br/a-braskem-recebe-dois-novos-navios-encomendados-para-transportar-nafta-para-o-mercado-dos-estados-unidos/": {
-    "ts": "2026-05-13T03:53:26.357898+00:00",
-    "type": "other"
-  },
-  "https://brasilenergia.com.br/petroleoegas/gas/petronas-e-misc-firmam-acordo-para-transporte-de-gnl": {
-    "ts": "2026-05-13T03:53:26.357898+00:00",
-    "type": "other"
-  },
-  "https://petronoticias.com.br/petrobras-esta-a-1-000-metros-de-alcancar-reservatorio-no-poco-pioneiro-da-bacia-da-foz-do-amazonas/": {
-    "ts": "2026-05-13T03:53:26.357898+00:00",
-    "type": "other"
-  },
-  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/brasil-coloca-tres-aeroportos-entre-os-mais-movimentados-da-america-latina-impulsionados-por-investimentos-recordes-no-setor": {
-    "ts": "2026-05-13T03:53:26.357898+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/diana-shipping-inc-launches-campaign-website-in-connection-with-effort-to-unlock-immediate-value-at-genco-shipping-trading/": {
-    "ts": "2026-05-13T03:53:26.357898+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/fewer-listed-dry-bulk-owners-beat-market-in-2025-vesselindex-analysis-shows/": {
-    "ts": "2026-05-13T03:53:26.357898+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/ireland-hit-with-multimillion-dollar-arbitration-claim-over-oil-gas-project/": {
-    "ts": "2026-05-13T03:53:26.357898+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/china-deploys-largest-floating-wind-platform-adapted-for-challenging-seas": {
-    "ts": "2026-05-13T03:53:26.357898+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/qatari-lng-tanker-headed-pakistan-539114": {
-    "ts": "2026-05-13T03:53:26.357898+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/jmic-security-remains-highly-volatile-across-key-regions/": {
-    "ts": "2026-05-13T03:53:26.357898+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/heavy-lift/aal-shipping-christens-new-heavy-lift-vessel": {
-    "ts": "2026-05-13T03:53:26.357898+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/china-us-agree-opposing-hormuz-tolls-539127": {
-    "ts": "2026-05-13T03:53:26.357898+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/we-have-made-the-garbage-move-faster/": {
-    "ts": "2026-05-13T03:53:26.357898+00:00",
-    "type": "other"
   },
   "https://safety4sea.com/federal-prosecutors-file-charges-over-deadly-baltimore-key-bridge-collapse/": {
     "ts": "2026-05-13T08:51:56.538789+00:00",
@@ -948,7 +820,7 @@
     "type": "highlight"
   },
   "https://safety4sea.com/gms-tonnage-shortage-hardens-as-hormuz-risk-returns/": {
-    "ts": "2026-05-19T19:58:07.884532+00:00",
+    "ts": "2026-05-20T04:04:37.255741+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/539283-oil-climbs-above-110-after-gulf-drone-attacks-raise-supply-fears": {
@@ -1000,7 +872,7 @@
     "type": "highlight"
   },
   "https://safety4sea.com/zestas-introduces-global-liquid-hydrogen-alliance/": {
-    "ts": "2026-05-19T09:56:26.878510+00:00",
+    "ts": "2026-05-20T04:04:37.255741+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/eidesviks-psv-begins-journey-to-ammonia-powered-operations/": {
@@ -1112,7 +984,7 @@
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/aviacao-civil-registra-crescimento-de-20-no-numero-de-profissionais-habilitados-em-2025": {
-    "ts": "2026-05-19T04:03:40.603979+00:00",
+    "ts": "2026-05-20T04:04:37.255741+00:00",
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/hidrovias-conectam-comunidades-e-sustentam-a-logistica-da-regiao-norte": {
@@ -1144,11 +1016,11 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/539343-petrobras-nears-commercial-declaration-for-aram-offshore-discovery": {
-    "ts": "2026-05-19T19:58:07.884532+00:00",
+    "ts": "2026-05-20T04:04:37.255741+00:00",
     "type": "highlight"
   },
   "https://www.marinelog.com/news/berg-propulsion-will-set-130-tonne-turkish-bollard-pull-milestone/": {
-    "ts": "2026-05-19T19:58:07.884532+00:00",
+    "ts": "2026-05-20T04:04:37.255741+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/treasury-reverses-course-and-waives-sanctions-on-russian-oil-for-third-time": {
@@ -1184,15 +1056,15 @@
     "type": "other"
   },
   "https://www.marineinsight.com/deadly-blast-near-red-sea-rumoured-u-s-israeli-operation-against-iran-threatens-ceasefire/?utm_source=rss&utm_medium=rss&utm_campaign=deadly-blast-near-red-sea-rumoured-u-s-israeli-operation-against-iran-threatens-ceasefire": {
-    "ts": "2026-05-19T19:58:07.884532+00:00",
+    "ts": "2026-05-20T04:04:37.255741+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/de-houston-direto-para-oma-a-altave-leva-suas-tecnologias-agora-para-apresentar-na-oman-petroleum-energy/": {
-    "ts": "2026-05-19T19:58:07.884532+00:00",
+    "ts": "2026-05-20T04:04:37.255741+00:00",
     "type": "highlight"
   },
   "https://splash247.com/cmb-tech-pockets-29m-gain-from-veteran-suezmax-disposal/": {
-    "ts": "2026-05-19T19:58:07.884532+00:00",
+    "ts": "2026-05-20T04:04:37.255741+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/539371-seiche-leads-pilot-study-to-assess-piling-noise-offshore": {
@@ -1240,11 +1112,11 @@
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/fsru-launch-bringing-europes-next-terminal-closer-to-completion/": {
-    "ts": "2026-05-19T19:58:07.884532+00:00",
+    "ts": "2026-05-20T04:04:37.255741+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/chinas-liaoning-carrier-strike-group-deploys-to-western-pacific-for-far-sea-live-fire-drills/?utm_source=rss&utm_medium=rss&utm_campaign=chinas-liaoning-carrier-strike-group-deploys-to-western-pacific-for-far-sea-live-fire-drills": {
-    "ts": "2026-05-19T19:58:07.884532+00:00",
+    "ts": "2026-05-20T04:04:37.255741+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/05/19/mae-de-jovem-morta-em-acidente-em-ipanema-se-recupera-em-cadeira-de-rodas-a-dor-e-dupla-fisica-e-emocional-de-perder-o-filho-diz-marido.ghtml": {
@@ -1277,6 +1149,50 @@
   },
   "https://maritime-executive.com/article/seven-stowaways-removed-from-rudder-of-bocimar-tanker": {
     "ts": "2026-05-19T19:58:07.884532+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/sylvia-dos-anjos-projeta-preve-ate-dois-fpsos-para-bloco-de-aram-e-projeta-parceria-ampla-entre-petrobras-e-pemex/": {
+    "ts": "2026-05-20T04:04:37.255741+00:00",
+    "type": "highlight"
+  },
+  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/empresas-tem-ate-5-de-junho-para-aderir-ao-pacto-pela-sustentabilidade": {
+    "ts": "2026-05-20T04:04:37.255741+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/two-chinese-vlccs-exit-strait-hormuz-539396": {
+    "ts": "2026-05-20T04:04:37.255741+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/ep/aram-possui-500-mi-de-barris-de-reserva-recuperavel-diz-sylvia": {
+    "ts": "2026-05-20T04:04:37.255741+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/ministerio-de-portos-e-aeroportos-avanca-em-estudo-sobre-carga-aerea-com-visitas-tecnicas-a-centros-logisticos-em-sao-paulo": {
+    "ts": "2026-05-20T04:04:37.255741+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/eu-funds-pilot-to-demonstrate-offshore-power-zones-to-charge-vessels": {
+    "ts": "2026-05-20T04:04:37.255741+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/report-u-s-navy-has-seized-third-iranian-shadow-fleet-tanker": {
+    "ts": "2026-05-20T04:04:37.255741+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/ast-networks-partners-with-cyberowl-to-strengthen-cybersecurity-for-customers/": {
+    "ts": "2026-05-20T04:04:37.255741+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/539356-liebherr-completes-offshore-crane-overhaul-on-ziton-s-jack-up-vessel": {
+    "ts": "2026-05-20T04:04:37.255741+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/539351-adura-hires-shearwater-for-obn-seismic-survey-job-on-north-sea-field": {
+    "ts": "2026-05-20T04:04:37.255741+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/2-3-billion-lng-project-breaks-ground-in-southeast-asia/": {
+    "ts": "2026-05-20T04:04:37.255741+00:00",
     "type": "other"
   }
 }
