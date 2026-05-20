@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-05-12",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O bloqueio persistente no Estreito de Ormuz reduz o tráfego a menos de 10% da capacidade, elevando tarifas e volatilidade no transporte marítimo de petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, pressionando custos e prazos, o que exige revisão imediata dos planos logísticos para evitar rupturas nas cadeias globais. A operação máxima do oleoduto Leste-Oeste da Aramco reforça a importância das infraestruturas alternativas para mitigar riscos. No Brasil, a Petrobras"
-  },
-  {
     "date": "2026-05-13",
     "drivers": [
       "contratos marítimos",
@@ -327,5 +316,16 @@
       "risco geopolítico"
     ],
     "summary": "A operação abaixo de 10% no Estreito de Ormuz segue restringindo o fluxo de petroleiros carregados, ampliando a escassez de tonelagem disponível para transporte de petróleo e gás. Essa limitação mantém a volatilidade dos fretes e pressiona o mercado secundário, forçando importadores asiáticos a ampliar rotas multimodais, com prazos mais longos e custos logísticos elevados. No Brasil, a Petrobras avança na declaração de viabilidade comercial da descoberta no bloco Aram, na Bacia de Santos, com po"
+  },
+  {
+    "date": "2026-05-20",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A operação abaixo de 10% no Estreito de Ormuz segue limitando o fluxo de petroleiros carregados, ampliando a escassez de tonelagem disponível para transporte de petróleo e gás. Essa restrição mantém a volatilidade dos fretes, pressiona o mercado secundário e força importadores asiáticos a ampliar rotas multimodais, elevando custos e prazos logísticos. A operação máxima do oleoduto Leste-Oeste da Aramco mitiga parcialmente o impacto, mas não elimina o risco de desabastecimento. No Brasil, a Petro"
   }
 ]
