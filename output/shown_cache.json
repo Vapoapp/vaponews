@@ -47,10 +47,6 @@
     "ts": "2026-05-14T08:44:38.496060+00:00",
     "type": "highlight"
   },
-  "https://brasilenergia.com.br/petroleoegas/inovacao/mero-tem-nova-tecnologia-para-aquisicao-sismica-4d": {
-    "ts": "2026-05-13T14:47:15.822039+00:00",
-    "type": "other"
-  },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/mpor-propoe-modelo-de-regulamentacao-da-reforma-tributaria-para-fortalecer-aviacao-regional": {
     "ts": "2026-05-15T03:56:58.613390+00:00",
     "type": "other"
@@ -63,44 +59,8 @@
     "ts": "2026-05-15T03:56:58.613390+00:00",
     "type": "other"
   },
-  "https://g1.globo.com/jornal-nacional/noticia/2026/05/12/entenda-o-xadrez-economico-entre-donald-trump-e-xi-jinping.ghtml": {
-    "ts": "2026-05-13T14:47:15.822039+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/second-qatari-lng-carrier-crosses-hormuz-under-a-special-iran-pakistan-arrangement/?utm_source=rss&utm_medium=rss&utm_campaign=second-qatari-lng-carrier-crosses-hormuz-under-a-special-iran-pakistan-arrangement": {
-    "ts": "2026-05-13T14:47:15.822039+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/research-shows-that-climate-risks-in-shipping-are-more-than-they-seem/": {
-    "ts": "2026-05-13T14:47:15.822039+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/fon-energy-services-mobilizes-for-subsea-above-water-inspections-in-busiest-season-to-date/": {
-    "ts": "2026-05-13T14:47:15.822039+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/license-extension-out-of-the-way-as-stamper-advances-multi-basin-mission-offshore-namibia/": {
-    "ts": "2026-05-13T14:47:15.822039+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/criminal-charges-filed-against-synergy-over-key-bridge-collapse/": {
-    "ts": "2026-05-13T14:47:15.822039+00:00",
-    "type": "other"
-  },
   "https://www.tecnologistica.com.br/noticias/portos/21371/tvv-conclui-alfandegamento-e-inicia-operacao-de-nova-retroarea-de-65-mil-m/": {
     "ts": "2026-05-14T19:52:58.707296+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/cma-cgm-pledges-800-million-funding-to-kenya-s-mombasa-port": {
-    "ts": "2026-05-13T14:47:15.822039+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/cins-issues-latest-guidance-for-shipping-lithium-ion-cells-and-batteries-in-containers/": {
-    "ts": "2026-05-13T14:47:15.822039+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/paper-finds-strong-potential-for-maritime-decarbonization-in-india/": {
-    "ts": "2026-05-13T14:47:15.822039+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/aperta-o-cerco-contra-empresa-de-militares-cubanos-havana-esta-sob-protestos-noturnos-e-ditador-desafia-a-forca-americana/": {
@@ -1088,11 +1048,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/sylvia-dos-anjos-projeta-preve-ate-dois-fpsos-para-bloco-de-aram-e-projeta-parceria-ampla-entre-petrobras-e-pemex/": {
-    "ts": "2026-05-20T09:44:23.517890+00:00",
+    "ts": "2026-05-20T15:36:07.266712+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/empresas-tem-ate-5-de-junho-para-aderir-ao-pacto-pela-sustentabilidade": {
-    "ts": "2026-05-20T09:44:23.517890+00:00",
+    "ts": "2026-05-20T15:36:07.266712+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/two-chinese-vlccs-exit-strait-hormuz-539396": {
@@ -1140,7 +1100,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/boxships/us-charges-chinese-firms-executives-of-manipulating-container-prices": {
-    "ts": "2026-05-20T09:44:23.517890+00:00",
+    "ts": "2026-05-20T15:36:07.266712+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/ep/producao-de-petroleo-em-regime-de-partilha-atinge-recorde-em-marco": {
@@ -1169,6 +1129,78 @@
   },
   "https://splash247.com/ibaizabal-heads-back-to-suezmax-newbuilds/": {
     "ts": "2026-05-20T09:44:23.517890+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/539420-equinor-extends-psv-contract-with-eidesvik-offshore": {
+    "ts": "2026-05-20T15:36:07.266712+00:00",
+    "type": "highlight"
+  },
+  "https://www.tecnologistica.com.br/noticias/estrutura/21404/rumo-e-olfar-iniciam-operacao-ferroviaria-em-porangatu-e-ampliam-corredor-logistico-do-agro-no-centro-norte/": {
+    "ts": "2026-05-20T15:36:07.266712+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/boxships/newbuild-container-ship-for-navios-formally-named-in-south-korea": {
+    "ts": "2026-05-20T15:36:07.266712+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/a-3tentos-recebe-a-autorizacao-para-comecar-a-operar-a-primeira-industria-de-etanol-de-milho-no-vale-do-araguaia-no-mato-grosso/": {
+    "ts": "2026-05-20T15:36:07.266712+00:00",
+    "type": "other"
+  },
+  "https://brasilenergia.com.br/petroleoegas/ep/shell-indica-ao-governo-areas-de-pre-sal-do-seu-interesse": {
+    "ts": "2026-05-20T15:36:07.266712+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/ro/rondonia/noticia/2026/05/19/porto-velho-e-a-pior-capital-para-se-viver-no-brasil-aponta-relatorio.ghtml": {
+    "ts": "2026-05-20T15:36:07.266712+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/tugboat-collides-with-stationary-tanker-on-the-parana-river/": {
+    "ts": "2026-05-20T15:36:07.266712+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/diana-shipping-inc-releases-investor-presentation-highlighting-need-for-change-at-genco-shipping-trading/": {
+    "ts": "2026-05-20T15:36:07.266712+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/bernhard-schulte-takes-delivery-of-wind-assisted-lng-dual-fuel-lco%e2%82%82-carrier/": {
+    "ts": "2026-05-20T15:36:07.266712+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/gas-carrier-delivers-russian-lng-to-china-after-remaining-at-sea-for-6-months/?utm_source=rss&utm_medium=rss&utm_campaign=gas-carrier-delivers-russian-lng-to-china-after-remaining-at-sea-for-6-months": {
+    "ts": "2026-05-20T15:36:07.266712+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/539423-aquaterra-s-raf-system-for-uk-ccs-project-enters-fabrication-phase": {
+    "ts": "2026-05-20T15:36:07.266712+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/539417-palfinger-to-supply-cranes-for-north-sea-hvdc-platforms": {
+    "ts": "2026-05-20T15:36:07.266712+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/wind-propulsion-moves-to-the-mainstream-as-industry-momentum-builds/": {
+    "ts": "2026-05-20T15:36:07.266712+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/shipping-industry-issues-stark-new-hormuz-transit-guidance-as-risks-mount/": {
+    "ts": "2026-05-20T15:36:07.266712+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/two-month-persian-gulf-tanker-logjam-begins-to-clear-as-ships-exit-strait-of-hormuz": {
+    "ts": "2026-05-20T15:36:07.266712+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/qatarenergy-sets-foot-in-uruguay-with-three-offshore-block-acquisitions": {
+    "ts": "2026-05-20T15:36:07.266712+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/hormuz-reopening-may-cause-tanker-rates-to-rise-or-fall-says-cmb-tech-ceo/": {
+    "ts": "2026-05-20T15:36:07.266712+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/u-s-sanctions-19-tankers-linked-to-iranian-oil-trade-amid-hormuz-shipping-disruption/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-sanctions-19-tankers-linked-to-iranian-oil-trade-amid-hormuz-shipping-disruption": {
+    "ts": "2026-05-20T15:36:07.266712+00:00",
     "type": "other"
   }
 }

@@ -8,17 +8,6 @@
       "risco geopolítico",
       "petróleo e gás"
     ],
-    "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, elevando tarifas no transporte marítimo de petróleo e gás e ampliando a volatilidade do mercado. Importadores asiáticos expandem rotas multimodais mais longas, o que pressiona custos e prazos, exigindo revisão imediata dos planos logísticos para evitar rupturas nas cadeias globais. A operação máxima do oleoduto Leste-Oeste da Aramco reforça a importância das infraestruturas alternativas para mitigar riscos de fornecimento. No"
-  },
-  {
-    "date": "2026-05-13",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
     "summary": "O tráfego no Estreito de Ormuz segue abaixo de 10% da capacidade, elevando tarifas e volatilidade no transporte marítimo de petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, aumentando custos e prazos, o que demanda revisão urgente dos planos logísticos para evitar rupturas nas cadeias globais. A operação máxima do oleoduto Leste-Oeste da Aramco reforça a importância de infraestruturas alternativas para mitigar riscos. No Brasil, a Petrobras acelera contratos offshore"
   },
   {
@@ -327,5 +316,16 @@
       "petróleo e gás"
     ],
     "summary": "A operação abaixo de 10% no Estreito de Ormuz segue limitando o fluxo de petroleiros carregados, ampliando a escassez de tonelagem disponível para transporte de petróleo e gás. Essa restrição mantém a volatilidade dos fretes, pressiona o mercado secundário e força importadores asiáticos a ampliar rotas multimodais, elevando custos e prazos logísticos. A operação máxima do oleoduto Leste-Oeste da Aramco mitiga parcialmente o impacto, mas não elimina o risco de desabastecimento. No Brasil, a Petro"
+  },
+  {
+    "date": "2026-05-20",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o fluxo de petroleiros carregados e ampliando a escassez de tonelagem disponível. Essa limitação mantém a volatilidade dos fretes de petróleo e gás, pressionando o mercado secundário e elevando custos para importadores asiáticos, que ampliam rotas multimodais, impactando prazos e despesas logísticas. No Brasil, a Petrobras avança na declaração de viabilidade comercial da descoberta no bloco Aram, na Bacia de Santos,"
   }
 ]
