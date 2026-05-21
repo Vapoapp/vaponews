@@ -2,17 +2,6 @@
   {
     "date": "2026-05-13",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego marítimo no Estreito de Ormuz segue abaixo de 10% da capacidade, elevando custos e volatilidade no transporte de petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, pressionando prazos e exigindo revisão urgente dos planos logísticos para evitar rupturas nas cadeias globais. A operação máxima do oleoduto Leste-Oeste da Aramco reforça a necessidade de infraestruturas alternativas para mitigar riscos de fornecimento. No mercado de afretamento, a Petronas firmou"
-  },
-  {
-    "date": "2026-05-13",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "logística e portos",
@@ -327,5 +316,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o fluxo de petroleiros carregados e ampliando a escassez de navios para transporte de petróleo e gás. Essa limitação mantém a volatilidade dos fretes, pressiona o mercado secundário e força importadores asiáticos a adotarem rotas multimodais, elevando custos e prazos logísticos. A operação máxima do oleoduto Leste-Oeste da Aramco reduz parcialmente o impacto, mas o risco geopolítico segue presente. No Brasil, a P"
+  },
+  {
+    "date": "2026-05-21",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o fluxo de petroleiros carregados e reduzindo a disponibilidade de tonelagem para transporte de petróleo e gás. Essa limitação sustenta a volatilidade dos fretes e pressiona o mercado secundário, forçando importadores asiáticos a recorrerem a rotas multimodais com prazos mais longos e custos logísticos elevados. A operação máxima do oleoduto Leste-Oeste da Aramco mitiga parcialmente o impacto, mas o risco geopolí"
   }
 ]
