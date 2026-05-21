@@ -4,20 +4,12 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-05-21T04:13:21.674147+00:00",
-    "type": "highlight"
-  },
-  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/sustentabilidade-nos-portos-setor-avanca-em-solucoes-para-reduzir-emissoes-e-ampliar-eficiencia": {
-    "ts": "2026-05-14T14:27:20.512380+00:00",
+    "ts": "2026-05-21T15:39:48.237630+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/portos-do-nordeste-registram-crescimento-de-29-59-na-movimentacao-de-petroleo-e-derivados": {
     "ts": "2026-05-14T19:52:58.707296+00:00",
     "type": "highlight"
-  },
-  "https://brasilenergia.com.br/petroleoegas/eventos/diretor-da-agencia-amapa-analisa-os-temas-levantados-na-otc-2026": {
-    "ts": "2026-05-14T14:27:20.512380+00:00",
-    "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/mpor-propoe-modelo-de-regulamentacao-da-reforma-tributaria-para-fortalecer-aviacao-regional": {
     "ts": "2026-05-15T03:56:58.613390+00:00",
@@ -47,10 +39,6 @@
     "ts": "2026-05-14T19:52:58.707296+00:00",
     "type": "highlight"
   },
-  "https://petronoticias.com.br/apos-inicio-de-ano-otimista-projecoes-de-utilizacao-de-sondas-caem-no-golfo-persico-diante-da-guerra-no-ira/": {
-    "ts": "2026-05-14T14:27:20.512380+00:00",
-    "type": "highlight"
-  },
   "https://www.oedigital.com/news/539199-norway-s-hammerfest-lng-set-for-restart-after-valve-repairs": {
     "ts": "2026-05-15T03:56:58.613390+00:00",
     "type": "highlight"
@@ -66,50 +54,6 @@
   "https://www.bairdmaritime.com/shipping/tankers/geopolitical-unrest-delivers-a-q1-profit-boost-for-teekay-tankers": {
     "ts": "2026-05-15T08:55:49.612252+00:00",
     "type": "highlight"
-  },
-  "https://petronoticias.com.br/congelamento-do-leilao-de-energia-pode-ser-resultado-de-lobby-de-empresas-de-geracao-renovavel/": {
-    "ts": "2026-05-14T14:27:20.512380+00:00",
-    "type": "other"
-  },
-  "https://g1.globo.com/jornal-nacional/noticia/2026/05/13/mensagens-mostram-que-flavio-bolsonaro-cobrou-dinheiro-de-vorcaro-para-concluir-filme-sobre-o-ex-presidente-jair-bolsonaro.ghtml": {
-    "ts": "2026-05-14T14:27:20.512380+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/lessons-learned-always-follow-the-oem-manual-and-use-specified-tools/": {
-    "ts": "2026-05-14T14:27:20.512380+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/539206-taihan-buys-cable-laying-vessel-from-dof": {
-    "ts": "2026-05-14T14:27:20.512380+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/japans-pm-uses-direct-line-to-tehran-as-eneos-tanker-clears-hormuz": {
-    "ts": "2026-05-14T14:27:20.512380+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/11-seafarers-killed-38-ship-attacks-reported-as-20000-crew-remain-trapped-in-strait-of-hormuz-un/?utm_source=rss&utm_medium=rss&utm_campaign=11-seafarers-killed-38-ship-attacks-reported-as-20000-crew-remain-trapped-in-strait-of-hormuz-un": {
-    "ts": "2026-05-14T14:27:20.512380+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/ssi-charts-the-progress-made-under-the-hong-kong-convention-in-new-report/": {
-    "ts": "2026-05-14T14:27:20.512380+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/hhlas-start-to-the-year-shaped-by-weather-related-factors/": {
-    "ts": "2026-05-14T14:27:20.512380+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/okeanis-eco-tankers-reports-sharp-rise-in-q1-2026-profit": {
-    "ts": "2026-05-14T14:27:20.512380+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/two-india-bound-lpg-tankers-add-to-uptick-in-hormuz-transits/": {
-    "ts": "2026-05-14T14:27:20.512380+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/chinese-supertanker-carrying-2-million-barrels-of-iraqi-oil-makes-rare-exit-from-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=chinese-supertanker-carrying-2-million-barrels-of-iraqi-oil-makes-rare-exit-from-strait-of-hormuz": {
-    "ts": "2026-05-14T14:27:20.512380+00:00",
-    "type": "other"
   },
   "https://www.hellenicshippingnews.com/wilson-sons-launches-new-tugboat-to-operate-in-the-port-of-santos/": {
     "ts": "2026-05-14T19:52:58.707296+00:00",
@@ -892,7 +836,7 @@
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/empresas-tem-ate-5-de-junho-para-aderir-ao-pacto-pela-sustentabilidade": {
-    "ts": "2026-05-21T09:53:08.167948+00:00",
+    "ts": "2026-05-21T15:39:48.237630+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/two-chinese-vlccs-exit-strait-hormuz-539396": {
@@ -1044,15 +988,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/diretor-geral-da-agencia-atomica-internacional-alerta-conselho-de-seguranca-sobre-os-ataques-iranianos-contra-usinas-nucleares/": {
-    "ts": "2026-05-21T09:53:08.167948+00:00",
+    "ts": "2026-05-21T15:39:48.237630+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/Ministro-Tome-Franca-apresenta-balanco-de-acoes-e-investimentos-em-hidrovias-e-anuncia-agenda-para-2026": {
-    "ts": "2026-05-21T09:53:08.167948+00:00",
+    "ts": "2026-05-21T15:39:48.237630+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/chinese-and-korean-vlccs-clear-hormuz-as-iran-claims-to-increase-traffic": {
-    "ts": "2026-05-21T09:53:08.167948+00:00",
+    "ts": "2026-05-21T15:39:48.237630+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/a-naturgy-entra-em-acordo-com-a-petrobras-e-decide-baixar-o-preco-do-gas-no-rio-de-janeiro-a-partir-de-1o-de-junho/": {
@@ -1112,7 +1056,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/iranianos-parecem-controlar-o-estreito-de-ormuz-cobrando-ate-pedagios-para-liberar-navios-que-nem-partem-de-seus-portos/": {
-    "ts": "2026-05-21T09:53:08.167948+00:00",
+    "ts": "2026-05-21T15:39:48.237630+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/third-vlcc-exits-strait-hormuz-539455": {
@@ -1160,11 +1104,11 @@
     "type": "other"
   },
   "https://safety4sea.com/bulk-carriers-collide-off-singapores-traffic-lane/": {
-    "ts": "2026-05-21T09:53:08.167948+00:00",
+    "ts": "2026-05-21T15:39:48.237630+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/nova-presidente-da-abrate-defende-ajustes-no-planejamento-para-evitar-cortes-de-geracao-renovavel/": {
-    "ts": "2026-05-21T09:53:08.167948+00:00",
+    "ts": "2026-05-21T15:39:48.237630+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/deepocean-picks-up-subsea-and-topside-removal-job-for-north-sea-fpso/": {
@@ -1201,6 +1145,58 @@
   },
   "https://safety4sea.com/indonesia-provides-update-on-crew-held-by-somali-pirates/": {
     "ts": "2026-05-21T09:53:08.167948+00:00",
+    "type": "other"
+  },
+  "https://brasilenergia.com.br/petroleoegas/eventos/rede-de-oportunidadefirjan-atrai-600-empresas-ao-fpso-expo-2026": {
+    "ts": "2026-05-21T15:39:48.237630+00:00",
+    "type": "highlight"
+  },
+  "https://safety4sea.com/imo-secretary-general-listen-to-the-seafarers/": {
+    "ts": "2026-05-21T15:39:48.237630+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/539474-deepocean-lines-up-north-sea-fpso-decom-job": {
+    "ts": "2026-05-21T15:39:48.237630+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/saipem-eyes-brazils-offshore-decommissioning-market-with-petrobras-tie-up/": {
+    "ts": "2026-05-21T15:39:48.237630+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/portos/21410/para-movimenta-9-da-carga-portuaria-do-brasil-e-fortalece-corredor-logistico-na-amazonia/": {
+    "ts": "2026-05-21T15:39:48.237630+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/cmn-aprova-resolucao-que-viabiliza-r-1-bilhao-em-credito-para-companhias-aereas": {
+    "ts": "2026-05-21T15:39:48.237630+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/539477-wood-secures-subsea-design-scope-on-qatarenergy-s-bul-hanine-redevelopment": {
+    "ts": "2026-05-21T15:39:48.237630+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/539483-weatherford-wins-deepwater-completions-contract-off-nigeria": {
+    "ts": "2026-05-21T15:39:48.237630+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/hormuz-disruption-drives-panama-canal-539490": {
+    "ts": "2026-05-21T15:39:48.237630+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/zodiac-expands-tanker-orderbook-with-quartet-of-suezmax-newbuilds/": {
+    "ts": "2026-05-21T15:39:48.237630+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/imo-condemns-irans-hormuz-attacks-calls-for-safe-passage-framework/": {
+    "ts": "2026-05-21T15:39:48.237630+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/heidmar-maritime-holdings-corp-grows-managed-fleet-with-five-strategic-crude-tanker-additions-amid-record-market-conditions/": {
+    "ts": "2026-05-21T15:39:48.237630+00:00",
+    "type": "other"
+  },
+  "https://www.rigzone.com/news/what_happens_to_oil_if_iran_permanently_taxes_hormuz_traffic-21-may-2026-183745-article/": {
+    "ts": "2026-05-21T15:39:48.237630+00:00",
     "type": "other"
   }
 }
