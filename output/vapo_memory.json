@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-05-14",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, elevando custos e volatilidade no transporte marítimo de petróleo e gás. Importadores asiáticos ampliam rotas multimodais mais longas, pressionando prazos e exigindo revisão imediata dos planos logísticos para mitigar riscos de rupturas nas cadeias globais. A operação máxima do oleoduto Leste-Oeste da Aramco reforça a dependência de infraestruturas alternativas. No mercado offshore brasileiro, a ABL conquistou contratos para i"
-  },
-  {
     "date": "2026-05-15",
     "drivers": [
       "contratos marítimos",
@@ -326,5 +315,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo significativamente o fluxo de petroleiros carregados. Essa limitação mantém a volatilidade dos fretes em níveis elevados e reduz a disponibilidade de tonelagem, forçando importadores asiáticos a adotarem rotas multimodais com custos e prazos superiores. O controle rigoroso iraniano, com cobrança de pedágios e presença militar, reforça o risco geopolítico na região, impactando diretamente a logística global de hidroca"
+  },
+  {
+    "date": "2026-05-22",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o fluxo de petroleiros carregados e reduzindo a disponibilidade de tonelagem para transporte de petróleo e gás. Essa limitação sustenta a volatilidade dos fretes e pressiona o mercado secundário, forçando importadores asiáticos a adotarem rotas multimodais, com aumento de custos e prazos. O controle rigoroso iraniano, incluindo cobrança de pedágios e presença militar, reforça o risco geopolítico e a insegurança o"
   }
 ]
