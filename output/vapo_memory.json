@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-05-15",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, elevando volatilidade e custos no transporte marítimo de petróleo e gás. A ampliação das rotas multimodais asiáticas alonga prazos e pressiona despesas logísticas, exigindo ajustes imediatos para evitar rupturas nas cadeias globais de suprimento. A operação máxima do oleoduto Leste-Oeste da Aramco reforça a dependência de infraestruturas alternativas, mas não elimina riscos de desabastecimento. No mercado offshore, a Solstad O"
-  },
-  {
     "date": "2026-05-16",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -325,5 +314,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo fortemente o fluxo de petroleiros carregados e reduzindo a tonelagem disponível para transporte de petróleo e gás. Essa limitação sustenta a volatilidade dos fretes e pressiona o mercado secundário, forçando importadores asiáticos a adotarem rotas multimodais, com aumento de custos e prazos logísticos. O controle iraniano, marcado por cobrança de pedágios e presença militar, mantém o risco geopolítico elevado, impact"
+  },
+  {
+    "date": "2026-05-23",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo fortemente o fluxo de petroleiros carregados e reduzindo a tonelagem disponível para transporte de petróleo e gás. Essa limitação mantém a volatilidade dos fretes em níveis elevados, pressionando o mercado secundário e forçando importadores asiáticos a adotarem rotas multimodais, com aumento de custos e prazos logísticos. A cobrança de pedágios e a presença militar iraniana reforçam o risco geopolítico, impactand"
   }
 ]
