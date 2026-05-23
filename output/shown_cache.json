@@ -7,10 +7,6 @@
     "ts": "2026-05-23T13:47:27.262570+00:00",
     "type": "highlight"
   },
-  "https://splash247.com/20-year-old-lng-vessels-become-hot-property/": {
-    "ts": "2026-05-16T19:13:02.064141+00:00",
-    "type": "other"
-  },
   "https://www.oedigital.com/news/539250-solstad-s-arbitration-win-unlocks-14-5m-payment-for-its-largest-vessel": {
     "ts": "2026-05-17T08:27:20.478310+00:00",
     "type": "highlight"
@@ -23,25 +19,9 @@
     "ts": "2026-05-17T08:27:20.478310+00:00",
     "type": "highlight"
   },
-  "https://www.oedigital.com/news/539255-ocean-winds-gets-full-onshore-approval-for-caledonia-ow-project": {
-    "ts": "2026-05-16T19:13:02.064141+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/539252-ades-lands-48m-nigeria-contract-for-main-pass-iv-rig": {
-    "ts": "2026-05-16T19:13:02.064141+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/asyad-shipping-receives-new-vlcc-from-korean-yard": {
-    "ts": "2026-05-16T19:13:02.064141+00:00",
-    "type": "other"
-  },
   "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/planning-permission-granted-for-uk-dogger-bank-south-offshore-wind-projects": {
     "ts": "2026-05-17T08:27:20.478310+00:00",
     "type": "other"
-  },
-  "https://brasilenergia.com.br/petroleoegas/desafios-e-oportunidades-no-descomissionamento-offshore": {
-    "ts": "2026-05-16T19:13:02.064141+00:00",
-    "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/comunicado-suspensao-dos-prazos-de-chamamento-publico": {
     "ts": "2026-05-17T13:42:53.675678+00:00",
@@ -141,10 +121,6 @@
   },
   "https://www.marineinsight.com/worlds-first-24000-teu-methanol-dual-fuel-container-ship-begins-sea-trials-in-china/?utm_source=rss&utm_medium=rss&utm_campaign=worlds-first-24000-teu-methanol-dual-fuel-container-ship-begins-sea-trials-in-china": {
     "ts": "2026-05-17T19:16:31.573796+00:00",
-    "type": "highlight"
-  },
-  "https://maritime-executive.com/article/global-maritime-firms-prioritize-expansion-in-west-africa": {
-    "ts": "2026-05-16T19:13:02.064141+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/sp/campinas-regiao/noticia/2026/05/17/caso-ype-proximos-passos-incluem-nova-inspecao-da-anvisa-e-proposta-de-testes-independentes-entenda.ghtml": {
@@ -996,11 +972,11 @@
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/governo-autoriza-obras-que-vao-ampliar-e-modernizar-o-aeroporto-de-ji-parana-ro": {
-    "ts": "2026-05-23T13:47:27.262570+00:00",
+    "ts": "2026-05-23T19:19:02.032745+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/u-s-and-iran-still-deadlocked-on-key-issues-despite-signs-of-diplomatic-progress/": {
-    "ts": "2026-05-23T13:47:27.262570+00:00",
+    "ts": "2026-05-23T19:19:02.032745+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/modec-encerra-sua-participacao-na-fpso-expo-com-um-balanco-de-suas-atividades-no-mercado-de-petroleo-do-brasil/": {
@@ -1036,11 +1012,11 @@
     "type": "other"
   },
   "https://splash247.com/master-under-fire-inside-a-merchant-ship-trapped-in-the-gulf-war-zone/": {
-    "ts": "2026-05-23T13:47:27.262570+00:00",
+    "ts": "2026-05-23T19:19:02.032745+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/erratic-traffic-poses-real-risks-for-strait-of-hormuz-transits": {
-    "ts": "2026-05-23T13:47:27.262570+00:00",
+    "ts": "2026-05-23T19:19:02.032745+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/mercado-vive-apreensao-diante-de-impasse-da-guerra-e-ameaca-sem-precedentes-para-suprimento-de-energia/": {
@@ -1076,11 +1052,11 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/cabotagem/alianca-rota-expressa-cabotagem-itapoa-manaus-13-dias": {
-    "ts": "2026-05-23T13:47:27.262570+00:00",
+    "ts": "2026-05-23T19:19:02.032745+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/vessel-collision-results-in-oil-spill-in-nigerian-waters/": {
-    "ts": "2026-05-23T13:47:27.262570+00:00",
+    "ts": "2026-05-23T19:19:02.032745+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/baltic-exchange-blames-mercuria-lawsuit-for-muddying-shipping-markets": {
@@ -1088,7 +1064,7 @@
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21417/norma-da-autoridade-portuaria-de-santos-torna-eletronicos-o-manifesto-de-carga-e-o-boletim-de-descarga-e-embarque/": {
-    "ts": "2026-05-22T14:49:29.955815+00:00",
+    "ts": "2026-05-23T19:19:02.032745+00:00",
     "type": "other"
   },
   "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/05/22/imposto-de-renda-2026-veja-o-calendario-de-restituicao.ghtml": {
@@ -1096,7 +1072,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/539534-denmark-receives-offshore-wind-bids-as-tender-scheme-rebounds": {
-    "ts": "2026-05-22T14:49:29.955815+00:00",
+    "ts": "2026-05-23T19:19:02.032745+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/china-delivers-a-115000-dwt-tanker-ahead-of-schedule/": {
@@ -1108,11 +1084,11 @@
     "type": "other"
   },
   "https://safety4sea.com/fishing-vessel-collides-with-container-vessel-in-the-north-sea/": {
-    "ts": "2026-05-22T14:49:29.955815+00:00",
+    "ts": "2026-05-23T19:19:02.032745+00:00",
     "type": "other"
   },
   "https://safety4sea.com/bureau-veritas-set-to-launch-remote-inspection-technique-center-during-posidonia/": {
-    "ts": "2026-05-22T14:49:29.955815+00:00",
+    "ts": "2026-05-23T19:19:02.032745+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/539533-borr-drilling-s-first-quarter-profit-takes-hit-as-odin-rig-start-up-lags": {
@@ -1124,7 +1100,7 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/porto-do-rio-de-janeiro-navio-msc-karina-new-panamax-dragagem": {
-    "ts": "2026-05-23T13:47:27.262570+00:00",
+    "ts": "2026-05-23T19:19:02.032745+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/mpor-lanca-terceira-fase-da-campanha-assedio-nao-decola-e-cartilha-de-combate-a-violencia-contra-as-mulheres-1": {
@@ -1132,7 +1108,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/tanker-near-somalia-fires-warning-shots-to-chase-off-suspicious-approach": {
-    "ts": "2026-05-23T13:47:27.262570+00:00",
+    "ts": "2026-05-23T19:19:02.032745+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/a-iata-defende-desacarbonizacao-para-viabilizar-a-producao-de-combustivel-saf-para-a-aviacao/": {
@@ -1168,7 +1144,7 @@
     "type": "other"
   },
   "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/05/porto-de-santos-inaugura-hub-de-inovacao-voltado-a-tecnologia-e-ao-futuro-da-logistica": {
-    "ts": "2026-05-23T13:47:27.262570+00:00",
+    "ts": "2026-05-23T19:19:02.032745+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/frontline-sees-strongest-quarter-in-two-decades-as-hormuz-crisis-reshapes-tanker-trade/": {
@@ -1212,11 +1188,11 @@
     "type": "highlight"
   },
   "https://www.nytimes.com/2026/05/23/business/iran-toll-strait-hormuz.html": {
-    "ts": "2026-05-23T13:47:27.262570+00:00",
+    "ts": "2026-05-23T19:19:02.032745+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/euroholdings-ltd-reports-results-for-the-quarter-ended-march-31-2026-and-announces-the-acquisition-of-one-49997-dwt-product-tanker-vessel-m-t-hellas-fighter-built-in-2015/": {
-    "ts": "2026-05-23T13:47:27.262570+00:00",
+    "ts": "2026-05-23T19:19:02.032745+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/ep/producao-da-ate-cai-23-em-abril": {
@@ -1232,7 +1208,7 @@
     "type": "other"
   },
   "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/05/23/datafolha-avaliam-governo-lula-como-ruim-ou-pessimo-como-otimo-ou-bom.ghtml": {
-    "ts": "2026-05-23T13:47:27.262570+00:00",
+    "ts": "2026-05-23T19:19:02.032745+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/saudi-arabia-launches-new-shipping-service-as-hormuz-remains-blocked-to-commercial-traffic/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-arabia-launches-new-shipping-service-as-hormuz-remains-blocked-to-commercial-traffic": {
@@ -1245,6 +1221,26 @@
   },
   "https://www.marineinsight.com/u-s-coast-guard-hsi-seize-6-4-million-cocaine-shipment-from-oil-tanker-at-los-angeles-port/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-coast-guard-hsi-seize-6-4-million-cocaine-shipment-from-oil-tanker-at-los-angeles-port": {
     "ts": "2026-05-23T13:47:27.262570+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/ministro-tome-franca-participa-de-forum-em-sao-paulo-para-discutir-desenvolvimento-portuario-e-hidroviario": {
+    "ts": "2026-05-23T19:19:02.032745+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/japan-to-receive-first-oil-tanker-carrying-2-million-barrels-through-strait-of-hormuz-since-iran-war-began/?utm_source=rss&utm_medium=rss&utm_campaign=japan-to-receive-first-oil-tanker-carrying-2-million-barrels-through-strait-of-hormuz-since-iran-war-began": {
+    "ts": "2026-05-23T19:19:02.032745+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/strait-of-hormuz-closure-risks-greatest-global-energy-supply-shock-in-decades-wood-mackenzie-warns/": {
+    "ts": "2026-05-23T19:19:02.032745+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/05/23/taiwan-diz-estar-cercada-por-mais-de-100-navios-da-china.ghtml": {
+    "ts": "2026-05-23T19:19:02.032745+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/irans-irgc-navy-says-35-commercial-ships-transited-through-strait-of-hormuz-with-its-permission/?utm_source=rss&utm_medium=rss&utm_campaign=irans-irgc-navy-says-35-commercial-ships-transited-through-strait-of-hormuz-with-its-permission": {
+    "ts": "2026-05-23T19:19:02.032745+00:00",
     "type": "other"
   }
 }
