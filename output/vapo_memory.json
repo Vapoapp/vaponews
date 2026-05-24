@@ -8,17 +8,6 @@
       "logística e portos",
       "risco geopolítico"
     ],
-    "summary": "A operação no Estreito de Ormuz permanece abaixo de 10%, pressionando custos e prazos no transporte marítimo de petróleo e gás. A resposta dos importadores asiáticos tem sido ampliar rotas multimodais, o que alonga os prazos e eleva despesas logísticas, exigindo ajustes imediatos nas cadeias globais para evitar rupturas. A operação máxima do oleoduto Leste-Oeste da Aramco reduz parcialmente a dependência do canal, mas o risco de desabastecimento persiste. No mercado brasileiro, a Petrobras forma"
-  },
-  {
-    "date": "2026-05-17",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, mantendo custos e prazos elevados no transporte marítimo de petróleo e gás. Importadores asiáticos ampliam rotas multimodais, alongando prazos e elevando despesas logísticas, o que exige ajustes urgentes nas cadeias globais para evitar rupturas. A operação máxima do oleoduto Leste-Oeste da Aramco reduz parcialmente a dependência do canal, mas o risco de desabastecimento persiste. No mercado brasileiro, a Petrobras formalizou cont"
   },
   {
@@ -322,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, mantendo a oferta de tonelagem restrita e a volatilidade das taxas de frete em níveis elevados. Importadores asiáticos continuam a buscar rotas alternativas multimodais, elevando custos logísticos e prazos de entrega. A presença militar iraniana e a cobrança de pedágios reforçam o risco geopolítico, dificultando previsibilidade operacional e pressionando o mercado secundário de afretamento. No setor offshore, a continuidade d"
+  },
+  {
+    "date": "2026-05-24",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "Negociações entre EUA e Irã indicam possível reabertura do Estreito de Ormuz e extensão do cessar-fogo por 60 dias, o que pode aliviar a restrição severa à passagem de petroleiros e reduzir a volatilidade dos fretes. Contudo, a ausência de consenso público e a presença militar iraniana mantêm o risco geopolítico elevado, preservando a insegurança operacional e a necessidade de rotas alternativas multimodais para importadores asiáticos. No setor offshore, contratos relevantes avançam em regiões e"
   }
 ]
