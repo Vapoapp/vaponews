@@ -5,17 +5,6 @@
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o fluxo de petroleiros carregados e elevando custos no transporte marítimo de petróleo e gás. A ampliação de rotas multimodais na Ásia alonga prazos e aumenta despesas logísticas, exigindo ajustes imediatos nas cadeias de suprimento para evitar rupturas. A operação máxima do oleoduto Leste-Oeste da Aramco reduz parcialmente a dependência do canal, mas o risco de desabastecimento persiste. No mercado offshore bras"
-  },
-  {
-    "date": "2026-05-18",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
       "logística e portos",
       "risco geopolítico"
     ],
@@ -322,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, limitando o fluxo de petroleiros e restringindo a oferta de tonelagem para petróleo e gás. Essa condição mantém a volatilidade das taxas de frete em níveis elevados, forçando importadores asiáticos a adotarem rotas multimodais, com impacto direto em custos e prazos logísticos. A presença militar iraniana e a cobrança de pedágios reforçam o risco geopolítico, dificultando a previsibilidade operacional. No mercado offshore, contrat"
+  },
+  {
+    "date": "2026-05-25",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, limitando o fluxo de petroleiros e mantendo a volatilidade das taxas de frete em níveis críticos. Importadores asiáticos seguem adotando rotas multimodais, elevando custos logísticos e prazos de entrega, sem perspectiva clara de normalização devido à presença militar iraniana e cobrança de pedágios. A suposta reabertura negociada entre EUA e Irã ainda não se traduz em impacto operacional imediato. No offshore, contratos estra"
   }
 ]
