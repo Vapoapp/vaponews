@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-05-17",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, elevando custos e volatilidade no transporte marítimo de petróleo e gás. Importadores asiáticos ampliam rotas multimodais, o que alonga prazos e pressiona despesas logísticas, exigindo ajustes urgentes nas cadeias globais para evitar rupturas. A operação máxima do oleoduto Leste-Oeste da Aramco reduz parcialmente a dependência do canal, mas o risco de desabastecimento persiste. No mercado brasileiro, a Petrobras avança com co"
-  },
-  {
     "date": "2026-05-18",
     "drivers": [
       "contratos marítimos",
@@ -322,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o fluxo de petroleiros e mantendo a oferta de tonelagem para petróleo e gás em níveis críticos. Essa limitação sustenta a volatilidade dos fretes e força importadores asiáticos a adotarem rotas multimodais, elevando custos e prazos logísticos. A presença militar iraniana e a cobrança de pedágios mantêm o risco geopolítico elevado, dificultando previsibilidade operacional. Negociações entre EUA e Irã indicam possível"
+  },
+  {
+    "date": "2026-05-25",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A operação no Estreito de Ormuz permanece abaixo de 10%, limitando o fluxo de petroleiros e mantendo a oferta de tonelagem para petróleo e gás em níveis críticos. Essa restrição sustenta a volatilidade dos fretes e força importadores asiáticos a adotarem rotas multimodais, com aumento direto nos custos e nos prazos de entrega. A presença militar iraniana e a cobrança de pedágios mantêm o risco geopolítico elevado, dificultando a previsibilidade operacional. No mercado offshore, contratos de afre"
   }
 ]
