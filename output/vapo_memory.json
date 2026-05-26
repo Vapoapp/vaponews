@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-05-18",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o fluxo de petroleiros carregados e elevando custos logísticos globais. A escassez de tonelagem e o bloqueio parcial mantêm a volatilidade nos fretes, pressionando o mercado secundário e exigindo ajustes imediatos nas cadeias de suprimento, especialmente para importadores asiáticos que ampliam rotas multimodais com prazos mais longos e custos maiores. No Brasil, a Petrobras avança em contratos e operações offshor"
-  },
-  {
     "date": "2026-05-19",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -322,5 +311,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, mantendo a restrição severa ao fluxo de petroleiros e a volatilidade das taxas de frete. A passagem recente de um navio tanque de GNL rumo à Índia indica uma possível flexibilização pontual, mas o risco geopolítico permanece elevado devido a confrontos militares e presença iraniana. Importadores asiáticos continuam a depender de rotas multimodais, com impacto direto em custos e prazos logísticos. No offshore, contratos de médio p"
+  },
+  {
+    "date": "2026-05-26",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o fluxo de petroleiros e mantendo a oferta de tonelagem para petróleo e gás em níveis críticos. A volatilidade das taxas de frete segue alta, forçando importadores asiáticos a adotarem rotas multimodais, o que eleva custos e prazos logísticos sem perspectiva clara de normalização. O risco geopolítico segue elevado, com confrontos recentes e presença militar iraniana, dificultando a previsibilidade operacional. No"
   }
 ]
