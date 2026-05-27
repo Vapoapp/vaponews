@@ -2,17 +2,6 @@
   {
     "date": "2026-05-20",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A operação abaixo de 10% no Estreito de Ormuz segue restringindo o fluxo de petroleiros carregados, ampliando a escassez de tonelagem disponível para transporte de petróleo e gás. Essa limitação mantém a volatilidade dos fretes e pressiona o mercado secundário, forçando importadores asiáticos a ampliar rotas multimodais, com prazos mais longos e custos logísticos elevados. No Brasil, a Petrobras avança na declaração de viabilidade comercial da descoberta no bloco Aram, na Bacia de Santos, com po"
-  },
-  {
-    "date": "2026-05-20",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -323,5 +312,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o fluxo de petroleiros e sustentando alta volatilidade nas taxas de frete para petróleo e gás. Importadores asiáticos continuam a recorrer a rotas multimodais, elevando custos e prazos logísticos, sem perspectiva clara de normalização diante do risco geopolítico elevado e da presença militar iraniana. A passagem pontual de um navio-tanque de GNL indica flexibilização temporária, mas não altera o cenário restritivo. N"
+  },
+  {
+    "date": "2026-05-27",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o fluxo de petroleiros e sustentando alta volatilidade nas taxas de frete para petróleo e gás. Importadores asiáticos seguem obrigados a adotar rotas multimodais, elevando custos e prazos sem perspectiva clara de normalização diante do risco geopolítico elevado e da presença militar iraniana. A passagem pontual de um navio-tanque de GNL indica flexibilização temporária, mas não altera o cenário restritivo. No off"
   }
 ]
