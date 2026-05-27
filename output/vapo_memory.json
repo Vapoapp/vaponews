@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-05-19",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o fluxo de petroleiros carregados e ampliando a escassez de tonelagem disponível. Isso mantém a volatilidade nos fretes de petróleo e gás, pressionando o mercado secundário e elevando custos para importadores asiáticos, que ampliam rotas multimodais com prazos mais longos e despesas maiores. No mercado offshore brasileiro, a Petrobras avança na declaração de viabilidade comercial de nova descoberta na Bacia de Santos"
-  },
-  {
     "date": "2026-05-20",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -323,5 +312,16 @@
       "risco geopolítico"
     ],
     "summary": "Estreito de Ormuz mantém gargalo crítico e volatilidade elevada nas taxas de frete. A capacidade operacional segue abaixo de 10%, restringindo o fluxo de petroleiros e forçando importadores asiáticos a adotarem rotas multimodais, com impacto direto em custos e prazos logísticos. A passagem pontual de um navio-tanque de GNL indica flexibilização temporária, mas não altera o cenário restritivo nem reduz o risco geopolítico. No offshore brasileiro, a ampliação do contrato da Baker Hughes com Petrob"
+  },
+  {
+    "date": "2026-05-27",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o fluxo de petroleiros e sustentando alta volatilidade nas taxas de frete para petróleo e gás. Importadores asiáticos continuam a recorrer a rotas multimodais, elevando custos e prazos logísticos, sem perspectiva clara de normalização diante do risco geopolítico elevado e da presença militar iraniana. A passagem pontual de um navio-tanque de GNL indica flexibilização temporária, mas não altera o cenário restritivo. N"
   }
 ]
