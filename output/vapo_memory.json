@@ -2,17 +2,6 @@
   {
     "date": "2026-05-21",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o fluxo de petroleiros carregados e reduzindo a disponibilidade de tonelagem para transporte de petróleo e gás. Essa limitação sustenta a volatilidade dos fretes e pressiona o mercado secundário, forçando importadores asiáticos a recorrerem a rotas multimodais com prazos mais longos e custos logísticos elevados. A operação máxima do oleoduto Leste-Oeste da Aramco mitiga parcialmente o impacto, mas o risco geopolí"
-  },
-  {
-    "date": "2026-05-21",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -322,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o fluxo de petroleiros e gerando alta volatilidade nas taxas de afretamento. Importadores asiáticos continuam a adotar rotas multimodais, elevando custos e prazos logísticos, sem perspectiva clara de normalização diante do risco geopolítico e da presença militar iraniana. A passagem isolada de um navio-tanque de GNL não altera o cenário restritivo. No offshore brasileiro, Petrobras anuncia investimento de R$ 2,8 bilh"
+  },
+  {
+    "date": "2026-05-28",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A operação no Estreito de Ormuz segue restrita a menos de 10%, limitando o fluxo de petroleiros e mantendo alta volatilidade nas taxas de afretamento. Importadores asiáticos continuam a recorrer a rotas multimodais, elevando custos e prazos sem perspectiva clara de normalização, dado o risco geopolítico e a presença militar iraniana. A passagem isolada de um navio-tanque de GNL não altera o cenário estrutural. No offshore brasileiro, Petrobras anuncia investimento de R$ 2,8 bilhões para ampliar"
   }
 ]
