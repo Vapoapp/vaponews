@@ -8,17 +8,6 @@
       "logística e portos",
       "risco geopolítico"
     ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o fluxo de petroleiros carregados e reduzindo a tonelagem disponível para transporte de petróleo e gás. Essa limitação sustenta a volatilidade dos fretes e força importadores asiáticos a adotarem rotas multimodais, elevando custos e prazos logísticos. A operação máxima do oleoduto Leste-Oeste da Aramco mitiga parcialmente o impacto, mas o risco geopolítico permanece elevado. No Brasil, a Petrobras avança em parcerias"
-  },
-  {
-    "date": "2026-05-21",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o fluxo de petroleiros carregados e reduzindo a disponibilidade de tonelagem para transporte de petróleo e gás. Essa limitação sustenta a volatilidade dos fretes, pressiona o mercado secundário e força importadores asiáticos a adotarem rotas multimodais, elevando custos e prazos logísticos. A operação máxima do oleoduto Leste-Oeste da Aramco mitiga parcialmente o impacto, mas o risco geopolítico permanece elevado. No"
   },
   {
@@ -322,5 +311,16 @@
       "risco geopolítico"
     ],
     "summary": "A operação no Estreito de Ormuz segue restrita a menos de 10%, limitando o fluxo de petroleiros e mantendo alta volatilidade nas taxas de afretamento. Importadores asiáticos continuam a recorrer a rotas multimodais, elevando custos e prazos sem perspectiva clara de normalização, dado o risco geopolítico e a presença militar iraniana. A passagem isolada de um navio-tanque de GNL não altera o cenário estrutural. No offshore brasileiro, Petrobras anuncia investimento de R$ 2,8 bilhões para ampliar"
+  },
+  {
+    "date": "2026-05-28",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o fluxo de petroleiros e sustentando alta volatilidade nas taxas de afretamento. Importadores asiáticos seguem obrigados a usar rotas multimodais, elevando custos e prazos sem perspectiva clara de normalização, diante da escalada geopolítica e da exigência iraniana de US$ 12 bilhões para prorrogar cessar-fogo. A passagem isolada de navios-tanque de GNL não altera o cenário estrutural. No offshore brasileiro, Petr"
   }
 ]
