@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-05-22",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o fluxo de petroleiros carregados e reduzindo a disponibilidade de tonelagem para petróleo e gás. Essa limitação mantém a volatilidade dos fretes em níveis elevados, pressiona o mercado secundário e força importadores asiáticos a adotarem rotas multimodais, elevando custos e prazos logísticos. A presença militar iraniana e a cobrança de pedágios reforçam o risco geopolítico e a insegurança operacional na região. No s"
-  },
-  {
     "date": "2026-05-23",
     "drivers": [
       "contratos marítimos",
@@ -324,5 +313,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o fluxo de petroleiros e mantendo alta volatilidade nas taxas de afretamento. A continuidade do risco geopolítico, mesmo com negociações para extensão do cessar-fogo, sustenta a dependência de rotas alternativas multimodais para importadores asiáticos, elevando custos e prazos logísticos sem perspectiva clara de normalização. A recusa da Chevron em pagar pedágio reforça tensões comerciais e operacionais na região. No"
+  },
+  {
+    "date": "2026-05-30",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o fluxo de petroleiros e mantendo alta volatilidade nas taxas de afretamento. A recusa da Chevron em pagar pedágio intensifica tensões comerciais e operacionais, enquanto importadores asiáticos seguem dependentes de rotas multimodais, elevando custos e prazos logísticos sem perspectiva clara de normalização. No Brasil, Petrobras avança em investimentos offshore com contratos para construção e operação de dois FPS"
   }
 ]
