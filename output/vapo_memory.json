@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-05-24",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "Negociações entre EUA e Irã indicam possível reabertura do Estreito de Ormuz e extensão do cessar-fogo por 60 dias, o que pode aliviar a restrição severa à passagem de petroleiros e reduzir a volatilidade dos fretes. Contudo, a ausência de consenso público e a presença militar iraniana mantêm o risco geopolítico elevado, preservando a insegurança operacional e a necessidade de rotas alternativas multimodais para importadores asiáticos. No setor offshore, contratos relevantes avançam em regiões e"
-  },
-  {
     "date": "2026-05-25",
     "drivers": [
       "contratos marítimos",
@@ -327,5 +316,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o trânsito de petroleiros e sustentando alta volatilidade nas taxas de afretamento. A recusa da Chevron em pagar pedágio intensifica tensões comerciais, ampliando o risco operacional e forçando importadores asiáticos a adotarem rotas multimodais alternativas, com impacto direto em custos e prazos logísticos. A presença de minas flutuantes e a orientação militar dos EUA reforçam a necessidade de cautela na região."
+  },
+  {
+    "date": "2026-06-01",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o trânsito de petroleiros e sustentando alta volatilidade nas taxas de afretamento. A recusa da Chevron em pagar pedágio intensifica tensões comerciais, ampliando o risco operacional e forçando importadores asiáticos a adotarem rotas multimodais alternativas. Essa mudança eleva custos logísticos e prazos sem perspectiva clara de normalização no curto prazo. No offshore brasileiro, a Petrobras avançou na contrataç"
   }
 ]
