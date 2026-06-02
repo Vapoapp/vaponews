@@ -2,17 +2,6 @@
   {
     "date": "2026-05-26",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, mantendo a restrição severa ao fluxo de petroleiros e a volatilidade das taxas de frete. A passagem recente de um navio tanque de GNL rumo à Índia indica uma possível flexibilização pontual, mas o risco geopolítico permanece elevado devido a confrontos militares e presença iraniana. Importadores asiáticos continuam a depender de rotas multimodais, com impacto direto em custos e prazos logísticos. No offshore, contratos de médio p"
-  },
-  {
-    "date": "2026-05-26",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -326,5 +315,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o trânsito de petroleiros e mantendo alta volatilidade nas taxas de afretamento. A recusa da Chevron em pagar pedágio agrava tensões comerciais, forçando importadores asiáticos a adotarem rotas multimodais alternativas, com impacto direto em custos e prazos logísticos. A presença de minas flutuantes e a orientação militar dos EUA reforçam a necessidade de cautela operacional na região. No Brasil, a Karoon Energy cons"
+  },
+  {
+    "date": "2026-06-02",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o trânsito de petroleiros e elevando a volatilidade das taxas de afretamento. A recusa da Chevron em pagar pedágio intensifica tensões comerciais, obrigando importadores asiáticos a adotarem rotas multimodais alternativas, com aumento direto nos custos e nos prazos logísticos. A presença contínua de minas flutuantes e a orientação militar dos EUA reforçam a necessidade de cautela operacional na região, sem perspe"
   }
 ]
