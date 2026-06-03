@@ -1,14 +1,10 @@
 {
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
+    "ts": "2026-06-03T11:10:09.368678+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
     "ts": "2026-06-02T10:45:32.726517+00:00",
-    "type": "highlight"
-  },
-  "https://www.tecnologistica.com.br/noticias/sustentabilidade/21418/dp-world-recebe-equipamentos-eletricos-e-amplia-processo-de-descarbonizacao-no-porto-de-santos/": {
-    "ts": "2026-05-27T10:04:14.899141+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/nova-versao-do-sama-entra-em-operacao": {
@@ -31,14 +27,6 @@
     "ts": "2026-05-27T20:24:52.531613+00:00",
     "type": "other"
   },
-  "https://petronoticias.com.br/karoon-anuncia-retomada-da-producao-do-campo-de-bauna-na-bacia-de-santos/": {
-    "ts": "2026-05-27T10:04:14.899141+00:00",
-    "type": "highlight"
-  },
-  "https://maritime-executive.com/article/greek-crude-oil-tanker-off-oman-reports-explosion-and-fuel-leak": {
-    "ts": "2026-05-27T10:04:14.899141+00:00",
-    "type": "highlight"
-  },
   "https://www.offshore-energy.biz/more-work-with-petrobras-on-baker-hughes-oil-gas-scope-in-brazilian-waters/": {
     "ts": "2026-05-27T20:24:52.531613+00:00",
     "type": "other"
@@ -59,10 +47,6 @@
     "ts": "2026-05-27T20:24:52.531613+00:00",
     "type": "highlight"
   },
-  "https://safety4sea.com/tanker-reports-explosion-and-bunker-fuel-spill-near-oman/": {
-    "ts": "2026-05-27T10:04:14.899141+00:00",
-    "type": "highlight"
-  },
   "https://petronoticias.com.br/mercado-de-embarcacoes-offshore-avanca-em-recuperacao-gradual-mas-enfrenta-restricoes-de-oferta/": {
     "ts": "2026-05-27T20:24:52.531613+00:00",
     "type": "highlight"
@@ -73,50 +57,6 @@
   },
   "https://www.oedigital.com/news/539637-nopsema-releases-australia-s-offshore-energy-industry-performance-report": {
     "ts": "2026-05-28T10:13:35.705895+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/boxships/mpc-container-ships-posts-solid-q1-profit-amid-strong-charter-backlog": {
-    "ts": "2026-05-27T10:04:14.899141+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/australia-s-ichthys-lng-project-dodges-labor-strike": {
-    "ts": "2026-05-27T10:04:14.899141+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/lessons-learned-enhance-the-fire-safety-awareness-of-the-crew/": {
-    "ts": "2026-05-27T10:04:14.899141+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/oil-prices-sink-amid-u-s-iran-negotiations-hormuz-deal-hopes/": {
-    "ts": "2026-05-27T10:04:14.899141+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/imo-sounds-alarm-over-return-of-somali-piracy/": {
-    "ts": "2026-05-27T10:04:14.899141+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/chile-approves-massive-4-45bn-san-antonio-port-expansion/": {
-    "ts": "2026-05-27T10:04:14.899141+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/company-conducts-its-first-lng-bunkering-operation/": {
-    "ts": "2026-05-27T10:04:14.899141+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/vessel-review-henghui-102-chinese-river-sea-chemical-tanker-with-ice-navigation-capability": {
-    "ts": "2026-05-27T10:04:14.899141+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/oil-price-spike-spurs-windfall-tax-proposals-in-brazil-eu-us-and-australia/": {
-    "ts": "2026-05-27T10:04:14.899141+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/539631-sbm-offshore-s-swir-technology-receives-abs-statement-of-maturity": {
-    "ts": "2026-05-27T10:04:14.899141+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/539588-karoon-restarts-production-at-brazilan-field-after-fpso-overhaul": {
-    "ts": "2026-05-27T10:04:14.899141+00:00",
     "type": "other"
   },
   "https://agencia.petrobras.com.br/w/negocio/petrobras-investir%C3%A1-mais-de-r-2-8-bilh%C3%B5es-no-amazonas-para-ampliar-produ%C3%A7%C3%A3o-de-g%C3%A1s-natural-em-urucu-e-frota-de-embarca%C3%A7%C3%B5es": {
@@ -1064,11 +1004,11 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/539827-sbm-offshore-solstad-to-build-new-deepwater-installation-vessel": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
+    "ts": "2026-06-03T11:10:09.368678+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/projectile-strikes-on-mscs-vessel-raise-maritime-security-concerns/": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
+    "ts": "2026-06-03T11:10:09.368678+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/on-day-one-of-posidonia-nzf-and-strait-of-hormuz-are-at-center-stage": {
@@ -1104,15 +1044,15 @@
     "type": "other"
   },
   "https://safety4sea.com/msc-container-vessel-gets-attacked-twice-off-iraq/": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
+    "ts": "2026-06-03T11:10:09.368678+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/desafios-do-descomissionamento-sustentavel-de-plataformas-de-og": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
+    "ts": "2026-06-03T11:10:09.368678+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/irans-irgc-claims-missile-strike-on-us-owned-msc-container-ship-near-umm-qasr-port/?utm_source=rss&utm_medium=rss&utm_campaign=irans-irgc-claims-missile-strike-on-us-owned-msc-container-ship-near-umm-qasr-port": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
+    "ts": "2026-06-03T11:10:09.368678+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/02/avioes-dao-voltas-no-ar-antes-de-pousar-em-aeroportos-de-sp.ghtml": {
@@ -1152,7 +1092,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/sbm-offshore-e-solstad-offshore-fecham-parceria-para-construir-embarcacao-de-instalacao-em-aguas-profundas/": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
+    "ts": "2026-06-03T11:10:09.368678+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/539866-seven-us-states-sue-fed-government-totalenergies-after-cancelling-offshore-wind-lease": {
@@ -1200,15 +1140,15 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/u-s-disables-another-iran-linked-tanker-with-a-hellfire-missile": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
+    "ts": "2026-06-03T11:10:09.368678+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/diana-rips-genco-board-after-third-rejection-urges-shareholders-to-vote-for-change/": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
+    "ts": "2026-06-03T11:10:09.368678+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/iran-reveals-deadly-27-rajab-missile-boat-built-to-target-warships-700-km-away/?utm_source=rss&utm_medium=rss&utm_campaign=iran-reveals-deadly-27-rajab-missile-boat-built-to-target-warships-700-km-away": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
+    "ts": "2026-06-03T11:10:09.368678+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/logistica/transpetro-assume-oficialmente-as-operacoes-da-pblog": {
@@ -1245,6 +1185,50 @@
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/north-star-welcomes-newly-acquired-sovs-to-fleet": {
     "ts": "2026-06-03T04:47:09.443443+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/539895-northern-lights-expands-lco2-fleet-with-vessel-charter-for-misc-k-line": {
+    "ts": "2026-06-03T11:10:09.368678+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/k-line-secures-lco2-carrier-time-charter-with-northern-lights": {
+    "ts": "2026-06-03T11:10:09.368678+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/msc-confirms-containership-was-hit-twice-by-projectiles-off-iraq/": {
+    "ts": "2026-06-03T11:10:09.368678+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/empresas/solstad-e-sbm-se-juntam-para-uma-nova-embarcacao": {
+    "ts": "2026-06-03T11:10:09.368678+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/539890-ichthys-lng-strike-causes-delay-to-taiwan-bound-cargo": {
+    "ts": "2026-06-03T11:10:09.368678+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/lng-carrier-loads-uae-limited-shipping-539892": {
+    "ts": "2026-06-03T11:10:09.368678+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/genco-shipping-board-rejects-new-diana-shipping-takeover-bid": {
+    "ts": "2026-06-03T11:10:09.368678+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/jgc-fluor-in-the-clear-for-early-works-to-double-output-at-shell-run-lng-canada/": {
+    "ts": "2026-06-03T11:10:09.368678+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/offshore-vessel-news-roundup-june-3-russian-standby-vessel-concept-polish-fsru-launch-and-more": {
+    "ts": "2026-06-03T11:10:09.368678+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/vessels-rigs/crewboats/vessel-review-eros-iii-catamaran-crewboat-to-support-operations-at-french-offshore-wind-farm": {
+    "ts": "2026-06-03T11:10:09.368678+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/marinakis-better-to-pay-a-fee-for-hormuz-transits": {
+    "ts": "2026-06-03T11:10:09.368678+00:00",
     "type": "other"
   }
 }

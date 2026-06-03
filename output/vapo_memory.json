@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-05-26",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o fluxo de petroleiros e mantendo a alta volatilidade das taxas de frete para petróleo e gás. Importadores asiáticos seguem obrigados a usar rotas multimodais, elevando custos logísticos e prazos sem perspectiva clara de normalização, dado o risco geopolítico elevado e a presença militar iraniana. A passagem pontual de um navio-tanque de GNL indica flexibilização temporária, mas não altera o cenário restritivo. N"
-  },
-  {
     "date": "2026-05-27",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -326,5 +315,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, restringindo o fluxo de petroleiros e intensificando a volatilidade das taxas de afretamento. A recusa da Chevron em pagar pedágio exacerba tensões comerciais, obrigando importadores asiáticos a adotarem rotas multimodais mais longas, com impacto direto em custos logísticos e prazos de entrega. A presença de minas flutuantes e a orientação militar dos EUA reforçam a necessidade de cautela, sem perspectiva clara de normalizaçã"
+  },
+  {
+    "date": "2026-06-03",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, restringindo o fluxo de petroleiros e ampliando a volatilidade das taxas de afretamento. A recusa da Chevron em pagar pedágio intensifica tensões comerciais, forçando importadores asiáticos a adotarem rotas multimodais mais longas, com impacto direto em custos e prazos. A presença de minas flutuantes e a orientação militar dos EUA reforçam o risco operacional, sem perspectiva clara de normalização. Ataques recentes a navios no Go"
   }
 ]
