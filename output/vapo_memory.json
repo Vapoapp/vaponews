@@ -3,16 +3,6 @@
     "date": "2026-05-28",
     "drivers": [
       "atividade Petrobras/Transpetro",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o fluxo de petroleiros e gerando alta volatilidade nas taxas de afretamento. Importadores asiáticos continuam a adotar rotas multimodais, elevando custos e prazos logísticos, sem perspectiva clara de normalização diante do risco geopolítico e da presença militar iraniana. A passagem isolada de um navio-tanque de GNL não altera o cenário restritivo. No offshore brasileiro, Petrobras anuncia investimento de R$ 2,8 bilh"
-  },
-  {
-    "date": "2026-05-28",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -325,5 +315,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, restringindo o fluxo de petroleiros e ampliando a volatilidade das taxas de afretamento. A recusa da Chevron em pagar pedágio intensifica tensões comerciais, forçando importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos. A presença de minas flutuantes e a postura militar dos EUA mantêm o risco operacional elevado, sem perspectiva clara de normalização. No Golfo de Aden, a ameaça"
+  },
+  {
+    "date": "2026-06-04",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, restringindo o fluxo de petroleiros e ampliando a volatilidade das taxas de afretamento. A recusa da Chevron em pagar pedágio exacerba tensões comerciais, forçando importadores asiáticos a adotarem rotas multimodais mais longas, com impacto direto em custos operacionais e prazos de entrega. A presença de minas flutuantes e a postura militar dos EUA mantêm o risco operacional elevado, sem perspectiva clara de normalização. No"
   }
 ]
