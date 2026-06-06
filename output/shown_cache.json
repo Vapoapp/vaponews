@@ -31,10 +31,6 @@
     "ts": "2026-05-31T04:20:07.300566+00:00",
     "type": "highlight"
   },
-  "https://gcaptain.com/uk-court-upholds-virtually-unbreakable-liability-shield-in-solong-stena-immaculate-collision/": {
-    "ts": "2026-05-29T20:32:55.447837+00:00",
-    "type": "highlight"
-  },
   "https://www.oedigital.com/news/539726-petrobras-nears-deal-with-sbm-offshore-for-two-sergipe-fpsos": {
     "ts": "2026-05-30T13:51:19.254157+00:00",
     "type": "other"
@@ -91,18 +87,6 @@
     "ts": "2026-05-31T13:56:35.799710+00:00",
     "type": "highlight"
   },
-  "https://www.hellenicshippingnews.com/gms-week-22-deal-struck-doors-shut/": {
-    "ts": "2026-05-29T20:32:55.447837+00:00",
-    "type": "highlight"
-  },
-  "https://petronoticias.com.br/feira-agropecuaria-de-rondonia-mostra-avanco-no-setor-energetico-fotovoltaico-nas-fazendas-locais/": {
-    "ts": "2026-05-29T20:32:55.447837+00:00",
-    "type": "other"
-  },
-  "https://g1.globo.com/mundo/noticia/2026/05/29/cv-e-pcc-quais-sao-os-proximos-passos-apos-eua-designarem-faccoes-como-terroristas.ghtml": {
-    "ts": "2026-05-29T20:32:55.447837+00:00",
-    "type": "other"
-  },
   "https://maritime-executive.com/article/us-adds-sanctions-on-tankers-and-iranian-oil-awaiting-trump-s-decision": {
     "ts": "2026-05-31T08:53:23.962619+00:00",
     "type": "other"
@@ -113,14 +97,6 @@
   },
   "https://www.marinelink.com/news/trump-final-decision-iran-ceasefire-539747": {
     "ts": "2026-05-31T04:20:07.300566+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/worlds-top-economic-bodies-warn-hormuz-disruptions-are-draining-oil-inventories-at-record-pace/": {
-    "ts": "2026-05-29T20:32:55.447837+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-134/": {
-    "ts": "2026-05-29T20:32:55.447837+00:00",
     "type": "other"
   },
   "https://safety4sea.com/cins-issues-updates-guidance-for-the-carriage-of-cocoa-butter-in-containers/": {
@@ -171,20 +147,8 @@
     "ts": "2026-05-31T08:53:23.962619+00:00",
     "type": "other"
   },
-  "https://gcaptain.com/chinese-cosco-tanker-delivers-asphalt-to-connecticut-under-jones-act-waiver/": {
-    "ts": "2026-05-30T03:55:00.290226+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/first-european-lng-deal-for-canadas-multibillion-dollar-project/": {
-    "ts": "2026-05-30T03:55:00.290226+00:00",
-    "type": "other"
-  },
   "https://www.offshore-energy.biz/slb-and-var-energi-embark-on-digital-quest-to-speed-up-oil-gas-decision-making/": {
     "ts": "2026-05-31T13:56:35.799710+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/u-s-targets-irans-shadow-fleet-with-sanctions-on-tankers-and-hong-kong-oil-network/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-targets-irans-shadow-fleet-with-sanctions-on-tankers-and-hong-kong-oil-network": {
-    "ts": "2026-05-30T03:55:00.290226+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/o-fim-de-semana-comeca-com-as-oportunidades-que-as-empresas-proporcionam-para-trabalhos-em-varios-setores/": {
@@ -1016,7 +980,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/vessels-rigs/fposfpsos/beng-kuang-marine-secures-offshore-contracts-worth-286m-in-west-africa": {
-    "ts": "2026-06-04T20:11:29.761069+00:00",
+    "ts": "2026-06-06T03:58:24.766959+00:00",
     "type": "other"
   },
   "https://safety4sea.com/the-bahamas-regains-qualship-21-eligibility-following-strong-psc-performance/": {
@@ -1048,7 +1012,7 @@
     "type": "other"
   },
   "https://splash247.com/aegean-shipping-widens-tanker-bet-with-debut-vlcc-orders/": {
-    "ts": "2026-06-04T20:11:29.761069+00:00",
+    "ts": "2026-06-06T03:58:24.766959+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/empresarios-do-setor-de-energia-fotovoltaica-participam-na-china-da-maior-feira-do-segmento-em-busca-de-parcerias/": {
@@ -1092,7 +1056,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/539999-oil-slips-as-oman-reports-normal-operations-at-key-oil-terminal": {
-    "ts": "2026-06-05T20:01:56.823253+00:00",
+    "ts": "2026-06-06T03:58:24.766959+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/lr-shipping-s-esg-progress-varies-by-sector": {
@@ -1100,7 +1064,7 @@
     "type": "highlight"
   },
   "https://splash247.com/container-spot-rates-explode-as-peak-season-arrives-early/": {
-    "ts": "2026-06-05T10:01:19.224172+00:00",
+    "ts": "2026-06-06T03:58:24.766959+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/540001-sempra-totalenergies-produce-first-lng-at-mexico-s-eca-lng-project": {
@@ -1124,15 +1088,15 @@
     "type": "other"
   },
   "https://www.offshore-energy.biz/altera-ocyan-jv-passes-fpso-operatorship-baton-to-karoon/": {
-    "ts": "2026-06-05T20:01:56.823253+00:00",
+    "ts": "2026-06-06T03:58:24.766959+00:00",
     "type": "highlight"
   },
   "https://www.navaltoday.com/2026/06/05/report-new-video-exposes-damage-on-uss-gerald-r-ford-after-red-sea-fire-incident/": {
-    "ts": "2026-06-05T20:01:56.823253+00:00",
+    "ts": "2026-06-06T03:58:24.766959+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/evento/21470/brasil-log-movimenta-r-15-milhoes-em-negocios-e-confirma-edicao-de-2027/": {
-    "ts": "2026-06-05T20:01:56.823253+00:00",
+    "ts": "2026-06-06T03:58:24.766959+00:00",
     "type": "highlight"
   },
   "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/05/ancelotti-diz-que-neymar-fara-novo-exame-e-preve-atacante-nos-treinos-na-proxima-semana.ghtml": {
@@ -1180,15 +1144,15 @@
     "type": "other"
   },
   "https://brasilenergia.com.br/petroleoegas/empresas/petrobras-abre-bid-para-limpeza-em-plataformas-acostadas-no-acu": {
-    "ts": "2026-06-05T20:01:56.823253+00:00",
+    "ts": "2026-06-06T03:58:24.766959+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/precious-shipping-subsidiary-enters-into-singapore-based-tanker-jv": {
-    "ts": "2026-06-05T20:01:56.823253+00:00",
+    "ts": "2026-06-06T03:58:24.766959+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/iran-navy-warning-shots-us-destroyers-sea-of-oman/?utm_source=rss&utm_medium=rss&utm_campaign=iran-navy-warning-shots-us-destroyers-sea-of-oman": {
-    "ts": "2026-06-05T20:01:56.823253+00:00",
+    "ts": "2026-06-06T03:58:24.766959+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/depois-de-terminar-toda-desmonagem-da-p-32-o-estaleiro-rio-grande-espera-a-chegada-da-plataforma-p-33/": {
@@ -1237,6 +1201,50 @@
   },
   "https://www.oedigital.com/news/539997-sbm-offshore-to-sell-45-stake-in-mexico-bound-fso-to-nyk": {
     "ts": "2026-06-05T20:01:56.823253+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/diretor-da-agencia-atomica-internacional-diz-que-acoes-militares-perto-de-usinas-nucleares-exigem-geracao-de-energia-externa-confiavel/": {
+    "ts": "2026-06-06T03:58:24.766959+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/five-azerbaijani-seafarers-killed-as-ukraine-attacks-cargo-ships": {
+    "ts": "2026-06-06T03:58:24.766959+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/vhbs-new-contex-container-ship-time-charter-assessment-index-week-23-2/": {
+    "ts": "2026-06-06T03:58:24.766959+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/06/05/escalada-eua-interceptacao-misseis-ira-estreito-ormuz.ghtml": {
+    "ts": "2026-06-06T03:58:24.766959+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/u-s-boards-sanctioned-tanker-as-iran-maritime-blockade-expands-into-indian-ocean/": {
+    "ts": "2026-06-06T03:58:24.766959+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/539995-conrad-secures-drilling-rig-for-mako-gas-field-off-indonesia": {
+    "ts": "2026-06-06T03:58:24.766959+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/sempra-totalenergies-up-lng-ante-at-mexicos-pacific-coast-with-project-start-up/": {
+    "ts": "2026-06-06T03:58:24.766959+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/atsb-delayed-emergency-assistance-a-factor-in-breakaway-ships-during-storm": {
+    "ts": "2026-06-06T03:58:24.766959+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/hormuz-shock-shifts-shipping-fuel-strategy/": {
+    "ts": "2026-06-06T03:58:24.766959+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/consortium-to-assess-brazil-belgium-green-shipping-corridor/": {
+    "ts": "2026-06-06T03:58:24.766959+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/posidonia-2026-ai-is-now-a-key-focus-for-fleet-operators/": {
+    "ts": "2026-06-06T03:58:24.766959+00:00",
     "type": "other"
   }
 }
