@@ -1,14 +1,10 @@
 {
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-06-06T08:40:27.013721+00:00",
+    "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
     "ts": "2026-06-02T10:45:32.726517+00:00",
-    "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/totalenergies-unit-seeks-approval-for-normandy-offshore-wind-farm": {
-    "ts": "2026-05-30T13:51:19.254157+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/fire-breaks-out-aboard-ro-pax-ferry-at-port-of-naples": {
@@ -22,18 +18,6 @@
   "https://splash247.com/splash-wrap-and-so-to-athens/": {
     "ts": "2026-05-31T04:20:07.300566+00:00",
     "type": "highlight"
-  },
-  "https://www.oedigital.com/news/539726-petrobras-nears-deal-with-sbm-offshore-for-two-sergipe-fpsos": {
-    "ts": "2026-05-30T13:51:19.254157+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/deme-wins-installation-contract-for-japanese-offshore-wind-farm/": {
-    "ts": "2026-05-30T13:51:19.254157+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/kn-energies-picks-up-job-on-european-fsru-project/": {
-    "ts": "2026-05-30T13:51:19.254157+00:00",
-    "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/heavy-lift/vessel-review-king-one-large-chinese-deck-cargo-ship-to-support-worldwide-offshore-wind-construction-projects": {
     "ts": "2026-05-30T19:25:28.252179+00:00",
@@ -155,10 +139,6 @@
     "ts": "2026-06-01T04:48:43.863613+00:00",
     "type": "highlight"
   },
-  "https://gcaptain.com/u-s-warns-ships-ignoring-orders-in-hormuz-may-be-treated-as-threats/": {
-    "ts": "2026-05-30T13:51:19.254157+00:00",
-    "type": "highlight"
-  },
   "https://www.bairdmaritime.com/shipping/tankers/chevron-rejects-paying-tolls-for-strait-of-hormuz-passage-ceo-says": {
     "ts": "2026-05-31T13:56:35.799710+00:00",
     "type": "highlight"
@@ -196,7 +176,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
-    "ts": "2026-06-01T04:48:43.863613+00:00",
+    "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/mundo/noticia/2026/05/31/eua-atacam-embarcacao-oceano-pacifico-e-matam-3-pessoas.ghtml": {
@@ -832,7 +812,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/vessel-reviews": {
-    "ts": "2026-06-05T10:01:19.224172+00:00",
+    "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "other"
   },
   "https://gcaptain.com/tankers-gather-outside-persian-gulf-in-wager-on-hormuz-reopening/": {
@@ -992,7 +972,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/european-mine-clearance-force-for-strait-of-hormuz-forming-up": {
-    "ts": "2026-06-06T08:40:27.013721+00:00",
+    "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/hd-hyundai-samho-receives-bureau-veritas-approval-in-principle-for-innovative-container-ship-bow-windshield-design/": {
@@ -1028,7 +1008,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/539999-oil-slips-as-oman-reports-normal-operations-at-key-oil-terminal": {
-    "ts": "2026-06-06T08:40:27.013721+00:00",
+    "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/lr-shipping-s-esg-progress-varies-by-sector": {
@@ -1036,15 +1016,15 @@
     "type": "highlight"
   },
   "https://splash247.com/container-spot-rates-explode-as-peak-season-arrives-early/": {
-    "ts": "2026-06-06T08:40:27.013721+00:00",
+    "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/540001-sempra-totalenergies-produce-first-lng-at-mexico-s-eca-lng-project": {
-    "ts": "2026-06-05T10:01:19.224172+00:00",
+    "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/tanker-news-roundup-june-5-asian-yards-focus-vlec-delivery-to-singapore-product-carrier-orders-and-more": {
-    "ts": "2026-06-05T10:01:19.224172+00:00",
+    "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "other"
   },
   "https://www.offshore-energy.biz/jack-up-rig-picked-for-six-well-drilling-campaign-in-southeast-asia/": {
@@ -1060,15 +1040,15 @@
     "type": "other"
   },
   "https://www.offshore-energy.biz/altera-ocyan-jv-passes-fpso-operatorship-baton-to-karoon/": {
-    "ts": "2026-06-06T08:40:27.013721+00:00",
+    "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "highlight"
   },
   "https://www.navaltoday.com/2026/06/05/report-new-video-exposes-damage-on-uss-gerald-r-ford-after-red-sea-fire-incident/": {
-    "ts": "2026-06-06T08:40:27.013721+00:00",
+    "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/evento/21470/brasil-log-movimenta-r-15-milhoes-em-negocios-e-confirma-edicao-de-2027/": {
-    "ts": "2026-06-06T08:40:27.013721+00:00",
+    "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "highlight"
   },
   "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/05/ancelotti-diz-que-neymar-fara-novo-exame-e-preve-atacante-nos-treinos-na-proxima-semana.ghtml": {
@@ -1116,15 +1096,15 @@
     "type": "other"
   },
   "https://brasilenergia.com.br/petroleoegas/empresas/petrobras-abre-bid-para-limpeza-em-plataformas-acostadas-no-acu": {
-    "ts": "2026-06-06T08:40:27.013721+00:00",
+    "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/precious-shipping-subsidiary-enters-into-singapore-based-tanker-jv": {
-    "ts": "2026-06-06T08:40:27.013721+00:00",
+    "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/iran-navy-warning-shots-us-destroyers-sea-of-oman/?utm_source=rss&utm_medium=rss&utm_campaign=iran-navy-warning-shots-us-destroyers-sea-of-oman": {
-    "ts": "2026-06-06T08:40:27.013721+00:00",
+    "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/depois-de-terminar-toda-desmonagem-da-p-32-o-estaleiro-rio-grande-espera-a-chegada-da-plataforma-p-33/": {
@@ -1176,15 +1156,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/diretor-da-agencia-atomica-internacional-diz-que-acoes-militares-perto-de-usinas-nucleares-exigem-geracao-de-energia-externa-confiavel/": {
-    "ts": "2026-06-06T08:40:27.013721+00:00",
+    "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/five-azerbaijani-seafarers-killed-as-ukraine-attacks-cargo-ships": {
-    "ts": "2026-06-06T08:40:27.013721+00:00",
+    "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/vhbs-new-contex-container-ship-time-charter-assessment-index-week-23-2/": {
-    "ts": "2026-06-06T08:40:27.013721+00:00",
+    "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/mundo/noticia/2026/06/05/escalada-eua-interceptacao-misseis-ira-estreito-ormuz.ghtml": {
@@ -1220,7 +1200,7 @@
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/abs-grants-approval-for-nuclear-reactor-integration-in-vessel-design-developed-through-mit-maritime-consortium/": {
-    "ts": "2026-06-06T08:40:27.013721+00:00",
+    "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/first-of-five-methanol-retrofits-completed-under-seaspan-and-hapag-lloyds-collab/": {
@@ -1233,6 +1213,18 @@
   },
   "https://www.bairdmaritime.com/shipping/tankers/gas/first-lng-produced-at-sempra-project-targeting-faster-asian-supply": {
     "ts": "2026-06-06T08:40:27.013721+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/iran-fires-drones-missiles-towards-ships-in-strait-of-hormuz-gulf-neighbours-u-s-shoots-down-4/?utm_source=rss&utm_medium=rss&utm_campaign=iran-fires-drones-missiles-towards-ships-in-strait-of-hormuz-gulf-neighbours-u-s-shoots-down-4": {
+    "ts": "2026-06-06T13:59:52.242151+00:00",
+    "type": "highlight"
+  },
+  "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/06/brasil-x-egito-onde-assistir-ao-vivo-horario-e-escalacoes-do-amistoso-da-selecao.ghtml": {
+    "ts": "2026-06-06T13:59:52.242151+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/chinese-yard-pitches-nuclear-powered-logistics-hub/": {
+    "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "other"
   }
 }
