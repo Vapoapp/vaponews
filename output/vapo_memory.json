@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-05-29",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue restrita a menos de 10%, limitando o fluxo de petroleiros e mantendo alta volatilidade nas taxas de afretamento. A continuidade do risco geopolítico, mesmo com um acordo provisório de cessar-fogo entre EUA e Irã, sustenta a dependência de rotas multimodais para importadores asiáticos, elevando custos e prazos sem perspectiva clara de normalização. A recusa da Chevron em pagar pedágio reforça tensões comerciais e operacionais na região. No offsh"
-  },
-  {
     "date": "2026-05-30",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -326,5 +315,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, restringindo o fluxo de petroleiros e ampliando a volatilidade das taxas de afretamento. A recusa da Chevron em pagar pedágio intensifica tensões comerciais, forçando importadores asiáticos a adotarem rotas multimodais mais longas, com impacto direto em custos operacionais e prazos de entrega. A presença de minas flutuantes e a postura militar dos EUA mantêm o risco operacional elevado, sem perspectiva clara de normalização. No s"
+  },
+  {
+    "date": "2026-06-06",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o fluxo de petroleiros e ampliando a volatilidade das taxas de afretamento. A recusa da Chevron em pagar pedágio intensifica tensões comerciais, obrigando importadores asiáticos a adotarem rotas multimodais mais longas, com impacto direto em custos e prazos logísticos. A presença de minas flutuantes e a postura militar dos EUA mantêm o risco operacional elevado, sem perspectiva clara de normalização. No Brasil, a"
   }
 ]
