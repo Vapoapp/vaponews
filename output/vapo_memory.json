@@ -8,17 +8,6 @@
       "logística e portos",
       "risco geopolítico"
     ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue restrita a menos de 10%, limitando o fluxo de petroleiros e mantendo alta volatilidade nas taxas de afretamento. A recusa da Chevron em pagar pedágio reforça tensões comerciais, ampliando o risco operacional e estimulando importadores asiáticos a dependerem de rotas alternativas multimodais, o que pressiona custos e prazos sem perspectiva clara de normalização. No offshore brasileiro, Petrobras avançou na contratação da SBM Offshore para constr"
-  },
-  {
-    "date": "2026-05-31",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o trânsito de navios-tanque e sustentando alta volatilidade nas taxas de afretamento. A recusa da Chevron em pagar pedágio agrava tensões comerciais e amplia o risco operacional na rota, pressionando importadores asiáticos a adotarem rotas multimodais alternativas, com impacto direto em custos e prazos logísticos. No offshore brasileiro, Petrobras avançou na contratação da SBM Offshore para construção dos FPSOs P-81"
   },
   {
@@ -323,5 +312,14 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o trânsito de petroleiros e ampliando a volatilidade das taxas de afretamento. A recusa da Chevron em pagar pedágio intensifica tensões comerciais, forçando importadores asiáticos a adotarem rotas multimodais mais longas, o que eleva custos e prazos logísticos. A presença contínua de minas flutuantes e confrontos militares entre EUA e Irã mantêm o risco operacional elevado, sem perspectiva clara de normalização. No m"
+  },
+  {
+    "date": "2026-06-07",
+    "drivers": [
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, limitando o trânsito de petroleiros e ampliando a volatilidade das taxas de afretamento. A recusa da Chevron em pagar pedágio agrava tensões comerciais, forçando importadores asiáticos a adotarem rotas multimodais mais longas, com impacto direto em custos e prazos logísticos. A presença contínua de minas flutuantes e confrontos militares entre EUA e Irã mantêm o risco elevado, sem perspectiva clara de normalização. No contexto of"
   }
 ]
