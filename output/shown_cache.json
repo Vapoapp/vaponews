@@ -27,14 +27,6 @@
     "ts": "2026-06-02T20:56:08.621043+00:00",
     "type": "highlight"
   },
-  "https://gcaptain.com/shipping-industry-says-hormuz-peace-deal-alone-wont-bring-ships-back/": {
-    "ts": "2026-06-02T10:45:32.726517+00:00",
-    "type": "highlight"
-  },
-  "https://www.marineinsight.com/oil-tanker-catches-fire-in-latest-ukrainian-long-range-drone-strike-on-russian-port/?utm_source=rss&utm_medium=rss&utm_campaign=oil-tanker-catches-fire-in-latest-ukrainian-long-range-drone-strike-on-russian-port": {
-    "ts": "2026-06-02T10:45:32.726517+00:00",
-    "type": "highlight"
-  },
   "https://petronoticias.com.br/karoon-energy-concluiu-periodo-de-transicao-e-assumiu-100-da-operacao-do-fpso-do-campo-de-bauna/": {
     "ts": "2026-06-02T20:56:08.621043+00:00",
     "type": "highlight"
@@ -43,17 +35,9 @@
     "ts": "2026-06-02T16:43:38.237148+00:00",
     "type": "highlight"
   },
-  "https://www.bairdmaritime.com/offshore/drilling-production/offshore-workers-on-uk-north-sea-platforms-to-ballot-on-strike-action": {
-    "ts": "2026-06-02T10:45:32.726517+00:00",
-    "type": "highlight"
-  },
   "https://www.gov.br/antaq/pt-br/noticias/2026/audiencia-publica-sobre-arrendamento-de-area-no-porto-de-vila-do-conde-pa-e-adiada": {
     "ts": "2026-06-03T16:59:53.651638+00:00",
     "type": "other"
-  },
-  "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mulher-morre-apos-cair-da-escada-de-aeronave-no-aeroporto-de-congonhas-sp/": {
-    "ts": "2026-06-02T10:45:32.726517+00:00",
-    "type": "highlight"
   },
   "https://maritime-executive.com/article/first-seaspan-hapag-boxship-completes-dual-fuel-methanol-conversion": {
     "ts": "2026-06-02T20:56:08.621043+00:00",
@@ -66,38 +50,6 @@
   "https://www.offshore-energy.biz/projectile-strikes-on-mscs-vessel-raise-maritime-security-concerns/": {
     "ts": "2026-06-03T11:10:09.368678+00:00",
     "type": "highlight"
-  },
-  "https://maritime-executive.com/article/on-day-one-of-posidonia-nzf-and-strait-of-hormuz-are-at-center-stage": {
-    "ts": "2026-06-02T10:45:32.726517+00:00",
-    "type": "highlight"
-  },
-  "https://www.oedigital.com/news/539826-inpex-faces-threat-of-broad-lng-loading-ban-as-au-labour-dispute-deepens": {
-    "ts": "2026-06-02T10:45:32.726517+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/the-iran-war-is-pushing-the-global-gas-trade-into-the-shadows/": {
-    "ts": "2026-06-02T10:45:32.726517+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/539829-apollo-s-floating-wind-quick-connector-gets-closer-to-commercial-rollout": {
-    "ts": "2026-06-02T10:45:32.726517+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/imo-treaty-hazardous-noxious-cargo-enter-539820": {
-    "ts": "2026-06-02T10:45:32.726517+00:00",
-    "type": "other"
-  },
-  "https://www.marinelog.com/news/centcom-hellfire-missile-strike-disables-would-be-blockade-buster/": {
-    "ts": "2026-06-02T10:45:32.726517+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/breaking-the-lull-rare-tanker-movements-spotted-in-strait-of-hormuz": {
-    "ts": "2026-06-02T10:45:32.726517+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/jdr-opens-subsea-cable-manufacturing-facility-in-blyth/": {
-    "ts": "2026-06-02T10:45:32.726517+00:00",
-    "type": "other"
   },
   "https://safety4sea.com/msc-container-vessel-gets-attacked-twice-off-iraq/": {
     "ts": "2026-06-03T11:10:09.368678+00:00",
@@ -1024,11 +976,11 @@
     "type": "other"
   },
   "https://gcaptain.com/why-the-iran-aligned-houthis-threatening-red-sea-shipping-could-mean-more-for-the-oil-market-this-time/": {
-    "ts": "2026-06-09T09:55:04.355992+00:00",
+    "ts": "2026-06-09T15:16:49.865167+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/ep/anp-adia-conclusao-do-processo-de-revisao-da-ranp-n-8892022": {
-    "ts": "2026-06-08T20:25:22.408351+00:00",
+    "ts": "2026-06-09T15:16:49.865167+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/540044-deugro-expands-offshore-wind-leadership-team": {
@@ -1084,7 +1036,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/de-olho-nas-operacoes-do-mercosul-a-gh-solucionador-logistico-expande-seus-negocios-no-porto-de-santos/": {
-    "ts": "2026-06-09T09:55:04.355992+00:00",
+    "ts": "2026-06-09T15:16:49.865167+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/yemeni-houthis-threaten-israeli-red-sea-540056": {
@@ -1140,11 +1092,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/distribuidoras-devem-investir-r-258-bilhoes-nos-proximos-cinco-anos/": {
-    "ts": "2026-06-09T09:55:04.355992+00:00",
+    "ts": "2026-06-09T15:16:49.865167+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/op-ed-maritime-cybersecurity-is-a-financial-investment": {
-    "ts": "2026-06-09T09:55:04.355992+00:00",
+    "ts": "2026-06-09T15:16:49.865167+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/us-disables-tanker-indian-crew-safe-fire-540062": {
@@ -1196,15 +1148,15 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/despite-iranian-blockade-adnoc-picks-up-pace-of-oil-export-sales": {
-    "ts": "2026-06-09T09:55:04.355992+00:00",
+    "ts": "2026-06-09T15:16:49.865167+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/projetos-de-industria-limpa-no-brasil-ja-somam-mais-de-us-300-bilhoes-em-potenciais-investimentos/": {
-    "ts": "2026-06-09T09:55:04.355992+00:00",
+    "ts": "2026-06-09T15:16:49.865167+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/24-indian-seafarers-rescued-from-tanker-marivex-attacked-by-u-s-navy-for-violating-iran-blockade/?utm_source=rss&utm_medium=rss&utm_campaign=24-indian-seafarers-rescued-from-tanker-marivex-attacked-by-u-s-navy-for-violating-iran-blockade": {
-    "ts": "2026-06-09T09:55:04.355992+00:00",
+    "ts": "2026-06-09T15:16:49.865167+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/panorama/bndes-desembolsara-r-5-bi-para-embarcacoes-no-og-em-2026": {
@@ -1249,6 +1201,58 @@
   },
   "https://www.offshore-energy.biz/saipems-heavy-lifting-and-pipe-laying-vessel-gearing-up-for-work-on-e4b-black-sea-gas-project/": {
     "ts": "2026-06-09T09:55:04.355992+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/petrobras-agita-o-mercado-com-novas-licitacoes-para-o-projeto-sergipe-aguas-profundas/": {
+    "ts": "2026-06-09T15:16:49.865167+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/keyfield-snaps-up-ahts-vessel-to-bolster-offshore-fleet/": {
+    "ts": "2026-06-09T15:16:49.865167+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/oil-prices-fall-amid-fragile-israel-iran-truce-hormuz-blockade-remains/": {
+    "ts": "2026-06-09T15:16:49.865167+00:00",
+    "type": "highlight"
+  },
+  "https://www.tecnologistica.com.br/noticias/transporte-aereo/21480/azul-logistica-reduz-prazos-de-entrega-na-regiao-norte-com-nova-operacao-cargueira-entre-porto-velho-e-campinas/": {
+    "ts": "2026-06-09T15:16:49.865167+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/greek-bulker-owner-icon-energy-dips-into-container-shipping/": {
+    "ts": "2026-06-09T15:16:49.865167+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/bimco-launches-charter-to-support-digital-seafarer-certificates/": {
+    "ts": "2026-06-09T15:16:49.865167+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/uscg-prototype-shaft-seal-failure-causes-engine-room-flooding/": {
+    "ts": "2026-06-09T15:16:49.865167+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/540079-vaalco-restarts-production-from-baobab-field-after-fpso-overhaul": {
+    "ts": "2026-06-09T15:16:49.865167+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/540085-t12-engineering-delivers-subsea-structure-for-norway-oil-and-gas-scheme": {
+    "ts": "2026-06-09T15:16:49.865167+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/houthis-threaten-ban-on-israeli-cruise-ships-in-red-sea-launch-2-missiles-at-tel-aviv/?utm_source=rss&utm_medium=rss&utm_campaign=houthis-threaten-ban-on-israeli-cruise-ships-in-red-sea-launch-2-missiles-at-tel-aviv": {
+    "ts": "2026-06-09T15:16:49.865167+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/ics-occs-could-play-significant-role-in-shippings-decarbonization/": {
+    "ts": "2026-06-09T15:16:49.865167+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/540099-al-designed-ctv-saves-100-000-liters-of-fuel-258-tons-of-co2-a-year": {
+    "ts": "2026-06-09T15:16:49.865167+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/another-european-deal-for-canadian-lng-project-as-talks-with-uniper-advance/": {
+    "ts": "2026-06-09T15:16:49.865167+00:00",
     "type": "other"
   }
 }
