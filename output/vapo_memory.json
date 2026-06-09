@@ -2,16 +2,6 @@
   {
     "date": "2026-06-02",
     "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o trânsito de petroleiros e mantendo alta volatilidade nas taxas de afretamento. A recusa da Chevron em pagar pedágio agrava tensões comerciais, forçando importadores asiáticos a adotarem rotas multimodais alternativas, com impacto direto em custos e prazos logísticos. A presença de minas flutuantes e a orientação militar dos EUA reforçam a necessidade de cautela operacional na região. No Brasil, a Karoon Energy cons"
-  },
-  {
-    "date": "2026-06-02",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -318,5 +308,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com bloqueios e confrontos militares elevando a volatilidade das taxas de afretamento para petroleiros. A recusa da Chevron em pagar o pedágio iraniano força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos no comércio de petróleo. A persistência do risco operacional, sem perspectiva de normalização, mantém o ambiente de contratação tenso e imprevisível. No offshore, a expansão da frota co"
+  },
+  {
+    "date": "2026-06-09",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com bloqueios e confrontos militares elevando a volatilidade das taxas de afretamento para petroleiros. A recusa da Chevron em pagar pedágio iraniano força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos no comércio de petróleo. A persistência de minas flutuantes e ataques militares mantém o risco operacional elevado, sem perspectiva clara de normalização. No offshore, a contratação de un"
   }
 ]
