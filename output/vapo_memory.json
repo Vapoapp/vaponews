@@ -2,17 +2,6 @@
   {
     "date": "2026-06-02",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o trânsito de petroleiros e elevando a volatilidade das taxas de afretamento. A recusa da Chevron em pagar pedágio intensifica tensões comerciais, obrigando importadores asiáticos a adotarem rotas multimodais alternativas, com aumento direto nos custos e nos prazos logísticos. A presença contínua de minas flutuantes e a orientação militar dos EUA reforçam a necessidade de cautela operacional na região, sem perspe"
-  },
-  {
-    "date": "2026-06-02",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -319,5 +308,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com bloqueios e confrontos militares elevando a volatilidade das taxas de afretamento para petroleiros. A recusa da Chevron em pagar pedágio iraniano força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos no comércio de petróleo. A persistência de minas flutuantes e ataques militares mantém o risco operacional elevado, sem perspectiva clara de normalização. No offshore, a contratação de un"
+  },
+  {
+    "date": "2026-06-10",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com bloqueios e ações militares que elevam a volatilidade das taxas de afretamento para petroleiros. A recusa da Chevron em pagar pedágio iraniano força importadores asiáticos a adotarem rotas multimodais mais longas, ampliando custos e prazos no comércio de petróleo. A ausência de perspectiva para normalização mantém o ambiente de contratação tenso e imprevisível. No offshore, a expansão da frota e novos contratos indicam movime"
   }
 ]
