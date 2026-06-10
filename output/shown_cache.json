@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-06-09T04:01:15.674830+00:00",
+    "ts": "2026-06-10T10:12:10.854015+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
@@ -9,10 +9,6 @@
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
     "ts": "2026-06-07T14:05:24.412869+00:00",
-    "type": "highlight"
-  },
-  "https://www.tecnologistica.com.br/noticias/movimentacao/21446/sao-martinho-lanca-operacao-multimodal-com-biometano-e-ferrovia-para-transporte-de-acucar/": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/audiencia-publica-sobre-arrendamento-de-area-no-porto-de-vila-do-conde-pa-e-adiada": {
@@ -55,10 +51,6 @@
     "ts": "2026-06-03T16:59:53.651638+00:00",
     "type": "highlight"
   },
-  "https://www.oedigital.com/news/539866-seven-us-states-sue-fed-government-totalenergies-after-cancelling-offshore-wind-lease": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
-    "type": "highlight"
-  },
   "https://maritime-executive.com/article/a-british-minesweeper-that-was-withdrawn-from-the-gulf-is-back-on-patrol": {
     "ts": "2026-06-04T15:27:09.517530+00:00",
     "type": "highlight"
@@ -74,42 +66,6 @@
   "https://www.marineinsight.com/iran-reveals-deadly-27-rajab-missile-boat-built-to-target-warships-700-km-away/?utm_source=rss&utm_medium=rss&utm_campaign=iran-reveals-deadly-27-rajab-missile-boat-built-to-target-warships-700-km-away": {
     "ts": "2026-06-03T11:10:09.368678+00:00",
     "type": "highlight"
-  },
-  "https://brasilenergia.com.br/petroleoegas/logistica/transpetro-assume-oficialmente-as-operacoes-da-pblog": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/oil-producers-warn-of-declining-reserves-as-hormuz-shutdown-continues": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/u-s-forces-disable-sanctioned-tanker-bound-for-iran-as-blockade-enforcement-continues/": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/eu-commissioner-says-that-companies-will-not-face-double-charges-for-emissions/": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/abs-chairman-access-to-innovation-is-no-longer-enough/": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/unisea-acquires-intelligence-company-kaiko-systems": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/539839-gustomsc-unveils-new-jacking-technology-for-offshore-wind-vessels": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/ineos-and-marubenis-deal-bringing-more-lng-to-asia/": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/north-star-welcomes-newly-acquired-sovs-to-fleet": {
-    "ts": "2026-06-03T04:47:09.443443+00:00",
-    "type": "other"
   },
   "https://www.oedigital.com/news/539895-northern-lights-expands-lco2-fleet-with-vessel-charter-for-misc-k-line": {
     "ts": "2026-06-04T04:41:38.832915+00:00",
@@ -1064,7 +1020,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/despite-iranian-blockade-adnoc-picks-up-pace-of-oil-export-sales": {
-    "ts": "2026-06-10T04:12:59.273689+00:00",
+    "ts": "2026-06-10T10:12:10.854015+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/projetos-de-industria-limpa-no-brasil-ja-somam-mais-de-us-300-bilhoes-em-potenciais-investimentos/": {
@@ -1072,7 +1028,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/24-indian-seafarers-rescued-from-tanker-marivex-attacked-by-u-s-navy-for-violating-iran-blockade/?utm_source=rss&utm_medium=rss&utm_campaign=24-indian-seafarers-rescued-from-tanker-marivex-attacked-by-u-s-navy-for-violating-iran-blockade": {
-    "ts": "2026-06-10T04:12:59.273689+00:00",
+    "ts": "2026-06-10T10:12:10.854015+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/panorama/bndes-desembolsara-r-5-bi-para-embarcacoes-no-og-em-2026": {
@@ -1172,11 +1128,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/a-wartsila-vai-fornecer-os-quatro-motores-para-os-navios-tanques-da-transpetro-que-serao-construidos-pela-ecovix-maclaren/": {
-    "ts": "2026-06-10T04:12:59.273689+00:00",
+    "ts": "2026-06-10T10:12:10.854015+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/hunter-group-reports-further-reduction-in-charter-payments-as-dispute-drags-on": {
-    "ts": "2026-06-10T04:12:59.273689+00:00",
+    "ts": "2026-06-10T10:12:10.854015+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/imo-chief-warns-no-safe-passage-exists-in-hormuz-despite-rising-traffic-claims/": {
@@ -1228,11 +1184,11 @@
     "type": "other"
   },
   "https://www.marinelog.com/news/u-s-strike-disables-would-be-blockade-buster-marivex/": {
-    "ts": "2026-06-10T04:12:59.273689+00:00",
+    "ts": "2026-06-10T10:12:10.854015+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/dominguez-warns-safe-hormuz-passage-540121": {
-    "ts": "2026-06-10T04:12:59.273689+00:00",
+    "ts": "2026-06-10T10:12:10.854015+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/09/explosao-atinge-fabrica-de-fogos-em-nova-iguacu.ghtml": {
@@ -1281,6 +1237,62 @@
   },
   "https://www.offshore-energy.biz/eni-petronas-give-birth-to-southeast-asias-energy-player-with-20-billion-five-year-investment-plan/": {
     "ts": "2026-06-10T04:12:59.273689+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/us-strike-tanker-marivex-oman-indian-crew/?utm_source=rss&utm_medium=rss&utm_campaign=us-strike-tanker-marivex-oman-indian-crew": {
+    "ts": "2026-06-10T10:12:10.854015+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/usv-rescues-two-u-s-army-helicopter-pilots-who-were-shot-down-by-iran": {
+    "ts": "2026-06-10T10:12:10.854015+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/hrvoje-mihovilovic-ai-should-assist-the-bridge-not-audit-it/": {
+    "ts": "2026-06-10T10:12:10.854015+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/internacional/oxy-adquire-10-de-bloco-offshore-em-trinidade-e-tobago": {
+    "ts": "2026-06-10T10:12:10.854015+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/oranjewind-purus-ink-long-term-charter-for-csov": {
+    "ts": "2026-06-10T10:12:10.854015+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/boxships/icon-energy-places-minority-investment-in-chartered-containership": {
+    "ts": "2026-06-10T10:12:10.854015+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/540134-enquest-to-buy-malaysia-offshore-interests-in-833m-deal": {
+    "ts": "2026-06-10T10:12:10.854015+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/forget-a-pre-war-normal-for-the-strait-of-hormuz-cma-cgm-chief-warns": {
+    "ts": "2026-06-10T10:12:10.854015+00:00",
+    "type": "other"
+  },
+  "https://www.navaltoday.com/2026/06/10/europes-semi-autonomous-warship-project-passes-design-milestone/": {
+    "ts": "2026-06-10T10:12:10.854015+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/540131-oil-holds-steady-as-markets-assess-renewed-us-iran-hostilities": {
+    "ts": "2026-06-10T10:12:10.854015+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/540130-shell-makes-most-promising-subsurface-find-in-well-offshore-namibia": {
+    "ts": "2026-06-10T10:12:10.854015+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/pxgeo-and-equinor-putting-drone-for-autonomous-subsea-inspection-ops-to-the-test/": {
+    "ts": "2026-06-10T10:12:10.854015+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/shells-new-oil-discovery-adds-fuel-to-namibias-black-gold-rush/": {
+    "ts": "2026-06-10T10:12:10.854015+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/chinese-bulker-owner-pingtan-minghui-breaks-into-tanker-sector/": {
+    "ts": "2026-06-10T10:12:10.854015+00:00",
     "type": "other"
   }
 }
