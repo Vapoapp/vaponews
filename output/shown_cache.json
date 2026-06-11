@@ -11,10 +11,6 @@
     "ts": "2026-06-07T14:05:24.412869+00:00",
     "type": "highlight"
   },
-  "https://brasilenergia.com.br/petroleoegas/desafios-do-descomissionamento-sustentavel-de-plataformas-de-og": {
-    "ts": "2026-06-03T21:21:39.013621+00:00",
-    "type": "highlight"
-  },
   "https://maritime-executive.com/article/a-british-minesweeper-that-was-withdrawn-from-the-gulf-is-back-on-patrol": {
     "ts": "2026-06-04T15:27:09.517530+00:00",
     "type": "highlight"
@@ -29,10 +25,6 @@
   },
   "https://www.oedigital.com/news/539895-northern-lights-expands-lco2-fleet-with-vessel-charter-for-misc-k-line": {
     "ts": "2026-06-04T04:41:38.832915+00:00",
-    "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/k-line-secures-lco2-carrier-time-charter-with-northern-lights": {
-    "ts": "2026-06-03T21:21:39.013621+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-vessel-news-roundup-june-3-russian-standby-vessel-concept-polish-fsru-launch-and-more": {
@@ -63,10 +55,6 @@
     "ts": "2026-06-04T15:27:09.517530+00:00",
     "type": "highlight"
   },
-  "https://maritime-executive.com/article/iran-s-claims-of-retaliation-include-msc-boxship-and-us-5th-fleet-hq": {
-    "ts": "2026-06-03T21:21:39.013621+00:00",
-    "type": "highlight"
-  },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/new-handymax-bulk-carrier-delivered-by-japanese-builder": {
     "ts": "2026-06-04T15:27:09.517530+00:00",
     "type": "highlight"
@@ -75,40 +63,12 @@
     "ts": "2026-06-05T04:15:44.618507+00:00",
     "type": "other"
   },
-  "https://www.hellenicshippingnews.com/k-line-secures-time-charter-contract-of-newly-built-liquefied-co2-carrier-for-northern-lights/": {
-    "ts": "2026-06-03T21:21:39.013621+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/russia-accuses-france-of-fabricating-charges-against-shadow-fleet-tanker-captain-demands-his-release": {
-    "ts": "2026-06-03T21:21:39.013621+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/vessels-stuck-hormuz-further-strain-539927": {
-    "ts": "2026-06-03T21:21:39.013621+00:00",
-    "type": "other"
-  },
   "https://safety4sea.com/imo-piracy-report-11-incidents-during-april-2026/": {
     "ts": "2026-06-05T10:01:19.224172+00:00",
     "type": "other"
   },
-  "https://splash247.com/greek-fleet-builder-venergy-doubles-down-on-tankers-with-fresh-chinese-suezmax-order/": {
-    "ts": "2026-06-03T21:21:39.013621+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/atlantic-mr-pressure-shifts-navigating-the-split/": {
-    "ts": "2026-06-03T21:21:39.013621+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/tripartite-agreement-signed-for-the-development-of-hybrid-electric-lng-carrier/": {
-    "ts": "2026-06-03T21:21:39.013621+00:00",
-    "type": "other"
-  },
   "https://safety4sea.com/new-initiatives-formed-to-advance-ai-infrastructure-and-autonomous-vessel-design/": {
     "ts": "2026-06-05T10:01:19.224172+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/539902-saipem-completes-key-module-lift-for-libya-s-offshore-gas-project": {
-    "ts": "2026-06-03T21:21:39.013621+00:00",
     "type": "other"
   },
   "https://gcaptain.com/delfin-approves-5-billion-floating-lng-export-project-off-louisiana-coast/": {
@@ -1088,7 +1048,7 @@
     "type": "other"
   },
   "https://www.marinelog.com/news/u-s-strike-disables-would-be-blockade-buster-marivex/": {
-    "ts": "2026-06-10T20:37:20.648950+00:00",
+    "ts": "2026-06-11T04:25:27.562310+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/dominguez-warns-safe-hormuz-passage-540121": {
@@ -1144,7 +1104,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/us-strike-tanker-marivex-oman-indian-crew/?utm_source=rss&utm_medium=rss&utm_campaign=us-strike-tanker-marivex-oman-indian-crew": {
-    "ts": "2026-06-10T20:37:20.648950+00:00",
+    "ts": "2026-06-11T04:25:27.562310+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/usv-rescues-two-u-s-army-helicopter-pilots-who-were-shot-down-by-iran": {
@@ -1208,7 +1168,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/540139-cosco-installs-2gw-converter-platform-for-china-s-offshore-wind-farm": {
-    "ts": "2026-06-10T20:37:20.648950+00:00",
+    "ts": "2026-06-11T04:25:27.562310+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/crescem-embarques-de-carne-bovina-e-madeira-via-tcp-para-america-do-norte": {
@@ -1260,15 +1220,15 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/which-ships-are-getting-through-the-strait-of-hormuz": {
-    "ts": "2026-06-10T20:37:20.648950+00:00",
+    "ts": "2026-06-11T04:25:27.562310+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/o-ira-ja-esta-sem-condicoes-de-armazenar-o-petroleo-que-produz-e-vive-um-dilema-perder-seus-pocos-ou-criar-um-desastre-ambiental/": {
-    "ts": "2026-06-10T20:37:20.648950+00:00",
+    "ts": "2026-06-11T04:25:27.562310+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/suez-canal-gets-oil-tanker-boost-amid-hormuz-strait-shutdown-2/": {
-    "ts": "2026-06-10T20:37:20.648950+00:00",
+    "ts": "2026-06-11T04:25:27.562310+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/petrobras-coming-aboard-equinors-exploration-block-in-brazilian-waters/": {
@@ -1317,6 +1277,66 @@
   },
   "https://www.offshore-energy.biz/gasum-naftogaz-among-those-locking-in-multi-year-capacity-at-lithuanian-lng-hub/": {
     "ts": "2026-06-10T20:37:20.648950+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/antaq/pt-br/noticias/2026/pauta-da-611a-reuniao-ordinaria-da-diretoria-colegiada-e-divulgada-1": {
+    "ts": "2026-06-11T04:25:27.562310+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/06/11/eleicoes-no-peru-keiko-fujimori-lidera-sobre-sanchez-em-nova-virada-na-apuracao-das-urnas.ghtml": {
+    "ts": "2026-06-11T04:25:27.562310+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/offshore/drilling-production/britains-enquest-to-buy-malaysian-offshore-interests-from-petronas-for-up-to-833m": {
+    "ts": "2026-06-11T04:25:27.562310+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/empresas/oceanpact-fecha-contrato-com-petrobras-para-descomissionar-em-marlim": {
+    "ts": "2026-06-11T04:25:27.562310+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/06/10/eua-iniciaram-nova-onda-bombardeios-ira.ghtml": {
+    "ts": "2026-06-11T04:25:27.562310+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/video-tanker-carrying-iranian-oil-struck-by-us-military-in-gulf-of-oman-three-indian-seafarers-missing": {
+    "ts": "2026-06-11T04:25:27.562310+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/oil-tankers-go-dark-to-sneak-more-gulf-barrels-through-hormuz/": {
+    "ts": "2026-06-11T04:25:27.562310+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/shipping-costs-spike-amidst-iran-war-540168": {
+    "ts": "2026-06-11T04:25:27.562310+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/new-brazilian-biofouling-rules-come-with-fines-of-up-to-9m/": {
+    "ts": "2026-06-11T04:25:27.562310+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/traders-predict-strait-of-hormuz-operations-cannot-normalise-until-2026-end/?utm_source=rss&utm_medium=rss&utm_campaign=traders-predict-strait-of-hormuz-operations-cannot-normalise-until-2026-end": {
+    "ts": "2026-06-11T04:25:27.562310+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/long-voyages-in-a-fragmented-world-the-evolution-of-tankers/": {
+    "ts": "2026-06-11T04:25:27.562310+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/heiltsuk-first-nation-settles-suit-over-atb-spill-pursues-further-reforms": {
+    "ts": "2026-06-11T04:25:27.562310+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/bimco-launches-project-to-develop-russia-tanker-resale-restrictions-clause-for-moas/": {
+    "ts": "2026-06-11T04:25:27.562310+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/540157-coc-boosts-offshore-capabilities-with-newbuild-ahts-vessel": {
+    "ts": "2026-06-11T04:25:27.562310+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/540138-pxgeo-secures-equinor-deal-for-autonomous-subsea-inspection-trials": {
+    "ts": "2026-06-11T04:25:27.562310+00:00",
     "type": "other"
   }
 }
