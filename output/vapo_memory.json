@@ -2,17 +2,6 @@
   {
     "date": "2026-06-04",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, limitando o fluxo de petroleiros e elevando a volatilidade das taxas de afretamento. A recusa da Chevron em pagar pedágio intensifica tensões comerciais, forçando importadores asiáticos a adotarem rotas multimodais mais longas, com impacto direto em custos operacionais e prazos de entrega. A presença de minas flutuantes e a orientação militar dos EUA mantêm o risco operacional elevado, sem perspectiva clara de normalização. N"
-  },
-  {
-    "date": "2026-06-04",
-    "drivers": [
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -319,5 +308,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com bloqueios e ataques militares que mantêm alta volatilidade nas taxas de afretamento para petroleiros. A recusa da Chevron em pagar o pedágio iraniano força importadores asiáticos a adotarem rotas multimodais mais longas, ampliando custos e prazos no comércio global de petróleo. A ausência de perspectiva clara para normalização prolonga o ambiente de contratação tenso e imprevisível. No offshore brasileiro, a Petrobras avança"
+  },
+  {
+    "date": "2026-06-11",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com bloqueios e confrontos militares elevando a volatilidade das taxas de afretamento para petroleiros. A decisão da Chevron de não pagar o pedágio iraniano força importadores asiáticos a adotarem rotas multimodais mais longas, ampliando custos e prazos no comércio de petróleo. Esse cenário mantém o ambiente de contratação tenso e imprevisível, sem perspectiva clara de normalização até o final de 2026. No offshore brasileiro, a P"
   }
 ]
