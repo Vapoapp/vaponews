@@ -35,10 +35,6 @@
     "ts": "2026-06-06T03:58:24.766959+00:00",
     "type": "other"
   },
-  "https://petronoticias.com.br/empresarios-do-setor-de-energia-fotovoltaica-participam-na-china-da-maior-feira-do-segmento-em-busca-de-parcerias/": {
-    "ts": "2026-06-05T20:01:56.823253+00:00",
-    "type": "highlight"
-  },
   "https://maritime-executive.com/article/european-mine-clearance-force-for-strait-of-hormuz-forming-up": {
     "ts": "2026-06-06T13:59:52.242151+00:00",
     "type": "highlight"
@@ -49,10 +45,6 @@
   },
   "https://www.oedigital.com/news/539999-oil-slips-as-oman-reports-normal-operations-at-key-oil-terminal": {
     "ts": "2026-06-07T04:24:47.116493+00:00",
-    "type": "highlight"
-  },
-  "https://maritime-executive.com/article/lr-shipping-s-esg-progress-varies-by-sector": {
-    "ts": "2026-06-05T20:01:56.823253+00:00",
     "type": "highlight"
   },
   "https://splash247.com/container-spot-rates-explode-as-peak-season-arrives-early/": {
@@ -127,10 +119,6 @@
     "ts": "2026-06-07T14:05:24.412869+00:00",
     "type": "highlight"
   },
-  "https://petronoticias.com.br/depois-de-terminar-toda-desmonagem-da-p-32-o-estaleiro-rio-grande-espera-a-chegada-da-plataforma-p-33/": {
-    "ts": "2026-06-05T20:01:56.823253+00:00",
-    "type": "other"
-  },
   "https://www.bairdmaritime.com/shipping/tankers/gas/us-slaps-sanctions-on-tankers-shipping-disguised-iranian-gas": {
     "ts": "2026-06-07T04:24:47.116493+00:00",
     "type": "other"
@@ -145,14 +133,6 @@
   },
   "https://gcaptain.com/peak-season-and-hormuz-crisis-fuel-new-surge-in-container-shipping-rates/": {
     "ts": "2026-06-07T04:24:47.116493+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/strait-of-hormuz-to-open-immediately-after-signing-deal-with-iran-trump-assures/?utm_source=rss&utm_medium=rss&utm_campaign=strait-of-hormuz-to-open-immediately-after-signing-deal-with-iran-trump-assures": {
-    "ts": "2026-06-05T20:01:56.823253+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/oil-market-uncertainty-ahead-as-u-s-inventory-hits-22-year-low": {
-    "ts": "2026-06-05T20:01:56.823253+00:00",
     "type": "other"
   },
   "https://safety4sea.com/lessons-learned-keep-one-step-ahead-of-events/": {
@@ -1000,7 +980,7 @@
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/pauta-da-611a-reuniao-ordinaria-da-diretoria-colegiada-e-divulgada-1": {
-    "ts": "2026-06-12T10:22:05.269798+00:00",
+    "ts": "2026-06-12T20:17:28.226075+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/mundo/noticia/2026/06/11/eleicoes-no-peru-keiko-fujimori-lidera-sobre-sanchez-em-nova-virada-na-apuracao-das-urnas.ghtml": {
@@ -1148,11 +1128,11 @@
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/mercado/ultracargo-relatorio-sustentabilidade-2025-robotica-ferrovia-graneis-liquidos": {
-    "ts": "2026-06-12T15:27:25.242135+00:00",
+    "ts": "2026-06-12T20:17:28.226075+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/data-da-audiencia-publica-sobre-arrendamento-de-area-no-porto-de-vila-do-conde-pa-foi-definida": {
-    "ts": "2026-06-12T10:22:05.269798+00:00",
+    "ts": "2026-06-12T20:17:28.226075+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/oceanpact-conquista-contrato-da-petrobras-para-descomissionar-linhas-flexiveis-do-campo-de-marlim/": {
@@ -1200,7 +1180,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/a-plataforma-p-78-voltou-a-operar-no-campo-de-buzios-depois-do-grave-acidente-no-final-de-abril/": {
-    "ts": "2026-06-12T15:27:25.242135+00:00",
+    "ts": "2026-06-12T20:17:28.226075+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/iran-prevents-tanker-entering-strait-540228": {
@@ -1256,11 +1236,11 @@
     "type": "other"
   },
   "https://splash247.com/splash-wrap-trading-missiles/": {
-    "ts": "2026-06-12T15:27:25.242135+00:00",
+    "ts": "2026-06-12T20:17:28.226075+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/540238-oil-falls-more-than-2-as-us-iran-tensions-ease": {
-    "ts": "2026-06-12T15:27:25.242135+00:00",
+    "ts": "2026-06-12T20:17:28.226075+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/irgc-navy-attacks-two-ships-trying-to-cross-strait-of-hormuz-illegally/?utm_source=rss&utm_medium=rss&utm_campaign=irgc-navy-attacks-two-ships-trying-to-cross-strait-of-hormuz-illegally": {
@@ -1308,11 +1288,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/aplicacao-de-r-406-milhoes-do-fundo-da-marinha-mercante-resultou-na-entrega-de-70-embarcacoes-no-brasil/": {
-    "ts": "2026-06-12T15:27:25.242135+00:00",
+    "ts": "2026-06-12T20:17:28.226075+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/us-president-says-a-peace-deal-with-iran-is-close-to-being-made/": {
-    "ts": "2026-06-12T15:27:25.242135+00:00",
+    "ts": "2026-06-12T20:17:28.226075+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/australian-gas-projects-lng-comes-to-japan-as-jera-brings-in-first-cargo/": {
@@ -1365,6 +1345,58 @@
   },
   "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/france-opens-major-offshore-wind-tender-despite-global-headwinds-for-controversial-industry": {
     "ts": "2026-06-12T15:27:25.242135+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/portos/aps-firma-condominio-logistico-no-porto-de-santos": {
+    "ts": "2026-06-12T20:17:28.226075+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/shipping-industry-condemns-attacks-on-seafarers-as-hormuz-death-toll-reaches-14/": {
+    "ts": "2026-06-12T20:17:28.226075+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/540245-jera-takes-delivery-of-first-lng-cargo-from-australia-s-barossa-gas-project": {
+    "ts": "2026-06-12T20:17:28.226075+00:00",
+    "type": "highlight"
+  },
+  "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-promovera-workshop-para-debater-futuro-do-setor-portuario-brasileiro": {
+    "ts": "2026-06-12T20:17:28.226075+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/nigerian-court-fines-indian-crew-and-bulker-6m-in-drug-smuggling-case": {
+    "ts": "2026-06-12T20:17:28.226075+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/terminais/apm-terminals-suape-terminal-conteineres-eletrificado-america-latina": {
+    "ts": "2026-06-12T20:17:28.226075+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/540241-petrobras-p-79-fpso-completes-first-oil-offloading-at-b-zios-field": {
+    "ts": "2026-06-12T20:17:28.226075+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/06/12/ira-diz-acordo-de-paz-com-eua-nunca-esteve-tao-proximo.ghtml": {
+    "ts": "2026-06-12T20:17:28.226075+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/abs-and-hd-hyundai-partner-on-u-s-flagged-tanker-design-as-shipbuilding-ties-deepen/": {
+    "ts": "2026-06-12T20:17:28.226075+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/shell-to-dispose-offshore-wind-farms-for-1b-as-it-retreats-from-renewables": {
+    "ts": "2026-06-12T20:17:28.226075+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/india-summons-us-diplomat-again-as-friction-grows-over-tanker-strikes": {
+    "ts": "2026-06-12T20:17:28.226075+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/indian-navy-removes-unexploded-warhead-from-missile-hit-crude-tanker-off-kochi/?utm_source=rss&utm_medium=rss&utm_campaign=indian-navy-removes-unexploded-warhead-from-missile-hit-crude-tanker-off-kochi": {
+    "ts": "2026-06-12T20:17:28.226075+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/atsb-finding-of-a-faulty-switch-causing-engine-shutdown-changes-operations": {
+    "ts": "2026-06-12T20:17:28.226075+00:00",
     "type": "other"
   }
 }
