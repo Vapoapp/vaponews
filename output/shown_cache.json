@@ -11,29 +11,9 @@
     "ts": "2026-06-07T14:05:24.412869+00:00",
     "type": "highlight"
   },
-  "https://www.bairdmaritime.com/offshore/vessel-reviews": {
-    "ts": "2026-06-06T13:59:52.242151+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/european-mine-clearance-force-for-strait-of-hormuz-forming-up": {
-    "ts": "2026-06-06T13:59:52.242151+00:00",
-    "type": "highlight"
-  },
   "https://www.oedigital.com/news/539999-oil-slips-as-oman-reports-normal-operations-at-key-oil-terminal": {
     "ts": "2026-06-07T04:24:47.116493+00:00",
     "type": "highlight"
-  },
-  "https://splash247.com/container-spot-rates-explode-as-peak-season-arrives-early/": {
-    "ts": "2026-06-06T13:59:52.242151+00:00",
-    "type": "highlight"
-  },
-  "https://www.oedigital.com/news/540001-sempra-totalenergies-produce-first-lng-at-mexico-s-eca-lng-project": {
-    "ts": "2026-06-06T13:59:52.242151+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/tanker-news-roundup-june-5-asian-yards-focus-vlec-delivery-to-singapore-product-carrier-orders-and-more": {
-    "ts": "2026-06-06T13:59:52.242151+00:00",
-    "type": "other"
   },
   "https://www.offshore-energy.biz/altera-ocyan-jv-passes-fpso-operatorship-baton-to-karoon/": {
     "ts": "2026-06-07T09:23:26.460677+00:00",
@@ -159,10 +139,6 @@
     "ts": "2026-06-07T09:23:26.460677+00:00",
     "type": "other"
   },
-  "https://www.hellenicshippingnews.com/abs-grants-approval-for-nuclear-reactor-integration-in-vessel-design-developed-through-mit-maritime-consortium/": {
-    "ts": "2026-06-06T13:59:52.242151+00:00",
-    "type": "highlight"
-  },
   "https://www.offshore-energy.biz/first-of-five-methanol-retrofits-completed-under-seaspan-and-hapag-lloyds-collab/": {
     "ts": "2026-06-07T09:23:26.460677+00:00",
     "type": "highlight"
@@ -178,10 +154,6 @@
   "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/06/brasil-x-egito-onde-assistir-ao-vivo-horario-e-escalacoes-do-amistoso-da-selecao.ghtml": {
     "ts": "2026-06-06T19:39:49.897701+00:00",
     "type": "highlight"
-  },
-  "https://splash247.com/chinese-yard-pitches-nuclear-powered-logistics-hub/": {
-    "ts": "2026-06-06T13:59:52.242151+00:00",
-    "type": "other"
   },
   "https://maritime-executive.com/editorials/braving-the-dangers-in-the-strait-of-hormuz": {
     "ts": "2026-06-06T19:39:49.897701+00:00",
@@ -1044,7 +1016,7 @@
     "type": "other"
   },
   "https://www.offshore-energy.biz/hanwha-ocean-built-fpsos-oil-offloading-opens-revenue-flows-for-petrobras/": {
-    "ts": "2026-06-13T04:17:01.274158+00:00",
+    "ts": "2026-06-13T14:11:30.062616+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/imo-condemns-settebello-tanker-attack/?utm_source=rss&utm_medium=rss&utm_campaign=imo-condemns-settebello-tanker-attack": {
@@ -1088,7 +1060,7 @@
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/data-da-audiencia-publica-sobre-arrendamento-de-area-no-porto-de-vila-do-conde-pa-foi-definida": {
-    "ts": "2026-06-13T09:24:35.627498+00:00",
+    "ts": "2026-06-13T14:11:30.062616+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/oceanpact-conquista-contrato-da-petrobras-para-descomissionar-linhas-flexiveis-do-campo-de-marlim/": {
@@ -1192,11 +1164,11 @@
     "type": "other"
   },
   "https://splash247.com/splash-wrap-trading-missiles/": {
-    "ts": "2026-06-13T09:24:35.627498+00:00",
+    "ts": "2026-06-13T14:11:30.062616+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/540238-oil-falls-more-than-2-as-us-iran-tensions-ease": {
-    "ts": "2026-06-13T09:24:35.627498+00:00",
+    "ts": "2026-06-13T14:11:30.062616+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/irgc-navy-attacks-two-ships-trying-to-cross-strait-of-hormuz-illegally/?utm_source=rss&utm_medium=rss&utm_campaign=irgc-navy-attacks-two-ships-trying-to-cross-strait-of-hormuz-illegally": {
@@ -1216,7 +1188,7 @@
     "type": "other"
   },
   "https://splash247.com/pacific-nations-launch-regional-shipping-body-to-modernise-island-fleets/": {
-    "ts": "2026-06-12T10:22:05.269798+00:00",
+    "ts": "2026-06-13T14:11:30.062616+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/adnoc-send-another-tanker-via-strait-of-hormuz-as-crossings-pick-up-pace/": {
@@ -1236,23 +1208,23 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/gas/venezuela-secures-shell-partnership-to-unlock-coveted-offshore-gas": {
-    "ts": "2026-06-12T10:22:05.269798+00:00",
+    "ts": "2026-06-13T14:11:30.062616+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/no-entry-iranian-forces-stop-uncoordinated-tanker-at-strait-of-hormuz": {
-    "ts": "2026-06-12T10:22:05.269798+00:00",
+    "ts": "2026-06-13T14:11:30.062616+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/aplicacao-de-r-406-milhoes-do-fundo-da-marinha-mercante-resultou-na-entrega-de-70-embarcacoes-no-brasil/": {
-    "ts": "2026-06-13T09:24:35.627498+00:00",
+    "ts": "2026-06-13T14:11:30.062616+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/us-president-says-a-peace-deal-with-iran-is-close-to-being-made/": {
-    "ts": "2026-06-13T09:24:35.627498+00:00",
+    "ts": "2026-06-13T14:11:30.062616+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/australian-gas-projects-lng-comes-to-japan-as-jera-brings-in-first-cargo/": {
-    "ts": "2026-06-12T15:27:25.242135+00:00",
+    "ts": "2026-06-13T14:11:30.062616+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/seven-nations-launch-pacific-blue-shipping-partnership-for-a-low-carbon-future/": {
@@ -1304,15 +1276,15 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/aps-firma-condominio-logistico-no-porto-de-santos": {
-    "ts": "2026-06-13T09:24:35.627498+00:00",
+    "ts": "2026-06-13T14:11:30.062616+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/shipping-industry-condemns-attacks-on-seafarers-as-hormuz-death-toll-reaches-14/": {
-    "ts": "2026-06-13T09:24:35.627498+00:00",
+    "ts": "2026-06-13T14:11:30.062616+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/540245-jera-takes-delivery-of-first-lng-cargo-from-australia-s-barossa-gas-project": {
-    "ts": "2026-06-13T09:24:35.627498+00:00",
+    "ts": "2026-06-13T14:11:30.062616+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-promovera-workshop-para-debater-futuro-do-setor-portuario-brasileiro": {
@@ -1356,7 +1328,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/a-alleima-fecha-um-grande-contrato-para-fornecer-tubos-umbilcais-para-projeto-da-italiana-saipem/": {
-    "ts": "2026-06-13T09:24:35.627498+00:00",
+    "ts": "2026-06-13T14:11:30.062616+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/global-shipping-industry-associations-condemn-recent-attacks-on-seafarers/": {
@@ -1364,7 +1336,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/540263-shell-plans-to-launch-1b-wind-farm-sale": {
-    "ts": "2026-06-13T09:24:35.627498+00:00",
+    "ts": "2026-06-13T14:11:30.062616+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/mercado/be8-filial-milao-italia-exportacao-biocombustiveis-europa": {
@@ -1404,7 +1376,7 @@
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/bimcos-energy-saving-device-retrofitting-addendum-work-well-underway/": {
-    "ts": "2026-06-13T09:24:35.627498+00:00",
+    "ts": "2026-06-13T14:11:30.062616+00:00",
     "type": "highlight"
   },
   "https://www.nytimes.com/2026/06/13/business/oil-strait-of-hormuz.html": {
@@ -1437,6 +1409,26 @@
   },
   "https://maritime-executive.com/article/iran-s-claims-of-having-stopped-hormuz-transits-rebuffed-by-trump": {
     "ts": "2026-06-13T09:24:35.627498+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/well-celebrate-our-anniversary-indian-sailors-final-promise-before-us-strike-killed-him-aboard-tanker/?utm_source=rss&utm_medium=rss&utm_campaign=well-celebrate-our-anniversary-indian-sailors-final-promise-before-us-strike-killed-him-aboard-tanker": {
+    "ts": "2026-06-13T14:11:30.062616+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/shadow-fleet-tanker-captain-pleads-guilty-after-weeks-long-atlantic-chase-by-u-s-coast-guard/": {
+    "ts": "2026-06-13T14:11:30.062616+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/norwegian-shipping-group-orders-two-electric-short-sea-container-vessels": {
+    "ts": "2026-06-13T14:11:30.062616+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/trump-accuses-iran-of-attacking-indian-ships-near-strait-of-hormuz-tehran-calls-allegation-baseless/?utm_source=rss&utm_medium=rss&utm_campaign=trump-accuses-iran-of-attacking-indian-ships-near-strait-of-hormuz-tehran-calls-allegation-baseless": {
+    "ts": "2026-06-13T14:11:30.062616+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/cpn-delivers-b100-to-oil-tanker-in-hong-kong/": {
+    "ts": "2026-06-13T14:11:30.062616+00:00",
     "type": "other"
   }
 }
