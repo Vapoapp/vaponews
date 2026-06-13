@@ -2,17 +2,6 @@
   {
     "date": "2026-06-05",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue restrita a menos de 10%, limitando o fluxo de petroleiros e ampliando a volatilidade das taxas de afretamento. A recusa da Chevron em pagar pedágio agrava tensões comerciais, forçando importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos logísticos e prazos de entrega. A presença de minas flutuantes e a postura militar dos EUA mantêm o risco operacional elevado, sem perspectiva clara de normalização. No campo offshore"
-  },
-  {
-    "date": "2026-06-05",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -320,5 +309,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com bloqueios e ataques militares frequentes. A recusa da Chevron em pagar o pedágio iraniano força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos no comércio global de petróleo. Essa situação mantém a volatilidade das taxas de afretamento para petroleiros em níveis elevados, sem perspectiva clara de normalização para o segundo semestre. No offshore brasileiro, a retomada da platafor"
+  },
+  {
+    "date": "2026-06-13",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com bloqueios e ataques frequentes elevando a volatilidade das taxas de afretamento para petroleiros. A recusa da Chevron em pagar o pedágio iraniano força importadores asiáticos a adotarem rotas multimodais mais longas, ampliando custos e prazos no comércio global de petróleo. A expectativa é de ambiente tenso e imprevisível para o segundo semestre, sem sinais claros de normalização. No offshore brasileiro, a entrada em operação"
   }
 ]
