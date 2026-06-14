@@ -2,16 +2,6 @@
   {
     "date": "2026-06-07",
     "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, restringindo o trânsito de petroleiros e ampliando a volatilidade das taxas de afretamento. A recusa da Chevron em pagar o pedágio agrava tensões comerciais, forçando importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos. A presença de minas flutuantes e confrontos militares entre EUA e Irã mantêm o risco operacional elevado, sem perspectiva clara de normalização. No segmento offshor"
-  },
-  {
-    "date": "2026-06-07",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "risco geopolítico",
@@ -320,5 +310,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com bloqueios e ataques frequentes elevando a volatilidade das taxas de afretamento para petroleiros. A escolta militar dos EUA intensificou a proteção noturna, mas não reverteu a redução do fluxo, que permanece impactando prazos e custos no comércio asiático. A recusa da Chevron em pagar o pedágio iraniano reforça a adoção de rotas multimodais mais longas, ampliando a complexidade logística e o custo operacional. No offshore, co"
+  },
+  {
+    "date": "2026-06-14",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue severamente restrita, com bloqueios e ataques frequentes que mantêm a volatilidade das taxas de afretamento para petroleiros em níveis elevados. A recusa da Chevron em pagar o pedágio iraniano força importadores asiáticos a adotarem rotas multimodais mais longas, ampliando custos e prazos no comércio global de petróleo. A escolta militar dos EUA intensificou a proteção, mas não reverteu a queda do fluxo, que permanece abaixo de 10% do volume ha"
   }
 ]
