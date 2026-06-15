@@ -2,15 +2,6 @@
   {
     "date": "2026-06-08",
     "drivers": [
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, restringindo o trânsito de petroleiros e ampliando a volatilidade das taxas de afretamento. A recusa da Chevron em pagar o pedágio iraniano intensifica tensões comerciais, forçando importadores asiáticos a adotarem rotas multimodais mais longas, o que eleva custos e prazos logísticos. A presença contínua de minas flutuantes e o confronto militar entre EUA e Irã mantêm o risco operacional elevado, sem perspectiva clara de norm"
-  },
-  {
-    "date": "2026-06-08",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -321,5 +312,14 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com bloqueios e ataques frequentes mantendo as taxas de afretamento para petroleiros em níveis elevados e voláteis. A recusa da Chevron em pagar o pedágio iraniano força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos no comércio global de petróleo. A escolta militar dos EUA intensificou a proteção, mas não reverteu a queda do fluxo. No offshore brasileiro, a Petrobras avan"
+  },
+  {
+    "date": "2026-06-15",
+    "drivers": [
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O acordo preliminar entre EUA e Irã para cessar-fogo no Estreito de Ormuz sinaliza possível retomada do tráfego, mas a remoção das minas navais deve levar até 50 dias, prolongando a restrição operacional. A capacidade segue abaixo de 10%, mantendo a volatilidade das taxas de afretamento para petroleiros e forçando importadores asiáticos a adotarem rotas multimodais mais longas, com impacto direto em custos e prazos logísticos. No mercado de transporte marítimo, o aumento expressivo nos pedidos d"
   }
 ]
