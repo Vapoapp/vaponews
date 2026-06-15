@@ -1,14 +1,5 @@
 [
   {
-    "date": "2026-06-07",
-    "drivers": [
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, limitando o trânsito de petroleiros e ampliando a volatilidade das taxas de afretamento. A recusa da Chevron em pagar pedágio agrava tensões comerciais, forçando importadores asiáticos a adotarem rotas multimodais mais longas, com impacto direto em custos e prazos logísticos. A presença contínua de minas flutuantes e confrontos militares entre EUA e Irã mantêm o risco elevado, sem perspectiva clara de normalização. No contexto of"
-  },
-  {
     "date": "2026-06-08",
     "drivers": [
       "operações offshore",
@@ -319,5 +310,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com ataques frequentes a petroleiros mantendo alta volatilidade nas taxas de afretamento. A recusa da Chevron em pagar o pedágio iraniano força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos no comércio global de petróleo. A escolta militar dos EUA intensificou a proteção, mas não reverteu a queda do fluxo. No offshore brasileiro, contratos para fornecimento de tubos umbilicais avançam,"
+  },
+  {
+    "date": "2026-06-15",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com bloqueios e ataques frequentes mantendo as taxas de afretamento para petroleiros em níveis elevados e voláteis. A recusa da Chevron em pagar o pedágio iraniano força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos no comércio global de petróleo. A escolta militar dos EUA intensificou a proteção, mas não reverteu a queda do fluxo. No offshore brasileiro, a Petrobras avan"
   }
 ]
