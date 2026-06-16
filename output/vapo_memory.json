@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-06-08",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com bloqueios e ameaças militares elevando a volatilidade das taxas de afretamento para petroleiros. A recusa da Chevron em pagar pedágio iraniano intensifica tensões comerciais, forçando importadores asiáticos a adotarem rotas multimodais mais longas, impactando custos e prazos logísticos. A interceptação de petroleiros sancionados pelos EUA reforça o ambiente de risco elevado e imprevisível na região. No Mar Vermelho, a pro"
-  },
-  {
     "date": "2026-06-09",
     "drivers": [
       "contratos marítimos",
@@ -319,5 +308,16 @@
       "petróleo e gás"
     ],
     "summary": "O acordo preliminar entre EUA e Irã para cessar-fogo no Estreito de Ormuz não elimina a restrição operacional imediata. A remoção das minas pode levar até 50 dias, mantendo a capacidade de trânsito abaixo de 10%. Isso sustenta a volatilidade das taxas de afretamento para petroleiros e obriga importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos no comércio global de petróleo. No offshore, a entrega do novo PSV pela Hercules Supply reforça a capacida"
+  },
+  {
+    "date": "2026-06-16",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, mesmo após o acordo preliminar de cessar-fogo entre EUA e Irã. A remoção das minas navais, prevista para até 50 dias, mantém a volatilidade das taxas de afretamento para petroleiros e obriga importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos no comércio de petróleo. A manutenção das sobretaxas por armadores como Maersk reforça a percepção de risco persistente na região. No offshore, a en"
   }
 ]
