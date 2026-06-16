@@ -2,17 +2,6 @@
   {
     "date": "2026-06-09",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com bloqueios e confrontos militares entre EUA e Irã elevando a volatilidade das taxas de afretamento para petroleiros. A recusa da Chevron em pagar o pedágio iraniano intensifica tensões comerciais, forçando importadores asiáticos a adotarem rotas multimodais mais longas, o que aumenta custos e prazos de entrega no comércio de petróleo. No offshore, a conquista pela Technip Energies de contratos para unidades FLNG em Moçambique,"
-  },
-  {
-    "date": "2026-06-09",
-    "drivers": [
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -319,5 +308,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, mesmo após o acordo preliminar de cessar-fogo entre EUA e Irã. A remoção das minas navais, prevista para até 50 dias, mantém a volatilidade das taxas de afretamento para petroleiros e obriga importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos no comércio de petróleo. A manutenção das sobretaxas por armadores como Maersk reforça a percepção de risco persistente na região. No offshore, a en"
+  },
+  {
+    "date": "2026-06-16",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, mesmo após o acordo preliminar de cessar-fogo entre EUA e Irã. A remoção das minas navais pode levar até 50 dias, prolongando a restrição e mantendo a volatilidade das taxas de afretamento para petroleiros. Importadores asiáticos seguem obrigados a adotar rotas multimodais mais longas, elevando custos e prazos logísticos no comércio global de petróleo. No offshore, a entrega de um novo PSV pela Hercules Supply reforça a capac"
   }
 ]
