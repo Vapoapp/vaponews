@@ -8,17 +8,6 @@
       "risco geopolítico",
       "petróleo e gás"
     ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, limitando o trânsito de petroleiros e ampliando a volatilidade das taxas de afretamento. A recusa da Chevron em pagar pedágio iraniano intensifica tensões comerciais, forçando importadores asiáticos a adotar rotas multimodais mais longas, com impacto direto em custos e prazos logísticos. A presença de minas flutuantes e confrontos militares entre EUA e Irã mantêm o risco operacional elevado, sem perspectiva clara de normaliza"
-  },
-  {
-    "date": "2026-06-08",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com bloqueios e ameaças militares elevando a volatilidade das taxas de afretamento para petroleiros. A recusa da Chevron em pagar pedágio iraniano intensifica tensões comerciais, forçando importadores asiáticos a adotarem rotas multimodais mais longas, impactando custos e prazos logísticos. A interceptação de petroleiros sancionados pelos EUA reforça o ambiente de risco elevado e imprevisível na região. No Mar Vermelho, a pro"
   },
   {
@@ -320,5 +309,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com bloqueios e ataques recentes mantendo alta volatilidade nas taxas de afretamento para petroleiros. O acordo preliminar entre EUA e Irã para cessar-fogo não elimina a necessidade de remoção de minas, que pode levar até 50 dias, prolongando a restrição e forçando importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos. No offshore, a entrega do novo PSV pela Hercules Supply e o a"
+  },
+  {
+    "date": "2026-06-16",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "O acordo preliminar entre EUA e Irã para cessar-fogo no Estreito de Ormuz não elimina a restrição operacional imediata. A remoção das minas pode levar até 50 dias, mantendo a capacidade de trânsito abaixo de 10%. Isso sustenta a volatilidade das taxas de afretamento para petroleiros e obriga importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos no comércio global de petróleo. No offshore, a entrega do novo PSV pela Hercules Supply reforça a capacida"
   }
 ]
