@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-06-09",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com bloqueios e confrontos militares elevando a volatilidade das taxas de afretamento para petroleiros. A recusa da Chevron em pagar pedágio iraniano força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos no comércio de petróleo. A persistência de minas flutuantes e ataques militares mantém o risco operacional elevado, sem perspectiva clara de normalização. No offshore, a contratação de un"
-  },
-  {
     "date": "2026-06-10",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -320,5 +309,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com remoção de minas prevista para até 50 dias. Isso mantém a volatilidade das taxas de afretamento e força importadores asiáticos a adotar rotas multimodais mais longas, elevando custos e prazos logísticos no comércio global de petróleo. A retomada parcial de embarques iranianos não altera o cenário operacional imediato. No offshore, a entrega de um PSV pela Hercules Supply reforça a capacidade de suporte às operações, enquanto"
+  },
+  {
+    "date": "2026-06-17",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com remoção das minas prevista para até 50 dias. Essa limitação prolonga a volatilidade das taxas de afretamento para petroleiros e obriga importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos no comércio global de petróleo. A retomada parcial dos embarques iranianos não altera o cenário operacional imediato. No offshore, a entrega do novo PSV pela Hercules Supply amplia a capacidade de suporte"
   }
 ]
