@@ -1152,7 +1152,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/indian-pm-warns-hormuz-shipping-disruptions-are-affecting-global-trade-flags-civilian-deaths-urges-seafarer-safety/?utm_source=rss&utm_medium=rss&utm_campaign=indian-pm-warns-hormuz-shipping-disruptions-are-affecting-global-trade-flags-civilian-deaths-urges-seafarer-safety": {
-    "ts": "2026-06-18T04:27:35.723465+00:00",
+    "ts": "2026-06-18T10:38:51.155073+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/cma-cgm-and-capital-clean-energy-carriers-form-jv-for-lng-bunker-vessel": {
@@ -1200,15 +1200,15 @@
     "type": "other"
   },
   "https://brasilenergia.com.br/petroleoegas/meio-ambiente/stf-mantem-regra-de-emissao-de-geracao-eletrica-no-offshore": {
-    "ts": "2026-06-18T04:27:35.723465+00:00",
+    "ts": "2026-06-18T10:38:51.155073+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/trump-indian-mariners-killed-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=trump-indian-mariners-killed-hormuz": {
-    "ts": "2026-06-18T04:27:35.723465+00:00",
+    "ts": "2026-06-18T10:38:51.155073+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/ukraine-strikes-sanctioned-tanker-in-the-black-sea": {
-    "ts": "2026-06-18T04:27:35.723465+00:00",
+    "ts": "2026-06-18T10:38:51.155073+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/hidroclean-fara-prontidao-ambiental-para-a-apm-terminals-no-complexo-de-suape-em-pernambuco/": {
@@ -1264,7 +1264,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/as-transportadoras-de-cargas-deverao-ter-um-segundo-semestre-ainda-mais-desafiante-diante-de-muitas-complexidades/": {
-    "ts": "2026-06-18T04:27:35.723465+00:00",
+    "ts": "2026-06-18T10:38:51.155073+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/diana-shipping-inc-raises-offer-to-acquire-genco-shipping-trading-to-27-34-per-share-comprised-of-24-80-in-cash-and-one-diana-share/": {
@@ -1309,6 +1309,70 @@
   },
   "https://www.guiamaritimo.com.br/noticias/logistica/rhenus-frete-global-transporte-maritimo": {
     "ts": "2026-06-18T04:27:35.723465+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/inland-vessel-completes-autonomous-journey-in-port-of-rotterdam/": {
+    "ts": "2026-06-18T10:38:51.155073+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/strait-of-hormuz-shipping-recovery-could-take-weeks-tanker-chief-says/": {
+    "ts": "2026-06-18T10:38:51.155073+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/06/18/acordo-de-paz-entre-eua-e-ira-o-que-acontece-agora.ghtml": {
+    "ts": "2026-06-18T10:38:51.155073+00:00",
+    "type": "highlight"
+  },
+  "https://www.offshore-energy.biz/bp-entrusts-subsea-decom-and-recycling-job-at-uk-field-to-deepocean/": {
+    "ts": "2026-06-18T10:38:51.155073+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/fpso-tie-back-project-unlocking-seven-more-wells-to-enrich-north-sea-oil-arsenal-in-2027/": {
+    "ts": "2026-06-18T10:38:51.155073+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/subsea-surveying/tgs-and-slb-launch-seismic-survey-offshore-brazil": {
+    "ts": "2026-06-18T10:38:51.155073+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/vessel-review-arion-jhi-steamships-new-aframax-tanker-built-for-regional-and-intercontinental-trade": {
+    "ts": "2026-06-18T10:38:51.155073+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/eastern-pacific-shipping-to-exit-from-chemical-tanker-segment": {
+    "ts": "2026-06-18T10:38:51.155073+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/taic-investigation-head-injury-following-lifting-operation-failure/": {
+    "ts": "2026-06-18T10:38:51.155073+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/docker-killed-in-cargo-loading-accident-on-ro-ro-at-zeebrugge": {
+    "ts": "2026-06-18T10:38:51.155073+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/ssi-calls-for-regulators-to-break-hkc-basel-ship-recycling-deadlock/": {
+    "ts": "2026-06-18T10:38:51.155073+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/hormuz-reopens-under-us-iran-deal-amid-uncertainty-over-future-transit-fees/": {
+    "ts": "2026-06-18T10:38:51.155073+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/us-iran-truce-likely-to-restore-shipping-despite-questions-analysts/": {
+    "ts": "2026-06-18T10:38:51.155073+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/diana-sweetens-genco-bid-again-with-cash-and-stock-offer/": {
+    "ts": "2026-06-18T10:38:51.155073+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/drilling-production": {
+    "ts": "2026-06-18T10:38:51.155073+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/drilling-production/equinor-and-partners-agree-on-north-sea-project-development-concept": {
+    "ts": "2026-06-18T10:38:51.155073+00:00",
     "type": "other"
   }
 }
