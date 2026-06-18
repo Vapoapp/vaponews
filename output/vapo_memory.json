@@ -2,17 +2,6 @@
   {
     "date": "2026-06-11",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com bloqueios e confrontos militares mantendo a volatilidade das taxas de afretamento para petroleiros em níveis elevados. A recusa da Chevron em pagar o pedágio iraniano força importadores asiáticos a adotar rotas multimodais mais longas, ampliando custos logísticos e prazos no comércio global de petróleo. O ambiente de contratação permanece tenso, sem perspectiva clara de normalização até o final de 2026. No offshore brasileiro"
-  },
-  {
-    "date": "2026-06-11",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -320,5 +309,16 @@
       "risco geopolítico"
     ],
     "summary": "Tráfego no Estreito de Ormuz segue restrito, mantendo alta volatilidade nas taxas de afretamento para petroleiros. A remoção de minas deve levar até 50 dias, forçando importadores asiáticos a adotarem rotas multimodais mais longas, com impacto direto em custos e prazos logísticos globais. A retomada parcial dos embarques iranianos não altera o cenário operacional imediato, indicando que a normalização ainda está distante. No offshore, a entrega de um novo PSV pela Hercules Supply reforça a capac"
+  },
+  {
+    "date": "2026-06-18",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "Tráfego no Estreito de Ormuz segue restrito, mantendo pressão sobre custos e prazos no transporte marítimo de petróleo. A remoção das minas deve levar até 50 dias, prolongando a volatilidade das taxas de afretamento para petroleiros e forçando importadores asiáticos a adotarem rotas multimodais mais longas. A retomada parcial dos embarques iranianos não altera o cenário operacional imediato, indicando que a normalização ainda está distante. No offshore brasileiro, a entrega de um novo PSV pela H"
   }
 ]
