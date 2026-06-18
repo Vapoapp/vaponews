@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-06-10",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com confrontos militares e bloqueios que mantêm alta volatilidade nas taxas de afretamento para petroleiros. A recusa da Chevron em pagar o pedágio iraniano força importadores asiáticos a adotar rotas multimodais mais longas, ampliando custos e prazos no comércio de petróleo e pressionando a logística global. No offshore brasileiro, a Petrobras avança em parcerias estratégicas para ampliar sua capacidade operacional, contrata"
-  },
-  {
     "date": "2026-06-11",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -320,5 +309,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com remoção das minas prevista para até 50 dias. Essa restrição prolonga a volatilidade das taxas de afretamento para petroleiros e força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos no comércio global de petróleo. A retomada parcial dos embarques iranianos não altera o cenário operacional imediato. No offshore, a entrega de um novo PSV pela Hercules Supply amplia a capacidade de s"
+  },
+  {
+    "date": "2026-06-18",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "Tráfego no Estreito de Ormuz segue restrito, mantendo alta volatilidade nas taxas de afretamento para petroleiros. A remoção de minas deve levar até 50 dias, forçando importadores asiáticos a adotarem rotas multimodais mais longas, com impacto direto em custos e prazos logísticos globais. A retomada parcial dos embarques iranianos não altera o cenário operacional imediato, indicando que a normalização ainda está distante. No offshore, a entrega de um novo PSV pela Hercules Supply reforça a capac"
   }
 ]
