@@ -31,10 +31,6 @@
     "ts": "2026-06-12T20:17:28.226075+00:00",
     "type": "highlight"
   },
-  "https://www.marinelink.com/news/iran-prevents-tanker-entering-strait-540228": {
-    "ts": "2026-06-12T15:27:25.242135+00:00",
-    "type": "highlight"
-  },
   "https://maritime-executive.com/article/indian-navy-removes-unexploded-missile-from-inside-a-vlcc": {
     "ts": "2026-06-13T09:24:35.627498+00:00",
     "type": "other"
@@ -83,40 +79,16 @@
     "ts": "2026-06-13T19:43:38.104553+00:00",
     "type": "other"
   },
-  "https://www.marineinsight.com/three-lng-tankers-exit-strait-of-hormuz-with-tracking-signals-off-as-us-iran-tensions-escalate/?utm_source=rss&utm_medium=rss&utm_campaign=three-lng-tankers-exit-strait-of-hormuz-with-tracking-signals-off-as-us-iran-tensions-escalate": {
-    "ts": "2026-06-12T15:27:25.242135+00:00",
-    "type": "other"
-  },
   "https://safety4sea.com/ebola-outbreak-update-situation-remains-contained-in-drc/": {
     "ts": "2026-06-13T19:43:38.104553+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/industry-joins-forces-to-speed-up-ship-upgrades-across-europe/": {
-    "ts": "2026-06-12T15:27:25.242135+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/inland-shipping/brazil-paraguay-and-bolivia-eye-joint-deal-for-key-waterway": {
-    "ts": "2026-06-12T15:27:25.242135+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/us-iran-edge-toward-interim-deal-signing-close-to-g7-next-week/": {
-    "ts": "2026-06-12T15:27:25.242135+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/540253-cadeler-installs-final-turbine-at-rwe-s-1-4gw-sofia-offshore-wind-farm": {
     "ts": "2026-06-14T09:44:39.698464+00:00",
     "type": "other"
   },
-  "https://www.marineinsight.com/iran-prevents-oil-tanker-from-entering-hormuz-without-permission-coordination-with-its-navy/?utm_source=rss&utm_medium=rss&utm_campaign=iran-prevents-oil-tanker-from-entering-hormuz-without-permission-coordination-with-its-navy": {
-    "ts": "2026-06-12T15:27:25.242135+00:00",
-    "type": "other"
-  },
   "https://www.navaltoday.com/2026/06/12/indian-navy-recovers-unexploded-missile-warhead-from-crude-oil-tanker/": {
     "ts": "2026-06-13T19:43:38.104553+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/somali-piracy-structures-are-strengthening/": {
-    "ts": "2026-06-12T15:27:25.242135+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/france-opens-major-offshore-wind-tender-despite-global-headwinds-for-controversial-industry": {
@@ -1124,7 +1096,7 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21523/porto-de-itajai-amplia-movimentacao-de-cargas-e-anuncia-crescimento-apos-retomada-das-operacoes/": {
-    "ts": "2026-06-19T10:45:43.073183+00:00",
+    "ts": "2026-06-19T15:31:26.608791+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/body-of-indian-seafarer-killed-in-us-strike-off-oman-returns-home-family-seeks-rs-1-crore-compensation/?utm_source=rss&utm_medium=rss&utm_campaign=body-of-indian-seafarer-killed-in-us-strike-off-oman-returns-home-family-seeks-rs-1-crore-compensation": {
@@ -1184,7 +1156,7 @@
     "type": "highlight"
   },
   "https://www.marinelog.com/news/strait-of-hormuz-may-be-open-but-mines-are-still-a-danger/": {
-    "ts": "2026-06-19T10:45:43.073183+00:00",
+    "ts": "2026-06-19T15:31:26.608791+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/scorpio-tankers-inc-announces-update-on-second-quarter-2026-tce-rates/": {
@@ -1236,7 +1208,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/jera-signs-charters-with-mol-and-nyk-to-import-us-ammonia-to-japan": {
-    "ts": "2026-06-19T10:45:43.073183+00:00",
+    "ts": "2026-06-19T15:31:26.608791+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/transpetro-assina-contrato-de-us-427-milhoes-com-estaleiro-rio-grande-para-construcao-de-4-navios/": {
@@ -1296,11 +1268,11 @@
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/mol-jera-sign-long-term-time-charter-contract-for-2-ammonia-carriers-major-step-in-establishing-japans-first-large-scale-low-carbon-ammonia-value-chain/": {
-    "ts": "2026-06-19T10:45:43.073183+00:00",
+    "ts": "2026-06-19T15:31:26.608791+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/boxships/container-vessel-news-roundup-june-19-deliveries-to-french-and-greek-operators-additional-european-orders-and-more": {
-    "ts": "2026-06-19T10:45:43.073183+00:00",
+    "ts": "2026-06-19T15:31:26.608791+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/governo-regulacao/am-assina-concessoes-para-investimentos-da-petrobras-em-urucu": {
@@ -1341,6 +1313,70 @@
   },
   "https://splash247.com/germany-rejects-totalenergies-request-to-surrender-offshore-wind-site/": {
     "ts": "2026-06-19T10:45:43.073183+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/portos/21527/armac-inicia-nova-operacao-em-terminal-de-graneis-no-porto-de-santos/": {
+    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/dali-chief-engineer-admits-hiding-hazardous-condition-before-fatal-baltimore-bridge-collision/?utm_source=rss&utm_medium=rss&utm_campaign=dali-chief-engineer-admits-hiding-hazardous-condition-before-fatal-baltimore-bridge-collision": {
+    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "type": "highlight"
+  },
+  "https://www.offshore-energy.biz/regulatory-setback-puts-appraisal-of-gas-discovery-at-risk-in-southeast-asia/": {
+    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/empresas/incorporacao-da-andorinha-energia-pela-ate-e-aprovada": {
+    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/dali-chief-engineer-reaches-deal-with-us-authorities/": {
+    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/qatar-brings-back-first-empty-lng-tanker-through-strait-of-hormuz-since-us-iran-conflict-began/?utm_source=rss&utm_medium=rss&utm_campaign=qatar-brings-back-first-empty-lng-tanker-through-strait-of-hormuz-since-us-iran-conflict-began": {
+    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/540488-vantage-investors-back-258m-merger-with-eldorado-drilling": {
+    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/540487-skyborn-secures-landmark-amazon-ppa-for-baltic-sea-offshore-wind-farm": {
+    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/robots-learn-from-old-hands-at-tianjin-port/": {
+    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/abs-biofuels-under-the-imo-and-eu-regulatory-framework/": {
+    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/new-european-initiative-aims-to-cut-emissions-through-ai/": {
+    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/advanced-underwater-vehicle-goes-on-first-mission-to-chart-norwegian-seas-subseascape/": {
+    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/irish-consultancy-opens-doors-offshore-540484": {
+    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/iran-oil-surges-as-seven-supertankers-sail-after-blockade-lifts/": {
+    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/eu-closes-russian-lng-loophole-barring-european-shipowners-and-buyers-from-global-trade-in-yamal-cargoes/": {
+    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea": {
+    "ts": "2026-06-19T15:31:26.608791+00:00",
     "type": "other"
   }
 }
