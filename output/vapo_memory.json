@@ -8,17 +8,6 @@
       "risco geopolítico",
       "petróleo e gás"
     ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com bloqueios e confrontos militares intensificando a volatilidade das taxas de afretamento para petroleiros. A recusa da Chevron em pagar o pedágio iraniano força importadores asiáticos a adotar rotas multimodais mais longas, elevando custos e prazos no comércio global de petróleo. No offshore brasileiro, a retomada da plataforma P-78 e o início do escoamento pelo FPSO P-79 no campo de Búzios indicam avanço na produção do pré-sa"
-  },
-  {
-    "date": "2026-06-12",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com bloqueios e ataques militares frequentes elevando a volatilidade das taxas de afretamento para petroleiros. A recusa da Chevron em pagar o pedágio iraniano obriga importadores asiáticos a adotarem rotas multimodais mais longas, ampliando custos e prazos no comércio global de petróleo. O ambiente de contratação segue tenso, sem perspectiva clara de normalização para o segundo semestre. No offshore brasileiro, a retomada da"
   },
   {
@@ -320,5 +309,16 @@
       "petróleo e gás"
     ],
     "summary": "Tráfego no Estreito de Ormuz mantém restrição severa, com capacidade abaixo de 10% devido a minas, prolongando volatilidade nas taxas de afretamento para petroleiros. A expectativa de remoção em até 50 dias mantém importadores asiáticos sob pressão para adotar rotas multimodais mais longas, elevando custos e prazos no comércio global de petróleo. A retomada parcial dos embarques iranianos ainda não altera a dinâmica operacional. No offshore brasileiro, a entrega de um novo PSV pela Hercules Supp"
+  },
+  {
+    "date": "2026-06-19",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10% devido à presença de minas, com remoção prevista para até 50 dias. Essa restrição mantém a volatilidade das taxas de afretamento para petroleiros e força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos no comércio marítimo de petróleo. A retomada parcial dos embarques iranianos não altera o cenário imediato, indicando que a normalização operacional ainda está distante. No offsho"
   }
 ]

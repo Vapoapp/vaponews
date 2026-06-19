@@ -1096,7 +1096,7 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21523/porto-de-itajai-amplia-movimentacao-de-cargas-e-anuncia-crescimento-apos-retomada-das-operacoes/": {
-    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "ts": "2026-06-19T19:55:19.125830+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/body-of-indian-seafarer-killed-in-us-strike-off-oman-returns-home-family-seeks-rs-1-crore-compensation/?utm_source=rss&utm_medium=rss&utm_campaign=body-of-indian-seafarer-killed-in-us-strike-off-oman-returns-home-family-seeks-rs-1-crore-compensation": {
@@ -1112,7 +1112,7 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/operadores-logisticos/21493/novas-regras-do-ciot-piso-minimo-de-frete-e-fim-da-escala-6x1-saiba-como-os-operadores-logisticos-estao-recebendo-as-mudancas/": {
-    "ts": "2026-06-18T15:37:48.381462+00:00",
+    "ts": "2026-06-19T19:55:19.125830+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/540431-oil-drops-to-3-month-low-as-us-iran-deal-signals-supply-return": {
@@ -1128,7 +1128,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/540440-deepocean-gets-bp-s-foinaven-subsea-decommissioning-job": {
-    "ts": "2026-06-18T15:37:48.381462+00:00",
+    "ts": "2026-06-19T19:55:19.125830+00:00",
     "type": "other"
   },
   "https://gcaptain.com/iran-deal-opens-door-to-hormuz-reopening-but-shipping-industry-warns-of-long-road-ahead/": {
@@ -1156,7 +1156,7 @@
     "type": "highlight"
   },
   "https://www.marinelog.com/news/strait-of-hormuz-may-be-open-but-mines-are-still-a-danger/": {
-    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "ts": "2026-06-19T19:55:19.125830+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/scorpio-tankers-inc-announces-update-on-second-quarter-2026-tce-rates/": {
@@ -1200,7 +1200,7 @@
     "type": "other"
   },
   "https://www.cnnbrasil.com.br/nacional/sudeste/rj/nao-foi-acidente-diz-pai-de-youtuber-morto-em-queda-de-helicoptero-no-rj/": {
-    "ts": "2026-06-19T10:45:43.073183+00:00",
+    "ts": "2026-06-19T19:55:19.125830+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/us-iran-deal-could-boost-fertilizer-shipments-after-11-drop/": {
@@ -1316,15 +1316,15 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21527/armac-inicia-nova-operacao-em-terminal-de-graneis-no-porto-de-santos/": {
-    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "ts": "2026-06-19T19:55:19.125830+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/dali-chief-engineer-admits-hiding-hazardous-condition-before-fatal-baltimore-bridge-collision/?utm_source=rss&utm_medium=rss&utm_campaign=dali-chief-engineer-admits-hiding-hazardous-condition-before-fatal-baltimore-bridge-collision": {
-    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "ts": "2026-06-19T19:55:19.125830+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/regulatory-setback-puts-appraisal-of-gas-discovery-at-risk-in-southeast-asia/": {
-    "ts": "2026-06-19T15:31:26.608791+00:00",
+    "ts": "2026-06-19T19:55:19.125830+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/empresas/incorporacao-da-andorinha-energia-pela-ate-e-aprovada": {
@@ -1377,6 +1377,58 @@
   },
   "https://www.oedigital.com/news/540481-new-wildcat-well-on-equinor-s-drilling-agenda-for-north-sea": {
     "ts": "2026-06-19T15:31:26.608791+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/empresas-do-consorcio-de-libra-contratam-a-cepel-para-fazer-a-integracao-energetica-dos-fpsos-em-operacao/": {
+    "ts": "2026-06-19T19:55:19.125830+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/oil-shipments-rise-in-hormuz-although-questions-grow-over-irans-transit-terms/": {
+    "ts": "2026-06-19T19:55:19.125830+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/indias-first-lng-carrier-disha-docks-at-dahej-port-after-three-months-of-strait-of-hormuz-blockade/": {
+    "ts": "2026-06-19T19:55:19.125830+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/repsol-assina-acordo-na-venezuela-para-estudar-da-area-de-horcon-e-potencial-de-gas-offshore/": {
+    "ts": "2026-06-19T19:55:19.125830+00:00",
+    "type": "other"
+  },
+  "https://brasilenergia.com.br/petroleoegas/internacional/repsol-assina-mou-para-nova-area-na-venezuela": {
+    "ts": "2026-06-19T19:55:19.125830+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/new-york-city-switches-on-6-billion-hvdc-link-to-fuel-big-apple-with-canadian-hydropower/": {
+    "ts": "2026-06-19T19:55:19.125830+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/clarksons-platou-hellas-snp-weekly-bulletin-137/": {
+    "ts": "2026-06-19T19:55:19.125830+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/first-french-lng-tanker-transits-strait-of-hormuz-after-us-iran-peace-deal/?utm_source=rss&utm_medium=rss&utm_campaign=first-french-lng-tanker-transits-strait-of-hormuz-after-us-iran-peace-deal": {
+    "ts": "2026-06-19T19:55:19.125830+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/amazon-becomes-key-customer-for-germanys-biggest-baltic-sea-wind-farm/": {
+    "ts": "2026-06-19T19:55:19.125830+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/one-seafarer-killed-more-injured-as-russia-attacks-ships-off-ukraine": {
+    "ts": "2026-06-19T19:55:19.125830+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/antaq/pt-br/noticias/2026/divulgada-pauta-da-612a-reuniao-da-diretoria-colegiada": {
+    "ts": "2026-06-19T19:55:19.125830+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/organizations-urge-the-eu-to-include-shipping-in-its-electrification-plan/": {
+    "ts": "2026-06-19T19:55:19.125830+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/jmic-warns-of-confirmed-mine-in-hormuz-as-uncertainties-continue": {
+    "ts": "2026-06-19T19:55:19.125830+00:00",
     "type": "other"
   }
 }
