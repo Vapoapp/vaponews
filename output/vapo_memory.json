@@ -2,17 +2,6 @@
   {
     "date": "2026-06-11",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O bloqueio persistente no Estreito de Ormuz mantém a capacidade operacional abaixo de 10%, com confrontos militares e ataques recentes elevando a volatilidade das taxas de afretamento para petroleiros. A recusa da Chevron em pagar o pedágio iraniano obriga importadores asiáticos a usar rotas multimodais mais longas, ampliando custos e prazos no comércio de petróleo e pressionando cadeias logísticas globais. No offshore brasileiro, a Petrobras avança em parcerias estratégicas e contratos para amp"
-  },
-  {
-    "date": "2026-06-11",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -320,5 +309,16 @@
       "risco geopolítico"
     ],
     "summary": "Tráfego no Estreito de Ormuz segue restrito, mantendo pressão sobre custos e prazos no transporte marítimo de petróleo. A remoção das minas deve levar até 50 dias, prolongando a volatilidade das taxas de afretamento para petroleiros e forçando importadores asiáticos a adotarem rotas multimodais mais longas. A retomada parcial dos embarques iranianos não altera o cenário operacional imediato, indicando que a normalização ainda está distante. No offshore brasileiro, a entrega de um novo PSV pela H"
+  },
+  {
+    "date": "2026-06-19",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue restrita a menos de 10% devido à presença de minas, com remoção prevista para até 50 dias. Essa limitação mantém a volatilidade das taxas de afretamento para petroleiros e força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos no comércio global de petróleo. A retomada parcial dos embarques iranianos não altera o cenário operacional imediato, indicando que a normalização ainda está distante. N"
   }
 ]
