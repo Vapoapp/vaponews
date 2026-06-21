@@ -2,17 +2,6 @@
   {
     "date": "2026-06-13",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com bloqueios e ataques frequentes elevando a volatilidade das taxas de afretamento para petroleiros. A recusa da Chevron em pagar o pedágio iraniano força importadores asiáticos a adotarem rotas multimodais mais longas, ampliando custos e prazos no comércio global de petróleo. A instabilidade não deve se normalizar no segundo semestre, mantendo o ambiente de contratação tenso e imprevisível. No offshore brasileiro, a entrada em"
-  },
-  {
-    "date": "2026-06-13",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -320,5 +309,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10% devido à presença de minas, com remoção prevista para até 50 dias. Essa limitação prolonga a volatilidade das taxas de afretamento para petroleiros e força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos no comércio marítimo de petróleo. A retomada parcial dos embarques iranianos não altera a dinâmica operacional imediata. No offshore, o investimento de US$ 420 milhões no Ma"
+  },
+  {
+    "date": "2026-06-21",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A presença de minas mantém o trânsito abaixo de 10%, com remoção prevista apenas em até 50 dias. Essa limitação prolonga a volatilidade das taxas de afretamento para petroleiros e força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos no comércio global de petróleo. A retomada parcial dos embarques iranianos não altera o cenário operacional imediato, mantendo o risco geopolítico elevado. No offshore, a aprovação da fusão entre Vantage Drilling"
   }
 ]
