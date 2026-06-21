@@ -2,17 +2,6 @@
   {
     "date": "2026-06-14",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com bloqueios e ataques frequentes que mantêm a volatilidade das taxas de afretamento para petroleiros em níveis elevados. A recusa da Chevron em pagar o pedágio iraniano força importadores asiáticos a adotarem rotas multimodais mais longas, ampliando custos e prazos no comércio global de petróleo. O ambiente de contratação segue tenso e sem perspectiva clara de normalização para o segundo semestre. No offshore brasileiro, a"
-  },
-  {
-    "date": "2026-06-14",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -318,5 +307,13 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10% devido à presença de minas, com remoção prevista em até 50 dias. Essa limitação prolonga a volatilidade das taxas de afretamento para petroleiros e força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos no comércio global de petróleo. A retomada parcial dos embarques iranianos não altera o cenário operacional imediato, mantendo o risco geopolítico elevado e a incerteza na cad"
+  },
+  {
+    "date": "2026-06-21",
+    "drivers": [
+      "operações offshore",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10% devido à presença de minas, com remoção prevista para até 50 dias. Essa limitação mantém a volatilidade das taxas de afretamento para petroleiros e força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos no comércio marítimo de petróleo. A retomada parcial dos embarques iranianos não altera a dinâmica operacional imediata. No offshore, a aprovação da fusão entre players estratégicos indi"
   }
 ]
