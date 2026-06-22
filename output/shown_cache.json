@@ -1136,7 +1136,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/refining-processing": {
-    "ts": "2026-06-21T14:22:22.081156+00:00",
+    "ts": "2026-06-22T12:14:16.104194+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/diana-reaffirms-offer-to-acquire-genco-after-losing-proxy-fight": {
@@ -1156,7 +1156,7 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/279983-2/": {
-    "ts": "2026-06-22T05:00:39.932998+00:00",
+    "ts": "2026-06-22T12:14:16.104194+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/stranded-ships-begin-moving-out-of-strait-of-hormuz-after-over-3-months-of-disruption/?utm_source=rss&utm_medium=rss&utm_campaign=stranded-ships-begin-moving-out-of-strait-of-hormuz-after-over-3-months-of-disruption": {
@@ -1164,7 +1164,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/russian-navy-struggling-to-maintain-a-mediterranean-presence": {
-    "ts": "2026-06-20T19:45:04.003825+00:00",
+    "ts": "2026-06-22T12:14:16.104194+00:00",
     "type": "other"
   },
   "https://www.marineinsight.com/iran-denies-strait-of-hormuz-closure-reports-says-shipping-continues-normally/?utm_source=rss&utm_medium=rss&utm_campaign=iran-denies-strait-of-hormuz-closure-reports-says-shipping-continues-normally": {
@@ -1200,7 +1200,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/u-k-arrests-indian-captain-of-russian-shadow-fleet-oil-tanker-over-sanctions-evasion/?utm_source=rss&utm_medium=rss&utm_campaign=u-k-arrests-indian-captain-of-russian-shadow-fleet-oil-tanker-over-sanctions-evasion": {
-    "ts": "2026-06-22T05:00:39.932998+00:00",
+    "ts": "2026-06-22T12:14:16.104194+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/hormuz-relief-may-not-ease-the-economic-toll-thats-already-baked-in-analysts-warn/": {
@@ -1216,11 +1216,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/o-desempenho-da-aviacao-civil-na-regiao-sul-no-ultimo-quadrimestre-e-o-melhor-em-uma-decada/": {
-    "ts": "2026-06-22T05:00:39.932998+00:00",
+    "ts": "2026-06-22T12:14:16.104194+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/hormuz-traffic-plummets-as-shipowners-obey-new-iranian-closure-order": {
-    "ts": "2026-06-22T05:00:39.932998+00:00",
+    "ts": "2026-06-22T12:14:16.104194+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/strengthening-rights-on-crew-mistreatment/": {
@@ -1236,11 +1236,11 @@
     "type": "highlight"
   },
   "https://gcaptain.com/hormuz-transit-security-is-hour-to-hour/": {
-    "ts": "2026-06-22T05:00:39.932998+00:00",
+    "ts": "2026-06-22T12:14:16.104194+00:00",
     "type": "highlight"
   },
   "https://www.nytimes.com/2026/06/21/business/oil-rises-amid-uncertainty-over-strait-of-hormuz.html": {
-    "ts": "2026-06-22T05:00:39.932998+00:00",
+    "ts": "2026-06-22T12:14:16.104194+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/tankers-a-fragile-peace-deal-and-the-hormuz-straits-conundrum/": {
@@ -1257,6 +1257,54 @@
   },
   "https://maritime-executive.com/editorials/op-ed-in-the-strait-of-hormuz-free-transit-is-no-more": {
     "ts": "2026-06-22T05:00:39.932998+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/540499-europa-oil-gas-extends-timeline-for-equatorial-guinea-farm-out-completion": {
+    "ts": "2026-06-22T12:14:16.104194+00:00",
+    "type": "highlight"
+  },
+  "https://safety4sea.com/trump-warns-of-new-strikes-on-iran-as-hormuz-tensions-escalate/": {
+    "ts": "2026-06-22T12:14:16.104194+00:00",
+    "type": "highlight"
+  },
+  "https://www.rigzone.com/news/wire/iran_says_stride_made_with_us_after_talks_began-22-jun-2026-183961-article/": {
+    "ts": "2026-06-22T12:14:16.104194+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/540498-explosion-at-qatar-s-ras-laffan-lng-hub-injures-54-leaves-18-missing": {
+    "ts": "2026-06-22T12:14:16.104194+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/cmb-tech-and-fortescue-sign-charter-agreement-for-12-ammonia-capable-vessels": {
+    "ts": "2026-06-22T12:14:16.104194+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/540500-qatari-lng-carriers-re-enter-hormuz-as-traffic-through-strait-slumps": {
+    "ts": "2026-06-22T12:14:16.104194+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/qatar-lng-tankers-defy-renewed-iran-blockade-to-enter-strait-of-hormuz": {
+    "ts": "2026-06-22T12:14:16.104194+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/column-the-gavel-bangs-justice-is-served-in-london-and-hamburg-but-not-in-the-arabian-sea-part-one-of-two-offshore-accounts": {
+    "ts": "2026-06-22T12:14:16.104194+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/pcc-pctc/cosco-shipping-takes-delivery-of-final-lng-fuelled-car-carrier-in-series": {
+    "ts": "2026-06-22T12:14:16.104194+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/iranian-crude-exports-surge-via-hormuz-as-activity-picks-up/": {
+    "ts": "2026-06-22T12:14:16.104194+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/10000-pounds-of-marijuana-worth-24-million-destined-for-england-seized-at-baltimore-port/?utm_source=rss&utm_medium=rss&utm_campaign=10000-pounds-of-marijuana-worth-24-million-destined-for-england-seized-at-baltimore-port": {
+    "ts": "2026-06-22T12:14:16.104194+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/refining-processing/indian-refiners-see-crude-throughput-slide-over-five-per-cent-in-may": {
+    "ts": "2026-06-22T12:14:16.104194+00:00",
     "type": "other"
   }
 }
