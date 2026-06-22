@@ -1,15 +1,5 @@
 [
   {
-    "date": "2026-06-14",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue severamente restrita, com bloqueios e ataques frequentes que mantêm a volatilidade das taxas de afretamento para petroleiros em níveis elevados. A recusa da Chevron em pagar o pedágio iraniano força importadores asiáticos a adotarem rotas multimodais mais longas, ampliando custos e prazos no comércio global de petróleo. A escolta militar dos EUA intensificou a proteção, mas não reverteu a queda do fluxo, que permanece abaixo de 10% do volume ha"
-  },
-  {
     "date": "2026-06-15",
     "drivers": [
       "operações offshore",
@@ -315,5 +305,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10% devido à presença de minas, com remoção prevista apenas em até 50 dias. Essa restrição mantém a volatilidade das taxas de afretamento para petroleiros e força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos no comércio marítimo de petróleo. A retomada parcial dos embarques iranianos não altera o cenário operacional imediato, mantendo o risco geopolítico elevado. No offshore, a aprovaçã"
+  },
+  {
+    "date": "2026-06-22",
+    "drivers": [
+      "contratos marítimos",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10% devido à presença de minas, com remoção prevista para até 50 dias. Essa limitação mantém a volatilidade das taxas de afretamento para petroleiros e força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos no comércio marítimo de petróleo. A retomada parcial dos embarques iranianos não altera a dinâmica operacional imediata, mantendo o risco geopolítico elevado. No setor portuário brasilei"
   }
 ]
