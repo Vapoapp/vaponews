@@ -2,15 +2,6 @@
   {
     "date": "2026-06-15",
     "drivers": [
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com ataques frequentes a petroleiros mantendo alta volatilidade nas taxas de afretamento. A recusa da Chevron em pagar o pedágio iraniano força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos no comércio global de petróleo. A escolta militar dos EUA intensificou a proteção, mas não reverteu a queda do fluxo. No offshore brasileiro, contratos para fornecimento de tubos umbilicais avançam,"
-  },
-  {
-    "date": "2026-06-15",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -315,5 +306,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10% devido à presença de minas, com remoção prevista para até 50 dias. Essa limitação mantém a volatilidade das taxas de afretamento para petroleiros e força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos no comércio marítimo de petróleo. A retomada parcial dos embarques iranianos não altera a dinâmica operacional imediata, mantendo o risco geopolítico elevado. No setor portuário brasilei"
+  },
+  {
+    "date": "2026-06-23",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue restrita a menos de 10% devido à presença de minas, com remoção prevista somente em até 50 dias. Essa limitação prolonga a volatilidade das taxas de afretamento para petroleiros e força importadores asiáticos a adotarem rotas alternativas mais longas, elevando custos e prazos logísticos no comércio marítimo de petróleo. A retomada parcial dos embarques iranianos não altera o quadro operacional imediato, mantendo o risco geopolítico elevado. No"
   }
 ]
