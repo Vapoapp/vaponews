@@ -2,17 +2,6 @@
   {
     "date": "2026-06-15",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com bloqueios e ataques frequentes mantendo as taxas de afretamento para petroleiros em níveis elevados e voláteis. A recusa da Chevron em pagar o pedágio iraniano força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos no comércio global de petróleo. A escolta militar dos EUA intensificou a proteção, mas não reverteu a queda do fluxo. No offshore brasileiro, a Petrobras avan"
-  },
-  {
-    "date": "2026-06-15",
-    "drivers": [
       "operações offshore",
       "risco geopolítico",
       "petróleo e gás"
@@ -317,5 +306,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue restrita a menos de 10% devido à presença de minas, com remoção prevista somente em até 50 dias. Essa limitação prolonga a volatilidade das taxas de afretamento para petroleiros e força importadores asiáticos a adotarem rotas alternativas mais longas, elevando custos e prazos logísticos no comércio marítimo de petróleo. A retomada parcial dos embarques iranianos não altera o quadro operacional imediato, mantendo o risco geopolítico elevado. No"
+  },
+  {
+    "date": "2026-06-23",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A presença contínua de minas limita o trânsito no Estreito de Ormuz a menos de 10%, com remoção prevista apenas em até 50 dias. Essa restrição prolonga a volatilidade das taxas de afretamento para petroleiros e obriga importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos no comércio de petróleo. A retomada parcial dos embarques iranianos não altera o quadro operacional imediato, mantendo elevado o risco geopolítico na região. No segmento offshore, a"
   }
 ]
