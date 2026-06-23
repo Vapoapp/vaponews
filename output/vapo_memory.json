@@ -1,14 +1,5 @@
 [
   {
-    "date": "2026-06-15",
-    "drivers": [
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O acordo preliminar entre EUA e Irã para cessar-fogo no Estreito de Ormuz sinaliza possível retomada do tráfego, mas a remoção das minas navais deve levar até 50 dias, prolongando a restrição operacional. A capacidade segue abaixo de 10%, mantendo a volatilidade das taxas de afretamento para petroleiros e forçando importadores asiáticos a adotarem rotas multimodais mais longas, com impacto direto em custos e prazos logísticos. No mercado de transporte marítimo, o aumento expressivo nos pedidos d"
-  },
-  {
     "date": "2026-06-16",
     "drivers": [
       "operações offshore",
@@ -317,5 +308,16 @@
       "risco geopolítico"
     ],
     "summary": "A presença contínua de minas limita o trânsito no Estreito de Ormuz a menos de 10%, com remoção prevista apenas em até 50 dias. Essa restrição prolonga a volatilidade das taxas de afretamento para petroleiros e obriga importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos no comércio de petróleo. A retomada parcial dos embarques iranianos não altera o quadro operacional imediato, mantendo elevado o risco geopolítico na região. No segmento offshore, a"
+  },
+  {
+    "date": "2026-06-23",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A presença contínua de minas limita o trânsito no Estreito de Ormuz a menos de 10%, com remoção prevista somente em até 50 dias. Essa restrição mantém a volatilidade das taxas de afretamento para petroleiros e força importadores asiáticos a adotarem rotas mais longas, elevando custos e prazos no comércio marítimo de petróleo. A retomada parcial dos embarques iranianos não altera o cenário operacional imediato, mantendo o risco geopolítico elevado. No offshore, a Petrobras investe em quatro petro"
   }
 ]
