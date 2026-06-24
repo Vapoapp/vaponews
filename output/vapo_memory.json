@@ -4,16 +4,6 @@
     "drivers": [
       "contratos marítimos",
       "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O acordo preliminar entre EUA e Irã para cessar-fogo no Estreito de Ormuz não elimina a restrição operacional imediata. A remoção das minas pode levar até 50 dias, mantendo a capacidade de trânsito abaixo de 10%. Isso sustenta a volatilidade das taxas de afretamento para petroleiros e obriga importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos no comércio global de petróleo. No offshore, a entrega do novo PSV pela Hercules Supply reforça a capacida"
-  },
-  {
-    "date": "2026-06-16",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
       "logística e portos",
       "risco geopolítico",
       "petróleo e gás"
@@ -320,5 +310,16 @@
       "petróleo e gás"
     ],
     "summary": "A presença contínua de minas limita o trânsito no Estreito de Ormuz a menos de 10%, prolongando a volatilidade das tarifas de afretamento para petroleiros. Importadores asiáticos seguem obrigados a adotar rotas multimodais mais longas, elevando custos e prazos logísticos no transporte de petróleo. A retomada parcial dos embarques iranianos não reduz o risco geopolítico nem altera a dinâmica operacional imediata na região. No offshore brasileiro, a Petrobras avança com encomenda de quatro petrole"
+  },
+  {
+    "date": "2026-06-24",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A presença de minas limita o trânsito no Estreito de Ormuz a menos de 10%, com remoção prevista em até 50 dias. Essa restrição mantém a volatilidade das tarifas de afretamento para petroleiros e força importadores asiáticos a adotarem rotas mais longas, elevando custos e prazos logísticos no comércio de petróleo. A retomada parcial dos embarques iranianos não altera o risco geopolítico nem a dinâmica operacional imediata na região. No Brasil, a Petrobras reforça sua frota com a encomenda de quat"
   }
 ]
