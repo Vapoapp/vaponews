@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-06-18",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "Tráfego no Estreito de Ormuz segue restrito, mantendo pressão sobre custos e prazos no transporte marítimo de petróleo. A remoção das minas deve levar até 50 dias, prolongando a volatilidade das taxas de afretamento para petroleiros e forçando importadores asiáticos a adotarem rotas multimodais mais longas. A retomada parcial dos embarques iranianos não altera o cenário operacional imediato, indicando que a normalização ainda está distante. No offshore brasileiro, a entrega de um novo PSV pela H"
-  },
-  {
     "date": "2026-06-19",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -318,5 +307,16 @@
       "petróleo e gás"
     ],
     "summary": "A presença contínua de minas e recentes ataques no Estreito de Ormuz restringem o tráfego a menos de 10%, forçando importadores asiáticos a adotar rotas alternativas mais longas. Essa situação mantém a volatilidade das tarifas de afretamento para petroleiros em níveis elevados, impactando diretamente custos e prazos logísticos sem perspectiva de alívio antes de 50 dias. No Golfo, a rejeição iraniana a rotas seguras e a retomada parcial dos embarques não reduzem o risco geopolítico, que segue com"
+  },
+  {
+    "date": "2026-06-26",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A presença contínua de minas e ataques recentes no Estreito de Ormuz restringe o tráfego a menos de 10%, forçando importadores asiáticos a usar rotas alternativas mais longas. Essa situação mantém as tarifas de afretamento para petroleiros elevadas e voláteis, elevando custos e prazos no transporte marítimo de petróleo. A remoção das minas, prevista para até 50 dias, indica que a instabilidade operacional e o risco geopolítico persistirão no curto prazo. No Oriente Médio, a demanda por embarcaçõ"
   }
 ]
