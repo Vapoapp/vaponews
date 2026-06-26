@@ -8,17 +8,6 @@
       "logística e portos",
       "risco geopolítico"
     ],
-    "summary": "Tráfego no Estreito de Ormuz segue restrito, mantendo alta volatilidade nas taxas de afretamento para petroleiros. A remoção de minas deve levar até 50 dias, forçando importadores asiáticos a adotarem rotas multimodais mais longas, com impacto direto em custos e prazos logísticos globais. A retomada parcial dos embarques iranianos não altera o cenário operacional imediato, indicando que a normalização ainda está distante. No offshore, a entrega de um novo PSV pela Hercules Supply reforça a capac"
-  },
-  {
-    "date": "2026-06-18",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
     "summary": "Tráfego no Estreito de Ormuz segue restrito, mantendo pressão sobre custos e prazos no transporte marítimo de petróleo. A remoção das minas deve levar até 50 dias, prolongando a volatilidade das taxas de afretamento para petroleiros e forçando importadores asiáticos a adotarem rotas multimodais mais longas. A retomada parcial dos embarques iranianos não altera o cenário operacional imediato, indicando que a normalização ainda está distante. No offshore brasileiro, a entrega de um novo PSV pela H"
   },
   {
@@ -320,5 +309,14 @@
       "petróleo e gás"
     ],
     "summary": "A continuidade da presença de minas no Estreito de Ormuz limita o tráfego a menos de 10%, forçando importadores asiáticos a adotar rotas alternativas mais longas. Isso mantém as tarifas de afretamento para petroleiros voláteis e elevadas, com impacto direto nos custos e prazos do transporte marítimo de petróleo. A previsão de remoção das minas em até 50 dias indica que a instabilidade operacional deve persistir no curto prazo. No Golfo, o ataque recente a navios e a rejeição iraniana a rotas seg"
+  },
+  {
+    "date": "2026-06-26",
+    "drivers": [
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A presença contínua de minas e recentes ataques no Estreito de Ormuz restringem o tráfego a menos de 10%, forçando importadores asiáticos a adotar rotas alternativas mais longas. Essa situação mantém a volatilidade das tarifas de afretamento para petroleiros em níveis elevados, impactando diretamente custos e prazos logísticos sem perspectiva de alívio antes de 50 dias. No Golfo, a rejeição iraniana a rotas seguras e a retomada parcial dos embarques não reduzem o risco geopolítico, que segue com"
   }
 ]
