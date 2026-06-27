@@ -3,10 +3,6 @@
     "ts": "2026-06-25T09:32:43.645037+00:00",
     "type": "highlight"
   },
-  "https://www.bairdmaritime.com/offshore/exploration-development/subsea-surveying/tgs-and-slb-launch-seismic-survey-offshore-brazil": {
-    "ts": "2026-06-20T04:10:29.721412+00:00",
-    "type": "other"
-  },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
     "ts": "2026-06-21T09:57:08.450394+00:00",
     "type": "other"
@@ -18,10 +14,6 @@
   "https://www.marinelog.com/news/strait-of-hormuz-may-be-open-but-mines-are-still-a-danger/": {
     "ts": "2026-06-20T14:15:06.189931+00:00",
     "type": "highlight"
-  },
-  "https://www.oedigital.com/news/540458-repsol-looks-to-expand-to-venezuela-oilfield": {
-    "ts": "2026-06-20T04:10:29.721412+00:00",
-    "type": "other"
   },
   "https://www.cnnbrasil.com.br/nacional/sudeste/rj/nao-foi-acidente-diz-pai-de-youtuber-morto-em-queda-de-helicoptero-no-rj/": {
     "ts": "2026-06-20T14:15:06.189931+00:00",
@@ -159,14 +151,6 @@
     "ts": "2026-06-21T14:22:22.081156+00:00",
     "type": "highlight"
   },
-  "https://brasilenergia.com.br/petroleoegas/logistica/porto-sudeste-investe-r-177-mi-na-construcao-de-novos-dolfins": {
-    "ts": "2026-06-20T04:10:29.721412+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/three-saudi-flagged-supertankers-with-6-million-barrels-of-crude-cross-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=three-saudi-flagged-supertankers-with-6-million-barrels-of-crude-cross-hormuz": {
-    "ts": "2026-06-20T04:10:29.721412+00:00",
-    "type": "other"
-  },
   "https://www.offshore-energy.biz/eight-well-drilling-program-ups-oil-output-at-southeast-asian-offshore-field/": {
     "ts": "2026-06-21T09:57:08.450394+00:00",
     "type": "other"
@@ -185,10 +169,6 @@
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/genco-emerges-victorious-against-diana-shipping-in-boardroom-showdown": {
     "ts": "2026-06-21T04:52:10.842731+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/dali-chief-engineer-admits-criminal-conduct-in-baltimore-bridge-allision/": {
-    "ts": "2026-06-20T04:10:29.721412+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/shipping-groups-want-mines-cleared-tss-restored-for-normal-hormuz-traffic/": {
@@ -972,7 +952,7 @@
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/selecao-de-operador-para-travessia-manaus2013careiro-da-varzea-tem-cronograma-retomado-pela-antaq": {
-    "ts": "2026-06-26T09:37:13.417935+00:00",
+    "ts": "2026-06-27T08:43:05.223010+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/mpcc-buys-four-container-ships-secures-m-540645": {
@@ -1012,7 +992,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/540659-markets-middle-east-osv-market-at-a-crossroads-after-gulf-conflict": {
-    "ts": "2026-06-27T03:56:35.728789+00:00",
+    "ts": "2026-06-27T08:43:05.223010+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/crude-oil-shipments-hormuz-reach-highest-540664": {
@@ -1020,7 +1000,7 @@
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/transporte-rodoviario/21561/acidentes-com-transporte-de-produtos-perigosos-caem-4-7-em-sao-paulo-em-2025/": {
-    "ts": "2026-06-27T03:56:35.728789+00:00",
+    "ts": "2026-06-27T08:43:05.223010+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/a-marinha-do-brasil-vai-receber-a-terceira-fragata-da-classe-tamandare-para-reforcar-a-patrulha-na-amazonia-azul/": {
@@ -1028,7 +1008,7 @@
     "type": "other"
   },
   "https://agencia.petrobras.com.br/w/negocio/aviso-de-pauta-presidente-lula-participa-de-visita-%C3%A0s-obras-de-embarca%C3%A7%C3%B5es-da-petrobras-em-itaja%C3%AD-sc-": {
-    "ts": "2026-06-25T20:09:09.906820+00:00",
+    "ts": "2026-06-27T08:43:05.223010+00:00",
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/desempenho/21560/movimentacao-de-conteineres-no-porto-de-santos-supera-2-4-milhoes-de-teus-ate-maio/": {
@@ -1120,7 +1100,7 @@
     "type": "other"
   },
   "https://splash247.com/hormuz-reopening-plans-thrown-into-doubt-after-evergreen-boxship-attack/": {
-    "ts": "2026-06-26T14:35:37.189010+00:00",
+    "ts": "2026-06-27T08:43:05.223010+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/consumo-de-energia-por-ia-pode-chegar-a-60-da-demanda-dos-data-centers-em-ate-cinco-anos/": {
@@ -1168,11 +1148,11 @@
     "type": "highlight"
   },
   "https://safety4sea.com/imo-suspends-evacuation-plan-following-vessel-attack-in-gulf-of-oman/": {
-    "ts": "2026-06-27T03:56:35.728789+00:00",
+    "ts": "2026-06-27T08:43:05.223010+00:00",
     "type": "highlight"
   },
   "https://www.rigzone.com/news/why_is_oil_trading_down_today-26-jun-2026-183996-article/": {
-    "ts": "2026-06-27T03:56:35.728789+00:00",
+    "ts": "2026-06-27T08:43:05.223010+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/canais-acesso-portuarios-dragagem-competitividade-brasil": {
@@ -1220,11 +1200,11 @@
     "type": "other"
   },
   "https://gcaptain.com/trump-says-iran-violated-ceasefire-with-drone-attack-on-ship/": {
-    "ts": "2026-06-27T03:56:35.728789+00:00",
+    "ts": "2026-06-27T08:43:05.223010+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/rising-tensions-in-yemen-threaten-red-sea-transits": {
-    "ts": "2026-06-27T03:56:35.728789+00:00",
+    "ts": "2026-06-27T08:43:05.223010+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/iran-reasserts-right-control-hormuz-540697": {
@@ -1272,15 +1252,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/anp-divulga-lista-de-empresas-que-estao-nos-proximos-ciclos-da-oferta-permanente-e-indica-novos-blocos-da-margem-equatorial/": {
-    "ts": "2026-06-27T03:56:35.728789+00:00",
+    "ts": "2026-06-27T08:43:05.223010+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/u-s-conducts-counterstrike-on-iran-in-retaliation-for-ever-lovely-attack": {
-    "ts": "2026-06-27T03:56:35.728789+00:00",
+    "ts": "2026-06-27T08:43:05.223010+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/iran-reasserts-its-right-to-control-shipping-in-strait-of-hormuz-after-ship-hit-near-oman/": {
-    "ts": "2026-06-27T03:56:35.728789+00:00",
+    "ts": "2026-06-27T08:43:05.223010+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/empresas/modec-e-eld-energy-fazem-mou-para-sistema-de-energia-de-12-mw-em-fpso": {
@@ -1313,6 +1293,42 @@
   },
   "https://safety4sea.com/powercell-group-to-supply-hydrogen-fuel-cell-systems-for-lh2-shipping/": {
     "ts": "2026-06-27T03:56:35.728789+00:00",
+    "type": "other"
+  },
+  "https://agencia.petrobras.com.br/w/negocio/petrobras-investe-na-constru%C3%A7%C3%A3o-de-embarca%C3%A7%C3%B5es-com-previs%C3%A3o-de-r-12-bilh%C3%B5es-em-santa-catarina": {
+    "ts": "2026-06-27T08:43:05.223010+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/fishing-boat-sinks-after-collision-with-lpg-carrier-off-south-korea-captain-dead-2-indonesian-crew-go-missing/?utm_source=rss&utm_medium=rss&utm_campaign=fishing-boat-sinks-after-collision-with-lpg-carrier-off-south-korea-captain-dead-2-indonesian-crew-go-missing": {
+    "ts": "2026-06-27T08:43:05.223010+00:00",
+    "type": "highlight"
+  },
+  "https://www.offshore-energy.biz/first-us-subsea-rock-installation-vessel-nears-inaugural-offshore-wind-assignment/": {
+    "ts": "2026-06-27T08:43:05.223010+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/engine-americas-fuel-availability-outlook-25-june/": {
+    "ts": "2026-06-27T08:43:05.223010+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/fim-de-semana-com-oportunidades-de-cursos-empregos-e-estagios-em-grandes-empresas-do-mercado-brasileiro/": {
+    "ts": "2026-06-27T08:43:05.223010+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/technipfmc-brings-integrated-approach-to-var-energis-north-sea-subsea-projects/": {
+    "ts": "2026-06-27T08:43:05.223010+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/tdibrooks-completes-offshore-seismic-540702": {
+    "ts": "2026-06-27T08:43:05.223010+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/equinor-scuttles-japanese-offshore-wind-540694": {
+    "ts": "2026-06-27T08:43:05.223010+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/crude-falls-on-surging-hormuz-shipments/": {
+    "ts": "2026-06-27T08:43:05.223010+00:00",
     "type": "other"
   }
 }
