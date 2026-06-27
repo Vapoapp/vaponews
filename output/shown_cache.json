@@ -7,10 +7,6 @@
     "ts": "2026-06-21T09:57:08.450394+00:00",
     "type": "other"
   },
-  "https://www.tecnologistica.com.br/noticias/portos/21523/porto-de-itajai-amplia-movimentacao-de-cargas-e-anuncia-crescimento-apos-retomada-das-operacoes/": {
-    "ts": "2026-06-20T09:26:34.886939+00:00",
-    "type": "highlight"
-  },
   "https://www.marinelog.com/news/strait-of-hormuz-may-be-open-but-mines-are-still-a-danger/": {
     "ts": "2026-06-20T14:15:06.189931+00:00",
     "type": "highlight"
@@ -18,22 +14,6 @@
   "https://www.cnnbrasil.com.br/nacional/sudeste/rj/nao-foi-acidente-diz-pai-de-youtuber-morto-em-queda-de-helicoptero-no-rj/": {
     "ts": "2026-06-20T14:15:06.189931+00:00",
     "type": "highlight"
-  },
-  "https://maritime-executive.com/article/low-on-fuel-russian-frigate-drifts-in-the-english-channel": {
-    "ts": "2026-06-20T09:26:34.886939+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/540450-aker-bp-gets-green-light-to-drill-north-sea-wildcat-well": {
-    "ts": "2026-06-20T09:26:34.886939+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/540442-tgs-slb-launch-3d-seismic-survey-in-brazil-s-pelotas-basin": {
-    "ts": "2026-06-20T09:26:34.886939+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/greece-introduces-new-digital-system-for-seafarer-certificates/": {
-    "ts": "2026-06-20T09:26:34.886939+00:00",
-    "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/boxships/container-vessel-news-roundup-june-19-deliveries-to-french-and-greek-operators-additional-european-orders-and-more": {
     "ts": "2026-06-21T04:52:10.842731+00:00",
@@ -182,14 +162,6 @@
   "https://www.offshore-energy.biz/shareholders-cast-their-votes-in-favor-of-vantage-drillings-merger-with-eldorado/": {
     "ts": "2026-06-21T09:57:08.450394+00:00",
     "type": "highlight"
-  },
-  "https://www.rigzone.com/news/wire/iran_delays_permanent_peace_talks_after_lebanon_clashes-19-jun-2026-183951-article/": {
-    "ts": "2026-06-20T09:26:34.886939+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/impa-overall-non-compliance-rate-improves-slightly/": {
-    "ts": "2026-06-20T09:26:34.886939+00:00",
-    "type": "other"
   },
   "https://gcaptain.com/irans-new-toll-by-insurance-raises-stakes-in-strait-of-hormuz/": {
     "ts": "2026-06-20T14:15:06.189931+00:00",
@@ -992,7 +964,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/540659-markets-middle-east-osv-market-at-a-crossroads-after-gulf-conflict": {
-    "ts": "2026-06-27T08:43:05.223010+00:00",
+    "ts": "2026-06-27T13:54:04.444329+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/crude-oil-shipments-hormuz-reach-highest-540664": {
@@ -1000,7 +972,7 @@
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/transporte-rodoviario/21561/acidentes-com-transporte-de-produtos-perigosos-caem-4-7-em-sao-paulo-em-2025/": {
-    "ts": "2026-06-27T08:43:05.223010+00:00",
+    "ts": "2026-06-27T13:54:04.444329+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/a-marinha-do-brasil-vai-receber-a-terceira-fragata-da-classe-tamandare-para-reforcar-a-patrulha-na-amazonia-azul/": {
@@ -1020,11 +992,11 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/540671-solarduck-marin-awarded-3-6m-to-advance-offshore-floating-power-hub": {
-    "ts": "2026-06-25T20:09:09.906820+00:00",
+    "ts": "2026-06-27T13:54:04.444329+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/540667-v-r-energi-partners-pump-1-4b-offshore-norway": {
-    "ts": "2026-06-25T20:09:09.906820+00:00",
+    "ts": "2026-06-27T13:54:04.444329+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/video-france-seizes-another-tanker-linked-to-russian-shadow-fleet": {
@@ -1120,7 +1092,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/tanker-news-roundup-june-26-greek-gas-carrier-delivery-brazilian-mr1-orders-and-more": {
-    "ts": "2026-06-26T09:37:13.417935+00:00",
+    "ts": "2026-06-27T13:54:04.444329+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/offshore-wind-revenue-decline-pulls-down-crown-estate-profit": {
@@ -1144,15 +1116,15 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/rodoviario/green-cargo-transvale-teste-caminhoes-gas-biometano-santos": {
-    "ts": "2026-06-27T03:56:35.728789+00:00",
+    "ts": "2026-06-27T13:54:04.444329+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/imo-suspends-evacuation-plan-following-vessel-attack-in-gulf-of-oman/": {
-    "ts": "2026-06-27T08:43:05.223010+00:00",
+    "ts": "2026-06-27T13:54:04.444329+00:00",
     "type": "highlight"
   },
   "https://www.rigzone.com/news/why_is_oil_trading_down_today-26-jun-2026-183996-article/": {
-    "ts": "2026-06-27T08:43:05.223010+00:00",
+    "ts": "2026-06-27T13:54:04.444329+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/canais-acesso-portuarios-dragagem-competitividade-brasil": {
@@ -1200,11 +1172,11 @@
     "type": "other"
   },
   "https://gcaptain.com/trump-says-iran-violated-ceasefire-with-drone-attack-on-ship/": {
-    "ts": "2026-06-27T08:43:05.223010+00:00",
+    "ts": "2026-06-27T13:54:04.444329+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/rising-tensions-in-yemen-threaten-red-sea-transits": {
-    "ts": "2026-06-27T08:43:05.223010+00:00",
+    "ts": "2026-06-27T13:54:04.444329+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/iran-reasserts-right-control-hormuz-540697": {
@@ -1252,15 +1224,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/anp-divulga-lista-de-empresas-que-estao-nos-proximos-ciclos-da-oferta-permanente-e-indica-novos-blocos-da-margem-equatorial/": {
-    "ts": "2026-06-27T08:43:05.223010+00:00",
+    "ts": "2026-06-27T13:54:04.444329+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/u-s-conducts-counterstrike-on-iran-in-retaliation-for-ever-lovely-attack": {
-    "ts": "2026-06-27T08:43:05.223010+00:00",
+    "ts": "2026-06-27T13:54:04.444329+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/iran-reasserts-its-right-to-control-shipping-in-strait-of-hormuz-after-ship-hit-near-oman/": {
-    "ts": "2026-06-27T08:43:05.223010+00:00",
+    "ts": "2026-06-27T13:54:04.444329+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/empresas/modec-e-eld-energy-fazem-mou-para-sistema-de-energia-de-12-mw-em-fpso": {
@@ -1296,7 +1268,7 @@
     "type": "other"
   },
   "https://agencia.petrobras.com.br/w/negocio/petrobras-investe-na-constru%C3%A7%C3%A3o-de-embarca%C3%A7%C3%B5es-com-previs%C3%A3o-de-r-12-bilh%C3%B5es-em-santa-catarina": {
-    "ts": "2026-06-27T08:43:05.223010+00:00",
+    "ts": "2026-06-27T13:54:04.444329+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/fishing-boat-sinks-after-collision-with-lpg-carrier-off-south-korea-captain-dead-2-indonesian-crew-go-missing/?utm_source=rss&utm_medium=rss&utm_campaign=fishing-boat-sinks-after-collision-with-lpg-carrier-off-south-korea-captain-dead-2-indonesian-crew-go-missing": {
@@ -1329,6 +1301,34 @@
   },
   "https://www.hellenicshippingnews.com/crude-falls-on-surging-hormuz-shipments/": {
     "ts": "2026-06-27T08:43:05.223010+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/27/dono-da-outsider-tours-e-preso-novamente.ghtml": {
+    "ts": "2026-06-27T13:54:04.444329+00:00",
+    "type": "highlight"
+  },
+  "https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html": {
+    "ts": "2026-06-27T13:54:04.444329+00:00",
+    "type": "highlight"
+  },
+  "https://www.offshore-energy.biz/totalenergies-and-petronas-embark-on-major-oil-gas-search-in-oceania/": {
+    "ts": "2026-06-27T13:54:04.444329+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/trump-blames-iran-for-foolish-violation-of-ceasefire-agreement-over-ship-attack-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=trump-blames-iran-for-foolish-violation-of-ceasefire-agreement-over-ship-attack-in-strait-of-hormuz": {
+    "ts": "2026-06-27T13:54:04.444329+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/iran-reasserts-control-over-strait-of-hormuz-after-attacking-ship-near-oman-warns-gulf-states-against-backing-us/?utm_source=rss&utm_medium=rss&utm_campaign=iran-reasserts-control-over-strait-of-hormuz-after-attacking-ship-near-oman-warns-gulf-states-against-backing-us": {
+    "ts": "2026-06-27T13:54:04.444329+00:00",
+    "type": "other"
+  },
+  "https://www.marinelog.com/news/massive-shortage-of-stcw-certified-ships-officers-looms/": {
+    "ts": "2026-06-27T13:54:04.444329+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/cm-beyond-the-screen-the-psychosocial-cost-of-always-being-online-at-sea/": {
+    "ts": "2026-06-27T13:54:04.444329+00:00",
     "type": "other"
   }
 }
