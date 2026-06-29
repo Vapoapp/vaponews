@@ -7,16 +7,6 @@
       "risco geopolítico",
       "petróleo e gás"
     ],
-    "summary": "A presença de minas mantém o trânsito abaixo de 10%, com remoção prevista apenas em até 50 dias. Essa limitação prolonga a volatilidade das taxas de afretamento para petroleiros e força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos no comércio global de petróleo. A retomada parcial dos embarques iranianos não altera o cenário operacional imediato, mantendo o risco geopolítico elevado. No offshore, a aprovação da fusão entre Vantage Drilling"
-  },
-  {
-    "date": "2026-06-21",
-    "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10% devido à presença de minas, com remoção prevista em até 50 dias. Essa limitação prolonga a volatilidade das taxas de afretamento para petroleiros e força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos logísticos no comércio global de petróleo. A retomada parcial dos embarques iranianos não altera o cenário operacional imediato, mantendo o risco geopolítico elevado e a incerteza na cad"
   },
   {
@@ -313,5 +303,14 @@
       "risco geopolítico"
     ],
     "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade habitual devido à presença de minas e ataques recentes, com escalada militar entre EUA e Irã. Importadores asiáticos seguem obrigados a usar rotas alternativas mais longas, pressionando tarifas de afretamento para petroleiros e ampliando custos e prazos no transporte de petróleo. A previsão de remoção das minas em até 50 dias indica que a volatilidade operacional persistirá no curto prazo. Além do impacto direto na logística de"
+  },
+  {
+    "date": "2026-06-29",
+    "drivers": [
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com presença de minas e ataques recentes. A necessidade de rotas alternativas mais longas eleva tarifas de afretamento para petroleiros, ampliando custos logísticos e alongando prazos de entrega, especialmente para importadores asiáticos. A previsão de até 50 dias para remoção das minas indica continuidade da volatilidade operacional e do risco geopolítico no curto prazo. A escalada militar entre EUA e Irã, com ataques retali"
   }
 ]
