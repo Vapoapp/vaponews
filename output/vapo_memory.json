@@ -3,17 +3,6 @@
     "date": "2026-06-22",
     "drivers": [
       "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10% devido à presença de minas, com remoção prevista apenas em até 50 dias. Essa restrição mantém a volatilidade das taxas de afretamento para petroleiros e força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos no comércio marítimo de petróleo. A retomada parcial dos embarques iranianos não altera o cenário operacional imediato, mantendo o risco geopolítico elevado. No offshore, a aprovaçã"
-  },
-  {
-    "date": "2026-06-22",
-    "drivers": [
-      "contratos marítimos",
       "logística e portos",
       "risco geopolítico",
       "petróleo e gás"
@@ -315,5 +304,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, impactada por minas e ataques recentes, com previsão de normalização em até 50 dias. Importadores asiáticos continuam a operar via rotas alternativas mais longas, elevando tarifas de afretamento para petroleiros e ampliando custos e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional persiste, dificultando planejamento para operadores offshore e armadores. No mercado de contratos, a prorrogação de afretame"
+  },
+  {
+    "date": "2026-06-30",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade devido a minas e ataques recentes, com previsão de normalização em até 50 dias. Importadores asiáticos continuam a usar rotas alternativas mais longas, elevando tarifas de afretamento para petroleiros e ampliando custos e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional persiste, dificultando o planejamento para operadores offshore e armadores. No mercado de contratos, a prorrogação de afretamen"
   }
 ]
