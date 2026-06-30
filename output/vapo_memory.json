@@ -1,15 +1,5 @@
 [
   {
-    "date": "2026-06-22",
-    "drivers": [
-      "contratos marítimos",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10% devido à presença de minas, com remoção prevista para até 50 dias. Essa limitação mantém a volatilidade das taxas de afretamento para petroleiros e força importadores asiáticos a adotarem rotas multimodais mais longas, elevando custos e prazos no comércio marítimo de petróleo. A retomada parcial dos embarques iranianos não altera a dinâmica operacional imediata, mantendo o risco geopolítico elevado. No setor portuário brasilei"
-  },
-  {
     "date": "2026-06-23",
     "drivers": [
       "contratos marítimos",
@@ -315,5 +305,15 @@
       "risco geopolítico"
     ],
     "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade devido a minas e ataques recentes, com previsão de normalização em até 50 dias. Importadores asiáticos continuam a usar rotas alternativas mais longas, elevando tarifas de afretamento para petroleiros e ampliando custos e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional persiste, dificultando o planejamento para operadores offshore e armadores. No mercado de contratos, a prorrogação de afretamen"
+  },
+  {
+    "date": "2026-06-30",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias devido à presença de minas e ataques recentes. Importadores asiáticos continuam a operar por rotas alternativas mais longas, elevando tarifas de afretamento para petroleiros e ampliando custos e prazos no transporte marítimo. A volatilidade operacional persiste, dificultando o planejamento para operadores offshore e armadores. No mercado de contratos, a prorrogação de afretamentos refle"
   }
 ]

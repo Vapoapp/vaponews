@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-06-30T04:05:23.710043+00:00",
+    "ts": "2026-06-30T09:49:53.661803+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
@@ -292,7 +292,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/vessel-reviews": {
-    "ts": "2026-06-24T09:39:51.947164+00:00",
+    "ts": "2026-06-30T09:49:53.661803+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/column-the-gavel-bangs-justice-is-served-in-london-and-hamburg-but-not-in-the-arabian-sea-part-two-of-two-offshore-accounts": {
@@ -1012,7 +1012,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/column-bang-the-gavel-falls-again-saipem-and-ades-seacor-for-sale-death-penalty-in-cnooc-gabon-corruption-dark-fleet-master-in-the-dock-part-one-of-two-offshore-accounts": {
-    "ts": "2026-06-30T04:05:23.710043+00:00",
+    "ts": "2026-06-30T09:49:53.661803+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/despite-vessel-attacks-oil-lng-loadings-540715": {
@@ -1020,7 +1020,7 @@
     "type": "highlight"
   },
   "https://safety4sea.com/safe-bulkers-launches-its-first-methanol-dual-fuel-bulk-carrier/": {
-    "ts": "2026-06-30T04:05:23.710043+00:00",
+    "ts": "2026-06-30T09:49:53.661803+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/540717-petronas-unit-probes-cause-of-fire-at-offshore-platform-in-malaysia": {
@@ -1076,7 +1076,7 @@
     "type": "highlight"
   },
   "https://gcaptain.com/middle-east-producers-push-on-with-oil-and-lng-loadings-despite-ship-attacks/": {
-    "ts": "2026-06-30T04:05:23.710043+00:00",
+    "ts": "2026-06-30T09:49:53.661803+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/watch-imo-sec-gen-informs-on-the-operational-situation-in-the-strait-of-hormuz/": {
@@ -1192,7 +1192,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/report-hibernia-platform-spill-could-have-caused-serious-casualty": {
-    "ts": "2026-06-30T04:05:23.710043+00:00",
+    "ts": "2026-06-30T09:49:53.661803+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/hormuzs-stalled-recovery-two-strikes-and-suspended-evacuation/": {
@@ -1200,7 +1200,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/540736-duke-energy-to-terminate-nc-offshore-wind-lease": {
-    "ts": "2026-06-30T04:05:23.710043+00:00",
+    "ts": "2026-06-30T09:49:53.661803+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/ep/petrobras-comemora-novo-recorde-de-producao-do-campo-de-buzios": {
@@ -1237,6 +1237,62 @@
   },
   "https://www.offshore-energy.biz/eni-widens-south-american-footprint-with-block-trio-linked-to-argentina-lng/": {
     "ts": "2026-06-30T04:05:23.710043+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/engeman-celebra-primeiros-resultados-na-operacao-das-fabricas-de-fertilizantes-e-ja-se-prepapra-para-proximos-passos/": {
+    "ts": "2026-06-30T09:49:53.661803+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/hormuz-traffic-climbs-as-supertankers-sail-into-persian-gulf/": {
+    "ts": "2026-06-30T09:49:53.661803+00:00",
+    "type": "highlight"
+  },
+  "https://www.nytimes.com/2026/06/30/business/strait-hormuz-ships-iran-war.html": {
+    "ts": "2026-06-30T09:49:53.661803+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/ep/anp-divulga-empresas-aptas-a-participar-dos-proximos-leiloes-de-ep": {
+    "ts": "2026-06-30T09:49:53.661803+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/540753-shell-forecasts-65-surge-in-global-lng-demand-by-2050": {
+    "ts": "2026-06-30T09:49:53.661803+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/bsee-highlights-crane-maintenance-failures-after-personnel-injuries/": {
+    "ts": "2026-06-30T09:49:53.661803+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/shipping-through-hormuz-holds-steady-but-little-clarity-on-peace-talks": {
+    "ts": "2026-06-30T09:49:53.661803+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/boxships/us-tariff-fears-spark-early-holiday-imports-and-higher-shipping-rates": {
+    "ts": "2026-06-30T09:49:53.661803+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/ports/hanseatic-global-terminals-plans-to-acquire-20-per-cent-stake-in-eurogate-hamburg": {
+    "ts": "2026-06-30T09:49:53.661803+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/540721-tgs-gets-exclusive-rights-for-seismic-survey-offshore-brunei": {
+    "ts": "2026-06-30T09:49:53.661803+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/abs-helps-blaze-a-digitization-path-540744": {
+    "ts": "2026-06-30T09:49:53.661803+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/eldoradovantage-merger-signals-continued-540743": {
+    "ts": "2026-06-30T09:49:53.661803+00:00",
+    "type": "other"
+  },
+  "https://www.rigzone.com/news/low_70s_not_a_fair_price_for_oil_analyst_outlines-30-jun-2026-184022-article/": {
+    "ts": "2026-06-30T09:49:53.661803+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/gms-markets-are-entering-a-post-conflict-recalibration/": {
+    "ts": "2026-06-30T09:49:53.661803+00:00",
     "type": "other"
   }
 }
