@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-06-23",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A presença contínua de minas limita o trânsito no Estreito de Ormuz a menos de 10%, prolongando a volatilidade das tarifas de afretamento para petroleiros. Importadores asiáticos seguem obrigados a adotar rotas multimodais mais longas, elevando custos e prazos logísticos no transporte de petróleo. A retomada parcial dos embarques iranianos não reduz o risco geopolítico nem altera a dinâmica operacional imediata na região. No offshore brasileiro, a Petrobras avança com encomenda de quatro petrole"
-  },
-  {
     "date": "2026-06-24",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -315,5 +304,16 @@
       "risco geopolítico"
     ],
     "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade, com normalização prevista em até 50 dias. A continuidade dessa limitação mantém importadores asiáticos forçados a rotas alternativas mais longas, elevando tarifas de afretamento para petroleiros e ampliando custos e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional persiste, dificultando o planejamento de armadores e operadores offshore. No mercado de contratos, a prorrogação de afretamentos ref"
+  },
+  {
+    "date": "2026-07-01",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias. A restrição prolongada força importadores asiáticos a adotarem rotas alternativas mais longas, elevando tarifas de afretamento para petroleiros e ampliando custos e prazos no transporte marítimo de petróleo e gás. Operadores offshore enfrentam volatilidade operacional crescente, dificultando o planejamento e aumentando riscos de atrasos. No mercado de contratos, a Petrobras não recebeu"
   }
 ]
