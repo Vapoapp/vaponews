@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-07-01T04:21:29.799280+00:00",
+    "ts": "2026-07-02T09:21:49.428234+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
@@ -9,14 +9,6 @@
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/audiencia-publica-da-antaq-debate-arrendamento-de-terminal-de-fertilizantes-em-vila-do-conde": {
     "ts": "2026-06-25T14:42:39.213719+00:00",
-    "type": "highlight"
-  },
-  "https://www.oedigital.com/news/540582-brazil-clears-subsea7-saipem-merger-without-conditions": {
-    "ts": "2026-06-25T04:03:21.030017+00:00",
-    "type": "highlight"
-  },
-  "https://splash247.com/poland-eyes-second-gdansk-fsru/": {
-    "ts": "2026-06-25T04:03:21.030017+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/vessel-reviews": {
@@ -43,10 +35,6 @@
     "ts": "2026-06-25T14:42:39.213719+00:00",
     "type": "highlight"
   },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/diana-shipping-secures-new-charter-contract-for-panamax-bulk-carrier": {
-    "ts": "2026-06-25T04:03:21.030017+00:00",
-    "type": "highlight"
-  },
   "https://gcaptain.com/containership-fire-breaks-out-every-17-days-as-misdeclared-cargo-remains-major-threat/": {
     "ts": "2026-06-25T14:42:39.213719+00:00",
     "type": "highlight"
@@ -62,46 +50,6 @@
   "https://www.bairdmaritime.com/shipping/tankers/baltic-exchange-defends-oil-tanker-benchmark-in-court-after-mercuria-claims-war-losses": {
     "ts": "2026-06-25T09:32:43.645037+00:00",
     "type": "highlight"
-  },
-  "https://brasilenergia.com.br/petroleoegas/eventos/cbma-realiza-seminario-no-rio-sobre-arbitragem-maritima": {
-    "ts": "2026-06-25T04:03:21.030017+00:00",
-    "type": "other"
-  },
-  "https://petronoticias.com.br/a-holandesa-exrobotics-lancou-hoje-em-houston-um-robo-de-inspecao-autonoma-da-instalacoes-onshore-e-offshore/": {
-    "ts": "2026-06-25T04:03:21.030017+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/tankers-carrying-five-million-barrels-of-oil-exit-strait-of-hormuz": {
-    "ts": "2026-06-25T04:03:21.030017+00:00",
-    "type": "other"
-  },
-  "https://www.rigzone.com/news/wire/iran_oman_to_coordinate_hormuz_transits-24-jun-2026-183983-article/": {
-    "ts": "2026-06-25T04:03:21.030017+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/540593-enermech-completes-pipeline-decom-job-for-subsea7-in-gulf-of-mexico": {
-    "ts": "2026-06-25T04:03:21.030017+00:00",
-    "type": "other"
-  },
-  "https://www.marinelog.com/news/imo-unveils-long-awaited-hormuz-evacuation-plan/": {
-    "ts": "2026-06-25T04:03:21.030017+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/war-cover-available-for-hormuz-trades-but-transit-challenges-remain-insurers/": {
-    "ts": "2026-06-25T04:03:21.030017+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/container-shipping-market-overview-outlook/": {
-    "ts": "2026-06-25T04:03:21.030017+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/welcome-us-shipping-merrygoround-540627": {
-    "ts": "2026-06-25T04:03:21.030017+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction/saipem-begins-offshore-gran-morgu-operations-in-suriname": {
-    "ts": "2026-06-25T04:03:21.030017+00:00",
-    "type": "other"
   },
   "https://petronoticias.com.br/abdan-comeca-maratona-de-reunioes-com-varias-liderancas-politicas-para-apresentar-novas-propostas-para-o-programa-nuclear-brasileiro/": {
     "ts": "2026-06-26T14:35:37.189010+00:00",
@@ -940,7 +888,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/oman-clarifies-its-stance-on-hormuz-as-talks-with-iran-widen": {
-    "ts": "2026-07-02T04:00:50.955766+00:00",
+    "ts": "2026-07-02T09:21:49.428234+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/hormuz-halfopen-halfclosed-tanker-rates-540773": {
@@ -1084,7 +1032,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/china-deploys-worlds-first-16-mw-tlp-floating-offshore-wind-platform/?utm_source=rss&utm_medium=rss&utm_campaign=china-deploys-worlds-first-16-mw-tlp-floating-offshore-wind-platform": {
-    "ts": "2026-07-01T04:21:29.799280+00:00",
+    "ts": "2026-07-02T09:21:49.428234+00:00",
     "type": "other"
   },
   "https://www.offshore-energy.biz/shells-lng-forecast-anticipates-65-surge-in-demand-by-2050/": {
@@ -1092,7 +1040,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/column-bang-the-gavel-falls-again-saipem-and-ades-seacor-for-sale-death-penalty-in-cnooc-gabon-corruption-dark-fleet-master-in-the-dock-part-two-of-two-offshore-accounts": {
-    "ts": "2026-07-02T04:00:50.955766+00:00",
+    "ts": "2026-07-02T09:21:49.428234+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/ukraine-issues-new-warning-in-letter-to-the-imo-for-ships-aiding-russia": {
@@ -1144,11 +1092,11 @@
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/premio/21582/viracopos-conquista-pela-segunda-vez-premio-internacional-de-aeroporto-de-carga-do-ano/": {
-    "ts": "2026-07-02T04:00:50.955766+00:00",
+    "ts": "2026-07-02T09:21:49.428234+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/dmw-all-40-filipino-seafarers-working-on-attacked-vessels-in-hormuz-remain-safe/": {
-    "ts": "2026-07-02T04:00:50.955766+00:00",
+    "ts": "2026-07-02T09:21:49.428234+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/540812-f-n-energy-gets-offshore-wind-services-job-in-poland": {
@@ -1192,11 +1140,11 @@
     "type": "highlight"
   },
   "https://gcaptain.com/us-and-iran-enter-technical-talks-to-secure-peace-deal-shipping-restart/": {
-    "ts": "2026-07-02T04:00:50.955766+00:00",
+    "ts": "2026-07-02T09:21:49.428234+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/reunioes-tecnicas-para-um-acordo-entre-estados-unidos-e-ira-chegam-a-um-impasse-no-catar-liberacao-de-ormuz-pelo-programa-nuclear/": {
-    "ts": "2026-07-02T04:00:50.955766+00:00",
+    "ts": "2026-07-02T09:21:49.428234+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-july-02-2026/": {
@@ -1236,11 +1184,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/karpowership-expande-a-sua-frota-global-de-embarcacoes-termeletricas-criando-uma-nova-geracao-de-navios/": {
-    "ts": "2026-07-02T04:00:50.955766+00:00",
+    "ts": "2026-07-02T09:21:49.428234+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/one-missing-in-u-s-navy-helicopter-crash-in-arabian-sea": {
-    "ts": "2026-07-02T04:00:50.955766+00:00",
+    "ts": "2026-07-02T09:21:49.428234+00:00",
     "type": "highlight"
   },
   "https://splash247.com/dof-secures-totalenergies-fso-replacement-contract/": {
@@ -1273,6 +1221,50 @@
   },
   "https://www.marineinsight.com/iran-rejects-foreign-role-in-strait-of-hormuz-mine-clearance-says-it-can-secure-shipping-alone/?utm_source=rss&utm_medium=rss&utm_campaign=iran-rejects-foreign-role-in-strait-of-hormuz-mine-clearance-says-it-can-secure-shipping-alone": {
     "ts": "2026-07-02T04:00:50.955766+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/the-danger-of-stories-that-refuse-to-fade/": {
+    "ts": "2026-07-02T09:21:49.428234+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/540862-oil-hits-four-month-low-after-us-iran-doha-talks": {
+    "ts": "2026-07-02T09:21:49.428234+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/chinas-seacon-shipping-names-new-chemical-tanker": {
+    "ts": "2026-07-02T09:21:49.428234+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/pirates-board-and-damage-tanker-south-of-yemen/": {
+    "ts": "2026-07-02T09:21:49.428234+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/540858-norway-seeks-to-avert-offshore-strike-through-mediation": {
+    "ts": "2026-07-02T09:21:49.428234+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/vessel-review-rf-ran-ice-capable-chemical-tanker-fitted-with-intelligent-systems": {
+    "ts": "2026-07-02T09:21:49.428234+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/nkt-completes-expansion-of-danish-power-cable-factory-over-100-new-employees-join/": {
+    "ts": "2026-07-02T09:21:49.428234+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/chinese-firm-to-design-methanol-powered-bulk-carriers-for-local-owner": {
+    "ts": "2026-07-02T09:21:49.428234+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/iran-says-ship-ran-aground-in-unauthorized-hormuz-transit/": {
+    "ts": "2026-07-02T09:21:49.428234+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/classnk-launches-worlds-first-ship-construction-carbon-footprint-verification-notation/?utm_source=rss&utm_medium=rss&utm_campaign=classnk-launches-worlds-first-ship-construction-carbon-footprint-verification-notation": {
+    "ts": "2026-07-02T09:21:49.428234+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/fon-energy-services-secures-multi-year-om-contract-for-polish-offshore-wind-farm/": {
+    "ts": "2026-07-02T09:21:49.428234+00:00",
     "type": "other"
   }
 }

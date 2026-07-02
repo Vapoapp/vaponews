@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-06-24",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A presença contínua de minas mantém o trânsito no Estreito de Ormuz abaixo de 10%, prolongando a volatilidade das tarifas de afretamento para petroleiros. Importadores asiáticos seguem obrigados a adotar rotas alternativas mais longas, elevando custos e prazos logísticos no comércio de petróleo. A liberação recente de alguns navios encalhados alivia parcialmente a oferta global, pressionando para queda nos preços do petróleo, mas sem alterar o risco geopolítico na região. No Brasil, Petrobras e"
-  },
-  {
     "date": "2026-06-25",
     "drivers": [
       "contratos marítimos",
@@ -315,5 +304,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição prolongada força importadores asiáticos a adotarem rotas alternativas mais longas, elevando tarifas de afretamento para petroleiros e ampliando custos e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional dificulta o planejamento de armadores e operadores offshore, aumentando riscos de atrasos e despesas extras. No mercado de contratos, a DOF"
+  },
+  {
+    "date": "2026-07-02",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias, prolongando a necessidade de rotas alternativas para importadores asiáticos. Essa situação eleva tarifas de afretamento para petroleiros, impactando diretamente custos e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional dificulta o planejamento de armadores e operadores offshore, aumentando riscos de atrasos e despesas extras. No mercado de contratos, a Petrob"
   }
 ]
