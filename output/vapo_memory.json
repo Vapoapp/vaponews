@@ -2,17 +2,6 @@
   {
     "date": "2026-06-25",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A presença contínua de minas limita o tráfego no Estreito de Ormuz a menos de 10%, mantendo a volatilidade das tarifas de afretamento para petroleiros. Importadores asiáticos seguem obrigados a usar rotas alternativas mais longas, elevando custos e prazos logísticos sem perspectiva de alívio imediato, já que a remoção das minas está prevista para até 50 dias. A retomada parcial dos embarques iranianos não altera o risco geopolítico nem a dinâmica operacional regional. No Brasil, Petrobras e Tran"
-  },
-  {
-    "date": "2026-06-25",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -315,5 +304,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias, prolongando a necessidade de rotas alternativas para importadores asiáticos. Essa situação eleva tarifas de afretamento para petroleiros, impactando diretamente custos e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional dificulta o planejamento de armadores e operadores offshore, aumentando riscos de atrasos e despesas extras. No mercado de contratos, a Petrob"
+  },
+  {
+    "date": "2026-07-02",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias. Essa limitação obriga importadores asiáticos a adotarem rotas mais longas, elevando tarifas de afretamento para petroleiros e ampliando custos e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional decorrente desse cenário dificulta o planejamento de armadores e operadores offshore, aumentando riscos de atrasos e despesas extras. No mercado de contratos, a substi"
   }
 ]
