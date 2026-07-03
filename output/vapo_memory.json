@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-06-25",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A presença contínua de minas no Estreito de Ormuz restringe o tráfego a menos de 10%, forçando importadores asiáticos a adotar rotas mais longas. Isso mantém a volatilidade das tarifas de afretamento para petroleiros elevada e eleva custos e prazos logísticos, com previsão de alívio apenas após 50 dias, quando a remoção das minas pode ocorrer. A retomada parcial dos embarques iranianos não altera o risco geopolítico nem a dinâmica operacional regional. No Brasil, Petrobras acelera investimentos"
-  },
-  {
     "date": "2026-06-26",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -313,5 +302,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias. A restrição obriga importadores asiáticos a adotarem rotas alternativas mais longas, elevando tarifas de afretamento para petroleiros e ampliando custos operacionais e riscos de atrasos para armadores e operadores offshore. A volatilidade operacional permanece alta, dificultando o planejamento logístico e financeiro no segmento de petróleo e gás. No mercado de contratos, a Petrobras e"
+  },
+  {
+    "date": "2026-07-03",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição prolongada força importadores asiáticos a adotarem rotas alternativas mais longas, elevando tarifas de afretamento para petroleiros e ampliando custos e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional dificulta o planejamento de armadores e operadores offshore, aumentando riscos de atrasos e despesas extras. No mercado de contratos, a Petr"
   }
 ]
