@@ -2,15 +2,6 @@
   {
     "date": "2026-06-26",
     "drivers": [
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A presença contínua de minas e recentes ataques no Estreito de Ormuz restringem o tráfego a menos de 10%, forçando importadores asiáticos a adotar rotas alternativas mais longas. Essa situação mantém a volatilidade das tarifas de afretamento para petroleiros em níveis elevados, impactando diretamente custos e prazos logísticos sem perspectiva de alívio antes de 50 dias. No Golfo, a rejeição iraniana a rotas seguras e a retomada parcial dos embarques não reduzem o risco geopolítico, que segue com"
-  },
-  {
-    "date": "2026-06-26",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -314,5 +305,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição prolongada força importadores asiáticos a adotarem rotas alternativas mais longas, elevando tarifas de afretamento para petroleiros e ampliando custos operacionais e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional aumenta riscos de atrasos e despesas extras para armadores e operadores offshore. No campo de contratos, a Petrobras segue ativ"
+  },
+  {
+    "date": "2026-07-03",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para petroleiros e aumentando custos operacionais no transporte marítimo de petróleo e gás. A volatilidade dificulta o planejamento financeiro e operacional de armadores e operadores offshore, ampliando riscos de atrasos e despesas extras. No campo offshore, a conclusão parcial do casco do FP"
   }
 ]
