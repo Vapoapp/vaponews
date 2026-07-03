@@ -3,17 +3,6 @@
     "date": "2026-06-25",
     "drivers": [
       "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A presença contínua de minas limita o tráfego no Estreito de Ormuz a menos de 10%, forçando importadores asiáticos a adotar rotas alternativas mais longas. Isso mantém a volatilidade das tarifas de afretamento para petroleiros e eleva custos e prazos no transporte marítimo de petróleo, sem perspectiva de alívio antes da remoção das minas, prevista para até 50 dias. A retomada parcial dos embarques iranianos não altera o risco geopolítico nem a dinâmica operacional regional. No mercado de afretam"
-  },
-  {
-    "date": "2026-06-25",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -314,5 +303,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição prolongada obriga importadores asiáticos a adotarem rotas alternativas mais longas, elevando tarifas de afretamento para petroleiros e ampliando custos operacionais e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional aumenta riscos de atrasos e despesas extras para armadores e operadores offshore. No mercado de contratos, a Petrobras e outras em"
+  },
+  {
+    "date": "2026-07-03",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias. A restrição obriga importadores asiáticos a adotarem rotas alternativas mais longas, elevando tarifas de afretamento para petroleiros e ampliando custos operacionais e riscos de atrasos para armadores e operadores offshore. A volatilidade operacional permanece alta, dificultando o planejamento logístico e financeiro no segmento de petróleo e gás. No mercado de contratos, a Petrobras e"
   }
 ]

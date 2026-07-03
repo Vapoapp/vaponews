@@ -11,14 +11,6 @@
     "ts": "2026-07-01T09:58:51.379742+00:00",
     "type": "other"
   },
-  "https://brasilenergia.com.br/petroleoegas/empresas/presidente-da-petrobras-convoca-estaleiros-do-rio-para-licitacoes": {
-    "ts": "2026-06-25T20:09:09.906820+00:00",
-    "type": "highlight"
-  },
-  "https://www.tecnologistica.com.br/noticias/portos/21550/porto-do-acu-realiza-primeira-operacao-de-movimentacao-de-locomotivas-para-exportacao/": {
-    "ts": "2026-06-25T20:09:09.906820+00:00",
-    "type": "other"
-  },
   "https://petronoticias.com.br/petrobras-retoma-obra-da-ufn-iii-e-projeta-dobrar-capacidade-de-suas-fabricas-de-fertilizantes/": {
     "ts": "2026-06-26T04:10:57.435019+00:00",
     "type": "highlight"
@@ -55,20 +47,12 @@
     "ts": "2026-06-27T13:54:04.444329+00:00",
     "type": "highlight"
   },
-  "https://petronoticias.com.br/a-marinha-do-brasil-vai-receber-a-terceira-fragata-da-classe-tamandare-para-reforcar-a-patrulha-na-amazonia-azul/": {
-    "ts": "2026-06-25T20:09:09.906820+00:00",
-    "type": "other"
-  },
   "https://agencia.petrobras.com.br/w/negocio/aviso-de-pauta-presidente-lula-participa-de-visita-%C3%A0s-obras-de-embarca%C3%A7%C3%B5es-da-petrobras-em-itaja%C3%AD-sc-": {
     "ts": "2026-06-27T08:43:05.223010+00:00",
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/desempenho/21560/movimentacao-de-conteineres-no-porto-de-santos-supera-2-4-milhoes-de-teus-ate-maio/": {
     "ts": "2026-06-27T03:56:35.728789+00:00",
-    "type": "other"
-  },
-  "https://g1.globo.com/mundo/noticia/2026/06/25/ira-ataca-navio-de-carga-diz-eua-onu-interrompe-retirada-de-navios-do-estreito-de-ormuz.ghtml": {
-    "ts": "2026-06-25T20:09:09.906820+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/540671-solarduck-marin-awarded-3-6m-to-advance-offshore-floating-power-hub": {
@@ -79,28 +63,8 @@
     "ts": "2026-06-27T13:54:04.444329+00:00",
     "type": "other"
   },
-  "https://www.bairdmaritime.com/shipping/tankers/video-france-seizes-another-tanker-linked-to-russian-shadow-fleet": {
-    "ts": "2026-06-25T20:09:09.906820+00:00",
-    "type": "other"
-  },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
     "ts": "2026-07-02T04:00:50.955766+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/alaskas-hex-acquires-new-offshore-vessel-for-cook-inlet-operations": {
-    "ts": "2026-06-25T20:09:09.906820+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/drilling-production/equinor-scraps-plans-to-electrify-norways-largest-offshore-oil-find": {
-    "ts": "2026-06-25T20:09:09.906820+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/imo-pauses-persian-gulf-evacuations-after-containership-is-attacked": {
-    "ts": "2026-06-25T20:09:09.906820+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/clear-hormuz-not-quite-cargo-ship-reports-540666": {
-    "ts": "2026-06-25T20:09:09.906820+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/edge-green-cargo-e-nimofast-anunciam-plataforma-de-transporte-movida-por-gnl/": {
@@ -944,7 +908,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/column-bang-the-gavel-falls-again-saipem-and-ades-seacor-for-sale-death-penalty-in-cnooc-gabon-corruption-dark-fleet-master-in-the-dock-part-two-of-two-offshore-accounts": {
-    "ts": "2026-07-02T19:39:36.134632+00:00",
+    "ts": "2026-07-03T03:45:38.217101+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/ukraine-issues-new-warning-in-letter-to-the-imo-for-ships-aiding-russia": {
@@ -996,7 +960,7 @@
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/premio/21582/viracopos-conquista-pela-segunda-vez-premio-internacional-de-aeroporto-de-carga-do-ano/": {
-    "ts": "2026-07-02T19:39:36.134632+00:00",
+    "ts": "2026-07-03T03:45:38.217101+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/dmw-all-40-filipino-seafarers-working-on-attacked-vessels-in-hormuz-remain-safe/": {
@@ -1092,7 +1056,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/one-missing-in-u-s-navy-helicopter-crash-in-arabian-sea": {
-    "ts": "2026-07-02T19:39:36.134632+00:00",
+    "ts": "2026-07-03T03:45:38.217101+00:00",
     "type": "highlight"
   },
   "https://splash247.com/dof-secures-totalenergies-fso-replacement-contract/": {
@@ -1132,7 +1096,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/540862-oil-hits-four-month-low-after-us-iran-doha-talks": {
-    "ts": "2026-07-02T14:12:55.657101+00:00",
+    "ts": "2026-07-03T03:45:38.217101+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/chinas-seacon-shipping-names-new-chemical-tanker": {
@@ -1172,15 +1136,15 @@
     "type": "other"
   },
   "https://safety4sea.com/classnk-psc-annual-report-2026-fire-safety-and-ageing-ships-signal-psc-compliance-pressure/": {
-    "ts": "2026-07-02T19:39:36.134632+00:00",
+    "ts": "2026-07-03T03:45:38.217101+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/floating-hydrogen-terminals-edge-closer-to-reality-with-ammonia-cracking-tech-validation/": {
-    "ts": "2026-07-02T19:39:36.134632+00:00",
+    "ts": "2026-07-03T03:45:38.217101+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/editorials/op-ed-iran-won-t-be-able-to-toll-the-strait-of-hormuz-in-the-long-term": {
-    "ts": "2026-07-02T19:39:36.134632+00:00",
+    "ts": "2026-07-03T03:45:38.217101+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/new-us-cuba-sanctions-increase-compliance-risks-for-shipping/": {
@@ -1228,11 +1192,11 @@
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/ep/modec-anuncia-conclusao-de-parte-do-casco-do-fpso-gato-do-mato": {
-    "ts": "2026-07-02T19:39:36.134632+00:00",
+    "ts": "2026-07-03T03:45:38.217101+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/container-vessel-runs-aground-while-transiting-strait-of-hormuz/": {
-    "ts": "2026-07-02T19:39:36.134632+00:00",
+    "ts": "2026-07-03T03:45:38.217101+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/terminais/rocha-terminais-porto-santana-arco-norte": {
@@ -1277,6 +1241,54 @@
   },
   "https://www.bairdmaritime.com/shipping/tankers/europe-gets-tough-on-cameroon-flagged-tankers-moving-russian-oil": {
     "ts": "2026-07-02T19:39:36.134632+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/07/02/cristiano-ronaldo-homenageia-diogo-jota-com-camisa-apos-vitoria-contra-a-croacia-relembre-acidente-que-matou-jogador-portugues.ghtml": {
+    "ts": "2026-07-03T03:45:38.217101+00:00",
+    "type": "highlight"
+  },
+  "https://safety4sea.com/suez-canal-container-terminal-to-operate-on-fully-renewable-electricity/": {
+    "ts": "2026-07-03T03:45:38.217101+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/bernhard-schulte-offshore-takes-delivery-of-fourth-csov-in-series": {
+    "ts": "2026-07-03T03:45:38.217101+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/modec-conclui-construcao-da-secao-dianteira-do-fpso-do-campo-de-gato-do-mato/": {
+    "ts": "2026-07-03T03:45:38.217101+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/portos/porto-santos-100-milhoes-teu-2026": {
+    "ts": "2026-07-03T03:45:38.217101+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/logistica/dhl-ecommerce-trends-report-2026-brasil": {
+    "ts": "2026-07-03T03:45:38.217101+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/ferroviario/vli-etg-fertilizantes-unidade-palmeirante-tocantins": {
+    "ts": "2026-07-03T03:45:38.217101+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/drilling-production/last-minute-wage-deal-averts-norway-offshore-workers-strike": {
+    "ts": "2026-07-03T03:45:38.217101+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/europe-targets-shadow-fleet-tankers-falsely-flying-cameroon-flag-sources-say/": {
+    "ts": "2026-07-03T03:45:38.217101+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/us-sees-10-million-barrels-via-hormuz-sapping-iran-oil-leverage/": {
+    "ts": "2026-07-03T03:45:38.217101+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/540876-shell-enlists-agr-for-workforce-resourcing-off-norway": {
+    "ts": "2026-07-03T03:45:38.217101+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/540872-totalenergies-sells-malaysia-offshore-gas-field-stake-to-inpex": {
+    "ts": "2026-07-03T03:45:38.217101+00:00",
     "type": "other"
   }
 }
