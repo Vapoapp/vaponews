@@ -3,17 +3,6 @@
     "date": "2026-06-27",
     "drivers": [
       "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A presença contínua de minas e ataques recentes no Estreito de Ormuz restringe o tráfego a menos de 10%, forçando importadores asiáticos a usar rotas alternativas mais longas. Essa limitação mantém as tarifas de afretamento para petroleiros elevadas e voláteis, pressionando custos e prazos no transporte marítimo de petróleo. A previsão de remoção das minas em até 50 dias indica que a instabilidade operacional e o risco geopolítico persistirão no curto prazo. No mercado offshore, a queda na deman"
-  },
-  {
-    "date": "2026-06-27",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -317,5 +306,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para petroleiros e ampliando custos operacionais e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional dificulta o planejamento financeiro e aumenta riscos de atrasos e despesas extras para armadores e operadores offshore. No campo offshore brasileiro, a conclusão parcial"
+  },
+  {
+    "date": "2026-07-04",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para petroleiros e aumentando custos e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional dificulta o planejamento financeiro e eleva riscos de atrasos e despesas extras para armadores e operadores offshore. No mercado brasileiro, a conclusão parcial do casco do FPSO Gato"
   }
 ]
