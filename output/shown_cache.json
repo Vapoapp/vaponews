@@ -1,10 +1,10 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-07-04T19:21:48.881663+00:00",
+    "ts": "2026-07-05T03:56:36.541980+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
-    "ts": "2026-06-28T13:59:57.421188+00:00",
+    "ts": "2026-07-05T03:56:36.541980+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/vessel-reviews": {
@@ -15,14 +15,6 @@
     "ts": "2026-07-04T13:45:14.383999+00:00",
     "type": "other"
   },
-  "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/offshore-wind-revenue-decline-pulls-down-crown-estate-profit": {
-    "ts": "2026-06-27T19:36:47.584648+00:00",
-    "type": "other"
-  },
-  "https://www.guiamaritimo.com.br/noticias/rodoviario/green-cargo-transvale-teste-caminhoes-gas-biometano-santos": {
-    "ts": "2026-06-27T19:36:47.584648+00:00",
-    "type": "highlight"
-  },
   "https://safety4sea.com/imo-suspends-evacuation-plan-following-vessel-attack-in-gulf-of-oman/": {
     "ts": "2026-06-28T04:18:59.818432+00:00",
     "type": "highlight"
@@ -31,49 +23,9 @@
     "ts": "2026-06-28T09:18:24.294679+00:00",
     "type": "highlight"
   },
-  "https://www.guiamaritimo.com.br/noticias/portos/canais-acesso-portuarios-dragagem-competitividade-brasil": {
-    "ts": "2026-06-27T19:36:47.584648+00:00",
-    "type": "other"
-  },
-  "https://www.guiamaritimo.com.br/noticias/multimodalidade/brado-logistica-virtu-gnl-caminhoes-gas-natural-maranhao": {
-    "ts": "2026-06-27T19:36:47.584648+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/malaysias-keyfield-secures-charter-contracts-worth-553m": {
-    "ts": "2026-06-27T19:36:47.584648+00:00",
-    "type": "other"
-  },
   "https://splash247.com/dof-books-three-year-subsea-vessel-charter/": {
     "ts": "2026-06-28T09:18:24.294679+00:00",
     "type": "other"
-  },
-  "https://www.oedigital.com/news/540679-as-strait-of-hormuz-opens-oil-falls": {
-    "ts": "2026-06-27T19:36:47.584648+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/multimillion-dollar-job-on-offshore-platform-and-fpso-keeps-aker-solutions-busy-in-canada/": {
-    "ts": "2026-06-27T19:36:47.584648+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/no-leases-high-costs-equinor-walks-away-from-japan-offshore-wind-market": {
-    "ts": "2026-06-27T19:36:47.584648+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/feature-imo-suspends-hormuz-ship-evacuations-after-vessel-attack": {
-    "ts": "2026-06-27T19:36:47.584648+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/case-study-fatal-accident-during-ro-ro-cargo-loading/": {
-    "ts": "2026-06-27T19:36:47.584648+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/trump-says-iran-violated-ceasefire-with-drone-attack-on-ship/": {
-    "ts": "2026-06-27T19:36:47.584648+00:00",
-    "type": "highlight"
-  },
-  "https://maritime-executive.com/article/rising-tensions-in-yemen-threaten-red-sea-transits": {
-    "ts": "2026-06-27T19:36:47.584648+00:00",
-    "type": "highlight"
   },
   "https://www.oedigital.com/news/540689-aker-solutions-inks-sizeable-service-agreement": {
     "ts": "2026-06-28T04:18:59.818432+00:00",
@@ -1148,11 +1100,11 @@
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/var-energi-in-the-clear-to-fire-up-sixth-chapter-of-north-sea-oil-project/": {
-    "ts": "2026-07-04T19:21:48.881663+00:00",
+    "ts": "2026-07-05T03:56:36.541980+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/iran-threatens-forceful-response-to-ships-using-unapproved-routes-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=iran-threatens-forceful-response-to-ships-using-unapproved-routes-in-strait-of-hormuz": {
-    "ts": "2026-07-04T19:21:48.881663+00:00",
+    "ts": "2026-07-05T03:56:36.541980+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/ro/rondonia/noticia/2026/07/03/o-que-se-sabe-sobre-o-caso-da-estudante-de-medicina-presa-apos-atropelamento-que-matou-idoso-em-ro.ghtml": {
@@ -1188,7 +1140,7 @@
     "type": "other"
   },
   "https://gcaptain.com/japan-weighs-return-to-iranian-oil-as-shipping-risks-cloud-sanctions-waiver/": {
-    "ts": "2026-07-03T14:20:36.536039+00:00",
+    "ts": "2026-07-05T03:56:36.541980+00:00",
     "type": "other"
   },
   "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/07/03/cameras-de-seguranca-registram-momento-da-queda-e-explosao-de-aviao-que-deixou-dois-mortos-em-ms.ghtml": {
@@ -1216,7 +1168,7 @@
     "type": "other"
   },
   "https://www.offshore-energy.biz/altera-infrastructure-on-fpso-duty-for-enis-west-african-oil-gas-project/": {
-    "ts": "2026-07-03T19:37:01.316774+00:00",
+    "ts": "2026-07-05T03:56:36.541980+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/lion-shipbrokers-weekly-market-report-week-27-2026/": {
@@ -1224,7 +1176,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/boxships/missile-damage-leaves-cma-cgm-containership-facing-potential-scrapping": {
-    "ts": "2026-07-03T19:37:01.316774+00:00",
+    "ts": "2026-07-05T03:56:36.541980+00:00",
     "type": "other"
   },
   "https://www.marineinsight.com/eu-navies-intercept-russian-shadow-fleet-tankers-falsely-using-cameroons-flag/?utm_source=rss&utm_medium=rss&utm_campaign=eu-navies-intercept-russian-shadow-fleet-tankers-falsely-using-cameroons-flag": {
@@ -1232,7 +1184,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/transpetro-fez-seu-primeiro-abastecimento-com-combustivel-maritimo-com-30-de-conteudo-renovavel/": {
-    "ts": "2026-07-04T19:21:48.881663+00:00",
+    "ts": "2026-07-05T03:56:36.541980+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/iran-warns-oil-tankers-to-use-approved-routes-in-strait-of-hormuz-or-face-a-forceful-response/": {
@@ -1240,11 +1192,11 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/india-objects-to-adani-s-handling-of-msc-s-1-4b-investment": {
-    "ts": "2026-07-04T19:21:48.881663+00:00",
+    "ts": "2026-07-05T03:56:36.541980+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/pesquisas-produzidas-pela-cepetro-para-o-setor-de-petroleo-ganham-impulso-com-a-posse-de-alessandra-gomes-na-direcao/": {
-    "ts": "2026-07-04T03:37:51.532644+00:00",
+    "ts": "2026-07-05T03:56:36.541980+00:00",
     "type": "other"
   },
   "https://brasilenergia.com.br/petroleoegas/recursos-humanos/constellation-fortalece-pipeline-feminino-para-o-offshore": {
@@ -1256,7 +1208,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/mining-firm-acquires-cruise-ship-to-house-project-workers-in-greenland": {
-    "ts": "2026-07-04T03:37:51.532644+00:00",
+    "ts": "2026-07-05T03:56:36.541980+00:00",
     "type": "other"
   },
   "https://splash247.com/container-spot-rates-hit-four-year-highs/": {
@@ -1292,7 +1244,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/france-deploys-naval-mine-clearing-ships-in-hormuz-after-discussions-with-oman/?utm_source=rss&utm_medium=rss&utm_campaign=france-deploys-naval-mine-clearing-ships-in-hormuz-after-discussions-with-oman": {
-    "ts": "2026-07-04T13:45:14.383999+00:00",
+    "ts": "2026-07-05T03:56:36.541980+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/asia-us-container-rates-continue-to-soar-liquid-tanker-rates-steady-to-softer/": {
@@ -1300,7 +1252,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/oil-prices-largely-flat-as-traders-pin-hopes-on-us-iran-peace": {
-    "ts": "2026-07-04T19:21:48.881663+00:00",
+    "ts": "2026-07-05T03:56:36.541980+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/ep/producao-da-brava-aumenta-75-no-2t26": {
@@ -1308,11 +1260,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/a-tramontina-investiu-e-desenvolveu-um-painel-eletronico-para-evitar-explosoes-em-ambientes-industriais/": {
-    "ts": "2026-07-04T19:21:48.881663+00:00",
+    "ts": "2026-07-05T03:56:36.541980+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/cma-cgm-ship-hit-by-missile-in-hormuz-strait-may-go-for-scrapping/": {
-    "ts": "2026-07-04T19:21:48.881663+00:00",
+    "ts": "2026-07-05T03:56:36.541980+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/panama-ship-registry-returns-to-paris-mou-white-list": {
@@ -1325,6 +1277,14 @@
   },
   "https://www.oedigital.com/news/540893-gastech-2026-to-convene-global-energy-leaders-in-bangkok-as-asia-accelerates-demand-lng-investment-and-system-transformation": {
     "ts": "2026-07-04T19:21:48.881663+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction/australia-antitrust-regulator-takes-second-look-at-subsea7-and-saipem-merger-cites-reduced-competition-risk": {
+    "ts": "2026-07-05T03:56:36.541980+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/opec-oil-output-rises-in-june-after-historic-low-as-persian-gulf-producers-bounce-back": {
+    "ts": "2026-07-05T03:56:36.541980+00:00",
     "type": "other"
   }
 }
