@@ -2,17 +2,6 @@
   {
     "date": "2026-06-28",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz segue restrito a menos de 10% da capacidade devido a ataques recentes e presença de minas, elevando tarifas de afretamento para petroleiros e ampliando custos e prazos no transporte marítimo de petróleo. A escalada militar, com ataques retaliatórios dos EUA contra o Irã, indica que a instabilidade operacional e o risco geopolítico permanecerão sem solução no curto prazo. Importadores asiáticos continuam obrigados a usar rotas alternativas mais longas, pressionando"
-  },
-  {
-    "date": "2026-06-28",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -315,5 +304,14 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias. Essa limitação prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para petroleiros e ampliando custos e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional dificulta o planejamento financeiro e aumenta riscos de atrasos e despesas extras para armadores e operadores offshore. A escalada do risco geopolítico é reforçada pelo Irã, que ameaç"
+  },
+  {
+    "date": "2026-07-05",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para petroleiros e ampliando custos operacionais e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional dificulta o planejamento financeiro e aumenta riscos de atrasos e despesas extras para armadores e operadores offshore. A escalada do risco geopolítico é reforçada pelo I"
   }
 ]
