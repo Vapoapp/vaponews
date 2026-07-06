@@ -1,12 +1,5 @@
 [
   {
-    "date": "2026-06-28",
-    "drivers": [
-      "risco geopolítico"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade habitual devido à presença de minas e ataques recentes, com escalada militar entre EUA e Irã. Importadores asiáticos seguem obrigados a usar rotas alternativas mais longas, pressionando tarifas de afretamento para petroleiros e ampliando custos e prazos no transporte de petróleo. A previsão de remoção das minas em até 50 dias indica que a volatilidade operacional persistirá no curto prazo. Além do impacto direto na logística de"
-  },
-  {
     "date": "2026-06-29",
     "drivers": [
       "operações offshore",
@@ -311,5 +304,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias. A restrição prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para petroleiros e ampliando custos logísticos no transporte marítimo de petróleo e gás. A volatilidade operacional dificulta o planejamento financeiro e aumenta o risco de atrasos e despesas extras para armadores e operadores offshore. A escalada do risco geopolítico é reforçada por ameaças iranian"
+  },
+  {
+    "date": "2026-07-06",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição alonga rotas para importadores asiáticos, pressionando tarifas de afretamento para petroleiros e elevando custos operacionais no transporte marítimo de petróleo e gás. A volatilidade operacional dificulta o planejamento financeiro e aumenta riscos de atrasos e despesas extras para armadores e operadores offshore. No mercado offshore, contratos de longo prazo avançam,"
   }
 ]
