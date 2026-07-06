@@ -2,15 +2,6 @@
   {
     "date": "2026-06-29",
     "drivers": [
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com presença de minas e ataques recentes. A necessidade de rotas alternativas mais longas eleva tarifas de afretamento para petroleiros, ampliando custos logísticos e alongando prazos de entrega, especialmente para importadores asiáticos. A previsão de até 50 dias para remoção das minas indica continuidade da volatilidade operacional e do risco geopolítico no curto prazo. A escalada militar entre EUA e Irã, com ataques retali"
-  },
-  {
-    "date": "2026-06-29",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "risco geopolítico",
@@ -315,5 +306,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição alonga rotas para importadores asiáticos, pressionando tarifas de afretamento para petroleiros e elevando custos operacionais no transporte marítimo de petróleo e gás. A volatilidade operacional dificulta o planejamento financeiro e aumenta riscos de atrasos e despesas extras para armadores e operadores offshore. No mercado offshore, contratos de longo prazo avançam,"
+  },
+  {
+    "date": "2026-07-06",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias. Essa limitação prolonga significativamente as rotas para importadores asiáticos, elevando tarifas de afretamento para petroleiros e ampliando custos operacionais no transporte marítimo de petróleo e gás. A volatilidade operacional dificulta o planejamento financeiro e aumenta riscos de atrasos e despesas extras para armadores e operadores offshore. No mercado offshore, contratos de lon"
   }
 ]
