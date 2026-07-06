@@ -15,10 +15,6 @@
     "ts": "2026-07-04T13:45:14.383999+00:00",
     "type": "other"
   },
-  "https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html": {
-    "ts": "2026-06-29T15:55:51.742427+00:00",
-    "type": "highlight"
-  },
   "https://petronoticias.com.br/um-helicoptero-da-saudi-aramco-cai-e-mata-14-funcionarios-da-empresa-perto-da-refinaria-de-ras-tanura/": {
     "ts": "2026-06-29T20:06:32.155390+00:00",
     "type": "highlight"
@@ -43,56 +39,8 @@
     "ts": "2026-06-30T04:05:23.710043+00:00",
     "type": "highlight"
   },
-  "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/28/o-rio-que-viu-o-penta-como-a-cidade-mudou-em-24-anos-entre-2002-e-2026.ghtml": {
-    "ts": "2026-06-29T15:55:51.742427+00:00",
-    "type": "other"
-  },
-  "https://brasilenergia.com.br/petroleoegas/ep/anp-divulga-empresas-aptas-a-participacao-dos-proximos-leiloes-de-ep": {
-    "ts": "2026-06-29T15:55:51.742427+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/lessons-learned-attending-other-duties-while-in-charge-of-watch-is-a-recipe-for-disaster/": {
-    "ts": "2026-06-29T15:55:51.742427+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/u-s-attacks-iran-again-after-drone-hits-panama-flagged-tanker-near-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-attacks-iran-again-after-drone-hits-panama-flagged-tanker-near-hormuz": {
-    "ts": "2026-06-29T15:55:51.742427+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/pakistan-urgently-seeks-lng-as-hormuz-flare-up-chokes-supply/": {
-    "ts": "2026-06-29T15:55:51.742427+00:00",
-    "type": "other"
-  },
   "https://www.tecnologistica.com.br/noticias/transporte-rodoviario/21571/grupo-nimofast-edge-e-green-cargo-lancam-plataforma-de-transporte-rodoviario-movida-a-gnl/": {
     "ts": "2026-06-30T20:05:33.364559+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/540726-dof-extends-charter-for-mpsv-in-australia-for-one-more-year": {
-    "ts": "2026-06-29T15:55:51.742427+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/u-s-iran-agree-to-stop-gulf-attacks-renew-talks-over-hormuz-dispute/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-iran-agree-to-stop-gulf-attacks-renew-talks-over-hormuz-dispute": {
-    "ts": "2026-06-29T15:55:51.742427+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/cosco-inks-mou-coatings-bulk-carriers-540712": {
-    "ts": "2026-06-29T15:55:51.742427+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/russian-warships-linger-in-the-english-channel": {
-    "ts": "2026-06-29T15:55:51.742427+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/540723-ocean-installer-lands-major-north-sea-contract-from-v-r-energi": {
-    "ts": "2026-06-29T15:55:51.742427+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/540711-sbm-offshore-sws-sign-deal-for-seventh-fpso-hull": {
-    "ts": "2026-06-29T15:55:51.742427+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/cma-cgm-containership-uses-iranian-route-through-strait-of-hormuz": {
-    "ts": "2026-06-29T15:55:51.742427+00:00",
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/prorrogado-o-prazo-da-consulta-sobre-a-concessao-do-canal-de-acesso-ao-porto-de-santos": {
@@ -1068,7 +1016,7 @@
     "type": "other"
   },
   "https://gcaptain.com/cargo-ship-reports-attack-off-yemen-adding-to-red-sea-risks/": {
-    "ts": "2026-07-06T15:44:51.711358+00:00",
+    "ts": "2026-07-06T20:05:09.849090+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/cargo-ship-reports-attack-near-hodeidah-yemen": {
@@ -1100,7 +1048,7 @@
     "type": "other"
   },
   "https://safety4sea.com/operation-atalanta-secures-bulk-carrier-following-pirate-attack-off-somalia/": {
-    "ts": "2026-07-06T15:44:51.711358+00:00",
+    "ts": "2026-07-06T20:05:09.849090+00:00",
     "type": "highlight"
   },
   "https://splash247.com/vessel-attacked-off-yemen/": {
@@ -1108,7 +1056,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/540920-norway-averts-offshore-drilling-workers-strike-with-new-wage-deal": {
-    "ts": "2026-07-06T15:44:51.711358+00:00",
+    "ts": "2026-07-06T20:05:09.849090+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/540927-eni-enlists-altera-to-supply-fpso-for-west-african-oil-and-gas-project": {
@@ -1160,15 +1108,15 @@
     "type": "other"
   },
   "https://safety4sea.com/thousands-of-leaked-logins-put-maritime-networks-at-risk/": {
-    "ts": "2026-07-06T15:44:51.711358+00:00",
+    "ts": "2026-07-06T20:05:09.849090+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/desempenho/21599/porto-de-santos-deve-atingir-marca-historica-de-100-milhoes-de-teus-movimentados-em-2026/": {
-    "ts": "2026-07-06T15:44:51.711358+00:00",
+    "ts": "2026-07-06T20:05:09.849090+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/indian-navy-rescues-injured-seafarer-from-oil-tanker-off-mumbai-despite-severe-weather/?utm_source=rss&utm_medium=rss&utm_campaign=indian-navy-rescues-injured-seafarer-from-oil-tanker-off-mumbai-despite-severe-weather": {
-    "ts": "2026-07-06T15:44:51.711358+00:00",
+    "ts": "2026-07-06T20:05:09.849090+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/540934-bernhard-schulte-takes-delivery-of-final-csov-in-new-fleet-series": {
@@ -1213,6 +1161,66 @@
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction/boskalis-christens-recently-acquired-rock-installation-vessel": {
     "ts": "2026-07-06T15:44:51.711358+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/vast-infraestrutura-fecha-novo-acordo-para-fazer-operacoes-de-transbordo-para-a-petrobras-no-porto-do-acu/": {
+    "ts": "2026-07-06T20:05:09.849090+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/cargo-ship-reportedly-attacked-in-red-sea-off-yemen/": {
+    "ts": "2026-07-06T20:05:09.849090+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/performance-shipping-extends-charter-agreement-for-aframax-tanker-with-aramco": {
+    "ts": "2026-07-06T20:05:09.849090+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/equinor-compra-participacao-da-bp-e-assume-100-do-campo-bay-du-norde-no-canada/": {
+    "ts": "2026-07-06T20:05:09.849090+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/equinor-avanca-com-desenvolvimento-de-raia-e-conclui-instalacao-de-equipamento-submarino/": {
+    "ts": "2026-07-06T20:05:09.849090+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/a-otc-2027-tera-a-realizacao-de-uma-outra-feira-simultanea-para-nao-revelar-uma-queda-de-frequencia-a-cada-ano/": {
+    "ts": "2026-07-06T20:05:09.849090+00:00",
+    "type": "other"
+  },
+  "https://brasilenergia.com.br/petroleoegas/ep/equinor-conclui-instalacao-do-plem-do-projeto-raia": {
+    "ts": "2026-07-06T20:05:09.849090+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/performance-shipping-locks-in-39m-aramco-deal/": {
+    "ts": "2026-07-06T20:05:09.849090+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/damico-fixes-mr2-for-two-years/": {
+    "ts": "2026-07-06T20:05:09.849090+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/the-tanker-tycoon-making-millions-on-hormuz-shuttle-runs/": {
+    "ts": "2026-07-06T20:05:09.849090+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/egypts-suez-canal-container-terminal-to-run-on-100-renewable-electricity/": {
+    "ts": "2026-07-06T20:05:09.849090+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/imo-trying-to-improve-safety-of-navigation-off-yemen": {
+    "ts": "2026-07-06T20:05:09.849090+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/windward-daily-report-outbound-vessels-540961": {
+    "ts": "2026-07-06T20:05:09.849090+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/drilling-production/equinor-takes-full-ownership-of-canada-offshore-project-as-bp-exits": {
+    "ts": "2026-07-06T20:05:09.849090+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/israel-targets-bigger-gas-reserves-with-fifth-offshore-search": {
+    "ts": "2026-07-06T20:05:09.849090+00:00",
     "type": "other"
   }
 }
