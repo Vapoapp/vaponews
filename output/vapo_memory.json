@@ -4,16 +4,6 @@
     "drivers": [
       "contratos marítimos",
       "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, impactada por minas e ataques recentes, com previsão de normalização apenas em até 50 dias. A restrição força importadores asiáticos a adotarem rotas alternativas mais longas, elevando tarifas de afretamento para petroleiros e ampliando custos logísticos no transporte de petróleo e gás. A escalada militar entre EUA e Irã mantém a volatilidade operacional, dificultando previsibilidade para operadores offshore e armadores. Apesar d"
-  },
-  {
-    "date": "2026-06-29",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
       "logística e portos",
       "risco geopolítico",
       "petróleo e gás"
@@ -318,5 +308,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com perspectiva de normalização em até 50 dias. Essa restrição alonga rotas para importadores asiáticos, elevando tarifas de afretamento para petroleiros e ampliando custos logísticos e riscos financeiros para armadores e operadores offshore. A volatilidade operacional dificulta o planejamento e aumenta a exposição a atrasos e despesas extras. No mercado de afretamento, contratos de longo prazo avançam, como a renovação do pe"
+  },
+  {
+    "date": "2026-07-07",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de normalização em até 50 dias. Essa limitação prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para petroleiros e ampliando custos operacionais no transporte marítimo de petróleo e gás. A volatilidade operacional aumenta riscos financeiros e dificulta o planejamento para armadores e operadores offshore. No mercado de contratos, há avanço em acordos de longo prazo, refletindo busca por"
   }
 ]
