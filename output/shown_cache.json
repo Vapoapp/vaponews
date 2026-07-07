@@ -896,11 +896,11 @@
     "type": "other"
   },
   "https://safety4sea.com/thousands-of-leaked-logins-put-maritime-networks-at-risk/": {
-    "ts": "2026-07-07T14:48:38.563314+00:00",
+    "ts": "2026-07-07T20:03:32.922737+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/desempenho/21599/porto-de-santos-deve-atingir-marca-historica-de-100-milhoes-de-teus-movimentados-em-2026/": {
-    "ts": "2026-07-07T14:48:38.563314+00:00",
+    "ts": "2026-07-07T20:03:32.922737+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/indian-navy-rescues-injured-seafarer-from-oil-tanker-off-mumbai-despite-severe-weather/?utm_source=rss&utm_medium=rss&utm_campaign=indian-navy-rescues-injured-seafarer-from-oil-tanker-off-mumbai-despite-severe-weather": {
@@ -952,7 +952,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/vast-infraestrutura-fecha-novo-acordo-para-fazer-operacoes-de-transbordo-para-a-petrobras-no-porto-do-acu/": {
-    "ts": "2026-07-07T14:48:38.563314+00:00",
+    "ts": "2026-07-07T20:03:32.922737+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/cargo-ship-reportedly-attacked-in-red-sea-off-yemen/": {
@@ -1064,15 +1064,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/mercado-vive-expectativa-final-sobre-resultado-da-licitacao-do-fpso-de-albacora-no-dia-27-de-julho/": {
-    "ts": "2026-07-07T14:48:38.563314+00:00",
+    "ts": "2026-07-07T20:03:32.922737+00:00",
     "type": "highlight"
   },
   "https://splash247.com/projectile-strike-tests-fragile-hormuz-recovery/": {
-    "ts": "2026-07-07T14:48:38.563314+00:00",
+    "ts": "2026-07-07T20:03:32.922737+00:00",
     "type": "highlight"
   },
   "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html": {
-    "ts": "2026-07-07T14:48:38.563314+00:00",
+    "ts": "2026-07-07T20:03:32.922737+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/internacional/equinor-assume-controle-total-do-projeto-bay-du-nord": {
@@ -1124,15 +1124,15 @@
     "type": "other"
   },
   "https://safety4sea.com/indian-coast-guard-secures-drifting-tankers-off-mumbai-coast/": {
-    "ts": "2026-07-07T14:48:38.563314+00:00",
+    "ts": "2026-07-07T20:03:32.922737+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/71-seafarers-killed-and-17-bulk-carriers-lost-in-10-years-intercargo-report-reveals/?utm_source=rss&utm_medium=rss&utm_campaign=71-seafarers-killed-and-17-bulk-carriers-lost-in-10-years-intercargo-report-reveals": {
-    "ts": "2026-07-07T14:48:38.563314+00:00",
+    "ts": "2026-07-07T20:03:32.922737+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/540988-oceaneering-wins-offshore-brazil-contract-with-petrobras-for-rov-services": {
-    "ts": "2026-07-07T14:48:38.563314+00:00",
+    "ts": "2026-07-07T20:03:32.922737+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/gas/abpip-fara-estudo-sobre-gas-release-e-acesso-as-infraestruturas": {
@@ -1177,6 +1177,54 @@
   },
   "https://www.hellenicshippingnews.com/eight-japanese-ships-depart-hormuz-via-passage-near-iran/": {
     "ts": "2026-07-07T14:48:38.563314+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/two-vessels-struck-near-hormuz-lng-tanker-540992": {
+    "ts": "2026-07-07T20:03:32.922737+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/petrobras-assina-acordo-com-anp-para-adequar-mais-de-300-pocos-maritimos/": {
+    "ts": "2026-07-07T20:03:32.922737+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/hormuz-strikes-threaten-progress-on-europes-de-mining-mission/": {
+    "ts": "2026-07-07T20:03:32.922737+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/ep/anp-e-petrobras-firmam-acordo-para-adequacao-de-335-pocos": {
+    "ts": "2026-07-07T20:03:32.922737+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/oceaneering-fecha-contrato-para-prestar-servicos-de-veiculos-operados-remotamente-para-a-petrobras/": {
+    "ts": "2026-07-07T20:03:32.922737+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/two-more-tankers-struck-as-irgc-asserts-that-it-controls-hormuz": {
+    "ts": "2026-07-07T20:03:32.922737+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/qatar-condemns-iran-over-tanker-attack-near-strait-of-hormuz/": {
+    "ts": "2026-07-07T20:03:32.922737+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/stealthgas-resolves-insurance-claim-for-lpg-carrier-damaged-in-blast": {
+    "ts": "2026-07-07T20:03:32.922737+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/diana-shipping-inc-announces-time-charter-contract-for-m-v-medusa-with-aquavita/": {
+    "ts": "2026-07-07T20:03:32.922737+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/saudi-arabia-ships-34-million-barrels-of-crude-through-hormuz-since-june-ceasefire/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-arabia-ships-34-million-barrels-of-crude-through-hormuz-since-june-ceasefire": {
+    "ts": "2026-07-07T20:03:32.922737+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/portos/21606/super-terminais-investe-r-120-milhoes-em-guindastes-eletricos-e-amplia-capacidade-operacional-em-manaus/": {
+    "ts": "2026-07-07T20:03:32.922737+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/vessels-rigs/fposfpsos/saipem-wins-2b-indonesian-fpso-contract": {
+    "ts": "2026-07-07T20:03:32.922737+00:00",
     "type": "other"
   }
 }
