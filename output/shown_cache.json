@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-07-07T03:54:07.841733+00:00",
+    "ts": "2026-07-08T08:37:04.641228+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
@@ -12,12 +12,8 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-07-04T13:45:14.383999+00:00",
+    "ts": "2026-07-08T08:37:04.641228+00:00",
     "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/column-bang-the-gavel-falls-again-saipem-and-ades-seacor-for-sale-death-penalty-in-cnooc-gabon-corruption-dark-fleet-master-in-the-dock-part-one-of-two-offshore-accounts": {
-    "ts": "2026-07-01T04:21:29.799280+00:00",
-    "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/prorrogado-o-prazo-da-consulta-sobre-a-concessao-do-canal-de-acesso-ao-porto-de-santos": {
     "ts": "2026-07-01T14:47:49.481988+00:00",
@@ -51,10 +47,6 @@
     "ts": "2026-07-01T20:03:02.252355+00:00",
     "type": "highlight"
   },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/cosco-shipping-development-places-order-for-24-new-bulkers": {
-    "ts": "2026-07-01T04:21:29.799280+00:00",
-    "type": "highlight"
-  },
   "https://www.gov.br/antaq/pt-br/noticias/2026/riscos-globais-portuarios-estudo-identifica-desafios-que-devem-moldar-os-portos-brasileiros-ate-2035": {
     "ts": "2026-07-02T04:00:50.955766+00:00",
     "type": "other"
@@ -71,36 +63,8 @@
     "ts": "2026-07-01T09:58:51.379742+00:00",
     "type": "highlight"
   },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/two-cyprus-offshore-gas-fields-declared-marketable-in-new-deal": {
-    "ts": "2026-07-01T04:21:29.799280+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/aker-solutions-deliver-hvdc-substructure-540790": {
-    "ts": "2026-07-01T04:21:29.799280+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/newbuilding-orders-going-strong/": {
-    "ts": "2026-07-01T04:21:29.799280+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/540772-sable-offshore-launches-400m-equity-and-convertible-notes-offering": {
-    "ts": "2026-07-01T04:21:29.799280+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/540765-qatarenergy-exxonmobil-declare-cyprus-gas-discoveries-commercial": {
-    "ts": "2026-07-01T04:21:29.799280+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/540763-rhino-confirms-connected-oil-reservoir-at-namibia-s-capricornus-discovery": {
-    "ts": "2026-07-01T04:21:29.799280+00:00",
-    "type": "other"
-  },
   "https://www.marineinsight.com/china-deploys-worlds-first-16-mw-tlp-floating-offshore-wind-platform/?utm_source=rss&utm_medium=rss&utm_campaign=china-deploys-worlds-first-16-mw-tlp-floating-offshore-wind-platform": {
     "ts": "2026-07-02T09:21:49.428234+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/shells-lng-forecast-anticipates-65-surge-in-demand-by-2050/": {
-    "ts": "2026-07-01T04:21:29.799280+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/column-bang-the-gavel-falls-again-saipem-and-ades-seacor-for-sale-death-penalty-in-cnooc-gabon-corruption-dark-fleet-master-in-the-dock-part-two-of-two-offshore-accounts": {
@@ -852,11 +816,11 @@
     "type": "other"
   },
   "https://safety4sea.com/thousands-of-leaked-logins-put-maritime-networks-at-risk/": {
-    "ts": "2026-07-08T03:20:40.626552+00:00",
+    "ts": "2026-07-08T08:37:04.641228+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/desempenho/21599/porto-de-santos-deve-atingir-marca-historica-de-100-milhoes-de-teus-movimentados-em-2026/": {
-    "ts": "2026-07-08T03:20:40.626552+00:00",
+    "ts": "2026-07-08T08:37:04.641228+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/indian-navy-rescues-injured-seafarer-from-oil-tanker-off-mumbai-despite-severe-weather/?utm_source=rss&utm_medium=rss&utm_campaign=indian-navy-rescues-injured-seafarer-from-oil-tanker-off-mumbai-despite-severe-weather": {
@@ -1020,7 +984,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/mercado-vive-expectativa-final-sobre-resultado-da-licitacao-do-fpso-de-albacora-no-dia-27-de-julho/": {
-    "ts": "2026-07-08T03:20:40.626552+00:00",
+    "ts": "2026-07-08T08:37:04.641228+00:00",
     "type": "highlight"
   },
   "https://splash247.com/projectile-strike-tests-fragile-hormuz-recovery/": {
@@ -1028,7 +992,7 @@
     "type": "highlight"
   },
   "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html": {
-    "ts": "2026-07-08T03:20:40.626552+00:00",
+    "ts": "2026-07-08T08:37:04.641228+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/internacional/equinor-assume-controle-total-do-projeto-bay-du-nord": {
@@ -1080,11 +1044,11 @@
     "type": "other"
   },
   "https://safety4sea.com/indian-coast-guard-secures-drifting-tankers-off-mumbai-coast/": {
-    "ts": "2026-07-08T03:20:40.626552+00:00",
+    "ts": "2026-07-08T08:37:04.641228+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/71-seafarers-killed-and-17-bulk-carriers-lost-in-10-years-intercargo-report-reveals/?utm_source=rss&utm_medium=rss&utm_campaign=71-seafarers-killed-and-17-bulk-carriers-lost-in-10-years-intercargo-report-reveals": {
-    "ts": "2026-07-08T03:20:40.626552+00:00",
+    "ts": "2026-07-08T08:37:04.641228+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/540988-oceaneering-wins-offshore-brazil-contract-with-petrobras-for-rov-services": {
@@ -1140,7 +1104,7 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/petrobras-assina-acordo-com-anp-para-adequar-mais-de-300-pocos-maritimos/": {
-    "ts": "2026-07-08T03:20:40.626552+00:00",
+    "ts": "2026-07-08T08:37:04.641228+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/hormuz-strikes-threaten-progress-on-europes-de-mining-mission/": {
@@ -1184,11 +1148,11 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/norwegian-diver-receives-imo-bravery-award-for-a-selfless-rescue-attempt": {
-    "ts": "2026-07-08T03:20:40.626552+00:00",
+    "ts": "2026-07-08T08:37:04.641228+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/fewer-accidents-evolving-risks-intercargo-highlights-progress-and-priorities-in-bulk-carrier-safety/": {
-    "ts": "2026-07-08T03:20:40.626552+00:00",
+    "ts": "2026-07-08T08:37:04.641228+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/mundo/noticia/2026/07/07/explosoes-ira.ghtml": {
@@ -1221,6 +1185,46 @@
   },
   "https://gcaptain.com/iran-mining-hormuz-to-funnel-ships-into-its-waters-u-s-navy-says/": {
     "ts": "2026-07-08T03:20:40.626552+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/541018-petrobras-pays-58m-for-extended-wells-compliance-deadline": {
+    "ts": "2026-07-08T08:37:04.641228+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/vessel-attacks-force-hormuz-tanker-uturns-541017": {
+    "ts": "2026-07-08T08:37:04.641228+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/u-s-revokes-iran-oil-waiver-after-hormuz-attacks-launches-new-military-strikes/": {
+    "ts": "2026-07-08T08:37:04.641228+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/maritime-ship-service-esta-expandindo-sua-atuacao-para-todos-os-portos-do-pais-e-aposta-em-digitalizacao/": {
+    "ts": "2026-07-08T08:37:04.641228+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/oceaneering-and-petrobras-extend-collaboration-through-four-year-rov-agreement/": {
+    "ts": "2026-07-08T08:37:04.641228+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/07/08/petroleiros-atacados-e-reacao-dos-eua-com-bombardeio-por-que-guerra-voltou-a-esquentar-no-estreito-de-ormuz.ghtml": {
+    "ts": "2026-07-08T08:37:04.641228+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/hormuz-returns-to-crisis-mode-after-tanker-attacks-trigger-us-strikes/": {
+    "ts": "2026-07-08T08:37:04.641228+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/lng-tanker-al-rekayyat-at-risk-of-exploding-after-attack-near-hormuz/": {
+    "ts": "2026-07-08T08:37:04.641228+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/lng-tanker-arrives-at-mexicos-energia-costa-azul-terminal-as-first-export-nears/": {
+    "ts": "2026-07-08T08:37:04.641228+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/windward-offshore-takes-delivery-of-third-hybrid-csov-in-series": {
+    "ts": "2026-07-08T08:37:04.641228+00:00",
     "type": "other"
   }
 }
