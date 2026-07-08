@@ -8,17 +8,6 @@
       "logística e portos",
       "risco geopolítico"
     ],
-    "summary": "O tráfego no Estreito de Ormuz permanece restrito a menos de 10% da capacidade, com previsão de normalização em até 50 dias devido à presença de minas e ataques recentes. Essa limitação força importadores asiáticos a adotarem rotas alternativas mais longas, elevando tarifas de afretamento para petroleiros e ampliando custos e prazos no transporte de petróleo e gás. A volatilidade operacional persiste, dificultando o planejamento para operadores offshore e armadores. Apesar do aumento recente no"
-  },
-  {
-    "date": "2026-06-30",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com normalização prevista somente em até 50 dias. A restrição prolongada força importadores asiáticos a adotarem rotas alternativas mais longas, elevando tarifas de afretamento para petroleiros e ampliando custos logísticos no transporte de petróleo e gás. A volatilidade operacional dificulta o planejamento de armadores e operadores offshore, ampliando riscos de atrasos e custos extras. No mercado de contratos, a prorrogação"
   },
   {
@@ -320,5 +309,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição alonga rotas para importadores asiáticos, elevando tarifas de afretamento para petroleiros e ampliando custos logísticos no transporte de petróleo e gás. Ataques recentes a navios, incluindo petroleiros e embarcações de GNL, reforçam o risco geopolítico e a volatilidade operacional, dificultando o planejamento financeiro e aumentando a exposição a atrasos e despesas extr"
+  },
+  {
+    "date": "2026-07-08",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição alonga rotas para importadores asiáticos, pressionando tarifas de afretamento para petroleiros e ampliando custos logísticos no transporte de petróleo e gás. O impacto direto recai sobre armadores e operadores offshore, que enfrentam maior exposição a atrasos e despesas extras. Ataques recentes a petroleiros e navios de GNL reforçam a volatilidade operacional e o ris"
   }
 ]
