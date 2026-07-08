@@ -7,10 +7,6 @@
     "ts": "2026-07-05T03:56:36.541980+00:00",
     "type": "other"
   },
-  "https://www.bairdmaritime.com/offshore/vessel-reviews": {
-    "ts": "2026-07-01T09:58:51.379742+00:00",
-    "type": "other"
-  },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
     "ts": "2026-07-08T08:37:04.641228+00:00",
     "type": "other"
@@ -23,16 +19,8 @@
     "ts": "2026-07-01T20:03:02.252355+00:00",
     "type": "highlight"
   },
-  "https://petronoticias.com.br/engeman-celebra-primeiros-resultados-na-operacao-das-fabricas-de-fertilizantes-e-ja-se-prepapra-para-proximos-passos/": {
-    "ts": "2026-07-01T09:58:51.379742+00:00",
-    "type": "highlight"
-  },
   "https://gcaptain.com/hormuz-traffic-climbs-as-supertankers-sail-into-persian-gulf/": {
     "ts": "2026-07-01T14:47:49.481988+00:00",
-    "type": "highlight"
-  },
-  "https://www.nytimes.com/2026/06/30/business/strait-hormuz-ships-iran-war.html": {
-    "ts": "2026-07-01T09:58:51.379742+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/oman-clarifies-its-stance-on-hormuz-as-talks-with-iran-widen": {
@@ -59,10 +47,6 @@
     "ts": "2026-07-02T04:00:50.955766+00:00",
     "type": "highlight"
   },
-  "https://www.hellenicshippingnews.com/diana-shipping-inc-announces-extension-of-financing-to-support-acquisition-of-all-outstanding-shares-of-genco-shipping-trading/": {
-    "ts": "2026-07-01T09:58:51.379742+00:00",
-    "type": "highlight"
-  },
   "https://www.marineinsight.com/china-deploys-worlds-first-16-mw-tlp-floating-offshore-wind-platform/?utm_source=rss&utm_medium=rss&utm_campaign=china-deploys-worlds-first-16-mw-tlp-floating-offshore-wind-platform": {
     "ts": "2026-07-02T09:21:49.428234+00:00",
     "type": "other"
@@ -71,49 +55,9 @@
     "ts": "2026-07-03T03:45:38.217101+00:00",
     "type": "highlight"
   },
-  "https://maritime-executive.com/article/ukraine-issues-new-warning-in-letter-to-the-imo-for-ships-aiding-russia": {
-    "ts": "2026-07-01T09:58:51.379742+00:00",
-    "type": "highlight"
-  },
   "https://petronoticias.com.br/em-meio-a-crise-do-estreito-de-ormuz-governos-assumem-compromisso-de-tornar-a-eficiencia-energetica-como-politica-fundamental/": {
     "ts": "2026-07-02T04:00:50.955766+00:00",
     "type": "highlight"
-  },
-  "https://brasilenergia.com.br/petroleoegas/logistica/plsvs-ficam-sem-proposta-comercial": {
-    "ts": "2026-07-01T09:58:51.379742+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/cosco-orders-24-bulkers-in-1-27bn-leasing-play/": {
-    "ts": "2026-07-01T09:58:51.379742+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/more-work-in-australian-waters-to-keep-dofs-vessel-busy-for-another-year/": {
-    "ts": "2026-07-01T09:58:51.379742+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/eidesviks-2012-built-vessel-lines-up-multi-year-gig-with-aker-bp/": {
-    "ts": "2026-07-01T09:58:51.379742+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/hmm-ship-damaged-in-iran-missile-attack-to-exit-hormuz-in-july": {
-    "ts": "2026-07-01T09:58:51.379742+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/adani-ports-says-mscs-til-to-invest-1-4-billion-for-49-stake-in-vizhinjam-port-shares-gain-over-1/": {
-    "ts": "2026-07-01T09:58:51.379742+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/540806-aker-solutions-secures-offshore-wind-hvdc-substructure-contract": {
-    "ts": "2026-07-01T09:58:51.379742+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/540802-transocean-nets-1b-rig-deals-with-equinor-offshore-norway": {
-    "ts": "2026-07-01T09:58:51.379742+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/the-worlds-heaviest-ship-lifts-oil-platforms-without-a-single-crane/?utm_source=rss&utm_medium=rss&utm_campaign=the-worlds-heaviest-ship-lifts-oil-platforms-without-a-single-crane": {
-    "ts": "2026-07-01T09:58:51.379742+00:00",
-    "type": "other"
   },
   "https://www.marinelink.com/news/us-iran-discuss-peace-deal-restarting-540838": {
     "ts": "2026-07-01T14:47:49.481988+00:00",
@@ -1004,7 +948,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/iran-resumes-attacks-on-merchant-shipping-with-strike-on-a-tanker": {
-    "ts": "2026-07-07T09:51:29.694836+00:00",
+    "ts": "2026-07-08T14:26:42.149973+00:00",
     "type": "other"
   },
   "https://gcaptain.com/qatari-lng-ship-struck-in-strait-of-hormuz-testing-us-talks/": {
@@ -1104,7 +1048,7 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/petrobras-assina-acordo-com-anp-para-adequar-mais-de-300-pocos-maritimos/": {
-    "ts": "2026-07-08T08:37:04.641228+00:00",
+    "ts": "2026-07-08T14:26:42.149973+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/hormuz-strikes-threaten-progress-on-europes-de-mining-mission/": {
@@ -1148,7 +1092,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/norwegian-diver-receives-imo-bravery-award-for-a-selfless-rescue-attempt": {
-    "ts": "2026-07-08T08:37:04.641228+00:00",
+    "ts": "2026-07-08T14:26:42.149973+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/fewer-accidents-evolving-risks-intercargo-highlights-progress-and-priorities-in-bulk-carrier-safety/": {
@@ -1188,11 +1132,11 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/541018-petrobras-pays-58m-for-extended-wells-compliance-deadline": {
-    "ts": "2026-07-08T08:37:04.641228+00:00",
+    "ts": "2026-07-08T14:26:42.149973+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/vessel-attacks-force-hormuz-tanker-uturns-541017": {
-    "ts": "2026-07-08T08:37:04.641228+00:00",
+    "ts": "2026-07-08T14:26:42.149973+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/u-s-revokes-iran-oil-waiver-after-hormuz-attacks-launches-new-military-strikes/": {
@@ -1225,6 +1169,70 @@
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/windward-offshore-takes-delivery-of-third-hybrid-csov-in-series": {
     "ts": "2026-07-08T08:37:04.641228+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/damaged-qatari-lng-tanker-awaits-salvage-after-strike-near-hormuz/": {
+    "ts": "2026-07-08T14:26:42.149973+00:00",
+    "type": "highlight"
+  },
+  "https://safety4sea.com/china-accelerates-electrification-of-inland-shipping/": {
+    "ts": "2026-07-08T14:26:42.149973+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/otan-passa-a-apoiar-os-estados-unidos-contra-o-ira-depois-dos-ataques-em-ormuz-mas-armas-quimicas-preocupam/": {
+    "ts": "2026-07-08T14:26:42.149973+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/petrobras-picks-oceaneering-for-rov-services/": {
+    "ts": "2026-07-08T14:26:42.149973+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/shipping-incident-projectile-hits-lng-carrier-in-strait-of-hormuz/": {
+    "ts": "2026-07-08T14:26:42.149973+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/3-tankers-including-qatari-lng-ship-attacked-in-hormuz-doha-calls-iranian-action-unacceptable/?utm_source=rss&utm_medium=rss&utm_campaign=3-tankers-including-qatari-lng-ship-attacked-in-hormuz-doha-calls-iranian-action-unacceptable": {
+    "ts": "2026-07-08T14:26:42.149973+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/541039-hill-v-jackson-offshore-and-the-delegation-clause": {
+    "ts": "2026-07-08T14:26:42.149973+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/strait-of-hormuz-shipping-threat-raised-to-severe-after-recent-tanker-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=strait-of-hormuz-shipping-threat-raised-to-severe-after-recent-tanker-attacks": {
+    "ts": "2026-07-08T14:26:42.149973+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/imo-urges-ships-to-avoid-hormuz-as-u-s-strikes-iran-over-vessel-attacks/": {
+    "ts": "2026-07-08T14:26:42.149973+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/soybeans-extend-rally-to-7-week-high/": {
+    "ts": "2026-07-08T14:26:42.149973+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/portos/21613/movecta-investira-mais-de-r-100-milhoes-para-ampliar-operacao-no-porto-de-suape/": {
+    "ts": "2026-07-08T14:26:42.149973+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/us-strikes-back-at-iranian-oil-trade-following-maritime-attacks-reimposes-sanctions": {
+    "ts": "2026-07-08T14:26:42.149973+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/hayfin-sells-11-vessel-ahts-fleet/": {
+    "ts": "2026-07-08T14:26:42.149973+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/diana-shipping-secures-new-charter-contract-for-kamsarmax-bulker": {
+    "ts": "2026-07-08T14:26:42.149973+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/angelicoussis-group-expands-fleet-connectivity-on-more-than-140-vessels/": {
+    "ts": "2026-07-08T14:26:42.149973+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/karpowership-backed-kinetics-kicks-off-work-on-flagship-high-capacity-fsru/": {
+    "ts": "2026-07-08T14:26:42.149973+00:00",
     "type": "other"
   }
 }
