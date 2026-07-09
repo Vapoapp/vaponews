@@ -2,17 +2,6 @@
   {
     "date": "2026-07-01",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição prolongada força importadores asiáticos a adotarem rotas mais longas, elevando tarifas de afretamento para petroleiros e ampliando custos e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional dificulta o planejamento de armadores e operadores offshore, aumentando riscos de atrasos e custos extras. No mercado de contratos, a Petrobras mantém pr"
-  },
-  {
-    "date": "2026-07-01",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -320,5 +309,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição alonga rotas para importadores asiáticos, pressionando tarifas de afretamento para petroleiros e ampliando custos logísticos no transporte de petróleo e gás. O impacto recai diretamente sobre armadores e operadores offshore, que enfrentam maior exposição a atrasos e despesas extras. Os recentes ataques a petroleiros e navios de GNL intensificam a volatilidade operaci"
+  },
+  {
+    "date": "2026-07-09",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição alonga rotas para importadores asiáticos, elevando tarifas de afretamento para petroleiros e ampliando custos operacionais no transporte marítimo de petróleo e gás. A volatilidade operacional aumenta a exposição a atrasos e despesas extras para armadores e operadores offshore. Ataques recentes a petroleiros e navios de GNL, incluindo ações militares dos EUA contra embarc"
   }
 ]
