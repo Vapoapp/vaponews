@@ -19,10 +19,6 @@
     "ts": "2026-07-03T09:27:03.320337+00:00",
     "type": "highlight"
   },
-  "https://petronoticias.com.br/reunioes-tecnicas-para-um-acordo-entre-estados-unidos-e-ira-chegam-a-um-impasse-no-catar-liberacao-de-ormuz-pelo-programa-nuclear/": {
-    "ts": "2026-07-02T14:12:55.657101+00:00",
-    "type": "highlight"
-  },
   "https://petronoticias.com.br/karpowership-expande-a-sua-frota-global-de-embarcacoes-termeletricas-criando-uma-nova-geracao-de-navios/": {
     "ts": "2026-07-02T19:39:36.134632+00:00",
     "type": "highlight"
@@ -37,10 +33,6 @@
   },
   "https://www.oedigital.com/news/540862-oil-hits-four-month-low-after-us-iran-doha-talks": {
     "ts": "2026-07-04T08:44:29.992050+00:00",
-    "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/chinas-seacon-shipping-names-new-chemical-tanker": {
-    "ts": "2026-07-02T14:12:55.657101+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/vessel-review-rf-ran-ice-capable-chemical-tanker-fitted-with-intelligent-systems": {
@@ -63,40 +55,12 @@
     "ts": "2026-07-03T14:20:36.536039+00:00",
     "type": "other"
   },
-  "https://gcaptain.com/saudi-aramco-ramps-up-exports-from-ras-tanura-switches-to-spot-sales-sources-say/": {
-    "ts": "2026-07-02T14:12:55.657101+00:00",
-    "type": "other"
-  },
   "https://www.oedigital.com/news/540864-modec-advances-construction-of-brazil-bound-gato-do-mato-fpso": {
     "ts": "2026-07-04T03:37:51.532644+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/540879-vattenfall-installs-first-monopile-on-germany-s-largest-offshore-wind-farm": {
     "ts": "2026-07-04T03:37:51.532644+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/itf-and-jng-extend-strait-of-hormuz-warlike-operations-area-designation/": {
-    "ts": "2026-07-02T14:12:55.657101+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/iran-says-container-ship-runs-aground-during-unauthorised-strait-of-hormuz-transit/?utm_source=rss&utm_medium=rss&utm_campaign=iran-says-container-ship-runs-aground-during-unauthorised-strait-of-hormuz-transit": {
-    "ts": "2026-07-02T14:12:55.657101+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/us-iran-agree-to-one-week-strait-of-hormuz-de-escalation-ahead-of-americas-250th-anniversary/?utm_source=rss&utm_medium=rss&utm_campaign=us-iran-agree-to-one-week-strait-of-hormuz-de-escalation-ahead-of-americas-250th-anniversary": {
-    "ts": "2026-07-02T14:12:55.657101+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/dof-to-deploy-four-vessels-for-fso-replacement-contract-with-totalenergies/": {
-    "ts": "2026-07-02T14:12:55.657101+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/fleetwork-posidonia-signals-turning-point-540885": {
-    "ts": "2026-07-02T14:12:55.657101+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/gps-interference-off-california-offers-warning-for-global-shipping/": {
-    "ts": "2026-07-02T14:12:55.657101+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/bidding-announcement-of-psv-bourbon-liberty-152-with-bareboat-charter/": {
@@ -984,7 +948,7 @@
     "type": "highlight"
   },
   "https://safety4sea.com/china-accelerates-electrification-of-inland-shipping/": {
-    "ts": "2026-07-09T09:49:20.327982+00:00",
+    "ts": "2026-07-09T15:21:19.891206+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/otan-passa-a-apoiar-os-estados-unidos-contra-o-ira-depois-dos-ataques-em-ormuz-mas-armas-quimicas-preocupam/": {
@@ -1020,7 +984,7 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21613/movecta-investira-mais-de-r-100-milhoes-para-ampliar-operacao-no-porto-de-suape/": {
-    "ts": "2026-07-08T14:26:42.149973+00:00",
+    "ts": "2026-07-09T15:21:19.891206+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/us-strikes-back-at-iranian-oil-trade-following-maritime-attacks-reimposes-sanctions": {
@@ -1044,7 +1008,7 @@
     "type": "other"
   },
   "https://brasilenergia.com.br/petroleoegas/combustiveis/rio-de-janeiro-mantem-icms-reduzido-sobre-qav-ate-2027": {
-    "ts": "2026-07-09T09:49:20.327982+00:00",
+    "ts": "2026-07-09T15:21:19.891206+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/chevron-oil-tanker-hit-drone-541047": {
@@ -1104,7 +1068,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/photos-u-s-hits-iranian-ports-and-military-bases-in-new-wave-of-strikes": {
-    "ts": "2026-07-09T09:49:20.327982+00:00",
+    "ts": "2026-07-09T15:21:19.891206+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/petroleo-volta-a-se-aproximar-dos-80-dolares-apos-novos-ataques-dos-eua-contra-o-ira/": {
@@ -1152,11 +1116,11 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/541066-hormuz-standoff-risks-chronic-instability-for-gulf-oil-flows": {
-    "ts": "2026-07-09T09:49:20.327982+00:00",
+    "ts": "2026-07-09T15:21:19.891206+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/u-s-and-iran-continue-to-exchange-strikes-in-dispute-over-hormuz": {
-    "ts": "2026-07-09T09:49:20.327982+00:00",
+    "ts": "2026-07-09T15:21:19.891206+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/economia/noticia/2026/07/09/o-que-e-o-estreito-de-ormuz-fundamental-para-petroleo-mundial-disputa-por-passagem-motiva-novos-ataques-entre-eua-e-ira.ghtml": {
@@ -1197,6 +1161,66 @@
   },
   "https://www.bairdmaritime.com/offshore/offshore-vessel-news-roundup-july-9-cable-layers-for-asia-csovs-for-europe-and-new-construction-support-ships-trials": {
     "ts": "2026-07-09T09:49:20.327982+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/petrobras-strikes-deal-to-bring-335-offshore-wells-into-compliance/": {
+    "ts": "2026-07-09T15:21:19.891206+00:00",
+    "type": "highlight"
+  },
+  "https://www.rigzone.com/news/hormuz_tanker_traffic_stops-09-jul-2026-184099-article/": {
+    "ts": "2026-07-09T15:21:19.891206+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/u-s-escalates-strikes-on-iran-after-attacks-on-commercial-ships/": {
+    "ts": "2026-07-09T15:21:19.891206+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/quatro-grandes-empresas-do-setor-de-petroleo-se-unem-para-desenvolver-uma-tecnologia-inedita-para-exploracao-offshore/": {
+    "ts": "2026-07-09T15:21:19.891206+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/estados-unidos-atacam-80-alvos-militares-no-ira-que-ataca-bahrein-kuwait-e-jordania-e-volta-a-fechar-o-estreito-de-ormuz/": {
+    "ts": "2026-07-09T15:21:19.891206+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/ataque-americano-a-90-alvos-na-costa-do-ira-inaugura-nova-fase-do-confronto-no-oriente-medio/": {
+    "ts": "2026-07-09T15:21:19.891206+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/hormuzs-ncags-corridor-under-attack-two-laden-tankers-struck-overnight/": {
+    "ts": "2026-07-09T15:21:19.891206+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/4-oil-and-lng-tankers-turn-back-while-attempting-to-transit-strait-of-hormuz-after-renewed-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=4-oil-and-lng-tankers-turn-back-while-attempting-to-transit-strait-of-hormuz-after-renewed-attacks": {
+    "ts": "2026-07-09T15:21:19.891206+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/tanker-vessel-contracting-hits-record-541093": {
+    "ts": "2026-07-09T15:21:19.891206+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/541084-van-oord-sumitomo-sign-hvdc-framework-deal-for-scottish-interconnector": {
+    "ts": "2026-07-09T15:21:19.891206+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/imo-condemns-attacks-on-commercial-ships-in-strait-of-hormuz-urges-vessels-to-avoid-transit/?utm_source=rss&utm_medium=rss&utm_campaign=imo-condemns-attacks-on-commercial-ships-in-strait-of-hormuz-urges-vessels-to-avoid-transit": {
+    "ts": "2026-07-09T15:21:19.891206+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/541073-us-moves-forward-with-delfin-lng-deepwater-port-license": {
+    "ts": "2026-07-09T15:21:19.891206+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/shipping-tycoon-cashes-in-on-hormuz-crisis-with-120m-windfall-from-buying-oil-tankers/": {
+    "ts": "2026-07-09T15:21:19.891206+00:00",
+    "type": "other"
+  },
+  "https://www.nytimes.com/2026/07/09/business/oil-shipping-stocks-gas-iran-hormuz.html": {
+    "ts": "2026-07-09T15:21:19.891206+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/new-north-sea-partnership-targets-irm-decommissioning-and-construction/": {
+    "ts": "2026-07-09T15:21:19.891206+00:00",
     "type": "other"
   }
 }
