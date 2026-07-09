@@ -2,17 +2,6 @@
   {
     "date": "2026-07-02",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias, prolongando a necessidade de rotas alternativas para importadores asiáticos. Essa situação eleva tarifas de afretamento para petroleiros, impactando diretamente custos e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional dificulta o planejamento de armadores e operadores offshore, aumentando riscos de atrasos e despesas extras. No mercado de contratos, a Petrob"
-  },
-  {
-    "date": "2026-07-02",
-    "drivers": [
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -320,5 +309,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição alonga rotas para importadores asiáticos, pressionando tarifas de afretamento para petroleiros e elevando custos operacionais no transporte marítimo de petróleo e gás. A volatilidade operacional aumenta a exposição a atrasos e despesas extras para armadores e operadores offshore. A escalada dos ataques entre EUA e Irã, incluindo bombardeios a portos e bases militares"
+  },
+  {
+    "date": "2026-07-09",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de normalização em até 50 dias. A restrição força alongamento das rotas para importadores asiáticos, elevando tarifas de afretamento para petroleiros e aumentando custos operacionais no transporte marítimo de petróleo e gás. Armadores e operadores offshore enfrentam maior exposição a atrasos e despesas extras, agravadas pela escalada dos ataques entre EUA e Irã na região. No campo de investimentos, Petrobras avan"
   }
 ]
