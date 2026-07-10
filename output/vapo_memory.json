@@ -2,16 +2,6 @@
   {
     "date": "2026-07-03",
     "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias. A restrição obriga importadores asiáticos a adotarem rotas alternativas mais longas, elevando tarifas de afretamento para petroleiros e ampliando custos operacionais e riscos de atrasos para armadores e operadores offshore. A volatilidade operacional permanece alta, dificultando o planejamento logístico e financeiro no segmento de petróleo e gás. No mercado de contratos, a Petrobras e"
-  },
-  {
-    "date": "2026-07-03",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -321,5 +311,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de recuperação em até 50 dias. Essa restrição força alongamento das rotas para importadores asiáticos, pressionando tarifas de afretamento e elevando custos operacionais no transporte marítimo de petróleo e gás. A volatilidade aumenta riscos de atrasos e despesas extras para armadores e operadores offshore. A escalada dos ataques entre EUA e Irã intensifica o risco geopolítico na região, elevando custos de seguro"
+  },
+  {
+    "date": "2026-07-10",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de recuperação em até 50 dias. Essa restrição obriga importadores asiáticos a alongar rotas, elevando tarifas de afretamento para petroleiros e pressionando custos operacionais no transporte marítimo de petróleo e gás. A volatilidade operacional aumenta riscos de atrasos e despesas extras para armadores e operadores offshore. A escalada dos ataques entre EUA e Irã intensifica o risco geopolítico na região, elevan"
   }
 ]
