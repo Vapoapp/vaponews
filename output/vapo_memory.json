@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-07-04",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para petroleiros e aumentando custos e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional dificulta o planejamento financeiro e eleva riscos de atrasos e despesas extras para armadores e operadores offshore. No mercado brasileiro, a conclusão parcial do casco do FPSO Gato"
-  },
-  {
     "date": "2026-07-05",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -322,5 +311,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com recuperação prevista em até 50 dias. Essa limitação obriga importadores asiáticos a alongar rotas, elevando tarifas de afretamento para petroleiros VLCC e pressionando custos operacionais no transporte marítimo de petróleo e gás. A oferta restrita de navios no Oeste, combinada com resistência de armadores locais, reforça a tensão na cadeia logística. O agravamento do conflito entre EUA e Irã intensifica o risco geopolític"
+  },
+  {
+    "date": "2026-07-12",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de recuperação em até 50 dias. A restrição obriga importadores asiáticos a alongar rotas, elevando tarifas de afretamento para petroleiros VLCC e pressionando custos operacionais no transporte marítimo de petróleo e gás. A oferta restrita de navios no Oeste e a resistência de armadores locais ampliam a tensão na cadeia logística. O agravamento do conflito entre EUA e Irã intensifica o risco geopolítico regional, elev"
   }
 ]
