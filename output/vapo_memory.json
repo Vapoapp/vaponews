@@ -1,14 +1,5 @@
 [
   {
-    "date": "2026-07-05",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para petroleiros e ampliando custos operacionais e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional dificulta o planejamento financeiro e aumenta riscos de atrasos e despesas extras para armadores e operadores offshore. A escalada do risco geopolítico é reforçada pelo I"
-  },
-  {
     "date": "2026-07-06",
     "drivers": [
       "logística e portos",
@@ -321,5 +312,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de recuperação em até 50 dias. A restrição obriga importadores asiáticos a alongar rotas, elevando tarifas de afretamento para petroleiros VLCC e pressionando custos operacionais no transporte marítimo de petróleo e gás. A oferta restrita de navios na região, aliada à resistência de armadores locais, reforça a tensão na cadeia logística. A retomada dos ataques entre EUA e Irã, incluindo ofensivas contra plataform"
+  },
+  {
+    "date": "2026-07-13",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de recuperação em até 50 dias. Essa restrição obriga importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte marítimo de petróleo e gás. A oferta restrita de navios na região, somada à resistência dos armadores locais, intensifica a tensão logística. O agravamento do conflito entre EUA e Irã mantém o risco geopolítico elevado, com mais de 140 ataques"
   }
 ]
