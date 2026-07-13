@@ -1,18 +1,10 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-07-12T19:12:28.180281+00:00",
+    "ts": "2026-07-13T19:35:31.009566+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
     "ts": "2026-07-13T09:36:52.675864+00:00",
-    "type": "highlight"
-  },
-  "https://petronoticias.com.br/a-tramontina-investiu-e-desenvolveu-um-painel-eletronico-para-evitar-explosoes-em-ambientes-industriais/": {
-    "ts": "2026-07-06T15:44:51.711358+00:00",
-    "type": "highlight"
-  },
-  "https://maritime-executive.com/article/putin-s-yacht-is-headed-for-the-arctic-out-of-ukraine-s-reach": {
-    "ts": "2026-07-06T15:44:51.711358+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/cargo-ship-reports-attack-off-yemen-adding-to-red-sea-risks/": {
@@ -42,50 +34,6 @@
   "https://www.marineinsight.com/indian-navy-rescues-injured-seafarer-from-oil-tanker-off-mumbai-despite-severe-weather/?utm_source=rss&utm_medium=rss&utm_campaign=indian-navy-rescues-injured-seafarer-from-oil-tanker-off-mumbai-despite-severe-weather": {
     "ts": "2026-07-07T03:54:07.841733+00:00",
     "type": "highlight"
-  },
-  "https://www.oedigital.com/news/540934-bernhard-schulte-takes-delivery-of-final-csov-in-new-fleet-series": {
-    "ts": "2026-07-06T15:44:51.711358+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/540938-bp-exists-canada-s-bay-du-nord-project-as-equinor-acquires-full-interest": {
-    "ts": "2026-07-06T15:44:51.711358+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/chinese-player-picks-up-fpso-job-for-enis-african-oil-gas-project/": {
-    "ts": "2026-07-06T15:44:51.711358+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/oil-gas-tankers-cross-strait-of-hormuz-via-route-near-omani-coast/?utm_source=rss&utm_medium=rss&utm_campaign=oil-gas-tankers-cross-strait-of-hormuz-via-route-near-omani-coast": {
-    "ts": "2026-07-06T15:44:51.711358+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/fire-on-bulk-carrier-carrying-scrap-brought-under-control-at-port-of-gdansk/": {
-    "ts": "2026-07-06T15:44:51.711358+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/imo-council-opens-with-maritime-security-hormuz-and-piracy-high-on-agenda/": {
-    "ts": "2026-07-06T15:44:51.711358+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/shell-feeds-vietnams-lng-appetite-through-deal-with-pv-gas/": {
-    "ts": "2026-07-06T15:44:51.711358+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/adnoc-deepens-crude-discounts-as-persian-gulf-supply-battle-intensifies": {
-    "ts": "2026-07-06T15:44:51.711358+00:00",
-    "type": "other"
-  },
-  "https://www.navaltoday.com/2026/07/06/type-32-frigate-program-scrapped-as-uk-embraces-hybrid-navy-concept/": {
-    "ts": "2026-07-06T15:44:51.711358+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/column-bp-beyond-petroleum-beyond-perdition-or-just-bad-performance-part-one-of-two": {
-    "ts": "2026-07-06T15:44:51.711358+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction/boskalis-christens-recently-acquired-rock-installation-vessel": {
-    "ts": "2026-07-06T15:44:51.711358+00:00",
-    "type": "other"
   },
   "https://petronoticias.com.br/vast-infraestrutura-fecha-novo-acordo-para-fazer-operacoes-de-transbordo-para-a-petrobras-no-porto-do-acu/": {
     "ts": "2026-07-07T20:03:32.922737+00:00",
@@ -1104,7 +1052,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/estados-unidos-ja-fizeram-mais-de-140-ataques-contra-alvos-militares-do-ira-e-dizem-que-estreito-de-ormuz-esta-aberto/": {
-    "ts": "2026-07-13T14:45:55.364958+00:00",
+    "ts": "2026-07-13T19:35:31.009566+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/us-launches-fresh-iran-strikes-as-tehran-declares-hormuz-closed/": {
@@ -1128,7 +1076,7 @@
     "type": "other"
   },
   "https://gcaptain.com/u-s-launches-third-round-of-strikes-on-iran-after-containership-attack-in-strait-of-hormuz/": {
-    "ts": "2026-07-13T14:45:55.364958+00:00",
+    "ts": "2026-07-13T19:35:31.009566+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/kuwait-reports-drone-attack-on-offshore-oil-platform": {
@@ -1136,7 +1084,7 @@
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/the-ceasefire-collapses-80-strikes-a-revoked-oil-waiver-and-a-1-95-million-barrel-u-turn/": {
-    "ts": "2026-07-13T14:45:55.364958+00:00",
+    "ts": "2026-07-13T19:35:31.009566+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/hormuz-transits-remain-subdued-asia-us-container-rates-rise-tanker-rates-steady-to-softer/": {
@@ -1156,11 +1104,11 @@
     "type": "other"
   },
   "https://splash247.com/petrobras-rises-as-unipecs-tanker-dominance-weakens/": {
-    "ts": "2026-07-13T14:45:55.364958+00:00",
+    "ts": "2026-07-13T19:35:31.009566+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/541147-hormuz-traffic-falls-to-five-week-low-as-tensions-escalate": {
-    "ts": "2026-07-13T14:45:55.364958+00:00",
+    "ts": "2026-07-13T19:35:31.009566+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/boxships/chinas-ningbo-ocean-takes-delivery-of-second-electric-containership-in-series": {
@@ -1208,15 +1156,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/dof-deve-comecar-hoje-os-preparativos-para-remocao-de-navio-encalhado-em-macae/": {
-    "ts": "2026-07-13T14:45:55.364958+00:00",
+    "ts": "2026-07-13T19:35:31.009566+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/541167-velesto-terminates-naga-3-jack-up-rig-sale-to-indonesian-firm": {
-    "ts": "2026-07-13T14:45:55.364958+00:00",
+    "ts": "2026-07-13T19:35:31.009566+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/indian-seafarer-missing-after-attack-sets-container-ship-gfs-galaxy-on-fire-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=indian-seafarer-missing-after-attack-sets-container-ship-gfs-galaxy-on-fire-in-strait-of-hormuz": {
-    "ts": "2026-07-13T14:45:55.364958+00:00",
+    "ts": "2026-07-13T19:35:31.009566+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/empresas/ecovix-recebe-mais-uma-remessa-de-aco-dos-navios-handy": {
@@ -1261,6 +1209,54 @@
   },
   "https://safety4sea.com/ics-calls-for-greater-recognition-of-seafarers-role-in-global-stability/": {
     "ts": "2026-07-13T14:45:55.364958+00:00",
+    "type": "other"
+  },
+  "https://brasilenergia.com.br/petroleoegas/seguranca-operacional/dof-pretende-iniciar-processo-de-desencalhe-de-navio-em-macae": {
+    "ts": "2026-07-13T19:35:31.009566+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/seafarers-killed-and-injured-as-russia-and-ukraine-intensify-strikes": {
+    "ts": "2026-07-13T19:35:31.009566+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/tanker-approached-multiple-small-boats-541174": {
+    "ts": "2026-07-13T19:35:31.009566+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/retomada-do-polo-naval-de-rio-grande-entra-em-nova-etapa-com-a-chegada-de-mais-11-mil-toneladas-de-aco-para-navios-da-transpetro/": {
+    "ts": "2026-07-13T19:35:31.009566+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/abdan-lanca-amanha-agenda-nuclear-para-um-brasil-competitivo-durante-evento-na-sede-da-firjan/": {
+    "ts": "2026-07-13T19:35:31.009566+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/07/13/vamos-tomar-o-estreito-de-ormuz-diz-trump-sobre-guerra-contra-ira.ghtml": {
+    "ts": "2026-07-13T19:35:31.009566+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/ukraine-damages-90-russian-ships-in-one-week": {
+    "ts": "2026-07-13T19:35:31.009566+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/ics-greek-branch-and-alba-graduate-business-school-successfully-complete-the-6th-summer-school-shipping-in-action/": {
+    "ts": "2026-07-13T19:35:31.009566+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction/slb-onesubsea-secures-contract-for-offshore-project-in-ivory-coast": {
+    "ts": "2026-07-13T19:35:31.009566+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/trump-reinstates-hormuz-blockade-new-541177": {
+    "ts": "2026-07-13T19:35:31.009566+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/iran-declares-strait-of-hormuz-closed-again-after-attacking-commercial-ship/?utm_source=rss&utm_medium=rss&utm_campaign=iran-declares-strait-of-hormuz-closed-again-after-attacking-commercial-ship": {
+    "ts": "2026-07-13T19:35:31.009566+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/diana-presses-on-with-genco-takeover-push/": {
+    "ts": "2026-07-13T19:35:31.009566+00:00",
     "type": "other"
   }
 }
