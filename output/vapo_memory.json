@@ -2,15 +2,6 @@
   {
     "date": "2026-07-05",
     "drivers": [
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias. Essa limitação prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para petroleiros e ampliando custos e prazos no transporte marítimo de petróleo e gás. A volatilidade operacional dificulta o planejamento financeiro e aumenta riscos de atrasos e despesas extras para armadores e operadores offshore. A escalada do risco geopolítico é reforçada pelo Irã, que ameaç"
-  },
-  {
-    "date": "2026-07-05",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "logística e portos",
       "risco geopolítico"
@@ -320,5 +311,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com previsão de recuperação em até 50 dias. Essa restrição força importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos no transporte marítimo de petróleo e gás. A oferta restrita de navios na região, combinada com a resistência dos armadores locais, intensifica a tensão na cadeia logística. O agravamento do conflito entre EUA e Irã mantém o risco geopolítico elevado, impactando d"
+  },
+  {
+    "date": "2026-07-13",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de recuperação em até 50 dias. A restrição obriga importadores asiáticos a alongar rotas, elevando tarifas de afretamento para petroleiros VLCC e pressionando custos operacionais no transporte marítimo de petróleo e gás. A oferta restrita de navios na região, aliada à resistência de armadores locais, reforça a tensão na cadeia logística. A retomada dos ataques entre EUA e Irã, incluindo ofensivas contra plataform"
   }
 ]
