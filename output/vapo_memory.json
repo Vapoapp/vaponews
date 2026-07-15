@@ -8,17 +8,6 @@
       "logística e portos",
       "risco geopolítico"
     ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição alonga rotas para importadores asiáticos, elevando tarifas de afretamento para petroleiros e ampliando custos operacionais no transporte marítimo de petróleo e gás. A volatilidade operacional e o risco geopolítico aumentam a exposição a atrasos e despesas extras para armadores e operadores offshore. Os ataques recentes a petroleiros e navios de GNL reforçam o ambiente de"
-  },
-  {
-    "date": "2026-07-08",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição alonga rotas para importadores asiáticos, elevando tarifas de afretamento para petroleiros e ampliando custos logísticos no transporte de petróleo e gás. A volatilidade operacional afeta diretamente armadores e operadores offshore, que enfrentam maior exposição a atrasos e despesas extras. Os ataques recentes a petroleiros e navios de GNL, incluindo um incidente com"
   },
   {
@@ -323,5 +312,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com previsão de recuperação em até 50 dias. A escalada dos ataques iranianos a petroleiros, combinada à taxa de 20% sobre cargas, força alongamento de rotas para importadores asiáticos, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte marítimo de petróleo e gás. A oferta restrita de navios na região e a resistência dos armadores locais ampliam a tensão na cadeia logística. No setor offshore, o ac"
+  },
+  {
+    "date": "2026-07-15",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação prevista apenas em até 50 dias. A escalada dos ataques iranianos a petroleiros e a imposição de taxa de 20% sobre cargas forçam importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte marítimo de petróleo e gás. A oferta restrita de navios na região e a resistência dos armadores locais ampliam a tensão na cadeia logística. No âmbito portuário, a renova"
   }
 ]

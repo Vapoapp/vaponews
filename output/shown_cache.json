@@ -7,10 +7,6 @@
     "ts": "2026-07-13T09:36:52.675864+00:00",
     "type": "highlight"
   },
-  "https://maritime-executive.com/article/iran-resumes-attacks-on-merchant-shipping-with-strike-on-a-tanker": {
-    "ts": "2026-07-08T14:26:42.149973+00:00",
-    "type": "other"
-  },
   "https://petronoticias.com.br/petrobras-assina-acordo-com-anp-para-adequar-mais-de-300-pocos-maritimos/": {
     "ts": "2026-07-08T19:41:03.116474+00:00",
     "type": "highlight"
@@ -27,10 +23,6 @@
     "ts": "2026-07-09T09:49:20.327982+00:00",
     "type": "highlight"
   },
-  "https://www.marinelink.com/news/vessel-attacks-force-hormuz-tanker-uturns-541017": {
-    "ts": "2026-07-08T14:26:42.149973+00:00",
-    "type": "highlight"
-  },
   "https://gcaptain.com/damaged-qatari-lng-tanker-awaits-salvage-after-strike-near-hormuz/": {
     "ts": "2026-07-09T09:49:20.327982+00:00",
     "type": "highlight"
@@ -43,48 +35,12 @@
     "ts": "2026-07-09T09:49:20.327982+00:00",
     "type": "highlight"
   },
-  "https://splash247.com/petrobras-picks-oceaneering-for-rov-services/": {
-    "ts": "2026-07-08T14:26:42.149973+00:00",
-    "type": "other"
-  },
   "https://www.offshore-energy.biz/shipping-incident-projectile-hits-lng-carrier-in-strait-of-hormuz/": {
     "ts": "2026-07-10T09:44:51.230189+00:00",
     "type": "other"
   },
-  "https://www.marineinsight.com/3-tankers-including-qatari-lng-ship-attacked-in-hormuz-doha-calls-iranian-action-unacceptable/?utm_source=rss&utm_medium=rss&utm_campaign=3-tankers-including-qatari-lng-ship-attacked-in-hormuz-doha-calls-iranian-action-unacceptable": {
-    "ts": "2026-07-08T14:26:42.149973+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/541039-hill-v-jackson-offshore-and-the-delegation-clause": {
-    "ts": "2026-07-08T14:26:42.149973+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/strait-of-hormuz-shipping-threat-raised-to-severe-after-recent-tanker-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=strait-of-hormuz-shipping-threat-raised-to-severe-after-recent-tanker-attacks": {
-    "ts": "2026-07-08T14:26:42.149973+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/imo-urges-ships-to-avoid-hormuz-as-u-s-strikes-iran-over-vessel-attacks/": {
-    "ts": "2026-07-08T14:26:42.149973+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/soybeans-extend-rally-to-7-week-high/": {
-    "ts": "2026-07-08T14:26:42.149973+00:00",
-    "type": "other"
-  },
   "https://www.tecnologistica.com.br/noticias/portos/21613/movecta-investira-mais-de-r-100-milhoes-para-ampliar-operacao-no-porto-de-suape/": {
     "ts": "2026-07-09T15:21:19.891206+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/us-strikes-back-at-iranian-oil-trade-following-maritime-attacks-reimposes-sanctions": {
-    "ts": "2026-07-08T14:26:42.149973+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/hayfin-sells-11-vessel-ahts-fleet/": {
-    "ts": "2026-07-08T14:26:42.149973+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/diana-shipping-secures-new-charter-contract-for-kamsarmax-bulker": {
-    "ts": "2026-07-08T14:26:42.149973+00:00",
     "type": "other"
   },
   "https://safety4sea.com/angelicoussis-group-expands-fleet-connectivity-on-more-than-140-vessels/": {
@@ -1068,7 +1024,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/iran-piles-on-pressure-and-targets-tanker-off-omani-lng-terminal": {
-    "ts": "2026-07-15T13:52:44.989997+00:00",
+    "ts": "2026-07-15T19:18:56.671701+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/india-lodges-protest-with-iran-over-death-of-sailor-in-hormuz": {
@@ -1128,11 +1084,11 @@
     "type": "other"
   },
   "https://gcaptain.com/seafarer-death-toll-climbs-as-trump-declares-hormuz-open-to-all-ship-traffic/": {
-    "ts": "2026-07-15T13:52:44.989997+00:00",
+    "ts": "2026-07-15T19:18:56.671701+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/consulta-publica-sobre-arrendamento-de-terminal-no-porto-de-itajai-recebe-contribuicoes-ate-13-de-agosto": {
-    "ts": "2026-07-15T13:52:44.989997+00:00",
+    "ts": "2026-07-15T19:18:56.671701+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/traffic-via-strait-of-hormuz-falls-to-11-ships-july-12-after-us-iran-attacks/": {
@@ -1184,7 +1140,7 @@
     "type": "other"
   },
   "https://splash247.com/cssf-why-containership-fires-keep-getting-worse/": {
-    "ts": "2026-07-15T13:52:44.989997+00:00",
+    "ts": "2026-07-15T19:18:56.671701+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/lng-bunker-snapshot-prices-climb-across-the-board-amid-renewed-us-iran-tensions/": {
@@ -1220,15 +1176,15 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/541248-inpex-australian-lng-workers-end-dispute-with-landmark-pay-deal": {
-    "ts": "2026-07-15T13:52:44.989997+00:00",
+    "ts": "2026-07-15T19:18:56.671701+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21631/porto-de-paranagua-investe-r-6-8-bilhoes-para-ampliar-capacidade-e-fortalecer-comercio-com-a-alemanha/": {
-    "ts": "2026-07-15T13:52:44.989997+00:00",
+    "ts": "2026-07-15T19:18:56.671701+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/missing-indian-sailor-confirmed-dead-after-container-ship-hit-by-projectile-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=missing-indian-sailor-confirmed-dead-after-container-ship-hit-by-projectile-in-strait-of-hormuz": {
-    "ts": "2026-07-15T13:52:44.989997+00:00",
+    "ts": "2026-07-15T19:18:56.671701+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/first-container-ship-to-run-on-brazilian-made-ethanol-sets-sail-from-port-of-santos/?utm_source=rss&utm_medium=rss&utm_campaign=first-container-ship-to-run-on-brazilian-made-ethanol-sets-sail-from-port-of-santos": {
@@ -1269,6 +1225,62 @@
   },
   "https://www.bairdmaritime.com/shipping/tankers/gas/shell-eyes-2027-kickoff-for-drilling-at-venezuela-offshore-gas-field": {
     "ts": "2026-07-15T13:52:44.989997+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/a-vast-e-a-petronas-brasil-anunciam-a-extensao-do-contrato-entre-as-duas-empresas-ate-o-fim-do-ano-que-vem/": {
+    "ts": "2026-07-15T19:18:56.671701+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/supertankers-increasingly-bear-brunt-in-hormuz-ship-attacks/": {
+    "ts": "2026-07-15T19:18:56.671701+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/shipping-companies-turn-down-usguided-541257": {
+    "ts": "2026-07-15T19:18:56.671701+00:00",
+    "type": "highlight"
+  },
+  "https://www.guiamaritimo.com.br/noticias/maritimo/cma-cgm-copersucar-etanol-navio-porto-santos": {
+    "ts": "2026-07-15T19:18:56.671701+00:00",
+    "type": "other"
+  },
+  "https://brasilenergia.com.br/petroleoegas/empresas/vast-e-petronas-renovam-contrato-de-transbordo-no-porto-do-acu": {
+    "ts": "2026-07-15T19:18:56.671701+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/logistica/alta-temporada-precoce-frete-maritimo-aereo-america-latina": {
+    "ts": "2026-07-15T19:18:56.671701+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/rodoviario/frete-rodoviario-preco-recorde-segundo-trimestre-2026-frete-com": {
+    "ts": "2026-07-15T19:18:56.671701+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-july-15-2026/": {
+    "ts": "2026-07-15T19:18:56.671701+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/wartsila-scores-multi-year-lifecycle-assignment-for-turkiye-based-fsru/": {
+    "ts": "2026-07-15T19:18:56.671701+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/wind-assisted-towing-on-the-cards-for-sbm-offshores-suriname-bound-fpso/": {
+    "ts": "2026-07-15T19:18:56.671701+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/ichthys-lng-pay-deal-may-embolden-unions-to-target-other-australian-offshore-players": {
+    "ts": "2026-07-15T19:18:56.671701+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/cargo-ship-collision-briefly-disrupts-operations-at-cameroons-busiest-commercial-port/?utm_source=rss&utm_medium=rss&utm_campaign=cargo-ship-collision-briefly-disrupts-operations-at-cameroons-busiest-commercial-port": {
+    "ts": "2026-07-15T19:18:56.671701+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/uae-plans-to-build-a-new-jebel-ali-to-bypass-strait-of-hormuz": {
+    "ts": "2026-07-15T19:18:56.671701+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/541255-ecitb-gwo-launch-wind-turbine-maintenance-cross-skill-program": {
+    "ts": "2026-07-15T19:18:56.671701+00:00",
     "type": "other"
   }
 }
