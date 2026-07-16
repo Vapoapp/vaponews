@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-07-08",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição alonga rotas para importadores asiáticos, pressionando tarifas de afretamento para petroleiros e ampliando custos logísticos no transporte de petróleo e gás. O impacto recai diretamente sobre armadores e operadores offshore, que enfrentam maior exposição a atrasos e despesas extras. Os recentes ataques a petroleiros e navios de GNL intensificam a volatilidade operaci"
-  },
-  {
     "date": "2026-07-09",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -323,5 +312,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com previsão de recuperação em até 50 dias. A escalada dos ataques iranianos a petroleiros e a imposição de taxa de 20% sobre cargas forçam importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte de petróleo e gás. A oferta restrita de navios na região, combinada à resistência dos armadores locais, mantém a cadeia logística sob forte tensão operacional. A intensif"
+  },
+  {
+    "date": "2026-07-16",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação estimada em até 50 dias. Ataques iranianos e a taxa de 20% sobre cargas forçam importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo e gás. A oferta restrita de navios na região e a resistência dos armadores locais ampliam a tensão na cadeia de suprimentos. No Mar Vermelho, a escalada das ameaças iranianas adiciona um"
   }
 ]
