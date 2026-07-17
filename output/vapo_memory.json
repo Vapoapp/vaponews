@@ -3,17 +3,6 @@
     "date": "2026-07-10",
     "drivers": [
       "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de recuperação em até 50 dias. Essa restrição força alongamento das rotas para importadores asiáticos, pressionando tarifas de afretamento e elevando custos operacionais no transporte marítimo de petróleo e gás. A volatilidade aumenta riscos de atrasos e despesas extras para armadores e operadores offshore. A escalada dos ataques entre EUA e Irã intensifica o risco geopolítico na região, elevando custos de seguro"
-  },
-  {
-    "date": "2026-07-10",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -323,5 +312,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação estimada em até 50 dias, devido a ataques iranianos e bloqueios navais dos EUA. A restrição no tráfego força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte marítimo de petróleo e gás. A oferta limitada de navios na região e a resistência dos armadores locais ampliam a tensão na cadeia logística. No Mar Vermelho, a escalada das ameaças iran"
+  },
+  {
+    "date": "2026-07-17",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação estimada em até 50 dias, devido a ataques iranianos e bloqueios navais dos EUA. A restrição no tráfego força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte marítimo de petróleo e gás. A oferta limitada de navios na região e a resistência dos armadores locais ampliam a tensão na cadeia logística. No Golfo de Áden, a captura de petroleiro qu"
   }
 ]
