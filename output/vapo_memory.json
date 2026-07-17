@@ -3,17 +3,6 @@
     "date": "2026-07-09",
     "drivers": [
       "atividade Petrobras/Transpetro",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de normalização em até 50 dias. Essa restrição alonga rotas para importadores asiáticos, pressionando tarifas de afretamento para petroleiros e elevando custos operacionais no transporte marítimo de petróleo e gás. A volatilidade operacional aumenta a exposição a atrasos e despesas extras para armadores e operadores offshore. A escalada dos ataques entre EUA e Irã, incluindo bombardeios a portos e bases militares"
-  },
-  {
-    "date": "2026-07-09",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -323,5 +312,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação estimada em até 50 dias. Ataques iranianos e bloqueios navais dos EUA restringem o tráfego, forçando importadores asiáticos a alongar rotas e elevar tarifas de afretamento para VLCCs. A oferta restrita de navios na região e a resistência dos armadores locais ampliam a pressão sobre a cadeia logística do petróleo. A Índia suspendeu o embarque de seus marítimos em navios que transitam pelo Estreito, reduzindo ai"
+  },
+  {
+    "date": "2026-07-17",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação prevista em até 50 dias. Ataques iranianos e bloqueios navais dos EUA forçam importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo e gás. A oferta restrita de navios na região e a resistência dos armadores locais ampliam a tensão na cadeia de suprimentos. No Mar Vermelho, o agravamento das tensões políticas e o calor e"
   }
 ]
