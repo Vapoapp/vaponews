@@ -3,17 +3,6 @@
     "date": "2026-07-10",
     "drivers": [
       "atividade Petrobras/Transpetro",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com previsão de recuperação em até 50 dias. Essa restrição obriga importadores asiáticos a alongar rotas, elevando tarifas de afretamento para petroleiros e pressionando custos operacionais no transporte marítimo de petróleo e gás. A volatilidade operacional aumenta riscos de atrasos e despesas extras para armadores e operadores offshore. A escalada dos ataques entre EUA e Irã intensifica o risco geopolítico na região, elevan"
-  },
-  {
-    "date": "2026-07-10",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -323,5 +312,15 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação estimada em até 50 dias, devido a ataques iranianos e bloqueios navais dos EUA. A restrição no tráfego força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte marítimo de petróleo e gás. A oferta limitada de navios na região e a resistência dos armadores locais ampliam a tensão na cadeia logística. No Golfo de Áden, a captura de petroleiro qu"
+  },
+  {
+    "date": "2026-07-18",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação estimada em até 50 dias, devido a ataques iranianos e bloqueios navais dos EUA. A restrição no tráfego força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte marítimo de petróleo e gás. A oferta limitada de navios na região e a resistência dos armadores locais ampliam a tensão na cadeia logística. No Mar Vermelho, a combinação de calor extre"
   }
 ]
