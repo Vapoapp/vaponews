@@ -2,17 +2,6 @@
   {
     "date": "2026-07-12",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com previsão de recuperação em até 50 dias. A restrição obriga importadores asiáticos a alongar rotas, elevando tarifas de afretamento para petroleiros VLCC e pressionando custos operacionais no transporte marítimo de petróleo e gás. A oferta restrita de navios no Oeste e a resistência de armadores locais ampliam a tensão na cadeia logística. O agravamento do conflito entre EUA e Irã intensifica o risco geopolítico regional, elev"
-  },
-  {
-    "date": "2026-07-12",
-    "drivers": [
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -319,5 +308,14 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com previsão de recuperação em até 50 dias. A restrição força importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos no transporte marítimo de petróleo e gás. A oferta limitada de navios na região, combinada à resistência dos armadores locais, intensifica a tensão na cadeia logística global. No Golfo de Áden, o sequestro de petroleiro químico por piratas armados aumenta o risco op"
+  },
+  {
+    "date": "2026-07-19",
+    "drivers": [
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação projetada em até 50 dias. A restrição força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo e gás. A oferta limitada de navios na região, combinada à resistência dos armadores locais, intensifica a tensão na cadeia de suprimentos global. No Mar Negro, ataques por drones a petroleiros aumentam o risco operacio"
   }
 ]
