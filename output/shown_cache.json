@@ -1012,7 +1012,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/russia-strikes-mykolaiv-as-ukraine-continues-unrelenting-shipping-attacks": {
-    "ts": "2026-07-19T08:26:16.952624+00:00",
+    "ts": "2026-07-19T13:35:28.373238+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/nova-onda-de-ataques-americanos-destroem-ferrovias-e-pontes-no-ira-que-volta-a-bombardear-o-kuwait-bahrein-jordania-e-o-catar/": {
@@ -1056,15 +1056,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/porto-sudeste-recebe-selo-ouro-do-ghg-protocol-pelo-terceiro-ano-consecutivo/": {
-    "ts": "2026-07-19T08:26:16.952624+00:00",
+    "ts": "2026-07-19T13:35:28.373238+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/long-haul-clean-tanker-demand-rises-on-russian-diesel-exports-woes/": {
-    "ts": "2026-07-19T08:26:16.952624+00:00",
+    "ts": "2026-07-19T13:35:28.373238+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/dual-middle-east-shipping-lane-threats-push-oil-prices-to-weekly-gain": {
-    "ts": "2026-07-19T08:26:16.952624+00:00",
+    "ts": "2026-07-19T13:35:28.373238+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/ep/ibama-libera-instalacao-da-p-82-a-decima-plataforma-de-buzios": {
@@ -1112,7 +1112,7 @@
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/affinity-tanker-weekly-17-july-2026/": {
-    "ts": "2026-07-19T08:26:16.952624+00:00",
+    "ts": "2026-07-19T13:35:28.373238+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/odfjell-drillings-rig-remaining-with-norwegian-oil-gas-operator-for-another-year/": {
@@ -1128,7 +1128,7 @@
     "type": "other"
   },
   "https://www.offshore-energy.biz/ades-jack-up-rig-pair-lines-up-drilling-jobs-in-nigerian-and-uk-waters/": {
-    "ts": "2026-07-18T07:59:55.593170+00:00",
+    "ts": "2026-07-19T13:35:28.373238+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/541278-suriname-s-granmorgu-fpso-project-to-evaluate-wind-assisted-towing": {
@@ -1148,15 +1148,15 @@
     "type": "other"
   },
   "https://www.marineinsight.com/iran-claims-two-oil-tankers-exploded-caught-fire-in-strait-of-hormuz-minefield-us-denies/?utm_source=rss&utm_medium=rss&utm_campaign=iran-claims-two-oil-tankers-exploded-caught-fire-in-strait-of-hormuz-minefield-us-denies": {
-    "ts": "2026-07-19T08:26:16.952624+00:00",
+    "ts": "2026-07-19T13:35:28.373238+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/armed-assailants-seize-chemical-tanker-541327": {
-    "ts": "2026-07-19T08:26:16.952624+00:00",
+    "ts": "2026-07-19T13:35:28.373238+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/capesize-rate-slump-spoils-week-for-baltic-dry-bulk-index": {
-    "ts": "2026-07-19T08:26:16.952624+00:00",
+    "ts": "2026-07-19T13:35:28.373238+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/sweden-approves-two-offshore-wind-farms-rejects-11-over-defence-concerns": {
@@ -1192,7 +1192,7 @@
     "type": "highlight"
   },
   "https://gcaptain.com/exxon-chartered-oil-tanker-attacked-by-drones-near-black-sea-terminal/": {
-    "ts": "2026-07-19T08:26:16.952624+00:00",
+    "ts": "2026-07-19T13:35:28.373238+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/suspected-somali-pirates-hijack-second-tanker-in-three-months-off-yemen/?utm_source=rss&utm_medium=rss&utm_campaign=suspected-somali-pirates-hijack-second-tanker-in-three-months-off-yemen": {
@@ -1204,11 +1204,11 @@
     "type": "other"
   },
   "https://www.marineinsight.com/us-troops-killed-strait-hormuz-escalation/?utm_source=rss&utm_medium=rss&utm_campaign=us-troops-killed-strait-hormuz-escalation": {
-    "ts": "2026-07-19T08:26:16.952624+00:00",
+    "ts": "2026-07-19T13:35:28.373238+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/sanctioned-tanker-is-leaking-oil-near-oman/": {
-    "ts": "2026-07-19T08:26:16.952624+00:00",
+    "ts": "2026-07-19T13:35:28.373238+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/karoon-boosts-brazilian-fields-oil-output-with-all-wells-now-online/": {
@@ -1221,6 +1221,14 @@
   },
   "https://www.bairdmaritime.com/offshore/vessels-rigs/jackups-liftboats/cadeler-takes-delivery-of-11th-wind-turbine-installation-vessel": {
     "ts": "2026-07-19T08:26:16.952624+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/pirates-seize-small-product-tanker-off-yemen": {
+    "ts": "2026-07-19T13:35:28.373238+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/fuel-crisis-and-drone-attacks-on-ships-stall-russian-grain": {
+    "ts": "2026-07-19T13:35:28.373238+00:00",
     "type": "other"
   }
 }
