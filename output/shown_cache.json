@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-07-19T08:26:16.952624+00:00",
+    "ts": "2026-07-20T09:24:22.390620+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
@@ -1056,7 +1056,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/iran-claims-two-oil-tankers-exploded-caught-fire-in-strait-of-hormuz-minefield-us-denies/?utm_source=rss&utm_medium=rss&utm_campaign=iran-claims-two-oil-tankers-exploded-caught-fire-in-strait-of-hormuz-minefield-us-denies": {
-    "ts": "2026-07-20T03:36:59.470637+00:00",
+    "ts": "2026-07-20T09:24:22.390620+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/armed-assailants-seize-chemical-tanker-541327": {
@@ -1100,7 +1100,7 @@
     "type": "highlight"
   },
   "https://gcaptain.com/exxon-chartered-oil-tanker-attacked-by-drones-near-black-sea-terminal/": {
-    "ts": "2026-07-20T03:36:59.470637+00:00",
+    "ts": "2026-07-20T09:24:22.390620+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/suspected-somali-pirates-hijack-second-tanker-in-three-months-off-yemen/?utm_source=rss&utm_medium=rss&utm_campaign=suspected-somali-pirates-hijack-second-tanker-in-three-months-off-yemen": {
@@ -1112,7 +1112,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/us-troops-killed-strait-hormuz-escalation/?utm_source=rss&utm_medium=rss&utm_campaign=us-troops-killed-strait-hormuz-escalation": {
-    "ts": "2026-07-20T03:36:59.470637+00:00",
+    "ts": "2026-07-20T09:24:22.390620+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/sanctioned-tanker-is-leaking-oil-near-oman/": {
@@ -1140,7 +1140,7 @@
     "type": "other"
   },
   "https://gcaptain.com/irans-guards-say-two-ships-involved-in-accident-after-defying-hormuz-warnings/": {
-    "ts": "2026-07-20T03:36:59.470637+00:00",
+    "ts": "2026-07-20T09:24:22.390620+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/fayard-shipyard-under-pressure-for-repairing-russia-serving-lng-carriers": {
@@ -1156,15 +1156,15 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/subsea-surveying/fugro-tapped-for-pipeline-survey-project-in-timor-leste": {
-    "ts": "2026-07-20T03:36:59.470637+00:00",
+    "ts": "2026-07-20T09:24:22.390620+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/russia-operating-burned-out-kerch-ferries-as-barges-using-tugs": {
-    "ts": "2026-07-20T03:36:59.470637+00:00",
+    "ts": "2026-07-20T09:24:22.390620+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/strait-of-hormuz-daily-vessel-traffic-down-by-60/": {
-    "ts": "2026-07-20T03:36:59.470637+00:00",
+    "ts": "2026-07-20T09:24:22.390620+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/wtiv-allision-ends-in-gantry-crane-collapse-at-port-of-tyne": {
@@ -1173,6 +1173,46 @@
   },
   "https://www.hellenicshippingnews.com/asia-us-container-rates-mostly-lower-tanker-rates-steady-to-lower/": {
     "ts": "2026-07-20T03:36:59.470637+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/report-greek-tanker-may-be-on-fire-in-strait-of-hormuz": {
+    "ts": "2026-07-20T09:24:22.390620+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/projectile-strike-sets-dynacom-tanker-541333": {
+    "ts": "2026-07-20T09:24:22.390620+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/hormuz-transits-fall-sharply-amid-escalating-conflict/": {
+    "ts": "2026-07-20T09:24:22.390620+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/collision-topples-crane-at-uk-port/": {
+    "ts": "2026-07-20T09:24:22.390620+00:00",
+    "type": "other"
+  },
+  "https://www.rigzone.com/news/wire/us_strikes_after_troops_killed_as_iran_quits_deal-20-jul-2026-184160-article/": {
+    "ts": "2026-07-20T09:24:22.390620+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/column-how-will-the-seacor-marine-saga-end-offshore-accounts": {
+    "ts": "2026-07-20T09:24:22.390620+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/navantia-uk-delivers-trinidad-bound-subsea-structures-to-mcdermott-gallery/": {
+    "ts": "2026-07-20T09:24:22.390620+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/clean-tankers-higher-rates-in-store/": {
+    "ts": "2026-07-20T09:24:22.390620+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/danish-shipyard-rejects-eu-calls-to-refuse-maintenance-of-russian-lng-carriers": {
+    "ts": "2026-07-20T09:24:22.390620+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/southeast-asian-infill-drilling-campaign-yields-oil-uptick-with-two-wells-now-online/": {
+    "ts": "2026-07-20T09:24:22.390620+00:00",
     "type": "other"
   }
 }
