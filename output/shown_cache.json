@@ -7,10 +7,6 @@
     "ts": "2026-07-13T09:36:52.675864+00:00",
     "type": "highlight"
   },
-  "https://petronoticias.com.br/o-fim-de-semana-comeca-com-oportunidades-de-vagas-e-qualificacao-colocadas-pelo-mercado/": {
-    "ts": "2026-07-13T03:30:10.427254+00:00",
-    "type": "highlight"
-  },
   "https://www.marineinsight.com/3-thai-seafarers-attacked-in-strait-of-hormuz-sue-shipping-firm-over-alleged-exposure-to-security-risks/?utm_source=rss&utm_medium=rss&utm_campaign=3-thai-seafarers-attacked-in-strait-of-hormuz-sue-shipping-firm-over-alleged-exposure-to-security-risks": {
     "ts": "2026-07-13T09:36:52.675864+00:00",
     "type": "highlight"
@@ -34,22 +30,6 @@
   "https://www.hellenicshippingnews.com/the-ceasefire-collapses-80-strikes-a-revoked-oil-waiver-and-a-1-95-million-barrel-u-turn/": {
     "ts": "2026-07-13T19:35:31.009566+00:00",
     "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/hormuz-transits-remain-subdued-asia-us-container-rates-rise-tanker-rates-steady-to-softer/": {
-    "ts": "2026-07-13T03:30:10.427254+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/russia-and-ukraine-strikes-hit-key-grain-sea-export-ports/": {
-    "ts": "2026-07-13T03:30:10.427254+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/norwind-offshore-welcomes-new-csov-to-fleet": {
-    "ts": "2026-07-13T03:30:10.427254+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/pakistan-begins-construction-of-first-domestically-built-containership-since-1980s/?utm_source=rss&utm_medium=rss&utm_campaign=pakistan-begins-construction-of-first-domestically-built-containership-since-1980s": {
-    "ts": "2026-07-13T03:30:10.427254+00:00",
-    "type": "other"
   },
   "https://splash247.com/petrobras-rises-as-unipecs-tanker-dominance-weakens/": {
     "ts": "2026-07-14T02:52:11.959294+00:00",
@@ -1076,7 +1056,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/iran-claims-two-oil-tankers-exploded-caught-fire-in-strait-of-hormuz-minefield-us-denies/?utm_source=rss&utm_medium=rss&utm_campaign=iran-claims-two-oil-tankers-exploded-caught-fire-in-strait-of-hormuz-minefield-us-denies": {
-    "ts": "2026-07-19T19:13:12.077223+00:00",
+    "ts": "2026-07-20T03:36:59.470637+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/armed-assailants-seize-chemical-tanker-541327": {
@@ -1120,7 +1100,7 @@
     "type": "highlight"
   },
   "https://gcaptain.com/exxon-chartered-oil-tanker-attacked-by-drones-near-black-sea-terminal/": {
-    "ts": "2026-07-19T19:13:12.077223+00:00",
+    "ts": "2026-07-20T03:36:59.470637+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/suspected-somali-pirates-hijack-second-tanker-in-three-months-off-yemen/?utm_source=rss&utm_medium=rss&utm_campaign=suspected-somali-pirates-hijack-second-tanker-in-three-months-off-yemen": {
@@ -1132,7 +1112,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/us-troops-killed-strait-hormuz-escalation/?utm_source=rss&utm_medium=rss&utm_campaign=us-troops-killed-strait-hormuz-escalation": {
-    "ts": "2026-07-19T19:13:12.077223+00:00",
+    "ts": "2026-07-20T03:36:59.470637+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/sanctioned-tanker-is-leaking-oil-near-oman/": {
@@ -1160,7 +1140,7 @@
     "type": "other"
   },
   "https://gcaptain.com/irans-guards-say-two-ships-involved-in-accident-after-defying-hormuz-warnings/": {
-    "ts": "2026-07-19T19:13:12.077223+00:00",
+    "ts": "2026-07-20T03:36:59.470637+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/fayard-shipyard-under-pressure-for-repairing-russia-serving-lng-carriers": {
@@ -1173,6 +1153,26 @@
   },
   "https://www.hellenicshippingnews.com/russias-diesel-export-ban-adds-fresh-fuel-to-rising-prices/": {
     "ts": "2026-07-19T19:13:12.077223+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/subsea-surveying/fugro-tapped-for-pipeline-survey-project-in-timor-leste": {
+    "ts": "2026-07-20T03:36:59.470637+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/russia-operating-burned-out-kerch-ferries-as-barges-using-tugs": {
+    "ts": "2026-07-20T03:36:59.470637+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/strait-of-hormuz-daily-vessel-traffic-down-by-60/": {
+    "ts": "2026-07-20T03:36:59.470637+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/wtiv-allision-ends-in-gantry-crane-collapse-at-port-of-tyne": {
+    "ts": "2026-07-20T03:36:59.470637+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/asia-us-container-rates-mostly-lower-tanker-rates-steady-to-lower/": {
+    "ts": "2026-07-20T03:36:59.470637+00:00",
     "type": "other"
   }
 }
