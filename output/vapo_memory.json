@@ -2,17 +2,6 @@
   {
     "date": "2026-07-14",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz opera abaixo de 10% da capacidade, com previsão de normalização em até 50 dias. A escalada do conflito entre EUA e Irã, incluindo ataques a petroleiros e a imposição de taxa de 20% sobre cargas, pressiona tarifas de afretamento para VLCCs e aumenta custos logísticos no transporte de petróleo e gás. A oferta restrita de navios na região, combinada com a resistência dos armadores locais, mantém a cadeia de suprimentos sob forte tensão. A necessidade de alongar rotas"
-  },
-  {
-    "date": "2026-07-14",
-    "drivers": [
       "logística e portos",
       "risco geopolítico",
       "petróleo e gás"
@@ -316,5 +305,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação prevista em até 50 dias. Essa limitação força importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos logísticos no transporte marítimo de petróleo. A oferta restrita de navios na região, combinada à crescente resistência dos armadores locais, mantém a cadeia global de suprimentos sob tensão. Ataques recentes a petroleiros no Estreito de Ormuz e no Mar Vermelho,"
+  },
+  {
+    "date": "2026-07-21",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação projetada em até 50 dias. Essa restrição força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo. Ataques recentes a petroleiros aumentam o risco operacional e mantêm a oferta de navios limitada, ampliando a tensão na cadeia global de suprimentos. No Mar Vermelho, o bloqueio naval imposto por grupos Houthi e os"
   }
 ]
