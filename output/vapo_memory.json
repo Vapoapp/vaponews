@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-07-13",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com previsão de recuperação em até 50 dias. A restrição força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo e gás. A oferta restrita de navios na região, combinada com a resistência dos armadores locais, mantém elevada a tensão na cadeia de suprimentos. A escalada dos ataques entre EUA e Irã, com mais de 140 ofensivas amer"
-  },
-  {
     "date": "2026-07-14",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -316,5 +305,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação estimada em até 50 dias. A restrição força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo. Ataques recentes a petroleiros, incluindo incêndios e disparos, aumentam o risco operacional e mantêm a oferta de navios limitada, agravando a cadeia global de suprimentos. No Mar Vermelho, o bloqueio naval anunciado pelo"
+  },
+  {
+    "date": "2026-07-21",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação projetada em até 50 dias. Essa restrição obriga importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo. A oferta limitada de navios na região, combinada com a crescente resistência dos armadores locais, mantém a cadeia global de suprimentos sob tensão. Ataques recentes a petroleiros, incluindo incêndios e disparos, aume"
   }
 ]
