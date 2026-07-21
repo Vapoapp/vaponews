@@ -3,17 +3,6 @@
     "date": "2026-07-14",
     "drivers": [
       "atividade Petrobras/Transpetro",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz permanece abaixo de 10% da capacidade, com previsão de recuperação em até 50 dias. A restrição força importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos logísticos no transporte de petróleo e gás. A oferta reduzida de navios na região, combinada com resistência dos armadores locais, mantém a cadeia logística sob forte tensão. A escalada dos ataques entre EUA e Irã amplia o risco geopolítico, impactando diretament"
-  },
-  {
-    "date": "2026-07-14",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -316,5 +305,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação projetada em até 50 dias. Essa restrição obriga importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo. A oferta limitada de navios na região, combinada com a crescente resistência dos armadores locais, mantém a cadeia global de suprimentos sob tensão. Ataques recentes a petroleiros, incluindo incêndios e disparos, aume"
+  },
+  {
+    "date": "2026-07-21",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação prevista em até 50 dias. Essa limitação força importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos logísticos no transporte marítimo de petróleo. A oferta restrita de navios na região, combinada à crescente resistência dos armadores locais, mantém a cadeia global de suprimentos sob tensão. Ataques recentes a petroleiros no Estreito de Ormuz e no Mar Vermelho,"
   }
 ]
