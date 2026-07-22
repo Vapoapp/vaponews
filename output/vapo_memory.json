@@ -2,17 +2,6 @@
   {
     "date": "2026-07-15",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "O tráfego no Estreito de Ormuz opera abaixo de 10% da capacidade, com previsão de recuperação em até 50 dias, devido à escalada dos ataques iranianos a petroleiros e à imposição de taxa de 20% sobre cargas. Essa restrição força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo e gás. A oferta limitada de navios na região, combinada com a resistência dos armadores locais, mantém a cadeia de suprim"
-  },
-  {
-    "date": "2026-07-15",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -318,5 +307,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação estimada em até 50 dias. Essa limitação força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo. Ataques recentes a petroleiros intensificam o risco operacional e restringem a oferta de navios na região. No Mar Vermelho, o bloqueio naval imposto pelos Houthis ao tráfego saudita altera rotas e aumenta a complexi"
+  },
+  {
+    "date": "2026-07-22",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação estimada em até 50 dias, forçando importadores asiáticos a alongar rotas e elevando tarifas de afretamento para VLCCs. Ataques recentes a petroleiros e o bloqueio naval imposto pelos Houthis no Mar Vermelho intensificam riscos operacionais e logísticos, obrigando desvios frequentes e aumentando custos no transporte marítimo de petróleo. No Brasil, o fornecimento de tubos para o projeto offshore Atapu 2 indica cont"
   }
 ]
