@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-07-15",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação prevista apenas em até 50 dias. A escalada dos ataques iranianos a petroleiros e a imposição de taxa de 20% sobre cargas forçam importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte marítimo de petróleo e gás. A oferta restrita de navios na região e a resistência dos armadores locais ampliam a tensão na cadeia logística. No âmbito portuário, a renova"
-  },
-  {
     "date": "2026-07-16",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -318,5 +307,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com previsão de recuperação em até 50 dias, forçando importadores asiáticos a alongar rotas e elevando tarifas de afretamento para VLCCs. Ataques recentes a petroleiros e a intensificação do bloqueio naval no Mar Vermelho pelos Houthis aumentam o risco operacional, restringindo oferta de navios e ampliando custos no transporte marítimo de petróleo. No Brasil, o fornecimento de 143 km de tubos para o projeto offshore Atapu 2 indic"
+  },
+  {
+    "date": "2026-07-23",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação prevista em até 50 dias. A restrição prolonga rotas para importadores asiáticos, pressionando tarifas de afretamento para VLCCs e elevando custos no transporte marítimo de petróleo. Ataques recentes a petroleiros e dificuldades nos pagamentos em moedas locais ampliam a volatilidade operacional e financeira na região. No Mar Vermelho, o bloqueio naval imposto pelos Houthis intensifica o risco geopolítico e logí"
   }
 ]
