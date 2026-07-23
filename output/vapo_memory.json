@@ -2,17 +2,6 @@
   {
     "date": "2026-07-16",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação estimada em até 50 dias. Ataques iranianos e a taxa de 20% sobre cargas forçam importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo e gás. A oferta restrita de navios na região e a resistência dos armadores locais ampliam a tensão na cadeia de suprimentos. No Mar Vermelho, a escalada das ameaças iranianas adiciona um"
-  },
-  {
-    "date": "2026-07-16",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -318,5 +307,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade no Estreito de Ormuz permanece abaixo de 10%, com recuperação prevista em até 50 dias. Essa restrição força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte marítimo de petróleo. A apreensão de um petroleiro grego pelo Irã e a ameaça de sanções adicionais ampliam o risco operacional e a volatilidade financeira na região. No Mar Vermelho, ataques e bloqueios promovidos pelos Houthis intensificam a necessidade de de"
+  },
+  {
+    "date": "2026-07-23",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação estimada em até 50 dias. Essa limitação força importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos logísticos no transporte marítimo de petróleo. A apreensão de petroleiros e ameaças de sanções aumentam a volatilidade operacional e financeira na região. No Mar Vermelho, ataques recentes de militantes Houthis a petroleiros sauditas e bloqueios navais intensifi"
   }
 ]
