@@ -15,10 +15,6 @@
     "ts": "2026-07-17T08:18:21.829530+00:00",
     "type": "highlight"
   },
-  "https://www.oedigital.com/news/541245-w-rtsil-secures-fsru-service-agreement-with-pardus-energy": {
-    "ts": "2026-07-17T03:14:57.423043+00:00",
-    "type": "other"
-  },
   "https://www.marinelink.com/news/shipping-companies-turn-down-usguided-541257": {
     "ts": "2026-07-17T08:18:21.829530+00:00",
     "type": "highlight"
@@ -51,10 +47,6 @@
     "ts": "2026-07-23T14:12:22.508729+00:00",
     "type": "other"
   },
-  "https://www.guiamaritimo.com.br/noticias/logistica/maersk-armazem-suape-nordeste-logistica": {
-    "ts": "2026-07-17T03:14:57.423043+00:00",
-    "type": "highlight"
-  },
   "https://maritime-executive.com/article/india-bans-its-seafarers-from-strait-of-hormuz-transits": {
     "ts": "2026-07-17T19:17:51.168426+00:00",
     "type": "highlight"
@@ -75,32 +67,8 @@
     "ts": "2026-07-17T08:18:21.829530+00:00",
     "type": "highlight"
   },
-  "https://brasilenergia.com.br/petroleoegas/ep/ibama-autoriza-instalacao-da-p-80-tambem-conhecida-como-buzios-9": {
-    "ts": "2026-07-17T03:14:57.423043+00:00",
-    "type": "other"
-  },
-  "https://petronoticias.com.br/a-ntclogistica-acompanha-espera-a-sancao-do-presidente-lula-sobre-o-frete-rodoviario-mas-ainda-ve-distorcoes/": {
-    "ts": "2026-07-17T03:14:57.423043+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/tanker-market-hormuz-strikes-cause-deja-vu/": {
-    "ts": "2026-07-17T03:14:57.423043+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/video-strait-of-hormuz-traffic-thins-out-as-us-strikes-iran-bound-tanker-on-blockade-restart": {
-    "ts": "2026-07-17T03:14:57.423043+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/rising-ship-attacks-in-gulf-deter-crew-recruitment-pushing-shipping-costs-to-new-highs/?utm_source=rss&utm_medium=rss&utm_campaign=rising-ship-attacks-in-gulf-deter-crew-recruitment-pushing-shipping-costs-to-new-highs": {
-    "ts": "2026-07-17T03:14:57.423043+00:00",
-    "type": "other"
-  },
   "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-divulga-balanco-da-operacao-especial-de-fiscalizacao-durante-o-festival-de-parintins": {
     "ts": "2026-07-18T07:59:55.593170+00:00",
-    "type": "other"
-  },
-  "https://www.gov.br/antaq/pt-br/noticias/2026/reaberto-prazo-para-envio-de-contribuicoes-a-audiencia-publica-no-05-2026": {
-    "ts": "2026-07-17T03:14:57.423043+00:00",
     "type": "other"
   },
   "https://splash247.com/splash-wrap-chokepoints-under-siege/": {
@@ -964,7 +932,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/541417-allseas-hires-vallourec-to-supply-pipes-for-brazilian-offshore-project": {
-    "ts": "2026-07-23T19:25:26.165418+00:00",
+    "ts": "2026-07-24T03:16:39.955134+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/fairfield-maritime-japan-and-neste-sign-long-term-charter-contract-for-two-ice-class-1a-mr-tankers/": {
@@ -1028,7 +996,7 @@
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/definida-data-de-audiencia-publica-sobre-arrendamento-portuario-em-itajai-sc": {
-    "ts": "2026-07-23T19:25:26.165418+00:00",
+    "ts": "2026-07-24T03:16:39.955134+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/fairfield-maritime-japan-neste-sign-541433": {
@@ -1052,7 +1020,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/541432-offshore-safety-improving-injury-rates-may-be-masking-continued-fatalities": {
-    "ts": "2026-07-22T19:27:16.676044+00:00",
+    "ts": "2026-07-24T03:16:39.955134+00:00",
     "type": "other"
   },
   "https://www.marineinsight.com/attack-on-ukraine-bound-lpg-tanker-wounds-3-crew-forces-everyone-to-evacuate/?utm_source=rss&utm_medium=rss&utm_campaign=attack-on-ukraine-bound-lpg-tanker-wounds-3-crew-forces-everyone-to-evacuate": {
@@ -1140,11 +1108,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/embarcacao-de-apoio-da-dof-group-sofre-incendio-na-bacia-de-campos/": {
-    "ts": "2026-07-23T19:25:26.165418+00:00",
+    "ts": "2026-07-24T03:16:39.955134+00:00",
     "type": "highlight"
   },
   "https://splash247.com/houthis-claim-strikes-on-two-saudi-tankers/": {
-    "ts": "2026-07-23T19:25:26.165418+00:00",
+    "ts": "2026-07-24T03:16:39.955134+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/renewed-strait-of-hormuz-tensions-expose-a-hidden-payments-challenge-for-global-shipping-says-ebury/": {
@@ -1188,11 +1156,11 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/541460-qatarenergy-prolongs-lng-force-majeure-charters-out-tankers": {
-    "ts": "2026-07-23T19:25:26.165418+00:00",
+    "ts": "2026-07-24T03:16:39.955134+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/black-sea-shipping-crisis-deepens-as-attacks-intensify/": {
-    "ts": "2026-07-23T19:25:26.165418+00:00",
+    "ts": "2026-07-24T03:16:39.955134+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/houthis-claim-attack-on-oil-tankers-as-us-launches-more-strikes-on-iran/": {
@@ -1220,7 +1188,7 @@
     "type": "other"
   },
   "https://brasilenergia.com.br/petroleoegas/inovacao/transpetro-utiliza-impressao-3d-em-manutencao-de-dutos-e-terminais": {
-    "ts": "2026-07-23T19:25:26.165418+00:00",
+    "ts": "2026-07-24T03:16:39.955134+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/two-tankers-attacked-what-next-in-the-bab-el-mandeb": {
@@ -1228,7 +1196,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/russia-restricts-nighttime-shipping-at-black-sea-port-of-novorossiysk-after-ukrainian-drone-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=russia-restricts-nighttime-shipping-at-black-sea-port-of-novorossiysk-after-ukrainian-drone-attacks": {
-    "ts": "2026-07-23T19:25:26.165418+00:00",
+    "ts": "2026-07-24T03:16:39.955134+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21669/aps-inicia-projeto-para-aprofundar-canal-de-navegacao-do-porto-de-santos/": {
@@ -1273,6 +1241,54 @@
   },
   "https://www.hellenicshippingnews.com/improving-injury-rates-should-not-distract-the-offshore-industry-from-the-risks-that-still-claim-lives-warns-imca/": {
     "ts": "2026-07-23T19:25:26.165418+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/antaq/pt-br/noticias/2026/vem-ai-o-xxxiii-encontro-cooperaportos": {
+    "ts": "2026-07-24T03:16:39.955134+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/two-tankers-spill-oil-off-the-coast-of-iran": {
+    "ts": "2026-07-24T03:16:39.955134+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/russia-ukraine-strikes-choke-black-sea-trade/": {
+    "ts": "2026-07-24T03:16:39.955134+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/maior-termeletrica-a-gas-natural-do-brasil-a-usina-gna-ii-completa-um-ano-de-operacao/": {
+    "ts": "2026-07-24T03:16:39.955134+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/oman-gives-owner-of-stranded-tanker-caroline-bezengi-24-hours-to-act": {
+    "ts": "2026-07-24T03:16:39.955134+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/two-chinese-supertankers-with-saudi-oil-head-to-bab-el-mandeb-for-red-sea-exit/": {
+    "ts": "2026-07-24T03:16:39.955134+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/houthis-claim-ballistic-missile-attack-on-2-saudi-oil-tankers-in-red-sea/?utm_source=rss&utm_medium=rss&utm_campaign=houthis-claim-ballistic-missile-attack-on-2-saudi-oil-tankers-in-red-sea": {
+    "ts": "2026-07-24T03:16:39.955134+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/shipowners-halt-calls-at-ukraines-black-sea-ports-wary-of-russian-strikes/": {
+    "ts": "2026-07-24T03:16:39.955134+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/south-asia-capacity-cuts-and-hormuz-closure-boost-freight-rates-to-3-year-highs/": {
+    "ts": "2026-07-24T03:16:39.955134+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/negocios/21670/grupo-holandes-ictsi-compra-operacao-da-cs-porto-aratu-por-r-1-8-bilhao/": {
+    "ts": "2026-07-24T03:16:39.955134+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/fsru-name-revealed-as-europes-new-lng-terminal-edges-closer-to-completion/": {
+    "ts": "2026-07-24T03:16:39.955134+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
+    "ts": "2026-07-24T03:16:39.955134+00:00",
     "type": "other"
   }
 }
