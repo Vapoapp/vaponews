@@ -7,29 +7,9 @@
     "ts": "2026-07-19T08:26:16.952624+00:00",
     "type": "other"
   },
-  "https://brasilenergia.com.br/petroleoegas/o-interesse-de-fundos-estrangeiros-no-petroleo-brasileiro": {
-    "ts": "2026-07-17T19:17:51.168426+00:00",
-    "type": "highlight"
-  },
-  "https://www.oedigital.com/news/541276-gulf-marine-services-expands-brazil-presence-with-new-jack-up-charter": {
-    "ts": "2026-07-17T19:17:51.168426+00:00",
-    "type": "other"
-  },
-  "https://www.navaltoday.com/2026/07/16/canadian-navy-frigate-fires-torpedo-during-major-pacific-naval-exercise/": {
-    "ts": "2026-07-17T19:17:51.168426+00:00",
-    "type": "other"
-  },
   "https://www.estadao.com.br/economia/taxa-trump-estreito-ormuz-dobrar-custo-transporte-maritimo/": {
     "ts": "2026-07-23T14:12:22.508729+00:00",
     "type": "other"
-  },
-  "https://maritime-executive.com/article/india-bans-its-seafarers-from-strait-of-hormuz-transits": {
-    "ts": "2026-07-17T19:17:51.168426+00:00",
-    "type": "highlight"
-  },
-  "https://petronoticias.com.br/sbm-offshore-avalia-uso-de-tracao-por-pipa-durante-reboque-de-fpso-ate-campo-no-suriname/": {
-    "ts": "2026-07-17T19:17:51.168426+00:00",
-    "type": "highlight"
   },
   "https://maritime-executive.com/editorials/hot-weather-and-politics-bring-yemen-back-to-the-brink-in-the-bab-el-mandeb": {
     "ts": "2026-07-18T19:11:48.113486+00:00",
@@ -121,18 +101,6 @@
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/china-merchants-energy-shipping-plans-to-build-six-vlocs": {
     "ts": "2026-07-19T08:26:16.952624+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/new-times-shipbuilding-delivers-three-lng-dual-fuel-tankers/": {
-    "ts": "2026-07-17T19:17:51.168426+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/suspected-pirates-seize-tanker-off-yemen-coast-in-gulf-of-aden-sources-say/": {
-    "ts": "2026-07-17T19:17:51.168426+00:00",
-    "type": "other"
-  },
-  "https://www.nytimes.com/2026/07/17/business/strait-hormuz-iran-oil-prices.html": {
-    "ts": "2026-07-17T19:17:51.168426+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/541320-scotland-approves-ocean-winds-2gw-caledonia-offshore-wind-farm": {
@@ -1084,11 +1052,11 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/541460-qatarenergy-prolongs-lng-force-majeure-charters-out-tankers": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
+    "ts": "2026-07-24T19:36:24.478593+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/black-sea-shipping-crisis-deepens-as-attacks-intensify/": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
+    "ts": "2026-07-24T19:36:24.478593+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/houthis-claim-attack-on-oil-tankers-as-us-launches-more-strikes-on-iran/": {
@@ -1116,7 +1084,7 @@
     "type": "other"
   },
   "https://brasilenergia.com.br/petroleoegas/inovacao/transpetro-utiliza-impressao-3d-em-manutencao-de-dutos-e-terminais": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
+    "ts": "2026-07-24T19:36:24.478593+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/two-tankers-attacked-what-next-in-the-bab-el-mandeb": {
@@ -1128,7 +1096,7 @@
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21669/aps-inicia-projeto-para-aprofundar-canal-de-navegacao-do-porto-de-santos/": {
-    "ts": "2026-07-23T19:25:26.165418+00:00",
+    "ts": "2026-07-24T19:36:24.478593+00:00",
     "type": "other"
   },
   "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/23/as-vitorias-de-joao-candido-contra-a-marinha-na-justica-mais-de-115-anos-apos-a-revolta-da-chibata.ghtml": {
@@ -1144,7 +1112,7 @@
     "type": "other"
   },
   "https://gcaptain.com/houthi-attacks-on-saudi-tankers-constrict-crude-trade/": {
-    "ts": "2026-07-23T19:25:26.165418+00:00",
+    "ts": "2026-07-24T19:36:24.478593+00:00",
     "type": "other"
   },
   "https://www.marinelink.com/news/two-oil-tankers-attached-drones-near-541485": {
@@ -1172,11 +1140,11 @@
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/vem-ai-o-xxxiii-encontro-cooperaportos": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
+    "ts": "2026-07-24T19:36:24.478593+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/two-tankers-spill-oil-off-the-coast-of-iran": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
+    "ts": "2026-07-24T19:36:24.478593+00:00",
     "type": "highlight"
   },
   "https://splash247.com/russia-ukraine-strikes-choke-black-sea-trade/": {
@@ -1220,15 +1188,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/navio-skandi-amazonas-sofreu-perda-total-apos-encalhar-em-macae/": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
+    "ts": "2026-07-24T19:36:24.478593+00:00",
     "type": "highlight"
   },
   "https://splash247.com/splash-wrap-triple-pronged-war-threat/": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
+    "ts": "2026-07-24T19:36:24.478593+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/marine-insurers-may-ban-payments-to-iran-for-hormuz-transits": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
+    "ts": "2026-07-24T19:36:24.478593+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/24/distracao-na-cabine-gelo-e-fiscalizacao-insuficiente-entenda-conclusoes-do-relatorio-do-cenipa-em-acidente-da-voepass.ghtml": {
@@ -1272,15 +1240,15 @@
     "type": "other"
   },
   "https://www.offshore-energy.biz/allseas-places-order-with-vallourec-for-petrobras-santos-basin-development/": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
+    "ts": "2026-07-24T19:36:24.478593+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/tanker-exits-red-sea-dark-as-china-ship-heads-toward-strait/": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
+    "ts": "2026-07-24T19:36:24.478593+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/red-sea-shipping-insurance-costs-double-overnight-after-houthi-attack": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
+    "ts": "2026-07-24T19:36:24.478593+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/maritimo/maersk-cadeia-fria-uvas-chile-porto-wilmington": {
@@ -1317,6 +1285,38 @@
   },
   "https://www.guiamaritimo.com.br/noticias/terminais/ibraport-crescimento-cargas-saude-animal-2026": {
     "ts": "2026-07-24T13:55:27.107790+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/chinese-tankers-sail-past-houthi-blockade-as-saudi-ships-come-under-fire": {
+    "ts": "2026-07-24T19:36:24.478593+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/imo-statement-on-the-recent-attacks-on-ships-in-the-red-sea/": {
+    "ts": "2026-07-24T19:36:24.478593+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/07/24/incendio-florestal-nos-arredores-de-madri-esta-fora-de-capacidade-de-extincao-dizem-bombeiros-centro-da-nasa-na-espanha-e-esvaziado.ghtml": {
+    "ts": "2026-07-24T19:36:24.478593+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/a-vibra-se-organiza-para-levar-seus-combustiveis-para-a-labace-a-maior-feira-de-aviacao-da-america-latina/": {
+    "ts": "2026-07-24T19:36:24.478593+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/estados-unidos-sancionam-o-porto-de-mariel-e-o-programa-mais-medicos-que-rendia-us-4-bilhoes-para-a-ditadura-cubana/": {
+    "ts": "2026-07-24T19:36:24.478593+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/oil-tops-100-b-after-houthis-attack-two-saudi-tankers-in-red-sea/": {
+    "ts": "2026-07-24T19:36:24.478593+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/watch-u-s-partner-nations-sink-2-retired-warships-in-rimpac-2026-live-fire-exercise/?utm_source=rss&utm_medium=rss&utm_campaign=watch-u-s-partner-nations-sink-2-retired-warships-in-rimpac-2026-live-fire-exercise": {
+    "ts": "2026-07-24T19:36:24.478593+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/fpso-efficiency-at-brazilian-oil-field-surpasses-target-range-to-hit-97/": {
+    "ts": "2026-07-24T19:36:24.478593+00:00",
     "type": "other"
   }
 }
