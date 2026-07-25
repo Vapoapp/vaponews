@@ -27,10 +27,6 @@
     "ts": "2026-07-18T19:11:48.113486+00:00",
     "type": "other"
   },
-  "https://www.bairdmaritime.com/shipping/ports/chinese-firm-to-put-up-multimodal-hub-in-kazakhstans-kuryk-port": {
-    "ts": "2026-07-18T13:26:19.660596+00:00",
-    "type": "other"
-  },
   "https://www.marinelink.com/news/usiran-attacks-escalation-chokes-hormuz-541304": {
     "ts": "2026-07-19T03:22:59.476268+00:00",
     "type": "highlight"
@@ -62,10 +58,6 @@
   "https://www.bairdmaritime.com/shipping/dry-cargo/heavy-lift/vessel-review-cy-frontier-versatile-heavy-transporter-to-serve-offshore-and-industrial-customers": {
     "ts": "2026-07-18T19:11:48.113486+00:00",
     "type": "other"
-  },
-  "https://www.marinelink.com/news/oil-tanker-attacked-drone-black-sea-541328": {
-    "ts": "2026-07-18T13:26:19.660596+00:00",
-    "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/empresas/cade-admite-recursos-contra-a-fusao-entre-saipem-e-subsea7": {
     "ts": "2026-07-18T19:11:48.113486+00:00",
@@ -154,34 +146,6 @@
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/capesize-rate-slump-spoils-week-for-baltic-dry-bulk-index": {
     "ts": "2026-07-19T13:35:28.373238+00:00",
     "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/sweden-approves-two-offshore-wind-farms-rejects-11-over-defence-concerns": {
-    "ts": "2026-07-18T13:26:19.660596+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/u-s-firms-iraq-sign-deals-worth-60-billion-to-construct-new-oil-shipping-routes-beyond-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-firms-iraq-sign-deals-worth-60-billion-to-construct-new-oil-shipping-routes-beyond-hormuz": {
-    "ts": "2026-07-18T13:26:19.660596+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/spain-france-hydrogen-pipeline-exits-pre-feed-phase-en-route-to-final-subsea-design/": {
-    "ts": "2026-07-18T13:26:19.660596+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/21-billion-asian-lng-project-enters-construction-phase-with-groundbreaking-ceremony/": {
-    "ts": "2026-07-18T13:26:19.660596+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/trump-administration-advances-first-offshore-critical-minerals-lease-sale-under-new-marine-minerals-agency/": {
-    "ts": "2026-07-18T13:26:19.660596+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/trump-confronts-limits-to-us-power-to-secure-strait-of-hormuz/": {
-    "ts": "2026-07-18T13:26:19.660596+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/541310-searah-malaysia-starts-upstream-oil-and-gas-operations": {
-    "ts": "2026-07-18T13:26:19.660596+00:00",
-    "type": "other"
   },
   "https://g1.globo.com/mundo/noticia/2026/07/18/sistema-de-prevencao-evitou-colisao-entre-avioes-a-caminho-de-guarulhos-e-da-espanha.ghtml": {
     "ts": "2026-07-18T19:11:48.113486+00:00",
@@ -1084,7 +1048,7 @@
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/vem-ai-o-xxxiii-encontro-cooperaportos": {
-    "ts": "2026-07-25T08:13:28.095008+00:00",
+    "ts": "2026-07-25T13:45:23.286872+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/two-tankers-spill-oil-off-the-coast-of-iran": {
@@ -1136,7 +1100,7 @@
     "type": "highlight"
   },
   "https://splash247.com/splash-wrap-triple-pronged-war-threat/": {
-    "ts": "2026-07-25T08:13:28.095008+00:00",
+    "ts": "2026-07-25T13:45:23.286872+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/marine-insurers-may-ban-payments-to-iran-for-hormuz-transits": {
@@ -1156,7 +1120,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/empresa-arabe-se-movimenta-e-assume-lideranca-no-ranking-de-operadoras-de-sondas-offshore-de-perfuracao/": {
-    "ts": "2026-07-24T08:33:56.633627+00:00",
+    "ts": "2026-07-25T13:45:23.286872+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/tanker-news-roundup-july-24-asian-yards-focus-new-lng-bunkering-vessel-uk-coastal-chemical-carrier-and-more": {
@@ -1176,7 +1140,7 @@
     "type": "other"
   },
   "https://splash247.com/us-attack-threat-raises-stakes-for-gulf-and-red-sea-shipping/": {
-    "ts": "2026-07-24T08:33:56.633627+00:00",
+    "ts": "2026-07-25T13:45:23.286872+00:00",
     "type": "other"
   },
   "https://www.marineinsight.com/russias-largest-nuclear-battlecruiser-admiral-nakhimov-completes-sea-trials/?utm_source=rss&utm_medium=rss&utm_campaign=russias-largest-nuclear-battlecruiser-admiral-nakhimov-completes-sea-trials": {
@@ -1184,15 +1148,15 @@
     "type": "other"
   },
   "https://www.offshore-energy.biz/allseas-places-order-with-vallourec-for-petrobras-santos-basin-development/": {
-    "ts": "2026-07-25T08:13:28.095008+00:00",
+    "ts": "2026-07-25T13:45:23.286872+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/tanker-exits-red-sea-dark-as-china-ship-heads-toward-strait/": {
-    "ts": "2026-07-25T08:13:28.095008+00:00",
+    "ts": "2026-07-25T13:45:23.286872+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/red-sea-shipping-insurance-costs-double-overnight-after-houthi-attack": {
-    "ts": "2026-07-25T08:13:28.095008+00:00",
+    "ts": "2026-07-25T13:45:23.286872+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/maritimo/maersk-cadeia-fria-uvas-chile-porto-wilmington": {
@@ -1232,7 +1196,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/chinese-tankers-sail-past-houthi-blockade-as-saudi-ships-come-under-fire": {
-    "ts": "2026-07-25T08:13:28.095008+00:00",
+    "ts": "2026-07-25T13:45:23.286872+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/imo-statement-on-the-recent-attacks-on-ships-in-the-red-sea/": {
@@ -1268,11 +1232,11 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/saudi-arabia-launches-retaliatory-strikes-on-houthi-city-of-hodeidah": {
-    "ts": "2026-07-25T08:13:28.095008+00:00",
+    "ts": "2026-07-25T13:45:23.286872+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/enclosed-space-safety-needs-more-than-revised-training-content-warns-marinepals/": {
-    "ts": "2026-07-25T08:13:28.095008+00:00",
+    "ts": "2026-07-25T13:45:23.286872+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/24/entenda-o-que-provocou-temporal-que-causou-estragos-em-ribeirao-preto-sp.ghtml": {
@@ -1312,11 +1276,11 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/u-s-forces-strike-another-iran-linked-tanker-in-strait-of-hormuz": {
-    "ts": "2026-07-25T08:13:28.095008+00:00",
+    "ts": "2026-07-25T13:45:23.286872+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/definida-data-de-audiencia-publica-sobre-concessao-do-sistema-aquaviario-integrado-do-sul-e-lagoa-mirim": {
-    "ts": "2026-07-25T08:13:28.095008+00:00",
+    "ts": "2026-07-25T13:45:23.286872+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/07/24/datafolha-avaliacao-governo-lula-julho.ghtml": {
@@ -1353,6 +1317,42 @@
   },
   "https://www.bairdmaritime.com/shipping/tankers/japan-bound-danish-tanker-reroutes-via-suez-canal-over-red-sea-security-risks": {
     "ts": "2026-07-25T08:13:28.095008+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/25/relatorio-final-acidente-voepass-pode-ser-marco-historico-mudancas-culturas-companhias.ghtml": {
+    "ts": "2026-07-25T13:45:23.286872+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/lpg-tanker-disha-carrying-28-indian-crew-attacked-in-iranian-waters/?utm_source=rss&utm_medium=rss&utm_campaign=lpg-tanker-disha-carrying-28-indian-crew-attacked-in-iranian-waters": {
+    "ts": "2026-07-25T13:45:23.286872+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/us-strikes-iran-from-south-to-north-after-trump-threats-over-red-sea-shipping/": {
+    "ts": "2026-07-25T13:45:23.286872+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/strait-of-hormuz-shipping-risk-why-commercial-operators-remain-cautious/": {
+    "ts": "2026-07-25T13:45:23.286872+00:00",
+    "type": "other"
+  },
+  "https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html": {
+    "ts": "2026-07-25T13:45:23.286872+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/strait-of-hormuz-tanker-traffic-falls-to-lowest-level-in-over-two-months/?utm_source=rss&utm_medium=rss&utm_campaign=strait-of-hormuz-tanker-traffic-falls-to-lowest-level-in-over-two-months": {
+    "ts": "2026-07-25T13:45:23.286872+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/ten-takes-delivery-of-third-shuttle-tanker-from-south-korean-builder": {
+    "ts": "2026-07-25T13:45:23.286872+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/saipem-subsea7-merger-under-the-microscope-as-eu-flags-competition-concerns/": {
+    "ts": "2026-07-25T13:45:23.286872+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/541507-koil-energy-lands-first-brazil-subsea-maintenance-job": {
+    "ts": "2026-07-25T13:45:23.286872+00:00",
     "type": "other"
   }
 }
