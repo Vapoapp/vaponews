@@ -1,11 +1,7 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-07-26T03:28:47.368725+00:00",
+    "ts": "2026-07-26T08:33:19.564975+00:00",
     "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/offshore/drilling-production": {
-    "ts": "2026-07-19T08:26:16.952624+00:00",
-    "type": "other"
   },
   "https://www.estadao.com.br/economia/taxa-trump-estreito-ormuz-dobrar-custo-transporte-maritimo/": {
     "ts": "2026-07-23T14:12:22.508729+00:00",
@@ -14,10 +10,6 @@
   "https://maritime-executive.com/article/russia-strikes-mykolaiv-as-ukraine-continues-unrelenting-shipping-attacks": {
     "ts": "2026-07-19T13:35:28.373238+00:00",
     "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/china-merchants-energy-shipping-plans-to-build-six-vlocs": {
-    "ts": "2026-07-19T08:26:16.952624+00:00",
-    "type": "other"
   },
   "https://petronoticias.com.br/porto-sudeste-recebe-selo-ouro-do-ghg-protocol-pelo-terceiro-ano-consecutivo/": {
     "ts": "2026-07-19T19:13:12.077223+00:00",
@@ -30,14 +22,6 @@
   "https://www.bairdmaritime.com/shipping/tankers/dual-middle-east-shipping-lane-threats-push-oil-prices-to-weekly-gain": {
     "ts": "2026-07-19T13:35:28.373238+00:00",
     "type": "highlight"
-  },
-  "https://www.oedigital.com/news/541305-vattenfall-drops-planned-vidar-offshore-wind-project-in-sweden": {
-    "ts": "2026-07-19T08:26:16.952624+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/101-european-lawmakers-urge-danish-shipyard-to-cut-its-ties-with-russias-arctic-lng-fleet/": {
-    "ts": "2026-07-19T08:26:16.952624+00:00",
-    "type": "other"
   },
   "https://www.hellenicshippingnews.com/affinity-tanker-weekly-17-july-2026/": {
     "ts": "2026-07-19T13:35:28.373238+00:00",
@@ -70,18 +54,6 @@
   "https://gcaptain.com/sanctioned-tanker-is-leaking-oil-near-oman/": {
     "ts": "2026-07-19T13:35:28.373238+00:00",
     "type": "highlight"
-  },
-  "https://www.offshore-energy.biz/karoon-boosts-brazilian-fields-oil-output-with-all-wells-now-online/": {
-    "ts": "2026-07-19T08:26:16.952624+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/uk-denies-bail-to-chinese-captain-of-detained-shadow-fleet-tanker": {
-    "ts": "2026-07-19T08:26:16.952624+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/vessels-rigs/jackups-liftboats/cadeler-takes-delivery-of-11th-wind-turbine-installation-vessel": {
-    "ts": "2026-07-19T08:26:16.952624+00:00",
-    "type": "other"
   },
   "https://maritime-executive.com/article/pirates-seize-small-product-tanker-off-yemen": {
     "ts": "2026-07-19T13:35:28.373238+00:00",
@@ -1048,7 +1020,7 @@
     "type": "other"
   },
   "https://www.offshore-energy.biz/allseas-places-order-with-vallourec-for-petrobras-santos-basin-development/": {
-    "ts": "2026-07-26T03:28:47.368725+00:00",
+    "ts": "2026-07-26T08:33:19.564975+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/tanker-exits-red-sea-dark-as-china-ship-heads-toward-strait/": {
@@ -1056,7 +1028,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/red-sea-shipping-insurance-costs-double-overnight-after-houthi-attack": {
-    "ts": "2026-07-26T03:28:47.368725+00:00",
+    "ts": "2026-07-26T08:33:19.564975+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/maritimo/maersk-cadeia-fria-uvas-chile-porto-wilmington": {
@@ -1096,7 +1068,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/chinese-tankers-sail-past-houthi-blockade-as-saudi-ships-come-under-fire": {
-    "ts": "2026-07-26T03:28:47.368725+00:00",
+    "ts": "2026-07-26T08:33:19.564975+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/imo-statement-on-the-recent-attacks-on-ships-in-the-red-sea/": {
@@ -1136,7 +1108,7 @@
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/enclosed-space-safety-needs-more-than-revised-training-content-warns-marinepals/": {
-    "ts": "2026-07-26T03:28:47.368725+00:00",
+    "ts": "2026-07-26T08:33:19.564975+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/24/entenda-o-que-provocou-temporal-que-causou-estragos-em-ribeirao-preto-sp.ghtml": {
@@ -1148,7 +1120,7 @@
     "type": "other"
   },
   "https://agencia.petrobras.com.br/w/regionais/p-33-da-petrobras-deixa-porto-do-a%C3%A7u-para-destina%C3%A7%C3%A3o-sustent%C3%A1vel": {
-    "ts": "2026-07-25T03:14:51.374805+00:00",
+    "ts": "2026-07-26T08:33:19.564975+00:00",
     "type": "other"
   },
   "https://brasilenergia.com.br/petroleoegas/meio-ambiente/p-33-vai-para-o-estaleiro-rio-grande-para-ser-desmantelada": {
@@ -1176,11 +1148,11 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/u-s-forces-strike-another-iran-linked-tanker-in-strait-of-hormuz": {
-    "ts": "2026-07-26T03:28:47.368725+00:00",
+    "ts": "2026-07-26T08:33:19.564975+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/definida-data-de-audiencia-publica-sobre-concessao-do-sistema-aquaviario-integrado-do-sul-e-lagoa-mirim": {
-    "ts": "2026-07-26T03:28:47.368725+00:00",
+    "ts": "2026-07-26T08:33:19.564975+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/07/24/datafolha-avaliacao-governo-lula-julho.ghtml": {
@@ -1192,7 +1164,7 @@
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/gms-week-30-crude-crosses-waters-recede/": {
-    "ts": "2026-07-25T08:13:28.095008+00:00",
+    "ts": "2026-07-26T08:33:19.564975+00:00",
     "type": "other"
   },
   "https://www.marinelink.com/news/cooperative-ventures-invests-opentug-541514": {
@@ -1200,7 +1172,7 @@
     "type": "other"
   },
   "https://www.marinelink.com/news/gtt-marine-digitize-petronas-lng-fleet-541509": {
-    "ts": "2026-07-25T08:13:28.095008+00:00",
+    "ts": "2026-07-26T08:33:19.564975+00:00",
     "type": "other"
   },
   "https://www.offshore-energy.biz/gtts-integrated-digital-toolkit-enhances-petronas-chartered-lng-vessel-fleet/": {
@@ -1208,15 +1180,15 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/541497-eni-petronas-jv-starts-indonesia-bound-fpso-construction": {
-    "ts": "2026-07-25T08:13:28.095008+00:00",
+    "ts": "2026-07-26T08:33:19.564975+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/541503-oil-eases-after-topping-100-still-set-for-weekly-rise": {
-    "ts": "2026-07-25T08:13:28.095008+00:00",
+    "ts": "2026-07-26T08:33:19.564975+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/japan-bound-danish-tanker-reroutes-via-suez-canal-over-red-sea-security-risks": {
-    "ts": "2026-07-25T08:13:28.095008+00:00",
+    "ts": "2026-07-26T08:33:19.564975+00:00",
     "type": "other"
   },
   "https://g1.globo.com/sp/campinas-regiao/noticia/2026/07/25/relatorio-final-acidente-voepass-pode-ser-marco-historico-mudancas-culturas-companhias.ghtml": {
@@ -1224,7 +1196,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/lpg-tanker-disha-carrying-28-indian-crew-attacked-in-iranian-waters/?utm_source=rss&utm_medium=rss&utm_campaign=lpg-tanker-disha-carrying-28-indian-crew-attacked-in-iranian-waters": {
-    "ts": "2026-07-26T03:28:47.368725+00:00",
+    "ts": "2026-07-26T08:33:19.564975+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/us-strikes-iran-from-south-to-north-after-trump-threats-over-red-sea-shipping/": {
@@ -1284,11 +1256,11 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/houthis-may-be-using-real-time-satellite-intelligence-for-targeting": {
-    "ts": "2026-07-26T03:28:47.368725+00:00",
+    "ts": "2026-07-26T08:33:19.564975+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/houthis-fire-on-saudi-red-sea-oil-sites/": {
-    "ts": "2026-07-26T03:28:47.368725+00:00",
+    "ts": "2026-07-26T08:33:19.564975+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/chinese-supertankers-exit-red-sea-saudi-541496": {
@@ -1305,6 +1277,26 @@
   },
   "https://www.oedigital.com/news/541498-north-sea-pilot-produces-green-hydrogen-on-operational-offshore-platform": {
     "ts": "2026-07-26T03:28:47.368725+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/saudi-arabia-bound-supertanker-u-turns-before-houthi-chokepoint/": {
+    "ts": "2026-07-26T08:33:19.564975+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/meio-ambiente/noticia/2026/07/26/desalojados-pelos-incendios-perto-de-madri-temem-um-desastre-natural.ghtml": {
+    "ts": "2026-07-26T08:33:19.564975+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/07/26/navio-afunda-no-mar-da-china-meridional-desaparecidos.ghtml": {
+    "ts": "2026-07-26T08:33:19.564975+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/posh-lands-long-term-gulf-contract/": {
+    "ts": "2026-07-26T08:33:19.564975+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/shipbuilding-takes-digital-leap-with-virtual-platform-to-connect-entire-process/": {
+    "ts": "2026-07-26T08:33:19.564975+00:00",
     "type": "other"
   }
 }
