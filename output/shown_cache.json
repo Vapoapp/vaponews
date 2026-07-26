@@ -7,10 +7,6 @@
     "ts": "2026-07-23T14:12:22.508729+00:00",
     "type": "other"
   },
-  "https://maritime-executive.com/article/russia-strikes-mykolaiv-as-ukraine-continues-unrelenting-shipping-attacks": {
-    "ts": "2026-07-19T13:35:28.373238+00:00",
-    "type": "highlight"
-  },
   "https://petronoticias.com.br/porto-sudeste-recebe-selo-ouro-do-ghg-protocol-pelo-terceiro-ano-consecutivo/": {
     "ts": "2026-07-19T19:13:12.077223+00:00",
     "type": "highlight"
@@ -19,28 +15,8 @@
     "ts": "2026-07-19T19:13:12.077223+00:00",
     "type": "highlight"
   },
-  "https://www.bairdmaritime.com/shipping/tankers/dual-middle-east-shipping-lane-threats-push-oil-prices-to-weekly-gain": {
-    "ts": "2026-07-19T13:35:28.373238+00:00",
-    "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/affinity-tanker-weekly-17-july-2026/": {
-    "ts": "2026-07-19T13:35:28.373238+00:00",
-    "type": "highlight"
-  },
-  "https://www.offshore-energy.biz/ades-jack-up-rig-pair-lines-up-drilling-jobs-in-nigerian-and-uk-waters/": {
-    "ts": "2026-07-19T13:35:28.373238+00:00",
-    "type": "other"
-  },
   "https://www.marineinsight.com/iran-claims-two-oil-tankers-exploded-caught-fire-in-strait-of-hormuz-minefield-us-denies/?utm_source=rss&utm_medium=rss&utm_campaign=iran-claims-two-oil-tankers-exploded-caught-fire-in-strait-of-hormuz-minefield-us-denies": {
     "ts": "2026-07-20T09:24:22.390620+00:00",
-    "type": "highlight"
-  },
-  "https://www.marinelink.com/news/armed-assailants-seize-chemical-tanker-541327": {
-    "ts": "2026-07-19T13:35:28.373238+00:00",
-    "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/capesize-rate-slump-spoils-week-for-baltic-dry-bulk-index": {
-    "ts": "2026-07-19T13:35:28.373238+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/exxon-chartered-oil-tanker-attacked-by-drones-near-black-sea-terminal/": {
@@ -50,18 +26,6 @@
   "https://www.marineinsight.com/us-troops-killed-strait-hormuz-escalation/?utm_source=rss&utm_medium=rss&utm_campaign=us-troops-killed-strait-hormuz-escalation": {
     "ts": "2026-07-20T09:24:22.390620+00:00",
     "type": "highlight"
-  },
-  "https://gcaptain.com/sanctioned-tanker-is-leaking-oil-near-oman/": {
-    "ts": "2026-07-19T13:35:28.373238+00:00",
-    "type": "highlight"
-  },
-  "https://maritime-executive.com/article/pirates-seize-small-product-tanker-off-yemen": {
-    "ts": "2026-07-19T13:35:28.373238+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/fuel-crisis-and-drone-attacks-on-ships-stall-russian-grain": {
-    "ts": "2026-07-19T13:35:28.373238+00:00",
-    "type": "other"
   },
   "https://gcaptain.com/irans-guards-say-two-ships-involved-in-accident-after-defying-hormuz-warnings/": {
     "ts": "2026-07-20T14:18:07.190870+00:00",
@@ -1068,7 +1032,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/chinese-tankers-sail-past-houthi-blockade-as-saudi-ships-come-under-fire": {
-    "ts": "2026-07-26T08:33:19.564975+00:00",
+    "ts": "2026-07-26T13:39:40.018570+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/imo-statement-on-the-recent-attacks-on-ships-in-the-red-sea/": {
@@ -1108,7 +1072,7 @@
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/enclosed-space-safety-needs-more-than-revised-training-content-warns-marinepals/": {
-    "ts": "2026-07-26T08:33:19.564975+00:00",
+    "ts": "2026-07-26T13:39:40.018570+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/07/24/entenda-o-que-provocou-temporal-que-causou-estragos-em-ribeirao-preto-sp.ghtml": {
@@ -1140,7 +1104,7 @@
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/houthi-attacks-raise-fears-of-wider-middle-east-conflict-and-more-global-economic-damage/": {
-    "ts": "2026-07-25T03:14:51.374805+00:00",
+    "ts": "2026-07-26T13:39:40.018570+00:00",
     "type": "other"
   },
   "https://gcaptain.com/grains-markets-hit-new-highs-on-black-sea-attacks-crude-oil-rally/": {
@@ -1148,11 +1112,11 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/u-s-forces-strike-another-iran-linked-tanker-in-strait-of-hormuz": {
-    "ts": "2026-07-26T08:33:19.564975+00:00",
+    "ts": "2026-07-26T13:39:40.018570+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/definida-data-de-audiencia-publica-sobre-concessao-do-sistema-aquaviario-integrado-do-sul-e-lagoa-mirim": {
-    "ts": "2026-07-26T08:33:19.564975+00:00",
+    "ts": "2026-07-26T13:39:40.018570+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/07/24/datafolha-avaliacao-governo-lula-julho.ghtml": {
@@ -1168,7 +1132,7 @@
     "type": "other"
   },
   "https://www.marinelink.com/news/cooperative-ventures-invests-opentug-541514": {
-    "ts": "2026-07-25T08:13:28.095008+00:00",
+    "ts": "2026-07-26T13:39:40.018570+00:00",
     "type": "other"
   },
   "https://www.marinelink.com/news/gtt-marine-digitize-petronas-lng-fleet-541509": {
@@ -1196,7 +1160,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/lpg-tanker-disha-carrying-28-indian-crew-attacked-in-iranian-waters/?utm_source=rss&utm_medium=rss&utm_campaign=lpg-tanker-disha-carrying-28-indian-crew-attacked-in-iranian-waters": {
-    "ts": "2026-07-26T08:33:19.564975+00:00",
+    "ts": "2026-07-26T13:39:40.018570+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/us-strikes-iran-from-south-to-north-after-trump-threats-over-red-sea-shipping/": {
@@ -1256,11 +1220,11 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/houthis-may-be-using-real-time-satellite-intelligence-for-targeting": {
-    "ts": "2026-07-26T08:33:19.564975+00:00",
+    "ts": "2026-07-26T13:39:40.018570+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/houthis-fire-on-saudi-red-sea-oil-sites/": {
-    "ts": "2026-07-26T08:33:19.564975+00:00",
+    "ts": "2026-07-26T13:39:40.018570+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/chinese-supertankers-exit-red-sea-saudi-541496": {
@@ -1280,7 +1244,7 @@
     "type": "other"
   },
   "https://gcaptain.com/saudi-arabia-bound-supertanker-u-turns-before-houthi-chokepoint/": {
-    "ts": "2026-07-26T08:33:19.564975+00:00",
+    "ts": "2026-07-26T13:39:40.018570+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/meio-ambiente/noticia/2026/07/26/desalojados-pelos-incendios-perto-de-madri-temem-um-desastre-natural.ghtml": {
@@ -1297,6 +1261,38 @@
   },
   "https://www.offshore-energy.biz/shipbuilding-takes-digital-leap-with-virtual-platform-to-connect-entire-process/": {
     "ts": "2026-07-26T08:33:19.564975+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/07/26/incendios-florestais-forcam-evacuacao-de-300-mil-pessoas-na-franca-e-espanha.ghtml": {
+    "ts": "2026-07-26T13:39:40.018570+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/india-warns-seafarers-black-sea-shipping-jobs/?utm_source=rss&utm_medium=rss&utm_campaign=india-warns-seafarers-black-sea-shipping-jobs": {
+    "ts": "2026-07-26T13:39:40.018570+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/26/aviao-arremete-pouso-apos-balao-cair-nas-proximidades-do-galeao.ghtml": {
+    "ts": "2026-07-26T13:39:40.018570+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/refining-processing/eu-sanctions-georgia-refinery-in-crackdown-on-russian-oil-revenue": {
+    "ts": "2026-07-26T13:39:40.018570+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/refining-processing": {
+    "ts": "2026-07-26T13:39:40.018570+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/drilling-production": {
+    "ts": "2026-07-26T13:39:40.018570+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/viability-doubts-prompt-thailand-to-downsize-30b-land-bridge-plan": {
+    "ts": "2026-07-26T13:39:40.018570+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/asian-refiners-look-for-alternative-crude-as-middle-east-prices-rise": {
+    "ts": "2026-07-26T13:39:40.018570+00:00",
     "type": "other"
   }
 }
