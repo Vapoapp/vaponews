@@ -35,14 +35,6 @@
     "ts": "2026-07-20T09:24:22.390620+00:00",
     "type": "highlight"
   },
-  "https://maritime-executive.com/article/wtiv-allision-ends-in-gantry-crane-collapse-at-port-of-tyne": {
-    "ts": "2026-07-20T03:36:59.470637+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/asia-us-container-rates-mostly-lower-tanker-rates-steady-to-lower/": {
-    "ts": "2026-07-20T03:36:59.470637+00:00",
-    "type": "other"
-  },
   "https://maritime-executive.com/article/report-greek-tanker-may-be-on-fire-in-strait-of-hormuz": {
     "ts": "2026-07-20T19:48:50.063694+00:00",
     "type": "highlight"
@@ -1092,7 +1084,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/u-s-forces-strike-another-iran-linked-tanker-in-strait-of-hormuz": {
-    "ts": "2026-07-26T19:18:45.221358+00:00",
+    "ts": "2026-07-27T03:37:05.755573+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/definida-data-de-audiencia-publica-sobre-concessao-do-sistema-aquaviario-integrado-do-sul-e-lagoa-mirim": {
@@ -1140,7 +1132,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/lpg-tanker-disha-carrying-28-indian-crew-attacked-in-iranian-waters/?utm_source=rss&utm_medium=rss&utm_campaign=lpg-tanker-disha-carrying-28-indian-crew-attacked-in-iranian-waters": {
-    "ts": "2026-07-26T19:18:45.221358+00:00",
+    "ts": "2026-07-27T03:37:05.755573+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/us-strikes-iran-from-south-to-north-after-trump-threats-over-red-sea-shipping/": {
@@ -1200,11 +1192,11 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/houthis-may-be-using-real-time-satellite-intelligence-for-targeting": {
-    "ts": "2026-07-26T19:18:45.221358+00:00",
+    "ts": "2026-07-27T03:37:05.755573+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/houthis-fire-on-saudi-red-sea-oil-sites/": {
-    "ts": "2026-07-26T19:18:45.221358+00:00",
+    "ts": "2026-07-27T03:37:05.755573+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/chinese-supertankers-exit-red-sea-saudi-541496": {
@@ -1224,7 +1216,7 @@
     "type": "other"
   },
   "https://gcaptain.com/saudi-arabia-bound-supertanker-u-turns-before-houthi-chokepoint/": {
-    "ts": "2026-07-26T19:18:45.221358+00:00",
+    "ts": "2026-07-27T03:37:05.755573+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/meio-ambiente/noticia/2026/07/26/desalojados-pelos-incendios-perto-de-madri-temem-um-desastre-natural.ghtml": {
@@ -1248,7 +1240,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/india-warns-seafarers-black-sea-shipping-jobs/?utm_source=rss&utm_medium=rss&utm_campaign=india-warns-seafarers-black-sea-shipping-jobs": {
-    "ts": "2026-07-26T19:18:45.221358+00:00",
+    "ts": "2026-07-27T03:37:05.755573+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/26/aviao-arremete-pouso-apos-balao-cair-nas-proximidades-do-galeao.ghtml": {
@@ -1276,7 +1268,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/abdan-promove-evento-para-aproximar-jornalistas-dos-debates-sobre-o-setor-nuclear/": {
-    "ts": "2026-07-26T19:18:45.221358+00:00",
+    "ts": "2026-07-27T03:37:05.755573+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/us-military-says-it-fired-on-another-merchant-vessel-trying-to-breach-its-blockade-of-iranian-ports/": {
@@ -1285,6 +1277,22 @@
   },
   "https://www.hellenicshippingnews.com/how-shipping-should-be-buying-clean-technology-2/": {
     "ts": "2026-07-26T19:18:45.221358+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/red-sea-shipping-slows-houthi-attack-541529": {
+    "ts": "2026-07-27T03:37:05.755573+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/selective-enforcement-saudi-crude-keeps-moving-under-the-houthi-blockade/": {
+    "ts": "2026-07-27T03:37:05.755573+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/dht-holdings-takes-delivery-of-fourth-low-emission-vlcc-in-series": {
+    "ts": "2026-07-27T03:37:05.755573+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/tanker-market-freight-rates-increasing-again/": {
+    "ts": "2026-07-27T03:37:05.755573+00:00",
     "type": "other"
   }
 }
