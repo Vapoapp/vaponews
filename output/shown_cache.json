@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-07-27T14:46:57.019028+00:00",
+    "ts": "2026-07-27T19:41:57.584935+00:00",
     "type": "highlight"
   },
   "https://www.estadao.com.br/economia/taxa-trump-estreito-ormuz-dobrar-custo-transporte-maritimo/": {
@@ -1100,7 +1100,7 @@
     "type": "other"
   },
   "https://gcaptain.com/saudi-arabia-bound-supertanker-u-turns-before-houthi-chokepoint/": {
-    "ts": "2026-07-27T14:46:57.019028+00:00",
+    "ts": "2026-07-27T19:41:57.584935+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/meio-ambiente/noticia/2026/07/26/desalojados-pelos-incendios-perto-de-madri-temem-um-desastre-natural.ghtml": {
@@ -1140,7 +1140,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
-    "ts": "2026-07-26T13:39:40.018570+00:00",
+    "ts": "2026-07-27T19:41:57.584935+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/viability-doubts-prompt-thailand-to-downsize-30b-land-bridge-plan": {
@@ -1152,7 +1152,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/abdan-promove-evento-para-aproximar-jornalistas-dos-debates-sobre-o-setor-nuclear/": {
-    "ts": "2026-07-27T14:46:57.019028+00:00",
+    "ts": "2026-07-27T19:41:57.584935+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/us-military-says-it-fired-on-another-merchant-vessel-trying-to-breach-its-blockade-of-iranian-ports/": {
@@ -1180,7 +1180,7 @@
     "type": "other"
   },
   "https://www.rigzone.com/news/brent_wti_oil_prices_both_down_over_5_percent-27-jul-2026-184218-article/": {
-    "ts": "2026-07-27T14:46:57.019028+00:00",
+    "ts": "2026-07-27T19:41:57.584935+00:00",
     "type": "highlight"
   },
   "https://splash247.com/weekend-lull-fails-to-unlock-hormuz-shipping/": {
@@ -1188,7 +1188,7 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/centro-tecnologico-para-o-pre-sal-avanca-em-testes-de-inovacoes-que-prometem-revolucionar-o-mercado-subsea-do-brasil/": {
-    "ts": "2026-07-27T14:46:57.019028+00:00",
+    "ts": "2026-07-27T19:41:57.584935+00:00",
     "type": "highlight"
   },
   "https://splash247.com/rubico-lines-up-third-gsi-mr-with-trafigura-charter/": {
@@ -1244,7 +1244,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/ukraine-attacks-iranian-arms-shipments-on-the-caspian-sea": {
-    "ts": "2026-07-27T14:46:57.019028+00:00",
+    "ts": "2026-07-27T19:41:57.584935+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/541539-seatrium-expands-european-offshore-wind-hub": {
@@ -1289,6 +1289,62 @@
   },
   "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/nge-bw-ideol-partner-on-floating-wind-foundation-facility-in-france": {
     "ts": "2026-07-27T14:46:57.019028+00:00",
+    "type": "other"
+  },
+  "https://brasilenergia.com.br/petroleoegas/ep/onesubsea-sai-na-frente-em-bid-da-petrobras-para-seap": {
+    "ts": "2026-07-27T19:41:57.584935+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/india-flags-attack-on-lpg-tanker-in-iran-waters-says-crew-safe/": {
+    "ts": "2026-07-27T19:41:57.584935+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/infra-upgrades-enable-baltic-container-terminal-to-handle-largest-vessel-to-call-gdynia-port/": {
+    "ts": "2026-07-27T19:41:57.584935+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/lula-diz-querer-forcas-armadas-preparadas-mas-corta-r-143-bilhao-da-marinha-que-nao-garante-combater-o-crime-e-garantir-a-soberania/": {
+    "ts": "2026-07-27T19:41:57.584935+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/logistica/dhl-supply-chain-exeltis-extrema-mg-hub-farmaceutico": {
+    "ts": "2026-07-27T19:41:57.584935+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/bulgaria-denies-oil-slick-coming-from-hulk-of-sanctioned-tanker": {
+    "ts": "2026-07-27T19:41:57.584935+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/diana-shipping-secures-time-charter-for-bulker-with-classic-maritime": {
+    "ts": "2026-07-27T19:41:57.584935+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/diana-shipping-inc-announces-time-charter-contract-for-m-v-philadelphia-with-classic-maritime/": {
+    "ts": "2026-07-27T19:41:57.584935+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/541551-apollo-global-to-invest-1-5b-in-singapore-oil-rig-fund": {
+    "ts": "2026-07-27T19:41:57.584935+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/kazakhstan-slashes-daily-oil-output-by-half-after-russian-terminal-comes-under-fire": {
+    "ts": "2026-07-27T19:41:57.584935+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/asyad-shipping-sells-20-per-cent-stake-in-lng-carriers-to-omani-investors": {
+    "ts": "2026-07-27T19:41:57.584935+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/supertanker-abruptly-reverses-course-near-bab-el-mandeb-over-houthi-threat/?utm_source=rss&utm_medium=rss&utm_campaign=supertanker-abruptly-reverses-course-near-bab-el-mandeb-over-houthi-threat": {
+    "ts": "2026-07-27T19:41:57.584935+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/oil-tanker-explodes-in-strait-of-hormuz-after-hitting-naval-mine/?utm_source=rss&utm_medium=rss&utm_campaign=oil-tanker-explodes-in-strait-of-hormuz-after-hitting-naval-mine": {
+    "ts": "2026-07-27T19:41:57.584935+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/serica-energy-wins-race-for-pharos-energy-with-e170-million-takeover-agreement/": {
+    "ts": "2026-07-27T19:41:57.584935+00:00",
     "type": "other"
   }
 }
