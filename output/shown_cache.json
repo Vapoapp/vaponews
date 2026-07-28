@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "ts": "2026-07-28T19:39:28.637151+00:00",
     "type": "highlight"
   },
   "https://www.estadao.com.br/economia/taxa-trump-estreito-ormuz-dobrar-custo-transporte-maritimo/": {
@@ -15,10 +15,6 @@
     "ts": "2026-07-22T08:36:08.614990+00:00",
     "type": "other"
   },
-  "https://brasilenergia.com.br/petroleoegas/logistica/fmm-aprova-carteira-de-15-projetos-para-financiamento": {
-    "ts": "2026-07-21T19:38:24.139000+00:00",
-    "type": "highlight"
-  },
   "https://www.gov.br/antaq/pt-br/noticias/2026/consulta-publica-sobre-concessao-do-saip-sul-mirim-recebe-contribuicoes-ate-15-de-agosto": {
     "ts": "2026-07-22T03:15:36.753866+00:00",
     "type": "other"
@@ -26,10 +22,6 @@
   "https://www.marinelog.com/news/op-ed-what-the-strait-of-hormuz-backlog-reveals-about-operational-readiness/": {
     "ts": "2026-07-22T03:15:36.753866+00:00",
     "type": "other"
-  },
-  "https://petronoticias.com.br/slb-onesubsea-conquista-dois-contratos-para-fornecer-infraestrutura-submarina-na-noruega/": {
-    "ts": "2026-07-21T19:38:24.139000+00:00",
-    "type": "highlight"
   },
   "https://maritime-executive.com/article/report-kuwaiti-owned-tanker-hit-in-the-strait-of-hormuz": {
     "ts": "2026-07-22T19:27:16.676044+00:00",
@@ -59,57 +51,9 @@
     "ts": "2026-07-23T14:12:22.508729+00:00",
     "type": "highlight"
   },
-  "https://g1.globo.com/economia/noticia/2026/07/21/copa-faz-disparar-numero-de-pessoas-que-pedem-bloqueio-de-cpf-nas-bets-hoje-nem-gosto-mais-de-futebol.ghtml": {
-    "ts": "2026-07-21T19:38:24.139000+00:00",
-    "type": "highlight"
-  },
   "https://www.marinelink.com/news/houthis-threaten-targeted-attacks-541384": {
     "ts": "2026-07-22T08:36:08.614990+00:00",
     "type": "highlight"
-  },
-  "https://petronoticias.com.br/slb-onesubsea-sai-na-frente-em-licitacao-da-petrobras-para-contratacao-de-32-arvores-de-natal-para-o-projeto-sergipe-aguas-profundas/": {
-    "ts": "2026-07-21T19:38:24.139000+00:00",
-    "type": "other"
-  },
-  "https://petronoticias.com.br/terroristas-houthis-explodem-petroleiro-no-mar-vermelho-e-trump-ameaca-eliminar-montanha-com-uranio-enriquecido-no-ira/": {
-    "ts": "2026-07-21T19:38:24.139000+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/hormuz-on-a-knife-edge-shipping-pays-the-price-as-the-iran-u-s-ceasefire-unravels/": {
-    "ts": "2026-07-21T19:38:24.139000+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/iran-strikes-another-tanker-in-strait-of-hormuz-amid-escalating-conflict-with-u-s/": {
-    "ts": "2026-07-21T19:38:24.139000+00:00",
-    "type": "other"
-  },
-  "https://www.rigzone.com/news/rystad_warns_25mm_bpd_of_saudi_oil_is_at_risk-21-jul-2026-184174-article/": {
-    "ts": "2026-07-21T19:38:24.139000+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/avenir-lng-launches-first-bunker-vessel-in-newbuild-pair/": {
-    "ts": "2026-07-21T19:38:24.139000+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/heavy-lift/cosco-shipping-specialised-carriers-to-order-eight-heavy-lift-ships": {
-    "ts": "2026-07-21T19:38:24.139000+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/chinese-yard-secures-first-ever-tanker-order-from-mystery-shipowner": {
-    "ts": "2026-07-21T19:38:24.139000+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/6-2-billion-fid-enables-adnoc-totalenergies-eni-and-cnpc-to-unleash-more-gas/": {
-    "ts": "2026-07-21T19:38:24.139000+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/tankers-turn-back-after-houthi-threat-to-saudi-shipping/": {
-    "ts": "2026-07-21T19:38:24.139000+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/somali-pirates-move-hijacked-tanker-mt-asana-towards-puntland-after-seizing-it-off-yemen/?utm_source=rss&utm_medium=rss&utm_campaign=somali-pirates-move-hijacked-tanker-mt-asana-towards-puntland-after-seizing-it-off-yemen": {
-    "ts": "2026-07-21T19:38:24.139000+00:00",
-    "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21661/santos-brasil-amplia-eficiencia-no-tecon-imbituba-com-novo-sistema-operacional/": {
     "ts": "2026-07-23T14:12:22.508729+00:00",
@@ -1064,7 +1008,7 @@
     "type": "other"
   },
   "https://brasilenergia.com.br/petroleoegas/ep/onesubsea-sai-na-frente-em-bid-da-petrobras-para-seap": {
-    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "ts": "2026-07-28T19:39:28.637151+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/india-flags-attack-on-lpg-tanker-in-iran-waters-says-crew-safe/": {
@@ -1120,7 +1064,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/porto-americano-assina-acordo-para-desenvolvimento-de-reatores-modulares-para-embarcacoes/": {
-    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "ts": "2026-07-28T19:39:28.637151+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/high-bunker-prices-drive-decarbonization-amid-hormuz-crisis/": {
@@ -1184,7 +1128,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/forum-das-associacoes-do-setor-eletrico-propoe-acoes-cruciais-que-precisam-ser-adotadas-nos-100-primeiros-dias-do-proximo-governo/": {
-    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "ts": "2026-07-28T19:39:28.637151+00:00",
     "type": "highlight"
   },
   "https://splash247.com/diana-drops-genco-tender-as-takeover-talks-drag-on/": {
@@ -1240,7 +1184,7 @@
     "type": "other"
   },
   "https://safety4sea.com/vessel-collision-damages-crane-and-spills-plastic-pellets-into-river-tyne/": {
-    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "ts": "2026-07-28T19:39:28.637151+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/meio-ambiente/noticia/2026/07/28/terremoto-japao-entenda-tremores-secundarios.ghtml": {
@@ -1248,7 +1192,7 @@
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/houthis-reignite-tensions-with-red-sea-shipping-attack/": {
-    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "ts": "2026-07-28T19:39:28.637151+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/28/justica-militar-suposto-esquema-de-propina-hospital-naval.ghtml": {
@@ -1293,6 +1237,66 @@
   },
   "https://www.marineinsight.com/houthis-seek-to-copy-irans-hormuz-strategy-by-disrupting-bab-el-mandeb-strait/?utm_source=rss&utm_medium=rss&utm_campaign=houthis-seek-to-copy-irans-hormuz-strategy-by-disrupting-bab-el-mandeb-strait": {
     "ts": "2026-07-28T14:21:19.662431+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/bidding-announcement-of-psv-bourbon-liberty-160-with-bareboat-charter/": {
+    "ts": "2026-07-28T19:39:28.637151+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/ukraine-increases-port-security-as-it-monitors-bulker-that-sank-near-odesa": {
+    "ts": "2026-07-28T19:39:28.637151+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/07/28/keiko-fujimori-toma-posse-como-nova-presidente-do-peru.ghtml": {
+    "ts": "2026-07-28T19:39:28.637151+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/07/28/acidente-barco-parque-nacional-iguacu.ghtml": {
+    "ts": "2026-07-28T19:39:28.637151+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/saudi-tanker-hit-by-houthi-missiles-in-the-red-sea": {
+    "ts": "2026-07-28T19:39:28.637151+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/seeking-immunity-at-sea-beijing-asks-houthis-to-spare-chinese-tankers": {
+    "ts": "2026-07-28T19:39:28.637151+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/houthi-blockade-hits-yanbu-crude-loadings-but-dark-tankers-may-plug-the-gap": {
+    "ts": "2026-07-28T19:39:28.637151+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/iranian-oil-hoard-swells-off-malaysia-on-weak-chinese-demand/": {
+    "ts": "2026-07-28T19:39:28.637151+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/britains-first-certified-crewless-ship-just-launched-and-recovered-its-own-drone-in-the-open-ocean/?utm_source=rss&utm_medium=rss&utm_campaign=britains-first-certified-crewless-ship-just-launched-and-recovered-its-own-drone-in-the-open-ocean": {
+    "ts": "2026-07-28T19:39:28.637151+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/ports/escalating-shipping-risks-force-russian-black-sea-terminals-to-restrict-truck-grain-deliveries": {
+    "ts": "2026-07-28T19:39:28.637151+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/houthis-pushing-to-model-irans-hormuz-control-in-red-sea/": {
+    "ts": "2026-07-28T19:39:28.637151+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/iran-says-it-still-controls-strait-of-hormuz-after-trump-halts-u-s-bombing-campaign/?utm_source=rss&utm_medium=rss&utm_campaign=iran-says-it-still-controls-strait-of-hormuz-after-trump-halts-u-s-bombing-campaign": {
+    "ts": "2026-07-28T19:39:28.637151+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/541573-talos-energy-farms-into-mexico-s-offshore-oil-block-via-repsol-deal": {
+    "ts": "2026-07-28T19:39:28.637151+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/shandong-port-yard-breaks-into-chemical-tankers/": {
+    "ts": "2026-07-28T19:39:28.637151+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/tgs-to-kick-start-100-day-obn-project-in-q4-2026/": {
+    "ts": "2026-07-28T19:39:28.637151+00:00",
     "type": "other"
   }
 }
