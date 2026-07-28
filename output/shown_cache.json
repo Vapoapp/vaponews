@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-07-28T08:42:34.851603+00:00",
+    "ts": "2026-07-28T14:21:19.662431+00:00",
     "type": "highlight"
   },
   "https://www.estadao.com.br/economia/taxa-trump-estreito-ormuz-dobrar-custo-transporte-maritimo/": {
@@ -17,10 +17,6 @@
   },
   "https://brasilenergia.com.br/petroleoegas/logistica/fmm-aprova-carteira-de-15-projetos-para-financiamento": {
     "ts": "2026-07-21T19:38:24.139000+00:00",
-    "type": "highlight"
-  },
-  "https://maritime-executive.com/article/three-tankers-attacked-while-loading-at-caspian-pipeline": {
-    "ts": "2026-07-21T14:04:52.434008+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/consulta-publica-sobre-concessao-do-saip-sul-mirim-recebe-contribuicoes-ate-15-de-agosto": {
@@ -51,10 +47,6 @@
     "ts": "2026-07-22T14:07:33.466474+00:00",
     "type": "highlight"
   },
-  "https://www.marinelink.com/news/tanker-crew-abandons-ship-reported-strike-541372": {
-    "ts": "2026-07-21T14:04:52.434008+00:00",
-    "type": "highlight"
-  },
   "https://safety4sea.com/canada-tsb-marine-accidents-rise-as-fatalities-fall-to-10-year-low/": {
     "ts": "2026-07-22T08:36:08.614990+00:00",
     "type": "highlight"
@@ -62,54 +54,6 @@
   "https://splash247.com/sinokor-offers-crews-six-months-pay-for-hormuz-round-trips/": {
     "ts": "2026-07-22T03:15:36.753866+00:00",
     "type": "highlight"
-  },
-  "https://www.oedigital.com/news/541368-adnoc-approves-6-2b-offshore-umm-shaif-gas-project": {
-    "ts": "2026-07-21T14:04:52.434008+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/541371-norway-s-offshore-oil-gas-output-tops-june-forecast": {
-    "ts": "2026-07-21T14:04:52.434008+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/shipowners-offer-seafarers-massive-bonuses-to-sail-through-risky-hormuz-waters/?utm_source=rss&utm_medium=rss&utm_campaign=shipowners-offer-seafarers-massive-bonuses-to-sail-through-risky-hormuz-waters": {
-    "ts": "2026-07-21T14:04:52.434008+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/bureau-veritas-approves-uk-firms-wind-assisted-propulsion-technology/": {
-    "ts": "2026-07-21T14:04:52.434008+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/houthis-declare-naval-blockade-on-saudi-arabia/": {
-    "ts": "2026-07-21T14:04:52.434008+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/russian-strike-on-cargo-vessel-results-in-ten-deaths/": {
-    "ts": "2026-07-21T14:04:52.434008+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/crew-abandons-burning-vessel-after-projectile-strike-in-strait-of-hormuz-ship-left-adrift/?utm_source=rss&utm_medium=rss&utm_campaign=crew-abandons-burning-vessel-after-projectile-strike-in-strait-of-hormuz-ship-left-adrift": {
-    "ts": "2026-07-21T14:04:52.434008+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/gpas-ocean-terminal-renovation-now-55-percent-complete-2/": {
-    "ts": "2026-07-21T14:04:52.434008+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/chinese-shipbuilder-secures-bulk-carrier-contract-with-greek-shipowner": {
-    "ts": "2026-07-21T14:04:52.434008+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/seacon-shipping-to-sell-bulk-carrier-to-obe-ships-for-416m": {
-    "ts": "2026-07-21T14:04:52.434008+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/var-energi-bluenord-merger-forging-europes-new-independent-oil-gas-producer/": {
-    "ts": "2026-07-21T14:04:52.434008+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/lng-shipping-stocks-upi-is-back-above-200-points/": {
-    "ts": "2026-07-21T14:04:52.434008+00:00",
-    "type": "other"
   },
   "https://maritime-executive.com/article/houthi-blockade-of-saudi-shipping-begins-to-bite": {
     "ts": "2026-07-23T14:12:22.508729+00:00",
@@ -1024,7 +968,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/541536-saipem-joins-eni-s-baleine-phase-3-delivery-crew-off-ivory-coast": {
-    "ts": "2026-07-27T10:00:21.458347+00:00",
+    "ts": "2026-07-28T14:21:19.662431+00:00",
     "type": "other"
   },
   "https://www.offshore-energy.biz/australias-largest-untapped-conventional-gas-resource-gets-significant-project-status/": {
@@ -1120,11 +1064,11 @@
     "type": "other"
   },
   "https://brasilenergia.com.br/petroleoegas/ep/onesubsea-sai-na-frente-em-bid-da-petrobras-para-seap": {
-    "ts": "2026-07-28T08:42:34.851603+00:00",
+    "ts": "2026-07-28T14:21:19.662431+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/india-flags-attack-on-lpg-tanker-in-iran-waters-says-crew-safe/": {
-    "ts": "2026-07-28T08:42:34.851603+00:00",
+    "ts": "2026-07-28T14:21:19.662431+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/infra-upgrades-enable-baltic-container-terminal-to-handle-largest-vessel-to-call-gdynia-port/": {
@@ -1176,7 +1120,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/porto-americano-assina-acordo-para-desenvolvimento-de-reatores-modulares-para-embarcacoes/": {
-    "ts": "2026-07-28T08:42:34.851603+00:00",
+    "ts": "2026-07-28T14:21:19.662431+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/high-bunker-prices-drive-decarbonization-amid-hormuz-crisis/": {
@@ -1184,7 +1128,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/korean-container-ship-rescues-tug-crewmembers-in-south-china-sea": {
-    "ts": "2026-07-28T08:42:34.851603+00:00",
+    "ts": "2026-07-28T14:21:19.662431+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/modec-testa-novas-tecnologias-no-pre-sal-para-reduzir-as-emissoes-de-plataformas/": {
@@ -1240,7 +1184,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/forum-das-associacoes-do-setor-eletrico-propoe-acoes-cruciais-que-precisam-ser-adotadas-nos-100-primeiros-dias-do-proximo-governo/": {
-    "ts": "2026-07-28T08:42:34.851603+00:00",
+    "ts": "2026-07-28T14:21:19.662431+00:00",
     "type": "highlight"
   },
   "https://splash247.com/diana-drops-genco-tender-as-takeover-talks-drag-on/": {
@@ -1293,6 +1237,62 @@
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction/vessel-review-cf-formidable-hybrid-multi-role-osv-boasts-long-endurance-and-redundant-features": {
     "ts": "2026-07-28T08:42:34.851603+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/vessel-collision-damages-crane-and-spills-plastic-pellets-into-river-tyne/": {
+    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/meio-ambiente/noticia/2026/07/28/terremoto-japao-entenda-tremores-secundarios.ghtml": {
+    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/houthis-reignite-tensions-with-red-sea-shipping-attack/": {
+    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/28/justica-militar-suposto-esquema-de-propina-hospital-naval.ghtml": {
+    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/first-condensate-cargo-from-australian-project-en-route-to-south-korea/": {
+    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "type": "other"
+  },
+  "https://www.rigzone.com/news/oil_market_rapidly_strips_out_iran_war_premium-28-jul-2026-184231-article/": {
+    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/541582-bureau-veritas-gives-blessing-to-seatrium-s-30mw-floating-data-center": {
+    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/541574-keppel-launches-2-9b-program-to-monetize-legacy-offshore-drilling-rigs": {
+    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/classnk-releases-edition-2-0-of-the-guidelines-for-additional-fire-fighting-measures-for-container-carrier/": {
+    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/cheap-drones-redraw-shippings-war-risk-map/": {
+    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/uk-maib-investigation-fatal-man-overboard-incident-on-bulk-carrier/": {
+    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/cm-crew-welfare-week-2026-psychological-safety-is-vital-for-a-future-ready-crew/": {
+    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/ditas-linked-to-dh-suezmax-pair/": {
+    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/houthis-seek-to-copy-irans-hormuz-strategy-by-disrupting-bab-el-mandeb-strait/?utm_source=rss&utm_medium=rss&utm_campaign=houthis-seek-to-copy-irans-hormuz-strategy-by-disrupting-bab-el-mandeb-strait": {
+    "ts": "2026-07-28T14:21:19.662431+00:00",
     "type": "other"
   }
 }
