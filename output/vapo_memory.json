@@ -2,17 +2,6 @@
   {
     "date": "2026-07-20",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação projetada em até 50 dias. A restrição força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo. A oferta limitada de navios na região, aliada à resistência dos armadores locais, intensifica a tensão na cadeia global de suprimentos. Ataques recentes a petroleiros, incluindo incêndios e disparos de projéteis, aume"
-  },
-  {
-    "date": "2026-07-20",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -322,5 +311,16 @@
       "risco geopolítico"
     ],
     "summary": "A operação no Estreito de Ormuz segue abaixo de 10%, com recuperação estimada em até 50 dias. A restrição obriga importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e custos no transporte marítimo de petróleo. A apreensão de petroleiros e a possível suspensão de apólices pelas seguradoras aumentam a volatilidade financeira e dificultam o planejamento de embarques na região. No Mar Vermelho, ataques coordenados dos Houthis intensificam riscos operacionais e forçam n"
+  },
+  {
+    "date": "2026-07-28",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação projetada em até 50 dias. Essa restrição força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo. A apreensão de petroleiros e a possível suspensão de apólices pelas seguradoras ampliam a volatilidade financeira e dificultam o planejamento de embarques na região. No Mar Vermelho, ataques coordenados dos Houthis"
   }
 ]
