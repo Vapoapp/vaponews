@@ -11,10 +11,6 @@
     "ts": "2026-07-22T19:27:16.676044+00:00",
     "type": "highlight"
   },
-  "https://petronoticias.com.br/principais-decisoes-de-investimentos-de-projetos-offshore-no-ultimo-ano-aconteceram-no-brasil/": {
-    "ts": "2026-07-22T14:07:33.466474+00:00",
-    "type": "highlight"
-  },
   "https://maritime-executive.com/article/houthi-blockade-of-saudi-shipping-begins-to-bite": {
     "ts": "2026-07-23T14:12:22.508729+00:00",
     "type": "highlight"
@@ -31,33 +27,9 @@
     "ts": "2026-07-24T08:33:56.633627+00:00",
     "type": "highlight"
   },
-  "https://www.hellenicshippingnews.com/fairfield-maritime-japan-and-neste-sign-long-term-charter-contract-for-two-ice-class-1a-mr-tankers/": {
-    "ts": "2026-07-22T14:07:33.466474+00:00",
-    "type": "highlight"
-  },
   "https://www.marineinsight.com/us-redirects-8-commercial-ships-disables-one-to-fully-enforce-iran-naval-blockade/?utm_source=rss&utm_medium=rss&utm_campaign=us-redirects-8-commercial-ships-disables-one-to-fully-enforce-iran-naval-blockade": {
     "ts": "2026-07-23T08:37:46.203338+00:00",
     "type": "highlight"
-  },
-  "https://www.oedigital.com/news/541414-abl-gets-papua-new-guinea-fso-job": {
-    "ts": "2026-07-22T14:07:33.466474+00:00",
-    "type": "other"
-  },
-  "https://g1.globo.com/mundo/noticia/2026/07/22/trump-diz-que-eua-atacarao-ponte-ou-usina-eletrica-do-ira-sempre-que-teera-fizer-ataque-no-estreito-de-ormuz.ghtml": {
-    "ts": "2026-07-22T14:07:33.466474+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/541402-oil-rises-on-dual-shipping-threat-in-hormuz-and-red-sea": {
-    "ts": "2026-07-22T14:07:33.466474+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/strait-of-hormuz-the-unrelenting-crisis-in-the-persian-gulf-continues/": {
-    "ts": "2026-07-22T14:07:33.466474+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/iran-attacks-another-tanker-in-strait-of-hormuz-as-us-completes-11th-consecutive-night-of-airstrikes/?utm_source=rss&utm_medium=rss&utm_campaign=iran-attacks-another-tanker-in-strait-of-hormuz-as-us-completes-11th-consecutive-night-of-airstrikes": {
-    "ts": "2026-07-22T14:07:33.466474+00:00",
-    "type": "other"
   },
   "https://gcaptain.com/trumps-new-warning-to-iran-attack-a-ship-in-hormuz-lose-a-bridge-or-power-plant/": {
     "ts": "2026-07-23T14:12:22.508729+00:00",
@@ -73,22 +45,6 @@
   },
   "https://safety4sea.com/port-of-hamburg-moves-closer-to-ammonia-bunkering/": {
     "ts": "2026-07-23T14:12:22.508729+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/second-tanker-abandoned-in-24-hours-after-latest-strait-of-hormuz-attack/": {
-    "ts": "2026-07-22T14:07:33.466474+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/onboard-carbon-capture-and-storage-gets-regulatory-nod-from-eu-and-imo/": {
-    "ts": "2026-07-22T14:07:33.466474+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/james-fisher-christens-new-dual-fuel-chemical-tanker": {
-    "ts": "2026-07-22T14:07:33.466474+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/transport/vallourec-secures-pipe-supply-contract-for-brazil-offshore-project": {
-    "ts": "2026-07-22T14:07:33.466474+00:00",
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/definida-data-de-audiencia-publica-sobre-arrendamento-portuario-em-itajai-sc": {
@@ -956,7 +912,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/korean-container-ship-rescues-tug-crewmembers-in-south-china-sea": {
-    "ts": "2026-07-28T14:21:19.662431+00:00",
+    "ts": "2026-07-29T14:21:19.547459+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/modec-testa-novas-tecnologias-no-pre-sal-para-reduzir-as-emissoes-de-plataformas/": {
@@ -1068,7 +1024,7 @@
     "type": "other"
   },
   "https://safety4sea.com/vessel-collision-damages-crane-and-spills-plastic-pellets-into-river-tyne/": {
-    "ts": "2026-07-29T08:48:02.941855+00:00",
+    "ts": "2026-07-29T14:21:19.547459+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/meio-ambiente/noticia/2026/07/28/terremoto-japao-entenda-tremores-secundarios.ghtml": {
@@ -1297,6 +1253,82 @@
   },
   "https://www.marineinsight.com/bulgaria-inspects-sanctioned-tanker-kairos-after-oil-pollution-reports-in-burgas-bay/?utm_source=rss&utm_medium=rss&utm_campaign=bulgaria-inspects-sanctioned-tanker-kairos-after-oil-pollution-reports-in-burgas-bay": {
     "ts": "2026-07-29T08:48:02.941855+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/fire-contained-onboard-chemical-tanker-carrying-sulfuric-acid-off-norway/": {
+    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "type": "highlight"
+  },
+  "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-adia-audiencia-publica-sobre-arrendamento-portuario-em-itajai-sc": {
+    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/the-red-sea-reopens-as-a-second-front-while-saudi-crude-routes-around-the-blockade/": {
+    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "type": "highlight"
+  },
+  "https://www.tecnologistica.com.br/noticias/tecnologia/21690/porto-do-acu-adota-plataforma-para-centralizar-gestao-de-inovacao/": {
+    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "type": "other"
+  },
+  "https://brasilenergia.com.br/petroleoegas/comercio-exterior/petroleo-brasileiro-ganha-mercado-externo": {
+    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/refining-processing/petrobras-pushes-production-to-its-limits-on-conflict-driven-import-cuts": {
+    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/07/29/quaest-bahia-governador-julho.ghtml": {
+    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/07/29/houthis-consideram-cobrar-taxas-de-navios-no-mar-vermelho-diz-ministro-do-iemen.ghtml": {
+    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/hormuz-tensions-flare-after-u-s-saudi-strikes-iran-claims-attacks-on-tankers/": {
+    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "type": "other"
+  },
+  "https://www.nytimes.com/2026/07/29/business/iran-war-hormuz-red-sea-shipping.html": {
+    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/houthis-claim-ballistic-missile-attack-on-saudi-oil-tanker-in-red-sea/?utm_source=rss&utm_medium=rss&utm_campaign=houthis-claim-ballistic-missile-attack-on-saudi-oil-tanker-in-red-sea": {
+    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/one-billion-plastic-pellets-spill-into-river-tyne-after-offshore-vessel-collides-with-container-ship/?utm_source=rss&utm_medium=rss&utm_campaign=one-billion-plastic-pellets-spill-into-river-tyne-after-offshore-vessel-collides-with-container-ship": {
+    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/repair-options-boosted-in-south-africa/": {
+    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/intercargo-every-seafarer-deserves-to-return-home/": {
+    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-orienta-portos-de-manaus-sobre-utilizacao-do-modulo-app": {
+    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/shipping-traffic-through-bab-el-mandeb-surges-to-weekly-high": {
+    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/infraestrutura/21688/manaus-airport-lanca-programa-imobiliario-e-implanta-servico-de-remessa-expressa/": {
+    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/e5-6-million-contract-to-keep-psv-busy-for-319-days-or-more-off-uk/": {
+    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/pelagic-credit-seals-47m-hartmann-bulker-leaseback/": {
+    "ts": "2026-07-29T14:21:19.547459+00:00",
     "type": "other"
   }
 }
