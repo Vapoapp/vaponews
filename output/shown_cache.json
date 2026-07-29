@@ -912,7 +912,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/korean-container-ship-rescues-tug-crewmembers-in-south-china-sea": {
-    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "ts": "2026-07-29T19:24:15.047229+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/modec-testa-novas-tecnologias-no-pre-sal-para-reduzir-as-emissoes-de-plataformas/": {
@@ -1024,7 +1024,7 @@
     "type": "other"
   },
   "https://safety4sea.com/vessel-collision-damages-crane-and-spills-plastic-pellets-into-river-tyne/": {
-    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "ts": "2026-07-29T19:24:15.047229+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/meio-ambiente/noticia/2026/07/28/terremoto-japao-entenda-tremores-secundarios.ghtml": {
@@ -1256,15 +1256,15 @@
     "type": "other"
   },
   "https://safety4sea.com/fire-contained-onboard-chemical-tanker-carrying-sulfuric-acid-off-norway/": {
-    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "ts": "2026-07-29T19:24:15.047229+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-adia-audiencia-publica-sobre-arrendamento-portuario-em-itajai-sc": {
-    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "ts": "2026-07-29T19:24:15.047229+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/the-red-sea-reopens-as-a-second-front-while-saudi-crude-routes-around-the-blockade/": {
-    "ts": "2026-07-29T14:21:19.547459+00:00",
+    "ts": "2026-07-29T19:24:15.047229+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/tecnologia/21690/porto-do-acu-adota-plataforma-para-centralizar-gestao-de-inovacao/": {
@@ -1329,6 +1329,70 @@
   },
   "https://splash247.com/pelagic-credit-seals-47m-hartmann-bulker-leaseback/": {
     "ts": "2026-07-29T14:21:19.547459+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/07/29/navio-cargueiro-eua-atingido-porto-egito.ghtml": {
+    "ts": "2026-07-29T19:24:15.047229+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/middle-east-war-expands-to-mediterranean-with-drone-strike-at-key-egypt-lng-terminal/": {
+    "ts": "2026-07-29T19:24:15.047229+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/oman-presents-iran-with-gulf-backed-plan-for-voluntary-strait-of-hormuz-transit-fees/?utm_source=rss&utm_medium=rss&utm_campaign=oman-presents-iran-with-gulf-backed-plan-for-voluntary-strait-of-hormuz-transit-fees": {
+    "ts": "2026-07-29T19:24:15.047229+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/internacional/western-lng-contrata-allseas-para-gasoduto-submarino": {
+    "ts": "2026-07-29T19:24:15.047229+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/report-houthis-may-attempt-to-impose-fees-on-red-sea-transits": {
+    "ts": "2026-07-29T19:24:15.047229+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/norwegian-chemical-tanker-catches-fire-off-fredrikstad/?utm_source=rss&utm_medium=rss&utm_campaign=norwegian-chemical-tanker-catches-fire-off-fredrikstad": {
+    "ts": "2026-07-29T19:24:15.047229+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/mounting-industry-pressures-reshape-the-role-of-the-ship-manager/": {
+    "ts": "2026-07-29T19:24:15.047229+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/541598-allseas-to-install-key-piece-of-subsea-pipeline-for-canadian-lng-project": {
+    "ts": "2026-07-29T19:24:15.047229+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/shipping-industry-urges-protection-for-civilian-seafarers-as-global-maritime-threats-escalate/": {
+    "ts": "2026-07-29T19:24:15.047229+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/uni-asia-joint-venture-to-acquire-bulk-carrier-for-205m": {
+    "ts": "2026-07-29T19:24:15.047229+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/541597-northern-lights-ccs-fleet-set-for-next-stage-with-latest-lco2-carrier-arrival": {
+    "ts": "2026-07-29T19:24:15.047229+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/four-firms-eye-bids-for-bp-offshore-egyptian-gas-assets": {
+    "ts": "2026-07-29T19:24:15.047229+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/us-issues-new-round-iranrelated-shipping-541617": {
+    "ts": "2026-07-29T19:24:15.047229+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/shearwater-to-explore-carbon-storage-potential-in-australian-waters/": {
+    "ts": "2026-07-29T19:24:15.047229+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/top-ships-turns-dubai-refund-into-mr-tanker-trio/": {
+    "ts": "2026-07-29T19:24:15.047229+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/taiwan-charts-offshore-wind-growth-through-2039/": {
+    "ts": "2026-07-29T19:24:15.047229+00:00",
     "type": "other"
   }
 }
