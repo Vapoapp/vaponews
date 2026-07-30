@@ -8,17 +8,6 @@
       "logística e portos",
       "risco geopolítico"
     ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação estimada em até 50 dias. Essa limitação força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo. Ataques recentes a petroleiros intensificam o risco operacional e restringem a oferta de navios na região. No Mar Vermelho, o bloqueio naval imposto pelos Houthis ao tráfego saudita altera rotas e aumenta a complexi"
-  },
-  {
-    "date": "2026-07-22",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação estimada em até 50 dias, forçando importadores asiáticos a alongar rotas e elevando tarifas de afretamento para VLCCs. Ataques recentes a petroleiros e o bloqueio naval imposto pelos Houthis no Mar Vermelho intensificam riscos operacionais e logísticos, obrigando desvios frequentes e aumentando custos no transporte marítimo de petróleo. No Brasil, o fornecimento de tubos para o projeto offshore Atapu 2 indica cont"
   },
   {
@@ -321,5 +310,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação prevista em até 50 dias. A restrição força importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos no transporte marítimo de petróleo. A apreensão de petroleiros e a possível suspensão de apólices pelas seguradoras ampliam a volatilidade financeira, dificultando o planejamento de embarques na região. No Mar Vermelho, ataques coordenados dos Houthis aumentam o ri"
+  },
+  {
+    "date": "2026-07-30",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação estimada em até 50 dias. Esse bloqueio prolongado força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo. A apreensão de petroleiros e o risco de suspensão de apólices pelas seguradoras ampliam a volatilidade financeira, dificultando o planejamento de embarques e impactando contratos de longo prazo. No plano g"
   }
 ]
