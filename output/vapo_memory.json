@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-07-23",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação estimada em até 50 dias. Essa limitação força importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos logísticos no transporte marítimo de petróleo. A apreensão de petroleiros e ameaças de sanções aumentam a volatilidade operacional e financeira na região. No Mar Vermelho, ataques recentes de militantes Houthis a petroleiros sauditas e bloqueios navais intensifi"
-  },
-  {
     "date": "2026-07-24",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -319,5 +308,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação projetada em até 50 dias. Esse gargalo força importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos logísticos no transporte marítimo de petróleo. A apreensão de petroleiros e o risco de suspensão de apólices pelas seguradoras ampliam a volatilidade financeira, dificultando o planejamento de embarques e contratos de longo prazo. No Mar Vermelho, a formação de u"
+  },
+  {
+    "date": "2026-07-31",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A operação no Estreito de Ormuz segue abaixo de 10%, com recuperação estimada em até 50 dias. Isso força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo. A apreensão de petroleiros e o risco de suspensão de apólices pelas seguradoras ampliam a volatilidade financeira, dificultando o planejamento e comprometendo contratos de longo prazo. No Mar Vermelho, a Arábia Saudita propõe liderar uma aliança multin"
   }
 ]
