@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-07-31T08:56:34.169334+00:00",
+    "ts": "2026-07-31T19:41:41.034205+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/541460-qatarenergy-prolongs-lng-force-majeure-charters-out-tankers": {
@@ -11,24 +11,8 @@
     "ts": "2026-07-25T08:13:28.095008+00:00",
     "type": "highlight"
   },
-  "https://brasilenergia.com.br/petroleoegas/inovacao/transpetro-utiliza-impressao-3d-em-manutencao-de-dutos-e-terminais": {
-    "ts": "2026-07-24T19:36:24.478593+00:00",
-    "type": "highlight"
-  },
-  "https://www.tecnologistica.com.br/noticias/portos/21669/aps-inicia-projeto-para-aprofundar-canal-de-navegacao-do-porto-de-santos/": {
-    "ts": "2026-07-24T19:36:24.478593+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/houthi-attacks-on-saudi-tankers-constrict-crude-trade/": {
-    "ts": "2026-07-24T19:36:24.478593+00:00",
-    "type": "other"
-  },
   "https://www.gov.br/antaq/pt-br/noticias/2026/vem-ai-o-xxxiii-encontro-cooperaportos": {
     "ts": "2026-07-25T19:15:18.475967+00:00",
-    "type": "highlight"
-  },
-  "https://maritime-executive.com/article/two-tankers-spill-oil-off-the-coast-of-iran": {
-    "ts": "2026-07-24T19:36:24.478593+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
@@ -79,28 +63,12 @@
     "ts": "2026-07-26T13:39:40.018570+00:00",
     "type": "highlight"
   },
-  "https://www.hellenicshippingnews.com/imo-statement-on-the-recent-attacks-on-ships-in-the-red-sea/": {
-    "ts": "2026-07-24T19:36:24.478593+00:00",
-    "type": "highlight"
-  },
-  "https://g1.globo.com/mundo/noticia/2026/07/24/incendio-florestal-nos-arredores-de-madri-esta-fora-de-capacidade-de-extincao-dizem-bombeiros-centro-da-nasa-na-espanha-e-esvaziado.ghtml": {
-    "ts": "2026-07-24T19:36:24.478593+00:00",
-    "type": "highlight"
-  },
   "https://petronoticias.com.br/a-vibra-se-organiza-para-levar-seus-combustiveis-para-a-labace-a-maior-feira-de-aviacao-da-america-latina/": {
     "ts": "2026-07-26T03:28:47.368725+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/estados-unidos-sancionam-o-porto-de-mariel-e-o-programa-mais-medicos-que-rendia-us-4-bilhoes-para-a-ditadura-cubana/": {
     "ts": "2026-07-26T03:28:47.368725+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/oil-tops-100-b-after-houthis-attack-two-saudi-tankers-in-red-sea/": {
-    "ts": "2026-07-24T19:36:24.478593+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/watch-u-s-partner-nations-sink-2-retired-warships-in-rimpac-2026-live-fire-exercise/?utm_source=rss&utm_medium=rss&utm_campaign=watch-u-s-partner-nations-sink-2-retired-warships-in-rimpac-2026-live-fire-exercise": {
-    "ts": "2026-07-24T19:36:24.478593+00:00",
     "type": "other"
   },
   "https://www.offshore-energy.biz/fpso-efficiency-at-brazilian-oil-field-surpasses-target-range-to-hit-97/": {
@@ -1200,7 +1168,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/541656-eu-extends-saipem-subsea-7-deadline": {
-    "ts": "2026-07-31T14:20:05.656934+00:00",
+    "ts": "2026-07-31T19:41:41.034205+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/intercargo-calls-for-urgent-international-action-to-protect-seafarers-and-merchant-shipping/?utm_source=rss&utm_medium=rss&utm_campaign=intercargo-calls-for-urgent-international-action-to-protect-seafarers-and-merchant-shipping": {
@@ -1248,7 +1216,7 @@
     "type": "highlight"
   },
   "https://gcaptain.com/saudi-arabia-unveils-plans-for-multinational-red-sea-maritime-security-coalition/": {
-    "ts": "2026-07-31T14:20:05.656934+00:00",
+    "ts": "2026-07-31T19:41:41.034205+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/security-concerns-suez-oil-rise-tanker-541670": {
@@ -1292,11 +1260,11 @@
     "type": "other"
   },
   "https://www.offshore-energy.biz/plsvs-owned-by-dof-technipfmc-jv-get-more-time-with-petrobras/": {
-    "ts": "2026-07-31T14:20:05.656934+00:00",
+    "ts": "2026-07-31T19:41:41.034205+00:00",
     "type": "highlight"
   },
   "https://splash247.com/iran-remains-chief-suspect-as-damietta-damage-picture-emerges/": {
-    "ts": "2026-07-31T14:20:05.656934+00:00",
+    "ts": "2026-07-31T19:41:41.034205+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/new-super-typhoon-could-disrupt-taiwan-china-ports-again/": {
@@ -1328,11 +1296,11 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21701/eblog-supera-2-3-milhoes-de-toneladas-embarcadas-no-porto-de-santos/": {
-    "ts": "2026-07-31T14:20:05.656934+00:00",
+    "ts": "2026-07-31T19:41:41.034205+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/kazakh-oil-shipments-halted-again-after-attacks-on-two-tankers-at-novorossiysk-port/?utm_source=rss&utm_medium=rss&utm_campaign=kazakh-oil-shipments-halted-again-after-attacks-on-two-tankers-at-novorossiysk-port": {
-    "ts": "2026-07-31T14:20:05.656934+00:00",
+    "ts": "2026-07-31T19:41:41.034205+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/boxships/container-vessel-news-roundup-july-31-cypriot-reefer-carrier-delivery-dutch-shortsea-feeder-ship-concept-and-more": {
@@ -1381,6 +1349,62 @@
   },
   "https://www.bairdmaritime.com/shipping/tankers/gas/egypt-taps-shared-fsrus-to-maintain-energy-stability-after-port-strike": {
     "ts": "2026-07-31T14:20:05.656934+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/medo-de-sancoes-faz-empresa-devolver-o-porto-de-mariel-para-cuba-que-esta-dando-calote-de-us-682-milhoes-no-brasil-emprestados-para-construcao/": {
+    "ts": "2026-07-31T19:41:41.034205+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/diana-shipping-posts-higher-q2-profit-in-2026-on-higher-charter-rates": {
+    "ts": "2026-07-31T19:41:41.034205+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/london-insurers-expand-red-sea-high-risk-zone-after-houthi-attacks-on-saudi-linked-ships/?utm_source=rss&utm_medium=rss&utm_campaign=london-insurers-expand-red-sea-high-risk-zone-after-houthi-attacks-on-saudi-linked-ships": {
+    "ts": "2026-07-31T19:41:41.034205+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/541699-exxonmobil-offshore-oil-venture-in-guyana-recoups-initial-costs": {
+    "ts": "2026-07-31T19:41:41.034205+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/adnoc-buys-five-crude-tankers-from-frontline-for-590m-in-conflict-driven-fleet-expansion": {
+    "ts": "2026-07-31T19:41:41.034205+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/fugro-says-offshore-wind-slump-has-worsened-recovery-may-take-until-2027": {
+    "ts": "2026-07-31T19:41:41.034205+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/saudi-arabia-builds-maritime-coalition-to-keep-red-sea-shipping-moving": {
+    "ts": "2026-07-31T19:41:41.034205+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/drought-makes-upper-rhine-unnavigable-driving-barge-rates-to-new-record": {
+    "ts": "2026-07-31T19:41:41.034205+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-3/": {
+    "ts": "2026-07-31T19:41:41.034205+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/oil-spill-from-shadow-fleet-tanker-spreading-off-oman-satellite-images-show/": {
+    "ts": "2026-07-31T19:41:41.034205+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/watch-hybrid-ocean-energy-construction-vessel-reaches-norway-for-completion/": {
+    "ts": "2026-07-31T19:41:41.034205+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/viking-supply-ships-hands-top-jobs-to-kistefos-duo/": {
+    "ts": "2026-07-31T19:41:41.034205+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/hd-hyundai-to-help-modernize-u-s-shipyards-with-end-to-end-shipyard-solutions/": {
+    "ts": "2026-07-31T19:41:41.034205+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/541667-dof-group-awarded-two-ahts-vessel-contracts": {
+    "ts": "2026-07-31T19:41:41.034205+00:00",
     "type": "other"
   }
 }
