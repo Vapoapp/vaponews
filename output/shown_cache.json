@@ -3,10 +3,6 @@
     "ts": "2026-07-31T08:56:34.169334+00:00",
     "type": "highlight"
   },
-  "https://www.gov.br/antaq/pt-br/noticias/2026/definida-data-de-audiencia-publica-sobre-arrendamento-portuario-em-itajai-sc": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
-    "type": "highlight"
-  },
   "https://www.oedigital.com/news/541460-qatarenergy-prolongs-lng-force-majeure-charters-out-tankers": {
     "ts": "2026-07-25T08:13:28.095008+00:00",
     "type": "highlight"
@@ -75,40 +71,8 @@
     "ts": "2026-07-26T08:33:19.564975+00:00",
     "type": "highlight"
   },
-  "https://www.guiamaritimo.com.br/noticias/maritimo/maersk-cadeia-fria-uvas-chile-porto-wilmington": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
-    "type": "other"
-  },
-  "https://www.guiamaritimo.com.br/noticias/ferroviario/vli-recorde-transporte-graos-primeiro-semestre-2026": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
-    "type": "other"
-  },
-  "https://www.guiamaritimo.com.br/noticias/terminais/dp-world-concessao-terminais-fujairah-emirados": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/middle-east-shipping-insurance-costs-rise-on-hormuz-risks-marsh/": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/real-life-incident-fatigue-contributes-to-catastrophe/?utm_source=rss&utm_medium=rss&utm_campaign=real-life-incident-fatigue-contributes-to-catastrophe": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
-    "type": "other"
-  },
   "https://www.nytimes.com/2026/07/24/business/russian-lng-european-union.html": {
     "ts": "2026-07-25T19:15:18.475967+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/saudi-owned-vessel-catches-fire-after-attack-in-red-sea-all-crew-safe/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-owned-vessel-catches-fire-after-attack-in-red-sea-all-crew-safe": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/global-shipping-faces-fresh-turmoil-after-houthi-warning-on-red-sea-route/": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
-    "type": "other"
-  },
-  "https://www.guiamaritimo.com.br/noticias/terminais/ibraport-crescimento-cargas-saude-animal-2026": {
-    "ts": "2026-07-24T13:55:27.107790+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/chinese-tankers-sail-past-houthi-blockade-as-saudi-ships-come-under-fire": {
@@ -1172,7 +1136,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/541629-egypt-confirms-drone-hit-damietta-gas-vessels": {
-    "ts": "2026-07-31T08:56:34.169334+00:00",
+    "ts": "2026-07-31T14:20:05.656934+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/us-owned-gas-storage-tanker-damaged-in-egypt-drone-strike-fire-spreads-to-second-lng-vessel/?utm_source=rss&utm_medium=rss&utm_campaign=us-owned-gas-storage-tanker-damaged-in-egypt-drone-strike-fire-spreads-to-second-lng-vessel": {
@@ -1204,7 +1168,7 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/reconhecimento/21694/terminal-de-cargas-do-aeroporto-de-goiania-conquista-certificacao-ceiv-pharma-da-iata/": {
-    "ts": "2026-07-30T14:14:00.997207+00:00",
+    "ts": "2026-07-31T14:20:05.656934+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/541625-qatarenergy-lng-tanker-exits-hormuz-for-first-time-in-weeks": {
@@ -1236,7 +1200,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/541656-eu-extends-saipem-subsea-7-deadline": {
-    "ts": "2026-07-31T08:56:34.169334+00:00",
+    "ts": "2026-07-31T14:20:05.656934+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/intercargo-calls-for-urgent-international-action-to-protect-seafarers-and-merchant-shipping/?utm_source=rss&utm_medium=rss&utm_campaign=intercargo-calls-for-urgent-international-action-to-protect-seafarers-and-merchant-shipping": {
@@ -1280,11 +1244,11 @@
     "type": "highlight"
   },
   "https://www.marinelink.com/news/dof-group-awarded-two-ahts-vessel-541667": {
-    "ts": "2026-07-31T08:56:34.169334+00:00",
+    "ts": "2026-07-31T14:20:05.656934+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/saudi-arabia-unveils-plans-for-multinational-red-sea-maritime-security-coalition/": {
-    "ts": "2026-07-31T03:27:56.888009+00:00",
+    "ts": "2026-07-31T14:20:05.656934+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/security-concerns-suez-oil-rise-tanker-541670": {
@@ -1328,11 +1292,11 @@
     "type": "other"
   },
   "https://www.offshore-energy.biz/plsvs-owned-by-dof-technipfmc-jv-get-more-time-with-petrobras/": {
-    "ts": "2026-07-31T08:56:34.169334+00:00",
+    "ts": "2026-07-31T14:20:05.656934+00:00",
     "type": "highlight"
   },
   "https://splash247.com/iran-remains-chief-suspect-as-damietta-damage-picture-emerges/": {
-    "ts": "2026-07-31T08:56:34.169334+00:00",
+    "ts": "2026-07-31T14:20:05.656934+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/new-super-typhoon-could-disrupt-taiwan-china-ports-again/": {
@@ -1361,6 +1325,62 @@
   },
   "https://www.oedigital.com/news/541661-rosenxt-acquires-zupt-llc": {
     "ts": "2026-07-31T08:56:34.169334+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/portos/21701/eblog-supera-2-3-milhoes-de-toneladas-embarcadas-no-porto-de-santos/": {
+    "ts": "2026-07-31T14:20:05.656934+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/kazakh-oil-shipments-halted-again-after-attacks-on-two-tankers-at-novorossiysk-port/?utm_source=rss&utm_medium=rss&utm_campaign=kazakh-oil-shipments-halted-again-after-attacks-on-two-tankers-at-novorossiysk-port": {
+    "ts": "2026-07-31T14:20:05.656934+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/boxships/container-vessel-news-roundup-july-31-cypriot-reefer-carrier-delivery-dutch-shortsea-feeder-ship-concept-and-more": {
+    "ts": "2026-07-31T14:20:05.656934+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/drone-strike-ignites-us-owned-lng-ship-in-egypt-fires-hit-two-vessels/": {
+    "ts": "2026-07-31T14:20:05.656934+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/south-korea-refiners-eye-venezuelan-crude-amid-hormuz-disruptions/": {
+    "ts": "2026-07-31T14:20:05.656934+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/ngo-says-eu-approval-of-indian-scrappers-would-set-a-double-standard": {
+    "ts": "2026-07-31T14:20:05.656934+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/two-oil-supertankers-exit-hormuz-traffic-541679": {
+    "ts": "2026-07-31T14:20:05.656934+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/qatarenergy-controlled-lng-tanker-exits-strait-of-hormuz-for-first-time-in-3-weeks/?utm_source=rss&utm_medium=rss&utm_campaign=qatarenergy-controlled-lng-tanker-exits-strait-of-hormuz-for-first-time-in-3-weeks": {
+    "ts": "2026-07-31T14:20:05.656934+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/saudi-ships-shun-red-sea-chokepoint-for-rare-africa-journey/": {
+    "ts": "2026-07-31T14:20:05.656934+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/541684-fugro-forecasts-offshore-wind-recovery-outlook-delay-to-2027": {
+    "ts": "2026-07-31T14:20:05.656934+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/offshore-wind-liabilities-drag-eversources-q2-profit-lower": {
+    "ts": "2026-07-31T14:20:05.656934+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/totalenergies-eni-approve-cyprus-offshore-gas-field-development": {
+    "ts": "2026-07-31T14:20:05.656934+00:00",
+    "type": "other"
+  },
+  "https://www.rigzone.com/news/industry_groups_welcome_senrc_approval_of_license_to_drill_act-31-jul-2026-184264-article/": {
+    "ts": "2026-07-31T14:20:05.656934+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/egypt-taps-shared-fsrus-to-maintain-energy-stability-after-port-strike": {
+    "ts": "2026-07-31T14:20:05.656934+00:00",
     "type": "other"
   }
 }
