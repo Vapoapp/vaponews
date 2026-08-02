@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-07-25",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação prevista em até 50 dias. Isso força importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos logísticos no transporte de petróleo. A apreensão de petroleiros e a possível suspensão de apólices pelas seguradoras aumentam a volatilidade financeira e operacional na região. No Mar Vermelho, ataques e bloqueios promovidos pelos Houthis dobraram os custos de seguro par"
-  },
-  {
     "date": "2026-07-26",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -319,5 +308,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com previsão de recuperação em até 50 dias. Essa limitação força importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos no transporte marítimo de petróleo. A apreensão de navios e o risco de suspensão de apólices pelas seguradoras aumentam a volatilidade financeira, dificultando o planejamento e comprometendo contratos de longo prazo na região. No offshore brasileiro, a Petrob"
+  },
+  {
+    "date": "2026-08-02",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação estimada em até 50 dias. Essa limitação força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo. A apreensão de navios e o risco de suspensão de apólices pelas seguradoras ampliam a volatilidade financeira, dificultando o planejamento e comprometendo contratos de longo prazo na região. No offshore brasileiro, a Pet"
   }
 ]
