@@ -2,17 +2,6 @@
   {
     "date": "2026-07-26",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação projetada em até 50 dias. Essa restrição força importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos logísticos no transporte marítimo de petróleo. A apreensão de petroleiros e a possível suspensão de apólices pelas seguradoras ampliam a volatilidade financeira e dificultam o planejamento de embarques na região. No Mar Vermelho, ataques coordenados dos Houthis"
-  },
-  {
-    "date": "2026-07-26",
-    "drivers": [
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -319,5 +308,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação estimada em até 50 dias. Essa limitação obriga importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo. A volatilidade aumenta com apreensões de navios e risco de suspensão de apólices pelas seguradoras, dificultando o planejamento e comprometendo contratos de longo prazo na região. No offshore brasileiro, a Petrobra"
+  },
+  {
+    "date": "2026-08-02",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação projetada em até 50 dias. Essa limitação obriga importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte marítimo de petróleo. A apreensão de navios e o risco de suspensão de apólices pelas seguradoras ampliam a volatilidade financeira, dificultando o planejamento e comprometendo contratos de longo prazo na região. No offshore brasileiro, a Petrobra"
   }
 ]
