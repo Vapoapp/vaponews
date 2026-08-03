@@ -1,30 +1,22 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-08-02T03:26:35.183042+00:00",
+    "ts": "2026-08-03T09:55:16.997011+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
     "ts": "2026-07-31T03:27:56.888009+00:00",
     "type": "other"
   },
-  "https://maritime-executive.com/article/u-s-forces-strike-another-iran-linked-tanker-in-strait-of-hormuz": {
-    "ts": "2026-07-27T03:37:05.755573+00:00",
-    "type": "highlight"
-  },
   "https://www.marineinsight.com/lpg-tanker-disha-carrying-28-indian-crew-attacked-in-iranian-waters/?utm_source=rss&utm_medium=rss&utm_campaign=lpg-tanker-disha-carrying-28-indian-crew-attacked-in-iranian-waters": {
     "ts": "2026-07-27T10:00:21.458347+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/vessel-reviews": {
-    "ts": "2026-07-27T14:46:57.019028+00:00",
+    "ts": "2026-08-03T09:55:16.997011+00:00",
     "type": "other"
   },
   "https://maritime-executive.com/article/houthis-may-be-using-real-time-satellite-intelligence-for-targeting": {
     "ts": "2026-07-27T10:00:21.458347+00:00",
-    "type": "highlight"
-  },
-  "https://gcaptain.com/houthis-fire-on-saudi-red-sea-oil-sites/": {
-    "ts": "2026-07-27T03:37:05.755573+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/saudi-arabia-bound-supertanker-u-turns-before-houthi-chokepoint/": {
@@ -42,22 +34,6 @@
   "https://petronoticias.com.br/abdan-promove-evento-para-aproximar-jornalistas-dos-debates-sobre-o-setor-nuclear/": {
     "ts": "2026-07-27T19:41:57.584935+00:00",
     "type": "highlight"
-  },
-  "https://www.marinelink.com/news/red-sea-shipping-slows-houthi-attack-541529": {
-    "ts": "2026-07-27T03:37:05.755573+00:00",
-    "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/selective-enforcement-saudi-crude-keeps-moving-under-the-houthi-blockade/": {
-    "ts": "2026-07-27T03:37:05.755573+00:00",
-    "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/dht-holdings-takes-delivery-of-fourth-low-emission-vlcc-in-series": {
-    "ts": "2026-07-27T03:37:05.755573+00:00",
-    "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/tanker-market-freight-rates-increasing-again/": {
-    "ts": "2026-07-27T03:37:05.755573+00:00",
-    "type": "other"
   },
   "https://www.rigzone.com/news/brent_wti_oil_prices_both_down_over_5_percent-27-jul-2026-184218-article/": {
     "ts": "2026-07-27T19:41:57.584935+00:00",
@@ -1260,7 +1236,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/novas-oportunidades-no-mercado-de-trab-alho-com-empregos-na-transpetro-e-cursos-da-firjan/": {
-    "ts": "2026-08-02T19:17:56.634726+00:00",
+    "ts": "2026-08-03T09:55:16.997011+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/yemens-houthis-deny-plans-to-impose-fees-on-ships-sailing-through-red-sea/": {
@@ -1268,7 +1244,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/yemens-houthis-deny-plans-to-impose-fees-on-ships-transiting-bab-el-mandeb-strait/?utm_source=rss&utm_medium=rss&utm_campaign=yemens-houthis-deny-plans-to-impose-fees-on-ships-transiting-bab-el-mandeb-strait": {
-    "ts": "2026-08-03T03:28:31.356305+00:00",
+    "ts": "2026-08-03T09:55:16.997011+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/petrobras-extends-contracts-doftechnipfmc-541682": {
@@ -1300,7 +1276,7 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/282653-2/": {
-    "ts": "2026-08-02T19:17:56.634726+00:00",
+    "ts": "2026-08-03T09:55:16.997011+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/trump-cancels-planned-iran-attack-after-framework-for-deal-agreed/": {
@@ -1324,7 +1300,7 @@
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/as-us-iran-war-rages-whos-risking-the-strait-of-hormuz/": {
-    "ts": "2026-08-03T03:28:31.356305+00:00",
+    "ts": "2026-08-03T09:55:16.997011+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/editorials/op-ed-sanctions-drive-growth-of-a-parallel-shipping-economy": {
@@ -1333,6 +1309,66 @@
   },
   "https://www.hellenicshippingnews.com/iranian-retaliation-reaches-damietta-a-new-front-opens-beyond-the-gulf-and-the-red-sea/": {
     "ts": "2026-08-03T03:28:31.356305+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/tankers-face-fresh-hormuz-threats/": {
+    "ts": "2026-08-03T09:55:16.997011+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/541714-odfjell-drilling-s-deepsea-atlantic-rig-back-in-service-after-bop-incident": {
+    "ts": "2026-08-03T09:55:16.997011+00:00",
+    "type": "highlight"
+  },
+  "https://safety4sea.com/what-makes-a-good-ship-the-role-of-social-connection-and-crew-camaraderie/": {
+    "ts": "2026-08-03T09:55:16.997011+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/saudi-oil-tankers-cross-red-sea-hormuz-541712": {
+    "ts": "2026-08-03T09:55:16.997011+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/ukraine-sinks-fesco-boxship/": {
+    "ts": "2026-08-03T09:55:16.997011+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/attacks-continue-in-the-middle-east-as-houthis-deny-hormuz-toll-claims/": {
+    "ts": "2026-08-03T09:55:16.997011+00:00",
+    "type": "other"
+  },
+  "https://www.rigzone.com/news/wire/trump_announces_fresh_iran_talks_after_strike_uturn-03-aug-2026-184274-article/": {
+    "ts": "2026-08-03T09:55:16.997011+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/gaslog-lng-tanker-safe-following-strait-541711": {
+    "ts": "2026-08-03T09:55:16.997011+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/541713-subsea7-lands-sizeable-contract-for-work-offshore-brunei": {
+    "ts": "2026-08-03T09:55:16.997011+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/hungary-stops-nuclear-plant-for-first-time-as-danube-river-dries-up/": {
+    "ts": "2026-08-03T09:55:16.997011+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/greece-becomes-the-22nd-contracting-party-to-recaap/": {
+    "ts": "2026-08-03T09:55:16.997011+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/column-end-of-the-road-or-a-new-beginning-global-marine-group-orange-and-the-global-cable-opportunity-offshore-accounts": {
+    "ts": "2026-08-03T09:55:16.997011+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/huisman-equipment-ordered-for-sbm-offshore-and-solstads-installation-vessel/": {
+    "ts": "2026-08-03T09:55:16.997011+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/tanker-market-new-routes-underway-as-hormuz-status-changes/": {
+    "ts": "2026-08-03T09:55:16.997011+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/eu-forces-board-sanctioned-russian-shadow-fleet-tanker/": {
+    "ts": "2026-08-03T09:55:16.997011+00:00",
     "type": "other"
   }
 }

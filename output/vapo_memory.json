@@ -1,14 +1,5 @@
 [
   {
-    "date": "2026-07-26",
-    "drivers": [
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação estimada em até 50 dias. Essa restrição força importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos logísticos no transporte marítimo de petróleo. A apreensão de petroleiros e a possível suspensão de apólices pelas seguradoras ampliam a volatilidade financeira e dificultam o planejamento de embarques na região. No Mar Vermelho, ataques coordenados dos Houthis,"
-  },
-  {
     "date": "2026-07-27",
     "drivers": [
       "risco geopolítico",
@@ -317,5 +308,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação projetada em até 50 dias. A restrição força importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos logísticos no transporte marítimo de petróleo bruto. O ambiente de risco, com apreensão de navios e suspensão potencial de apólices pelas seguradoras, amplia a volatilidade financeira e dificulta o fechamento de contratos de longo prazo na região. Ataques recentes amp"
+  },
+  {
+    "date": "2026-08-03",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação prevista em até 50 dias, forçando importadores asiáticos a alongar rotas e elevar tarifas de afretamento para VLCCs. A combinação de ataques recentes, apreensão de navios e risco de suspensão de apólices pelas seguradoras amplia a volatilidade financeira, dificultando o fechamento e a manutenção de contratos de longo prazo na região. No mercado offshore, a retomada da plataforma Deepsea Atlantic após 106 dias para"
   }
 ]
