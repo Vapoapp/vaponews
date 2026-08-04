@@ -1,10 +1,10 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-08-03T19:44:25.459821+00:00",
+    "ts": "2026-08-04T14:27:21.806250+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-07-31T03:27:56.888009+00:00",
+    "ts": "2026-08-04T14:27:21.806250+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/vessel-reviews": {
@@ -15,16 +15,8 @@
     "ts": "2026-08-02T08:30:25.513311+00:00",
     "type": "other"
   },
-  "https://www.oedigital.com/news/541536-saipem-joins-eni-s-baleine-phase-3-delivery-crew-off-ivory-coast": {
-    "ts": "2026-07-28T14:21:19.662431+00:00",
-    "type": "other"
-  },
   "https://brasilenergia.com.br/petroleoegas/ep/onesubsea-sai-na-frente-em-bid-da-petrobras-para-seap": {
     "ts": "2026-07-28T19:39:28.637151+00:00",
-    "type": "highlight"
-  },
-  "https://gcaptain.com/india-flags-attack-on-lpg-tanker-in-iran-waters-says-crew-safe/": {
-    "ts": "2026-07-28T14:21:19.662431+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/porto-americano-assina-acordo-para-desenvolvimento-de-reatores-modulares-para-embarcacoes/": {
@@ -55,25 +47,9 @@
     "ts": "2026-07-30T08:35:25.739957+00:00",
     "type": "highlight"
   },
-  "https://g1.globo.com/meio-ambiente/noticia/2026/07/28/terremoto-japao-entenda-tremores-secundarios.ghtml": {
-    "ts": "2026-07-28T14:21:19.662431+00:00",
-    "type": "highlight"
-  },
   "https://www.hellenicshippingnews.com/houthis-reignite-tensions-with-red-sea-shipping-attack/": {
     "ts": "2026-07-28T19:39:28.637151+00:00",
     "type": "highlight"
-  },
-  "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/28/justica-militar-suposto-esquema-de-propina-hospital-naval.ghtml": {
-    "ts": "2026-07-28T14:21:19.662431+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/first-condensate-cargo-from-australian-project-en-route-to-south-korea/": {
-    "ts": "2026-07-28T14:21:19.662431+00:00",
-    "type": "other"
-  },
-  "https://www.rigzone.com/news/oil_market_rapidly_strips_out_iran_war_premium-28-jul-2026-184231-article/": {
-    "ts": "2026-07-28T14:21:19.662431+00:00",
-    "type": "other"
   },
   "https://www.oedigital.com/news/541582-bureau-veritas-gives-blessing-to-seatrium-s-30mw-floating-data-center": {
     "ts": "2026-07-30T08:35:25.739957+00:00",
@@ -81,30 +57,6 @@
   },
   "https://www.oedigital.com/news/541574-keppel-launches-2-9b-program-to-monetize-legacy-offshore-drilling-rigs": {
     "ts": "2026-07-30T08:35:25.739957+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/classnk-releases-edition-2-0-of-the-guidelines-for-additional-fire-fighting-measures-for-container-carrier/": {
-    "ts": "2026-07-28T14:21:19.662431+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/cheap-drones-redraw-shippings-war-risk-map/": {
-    "ts": "2026-07-28T14:21:19.662431+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/uk-maib-investigation-fatal-man-overboard-incident-on-bulk-carrier/": {
-    "ts": "2026-07-28T14:21:19.662431+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/cm-crew-welfare-week-2026-psychological-safety-is-vital-for-a-future-ready-crew/": {
-    "ts": "2026-07-28T14:21:19.662431+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/ditas-linked-to-dh-suezmax-pair/": {
-    "ts": "2026-07-28T14:21:19.662431+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/houthis-seek-to-copy-irans-hormuz-strategy-by-disrupting-bab-el-mandeb-strait/?utm_source=rss&utm_medium=rss&utm_campaign=houthis-seek-to-copy-irans-hormuz-strategy-by-disrupting-bab-el-mandeb-strait": {
-    "ts": "2026-07-28T14:21:19.662431+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/bidding-announcement-of-psv-bourbon-liberty-160-with-bareboat-charter/": {
@@ -1220,7 +1172,7 @@
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/envio-de-contribuicoes-para-a-audiencia-publica-no-02-2026-e-prorrogado": {
-    "ts": "2026-08-04T08:46:10.951126+00:00",
+    "ts": "2026-08-04T14:27:21.806250+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/tanker-shipping-under-fire-from-middle-east-tensions/": {
@@ -1228,7 +1180,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/msc-sends-a-message-on-container-fire-safety-by-suing-a-customer": {
-    "ts": "2026-08-04T02:56:47.343113+00:00",
+    "ts": "2026-08-04T14:27:21.806250+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/segue-em-andamento-o-gasoduto-raia-que-vai-mandar-para-a-cabiunas-parte-do-gas-extraido-pela-equinor-repsol-e-petrobras/": {
@@ -1284,7 +1236,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/cargo-ship-attacked-in-omani-sector-of-the-strait-of-hormuz": {
-    "ts": "2026-08-04T08:46:10.951126+00:00",
+    "ts": "2026-08-04T14:27:21.806250+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/south-americas-gas-boom-on-the-rise-with-petrobras-new-discovery-in-colombian-waters/": {
@@ -1337,6 +1289,70 @@
   },
   "https://gcaptain.com/eu-warship-boards-another-sanctioned-russian-shadow-fleet-tanker-in-mediterranean/": {
     "ts": "2026-08-04T08:46:10.951126+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/three-crew-members-seriously-injured-following-drone-strike/": {
+    "ts": "2026-08-04T14:27:21.806250+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/1-seafarer-goes-missing-after-strike-on-bulker-in-strait-of-hormuz-leads-to-blackout-fire/?utm_source=rss&utm_medium=rss&utm_campaign=1-seafarer-goes-missing-after-strike-on-bulker-in-strait-of-hormuz-leads-to-blackout-fire": {
+    "ts": "2026-08-04T14:27:21.806250+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/541755-intermoor-secures-three-year-petrobras-offshore-services-deal": {
+    "ts": "2026-08-04T14:27:21.806250+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/541752-petrobras-makes-offshore-gas-discovery-in-colombian-deepwater-block": {
+    "ts": "2026-08-04T14:27:21.806250+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/541749-oil-rises-as-uncertainty-clouds-us-iran-peace-talks": {
+    "ts": "2026-08-04T14:27:21.806250+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/drydel-secures-five-year-k-line-cover-for-capesize-newbuilds/": {
+    "ts": "2026-08-04T14:27:21.806250+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/samsung-heavy-hits-commercial-vessel-target-early/": {
+    "ts": "2026-08-04T14:27:21.806250+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/denmark-awards-two-offshore-wind-farm-contracts-to-swedens-vattenfall": {
+    "ts": "2026-08-04T14:27:21.806250+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/arcadia-expands-newbuild-programme-with-hengli-lr2-trio/": {
+    "ts": "2026-08-04T14:27:21.806250+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/lessons-learned-pilots-are-human-and-can-make-mistakes/": {
+    "ts": "2026-08-04T14:27:21.806250+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/real-life-incident-brm-under-pilotage-takes-a-dive/?utm_source=rss&utm_medium=rss&utm_campaign=real-life-incident-brm-under-pilotage-takes-a-dive": {
+    "ts": "2026-08-04T14:27:21.806250+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/new-study-explores-incentives-for-low-emission-shipping-fuels/": {
+    "ts": "2026-08-04T14:27:21.806250+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/lng-shipping-stocks-up-again/": {
+    "ts": "2026-08-04T14:27:21.806250+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/six-saudiflagged-tankers-change-course-541734": {
+    "ts": "2026-08-04T14:27:21.806250+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/how-iran-is-widening-its-pressure-campaign-to-force-u-s-concessions/": {
+    "ts": "2026-08-04T14:27:21.806250+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/august-freight-rates-russian-urals-rise-541735": {
+    "ts": "2026-08-04T14:27:21.806250+00:00",
     "type": "other"
   }
 }
