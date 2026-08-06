@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-08-05T02:53:19.852310+00:00",
+    "ts": "2026-08-06T08:45:41.738175+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
@@ -8,23 +8,11 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/vessel-reviews": {
-    "ts": "2026-08-03T09:55:16.997011+00:00",
+    "ts": "2026-08-06T08:45:41.738175+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
     "ts": "2026-08-02T08:30:25.513311+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/vessel-collision-damages-crane-and-spills-plastic-pellets-into-river-tyne/": {
-    "ts": "2026-07-30T08:35:25.739957+00:00",
-    "type": "highlight"
-  },
-  "https://www.oedigital.com/news/541582-bureau-veritas-gives-blessing-to-seatrium-s-30mw-floating-data-center": {
-    "ts": "2026-07-30T08:35:25.739957+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/541574-keppel-launches-2-9b-program-to-monetize-legacy-offshore-drilling-rigs": {
-    "ts": "2026-07-30T08:35:25.739957+00:00",
     "type": "other"
   },
   "https://safety4sea.com/fire-contained-onboard-chemical-tanker-carrying-sulfuric-acid-off-norway/": {
@@ -59,17 +47,9 @@
     "ts": "2026-07-31T03:27:56.888009+00:00",
     "type": "other"
   },
-  "https://www.marineinsight.com/oman-presents-iran-with-gulf-backed-plan-for-voluntary-strait-of-hormuz-transit-fees/?utm_source=rss&utm_medium=rss&utm_campaign=oman-presents-iran-with-gulf-backed-plan-for-voluntary-strait-of-hormuz-transit-fees": {
-    "ts": "2026-07-30T08:35:25.739957+00:00",
-    "type": "highlight"
-  },
   "https://brasilenergia.com.br/petroleoegas/internacional/western-lng-contrata-allseas-para-gasoduto-submarino": {
     "ts": "2026-07-30T19:40:20.812908+00:00",
     "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/bahri-reports-record-net-profit-of-sar-2-75-billion-for-q2-2026/": {
-    "ts": "2026-07-30T08:35:25.739957+00:00",
-    "type": "highlight"
   },
   "https://maritime-executive.com/article/u-s-sanctions-two-insurers-for-handling-iran-s-hormuz-transit-fees": {
     "ts": "2026-07-30T19:40:20.812908+00:00",
@@ -90,46 +70,6 @@
   "https://maritime-executive.com/article/russia-claims-strikes-on-two-more-ships-near-odesa": {
     "ts": "2026-07-30T14:14:00.997207+00:00",
     "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/intercargo-calls-for-protection-of-seafarers-and-civilian-shipping/": {
-    "ts": "2026-07-30T08:35:25.739957+00:00",
-    "type": "highlight"
-  },
-  "https://gcaptain.com/russia-sends-first-conventional-lng-carrier-to-arctic-lng-2-as-oil-tankers-gather-for-nsr-push/": {
-    "ts": "2026-07-30T08:35:25.739957+00:00",
-    "type": "other"
-  },
-  "https://www.rigzone.com/news/wire/hormuz_traffic_shows_defiance-30-jul-2026-184249-article/": {
-    "ts": "2026-07-30T08:35:25.739957+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/hd-hyundai-samho-delivers-its-first-very-large-ammonia-carrier/": {
-    "ts": "2026-07-30T08:35:25.739957+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/houthis-weigh-toll-scheme-for-red-sea-shipping/": {
-    "ts": "2026-07-30T08:35:25.739957+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/german-police-recover-broken-20-meter-wind-turbine-blade-drifting-in-north-sea/?utm_source=rss&utm_medium=rss&utm_campaign=german-police-recover-broken-20-meter-wind-turbine-blade-drifting-in-north-sea": {
-    "ts": "2026-07-30T08:35:25.739957+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/rvo-launches-tender-for-benthic-survey-at-doordewind-offshore-wind-zone/": {
-    "ts": "2026-07-30T08:35:25.739957+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/northern-lights-fleet-ready-for-phase-one-as-fourth-lco2-carrier-arrives-from-china/": {
-    "ts": "2026-07-30T08:35:25.739957+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/samsung-heavy-conrad-shipyard-abs-nod-lng-541614": {
-    "ts": "2026-07-30T08:35:25.739957+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/ta-san-shang-marines-newest-hybrid-csov-floated-out": {
-    "ts": "2026-07-30T08:35:25.739957+00:00",
-    "type": "other"
   },
   "https://www.oedigital.com/news/541629-egypt-confirms-drone-hit-damietta-gas-vessels": {
     "ts": "2026-07-31T14:20:05.656934+00:00",
@@ -1056,7 +996,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/oman-s-turtle-coast-hit-by-oil-leaking-from-the-tanker-caroline-bezengi": {
-    "ts": "2026-08-05T19:42:06.633139+00:00",
+    "ts": "2026-08-06T08:45:41.738175+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-recebe-novos-servidores-aprovados-no-cpnu": {
@@ -1112,7 +1052,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/541789-australian-regulator-takes-inpex-to-court-over-ichthys-lng-emissions": {
-    "ts": "2026-08-05T08:43:09.906776+00:00",
+    "ts": "2026-08-06T08:45:41.738175+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/apos-chegar-ao-brasil-e-garantir-primeiro-contrato-ocean-installer-preve-forte-demanda-por-servicos-subsea-no-pais/": {
@@ -1136,7 +1076,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/541796-enermech-lands-offshore-services-job-for-north-sea-operator": {
-    "ts": "2026-08-06T02:56:44.464275+00:00",
+    "ts": "2026-08-06T08:45:41.738175+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/indian-cargo-ship-sinks-off-yemen-after-projectile-attack-all-crew-safe/": {
@@ -1184,7 +1124,7 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21721/ministerio-de-portos-e-aeroportos-publica-plano-mestre-do-complexo-portuario-de-paranagua-e-antonina/": {
-    "ts": "2026-08-06T02:56:44.464275+00:00",
+    "ts": "2026-08-06T08:45:41.738175+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/attack-on-tanker-reported-in-the-gulf-of-aden": {
@@ -1192,7 +1132,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/turkey-urges-russia-and-ukraine-to-secure-black-sea-shipping-after-drone-hits-2-cargo-ships/?utm_source=rss&utm_medium=rss&utm_campaign=turkey-urges-russia-and-ukraine-to-secure-black-sea-shipping-after-drone-hits-2-cargo-ships": {
-    "ts": "2026-08-06T02:56:44.464275+00:00",
+    "ts": "2026-08-06T08:45:41.738175+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21722/portos-brasileiros-registram-crescimento-na-movimentacao-de-cargas-no-primeiro-semestre/": {
@@ -1232,7 +1172,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/backlog-de-us-18-bilhao-mostra-a-capacidade-da-forsea-apenas-com-tres-de-operacoes-no-pais/": {
-    "ts": "2026-08-06T02:56:44.464275+00:00",
+    "ts": "2026-08-06T08:45:41.738175+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/houthis-claim-eighth-saudi-tanker-attack-threatening-to-expand-blockade": {
@@ -1240,7 +1180,7 @@
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/fearnleys-week-32-2026/": {
-    "ts": "2026-08-06T02:56:44.464275+00:00",
+    "ts": "2026-08-06T08:45:41.738175+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/ep/vencedores-do-3-ciclo-da-opp-assinam-contratos": {
@@ -1281,6 +1221,54 @@
   },
   "https://safety4sea.com/opportunity-green-warns-against-weakening-imo-net-zero-framework/": {
     "ts": "2026-08-06T02:56:44.464275+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/06/rio-innovation-week-maior-navio-de-guerra-da-america-latina-sedia-exposicao-de-arte-digital-e-campeonato-de-e-sports.ghtml": {
+    "ts": "2026-08-06T08:45:41.738175+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/oil-slicks-and-a-burning-ship-show-the-toll-of-the-hormuz-crisis": {
+    "ts": "2026-08-06T08:45:41.738175+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/541842-sbm-offshore-lifts-2026-outlook-after-revenue-surge": {
+    "ts": "2026-08-06T08:45:41.738175+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/investimentos-em-desenvolvimentos-de-campos-offshore-devem-crescer-30-em-2026/": {
+    "ts": "2026-08-06T08:45:41.738175+00:00",
+    "type": "other"
+  },
+  "https://www.rigzone.com/news/wire/uae_bucks_risks_to_lead_hormuz_oil_shipping-06-aug-2026-184307-article/": {
+    "ts": "2026-08-06T08:45:41.738175+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/centrofin-tied-to-six-ship-titan-wind-tanker-order/": {
+    "ts": "2026-08-06T08:45:41.738175+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/ukraines-drones-reach-western-tonnage-in-the-black-sea-as-saudi-diversions-around-the-cape-widen/": {
+    "ts": "2026-08-06T08:45:41.738175+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/iran-and-oman-close-in-on-new-hormuz-traffic-regime/": {
+    "ts": "2026-08-06T08:45:41.738175+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/europes-dry-rivers-set-for-little-relief-from-august-rains/": {
+    "ts": "2026-08-06T08:45:41.738175+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/several-containers-fall-overboard-off-sri-lanka/": {
+    "ts": "2026-08-06T08:45:41.738175+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/japanese-companies-sign-to-test-ocean-carbon-capture-technology/": {
+    "ts": "2026-08-06T08:45:41.738175+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/cm-risk4sea-psi-outlook-august-2026/": {
+    "ts": "2026-08-06T08:45:41.738175+00:00",
     "type": "other"
   }
 }
