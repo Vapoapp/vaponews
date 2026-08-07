@@ -2,16 +2,6 @@
   {
     "date": "2026-07-30",
     "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação estimada em até 50 dias. A restrição obriga importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos logísticos no transporte de petróleo. A apreensão de petroleiros e o risco de suspensão de apólices pelas seguradoras ampliam a volatilidade financeira, dificultando o planejamento de embarques e contratos de longo prazo. No Mar Vermelho, ataques coordenados dos H"
-  },
-  {
-    "date": "2026-07-30",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -324,5 +314,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com previsão de recuperação em até 50 dias. A restrição obriga importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte marítimo de petróleo bruto. A apreensão de navios e o risco de suspensão de apólices aumentam a volatilidade financeira, dificultando contratos de longo prazo na região. No mercado offshore brasileiro, Petrobras acelera investimentos e renova contrato"
+  },
+  {
+    "date": "2026-08-07",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com previsão de recuperação em até 50 dias. Essa limitação força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo bruto. A apreensão de navios e o risco de suspensão de apólices ampliam a volatilidade financeira, dificultando a negociação e manutenção de contratos de longo prazo na região, afetando a estabilidade do mercado d"
   }
 ]
