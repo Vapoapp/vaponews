@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-07-30",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação projetada em até 50 dias, forçando importadores asiáticos a alongar rotas e elevar tarifas de afretamento para VLCCs. Essa situação intensifica custos logísticos no transporte marítimo de petróleo e gera volatilidade financeira, agravada pela apreensão de petroleiros e risco de suspensão de apólices pelas seguradoras. O impacto dificulta o planejamento de embarques e compromete contratos de longo prazo na região."
-  },
-  {
     "date": "2026-07-31",
     "drivers": [
       "contratos marítimos",
@@ -325,5 +314,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com previsão de recuperação em até 50 dias. Essa limitação força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo bruto. A apreensão de navios e o risco de suspensão de apólices ampliam a volatilidade financeira, dificultando a negociação e manutenção de contratos de longo prazo na região, afetando a estabilidade do mercado d"
+  },
+  {
+    "date": "2026-08-07",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A operação no Estreito de Ormuz permanece abaixo de 10%, com recuperação estimada em até 50 dias. A restrição força importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos no transporte marítimo de petróleo bruto. A apreensão de navios e o risco de suspensão de apólices ampliam a volatilidade financeira, dificultando contratos de longo prazo na região. No Brasil, a Petrobras acelera investimentos offshore, refletindo maior dinamismo no segmento. A"
   }
 ]
