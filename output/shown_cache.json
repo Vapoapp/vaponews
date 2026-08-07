@@ -4,7 +4,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-08-06T02:56:44.464275+00:00",
+    "ts": "2026-08-07T19:03:49.189468+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/vessel-reviews": {
@@ -13,14 +13,6 @@
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
     "ts": "2026-08-02T08:30:25.513311+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/541629-egypt-confirms-drone-hit-damietta-gas-vessels": {
-    "ts": "2026-07-31T14:20:05.656934+00:00",
-    "type": "highlight"
-  },
-  "https://www.tecnologistica.com.br/noticias/reconhecimento/21694/terminal-de-cargas-do-aeroporto-de-goiania-conquista-certificacao-ceiv-pharma-da-iata/": {
-    "ts": "2026-07-31T14:20:05.656934+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/offshore-vessel-news-roundup-july-30-taiwanese-csov-launch-saudi-osv-orders-and-more": {
@@ -34,10 +26,6 @@
   "https://www.bairdmaritime.com/offshore/drilling-production/bp-starts-production-at-offshore-expansion-project-in-gulf-of-america": {
     "ts": "2026-08-01T08:27:12.789286+00:00",
     "type": "other"
-  },
-  "https://www.marinelink.com/news/dof-group-awarded-two-ahts-vessel-541667": {
-    "ts": "2026-07-31T14:20:05.656934+00:00",
-    "type": "highlight"
   },
   "https://gcaptain.com/saudi-arabia-unveils-plans-for-multinational-red-sea-maritime-security-coalition/": {
     "ts": "2026-07-31T19:41:41.034205+00:00",
@@ -79,32 +67,8 @@
     "ts": "2026-08-01T08:27:12.789286+00:00",
     "type": "highlight"
   },
-  "https://www.bairdmaritime.com/shipping/boxships/container-vessel-news-roundup-july-31-cypriot-reefer-carrier-delivery-dutch-shortsea-feeder-ship-concept-and-more": {
-    "ts": "2026-07-31T14:20:05.656934+00:00",
-    "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/drone-strike-ignites-us-owned-lng-ship-in-egypt-fires-hit-two-vessels/": {
-    "ts": "2026-07-31T14:20:05.656934+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/south-korea-refiners-eye-venezuelan-crude-amid-hormuz-disruptions/": {
-    "ts": "2026-07-31T14:20:05.656934+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/ngo-says-eu-approval-of-indian-scrappers-would-set-a-double-standard": {
-    "ts": "2026-07-31T14:20:05.656934+00:00",
-    "type": "other"
-  },
   "https://www.marinelink.com/news/two-oil-supertankers-exit-hormuz-traffic-541679": {
     "ts": "2026-08-02T03:26:35.183042+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/qatarenergy-controlled-lng-tanker-exits-strait-of-hormuz-for-first-time-in-3-weeks/?utm_source=rss&utm_medium=rss&utm_campaign=qatarenergy-controlled-lng-tanker-exits-strait-of-hormuz-for-first-time-in-3-weeks": {
-    "ts": "2026-07-31T14:20:05.656934+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/saudi-ships-shun-red-sea-chokepoint-for-rare-africa-journey/": {
-    "ts": "2026-07-31T14:20:05.656934+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/541684-fugro-forecasts-offshore-wind-recovery-outlook-delay-to-2027": {
@@ -121,10 +85,6 @@
   },
   "https://www.rigzone.com/news/industry_groups_welcome_senrc_approval_of_license_to_drill_act-31-jul-2026-184264-article/": {
     "ts": "2026-08-01T19:16:10.517258+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/egypt-taps-shared-fsrus-to-maintain-energy-stability-after-port-strike": {
-    "ts": "2026-07-31T14:20:05.656934+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/medo-de-sancoes-faz-empresa-devolver-o-porto-de-mariel-para-cuba-que-esta-dando-calote-de-us-682-milhoes-no-brasil-emprestados-para-construcao/": {
@@ -1108,7 +1068,7 @@
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/nova-metodologia-organiza-gestao-do-estoque-regulatorio-da-antaq": {
-    "ts": "2026-08-06T14:24:09.008486+00:00",
+    "ts": "2026-08-07T19:03:49.189468+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/asyad-shipping-receives-mr-chemical-tanker-from-chinese-shipyard": {
@@ -1136,11 +1096,11 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/ntsb-houston-pilot-s-cell-phone-call-contributed-to-fatal-collision": {
-    "ts": "2026-08-07T13:14:36.178020+00:00",
+    "ts": "2026-08-07T19:03:49.189468+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/ntsb-pilots-personal-phone-call-contributed-to-fatal-houston-ship-channel-collision/": {
-    "ts": "2026-08-07T13:14:36.178020+00:00",
+    "ts": "2026-08-07T19:03:49.189468+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/engie-brasil-tem-um-resultado-de-ouro-no-segundo-trimestre-alcancando-a-marca-de-r-19-bilhao-de-lucro-liquido/": {
@@ -1196,7 +1156,7 @@
     "type": "other"
   },
   "https://splash247.com/german-bulker-hit-repeatedly-in-russian-drone-attack/": {
-    "ts": "2026-08-07T13:14:36.178020+00:00",
+    "ts": "2026-08-07T19:03:49.189468+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production/petrobras-net-income-up-by-97-per-cent-in-q2-2026": {
@@ -1252,15 +1212,15 @@
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/environmental-disaster-looms-as-tanker-laden-with-russian-crude-oil-leaks-off-oman/": {
-    "ts": "2026-08-07T13:14:36.178020+00:00",
+    "ts": "2026-08-07T19:03:49.189468+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/decisao-da-diretoria-da-anp-e-postura-da-petrobras-diante-do-gas-release-vao-movimentar-o-mercado-nesta-sexta-feira/": {
-    "ts": "2026-08-07T13:14:36.178020+00:00",
+    "ts": "2026-08-07T19:03:49.189468+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/german-bulk-carrier-abandoned-left-adrift-in-black-sea-after-multiple-russian-drone-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=german-bulk-carrier-abandoned-left-adrift-in-black-sea-after-multiple-russian-drone-attacks": {
-    "ts": "2026-08-07T13:14:36.178020+00:00",
+    "ts": "2026-08-07T19:03:49.189468+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/541887-conocophillips-hires-noble-corporation-s-jack-up-for-ekofisk-p-a-work": {
@@ -1297,6 +1257,58 @@
   },
   "https://www.oedigital.com/news/541868-rwe-trump-reach-1-22b-agreement-to-cancel-offshore-wind-leases": {
     "ts": "2026-08-07T13:14:36.178020+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/adnoc-says-three-vessels-attacked-this-week-as-hormuz-shipping-remains-severely-disrupted/": {
+    "ts": "2026-08-07T19:03:49.189468+00:00",
+    "type": "highlight"
+  },
+  "https://www.guiamaritimo.com.br/noticias/maritimo/cma-cgm-giovani-grassi-diretor-geral-operacoes-maritimas-brasil": {
+    "ts": "2026-08-07T19:03:49.189468+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/diana-shipping-secures-long-term-charter-for-capesize-bulker-with-nyk": {
+    "ts": "2026-08-07T19:03:49.189468+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/efeito-ormuz-preco-do-querosene-de-aviacao-aumenta-quase-50-para-as-empresas-no-brasil-aponta-os-dados-da-quive/": {
+    "ts": "2026-08-07T19:03:49.189468+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/drilling-production/petrobras-nearly-doubles-q2-profit-to-104b-on-record-operational-performance": {
+    "ts": "2026-08-07T19:03:49.189468+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/541898-slb-equinor-to-upgrade-vessel-under-multi-year-well-stimulation-deal": {
+    "ts": "2026-08-07T19:03:49.189468+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/vantris-energy-secures-offshore-contracts-in-malaysia-order-book-exceeds-14b": {
+    "ts": "2026-08-07T19:03:49.189468+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/adnoc-ls-goes-on-13b-vessel-shopping-spree-acquires-11-tankers": {
+    "ts": "2026-08-07T19:03:49.189468+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/war-risk-insurance-pays-11m-for-loss-of-mayuree-naree": {
+    "ts": "2026-08-07T19:03:49.189468+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/pilots-cellphone-distraction-leads-to-fatal-houston-ship-channel-collision-involving-bulk-carrier-and-towboat-ntsb/?utm_source=rss&utm_medium=rss&utm_campaign=pilots-cellphone-distraction-leads-to-fatal-houston-ship-channel-collision-involving-bulk-carrier-and-towboat-ntsb": {
+    "ts": "2026-08-07T19:03:49.189468+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/iran-oman-hormuz-plan-said-to-forbid-u-s-passage-iran-attacks-hostile-targets/": {
+    "ts": "2026-08-07T19:03:49.189468+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/boxships/importers-clear-out-early-rush-as-us-container-volume-surge-cools-off": {
+    "ts": "2026-08-07T19:03:49.189468+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/30-billion-lng-project-nears-fid-saipem-confirms-preliminary-award-shortly-after-mcdermott/": {
+    "ts": "2026-08-07T19:03:49.189468+00:00",
     "type": "other"
   }
 }
