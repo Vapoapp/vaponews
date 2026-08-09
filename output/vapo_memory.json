@@ -8,17 +8,6 @@
       "logística e portos",
       "risco geopolítico"
     ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com previsão de recuperação em até 50 dias. Essa limitação força importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos no transporte marítimo de petróleo. A apreensão de navios e o risco de suspensão de apólices pelas seguradoras aumentam a volatilidade financeira, dificultando o planejamento e comprometendo contratos de longo prazo na região. No offshore brasileiro, a Petrob"
-  },
-  {
-    "date": "2026-08-02",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação estimada em até 50 dias. Essa limitação força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo. A apreensão de navios e o risco de suspensão de apólices pelas seguradoras ampliam a volatilidade financeira, dificultando o planejamento e comprometendo contratos de longo prazo na região. No offshore brasileiro, a Pet"
   },
   {
@@ -324,5 +313,14 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação estimada em até 50 dias. A restrição prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo bruto. A volatilidade financeira aumenta devido à apreensão de navios e ao risco de suspensão de apólices, dificultando contratos de longo prazo na região. Os ataques recentes a embarcações da ADNOC intensificam o risco g"
+  },
+  {
+    "date": "2026-08-09",
+    "drivers": [
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional na região segue abaixo de 10%, com recuperação prevista em até 50 dias. Essa restrição prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo bruto. A volatilidade financeira aumenta diante da apreensão de navios e do risco de suspensão de apólices, dificultando a negociação e manutenção de contratos de longo prazo. Os ataques recentes a embarcações ligadas à ADNOC e a exi"
   }
 ]
