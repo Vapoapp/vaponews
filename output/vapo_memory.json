@@ -2,17 +2,6 @@
   {
     "date": "2026-08-01",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação projetada em até 50 dias. A restrição obriga importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos no transporte marítimo de petróleo. A apreensão de petroleiros e o risco de suspensão de apólices pelas seguradoras ampliam a volatilidade financeira, dificultando o planejamento de contratos de longo prazo. No offshore brasileiro, a Petrobras renovou contratos de na"
-  },
-  {
-    "date": "2026-08-01",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -325,5 +314,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação prevista em até 50 dias. A restrição prolongada força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. A volatilidade financeira aumenta diante da apreensão de navios e do risco de suspensão de apólices, dificultando a negociação e manutenção de contratos de longo prazo na região. No segmento offshore, Petrobras ace"
+  },
+  {
+    "date": "2026-08-09",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação estimada em até 50 dias. A restrição prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. A volatilidade financeira aumenta diante da apreensão de navios e do risco de suspensão de apólices, dificultando a negociação e manutenção de contratos de longo prazo na região. Os ataques recentes a embarcações da ADNOC e"
   }
 ]
