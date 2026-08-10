@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-08-02",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação projetada em até 50 dias. Essa limitação obriga importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte marítimo de petróleo. A apreensão de navios e o risco de suspensão de apólices pelas seguradoras ampliam a volatilidade financeira, dificultando o planejamento e comprometendo contratos de longo prazo na região. No offshore brasileiro, a Petrobra"
-  },
-  {
     "date": "2026-08-03",
     "drivers": [
       "risco geopolítico",
@@ -322,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com previsão de recuperação em até 50 dias. Essa restrição prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. A volatilidade financeira aumenta devido à apreensão de navios e ao risco de suspensão de apólices, dificultando a negociação e manutenção de contratos de longo prazo na região. Os ataques recentes a embarcações da ADNOC"
+  },
+  {
+    "date": "2026-08-10",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação projetada em até 50 dias. A restrição prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. A volatilidade financeira aumenta diante da apreensão de navios e risco de suspensão de apólices, dificultando a negociação e manutenção de contratos de longo prazo na região. Os ataques recentes a embarcações da ADNOC e a ten"
   }
 ]
