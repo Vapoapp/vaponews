@@ -3,17 +3,6 @@
     "date": "2026-08-03",
     "drivers": [
       "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação prevista em até 50 dias, forçando importadores asiáticos a alongar rotas e elevar tarifas de afretamento para VLCCs. A combinação de ataques recentes, apreensão de navios e risco de suspensão de apólices pelas seguradoras amplia a volatilidade financeira, dificultando o fechamento e a manutenção de contratos de longo prazo na região. No mercado offshore, a retomada da plataforma Deepsea Atlantic após 106 dias para"
-  },
-  {
-    "date": "2026-08-03",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -325,5 +314,16 @@
       "risco geopolítico"
     ],
     "summary": "A operação no Estreito de Ormuz mantém-se abaixo de 10%, com recuperação prevista em até 50 dias. Essa restrição prolonga significativamente as rotas para importadores asiáticos, pressionando tarifas de afretamento para VLCCs e elevando custos no transporte marítimo de petróleo bruto. A volatilidade financeira na região aumenta, dificultando a negociação e manutenção de contratos de longo prazo devido ao risco de apreensão de navios e suspensão de apólices. Os ataques contínuos a embarcações lig"
+  },
+  {
+    "date": "2026-08-11",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional na passagem estratégica segue abaixo de 10%, com recuperação projetada em até 50 dias. Essa limitação prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo bruto. A persistência do bloqueio impacta diretamente a competitividade das operações na região. O aumento da volatilidade financeira, impulsionado pela apreensão de navios e risco de suspensão de apólices, dificulta a"
   }
 ]
