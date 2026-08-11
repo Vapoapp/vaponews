@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-08-10T07:50:02.775509+00:00",
+    "ts": "2026-08-11T07:15:25.750159+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
@@ -51,26 +51,6 @@
     "ts": "2026-08-04T19:43:04.174302+00:00",
     "type": "highlight"
   },
-  "https://petronoticias.com.br/segue-em-andamento-o-gasoduto-raia-que-vai-mandar-para-a-cabiunas-parte-do-gas-extraido-pela-equinor-repsol-e-petrobras/": {
-    "ts": "2026-08-04T02:56:47.343113+00:00",
-    "type": "other"
-  },
-  "https://brasilenergia.com.br/petroleoegas/empresas/abep-quer-inclusao-de-decisoes-internacionais-na-fusao-saipem-subsea7": {
-    "ts": "2026-08-04T02:56:47.343113+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/exploration-development/offshore-exploration/petrobras-confirms-new-gas-discovery-in-colombia": {
-    "ts": "2026-08-04T02:56:47.343113+00:00",
-    "type": "other"
-  },
-  "https://g1.globo.com/jornal-nacional/noticia/2026/08/03/tse-aprimora-recursos-de-acessibilidade-para-votacao-de-outubro.ghtml": {
-    "ts": "2026-08-04T02:56:47.343113+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/a-second-qatari-lng-carrier-struck-as-22-chinese-vessels-cross-the-red-sea-unharmed/": {
-    "ts": "2026-08-04T02:56:47.343113+00:00",
-    "type": "other"
-  },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-exploration": {
     "ts": "2026-08-05T08:43:09.906776+00:00",
     "type": "other"
@@ -79,28 +59,8 @@
     "ts": "2026-08-05T08:43:09.906776+00:00",
     "type": "other"
   },
-  "https://maritime-executive.com/article/russia-intensifies-attacks-on-civilian-shipping-in-ukrainian-ports": {
-    "ts": "2026-08-04T02:56:47.343113+00:00",
-    "type": "other"
-  },
   "https://www.gov.br/antaq/pt-br/noticias/2026/publicada-pauta-da-615a-reuniao-da-diretoria-colegiada": {
     "ts": "2026-08-05T08:43:09.906776+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/esl-shipping-to-spin-off-into-independent-listed-firm": {
-    "ts": "2026-08-04T02:56:47.343113+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/new-crude-tanker-deployed-to-support-nigerian-oil-exports": {
-    "ts": "2026-08-04T02:56:47.343113+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/trump-administration-proposes-rolling-back-obama-era-arctic-drilling-rules/": {
-    "ts": "2026-08-04T02:56:47.343113+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/six-saudi-tankers-turn-away-from-gulf-of-aden-ship-tracking-data-shows/": {
-    "ts": "2026-08-04T02:56:47.343113+00:00",
     "type": "other"
   },
   "https://maritime-executive.com/article/cargo-ship-attacked-in-omani-sector-of-the-strait-of-hormuz": {
@@ -992,7 +952,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/wrecked-tanker-continues-uncontrolled-oil-discharge-off-oman": {
-    "ts": "2026-08-11T02:04:06.413218+00:00",
+    "ts": "2026-08-11T07:15:25.750159+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/iran-ties-hormuz-reopening-us-concessions-541915": {
@@ -1008,7 +968,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/541924-technipfmc-delivers-critical-equipment-for-suriname-project": {
-    "ts": "2026-08-10T02:09:08.805374+00:00",
+    "ts": "2026-08-11T07:15:25.750159+00:00",
     "type": "other"
   },
   "https://www.marinelink.com/news/black-sea-shipping-flows-despite-security-541917": {
@@ -1032,7 +992,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/541928-cadeler-orders-more-offshore-wind-installation-vessels": {
-    "ts": "2026-08-10T13:19:27.727548+00:00",
+    "ts": "2026-08-11T07:15:25.750159+00:00",
     "type": "highlight"
   },
   "https://splash247.com/seadrill-boosts-backlog-with-fresh-work-for-three-rigs/": {
@@ -1064,7 +1024,7 @@
     "type": "other"
   },
   "https://safety4sea.com/ntsb-investigation-cellphone-use-and-lack-of-proper-lookout-leads-to-fatal-collision/": {
-    "ts": "2026-08-11T02:04:06.413218+00:00",
+    "ts": "2026-08-11T07:15:25.750159+00:00",
     "type": "highlight"
   },
   "https://splash247.com/adnoc-suffers-sixteenth-hit-as-houthis-strike-saudi-refinery/": {
@@ -1136,11 +1096,11 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/ukraine-agrees-under-u-s-pressure-to-stop-attacks-on-caspian-pipeline": {
-    "ts": "2026-08-11T02:04:06.413218+00:00",
+    "ts": "2026-08-11T07:15:25.750159+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/houthis-attack-red-sea-port-of-mokha-and-saudi-oil-facility-killing-7-and-injuring-15/?utm_source=rss&utm_medium=rss&utm_campaign=houthis-attack-red-sea-port-of-mokha-and-saudi-oil-facility-killing-7-and-injuring-15": {
-    "ts": "2026-08-11T02:04:06.413218+00:00",
+    "ts": "2026-08-11T07:15:25.750159+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/logistica/brado-slc-agricola-corredor-logistico-algodao-maranhao-porto-santos": {
@@ -1200,15 +1160,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/o-amapa-realiza-a-maior-feira-em-seu-parque-de-exposicoes-depois-do-inicio-da-exploracao-da-margem-equatorial/": {
-    "ts": "2026-08-11T02:04:06.413218+00:00",
+    "ts": "2026-08-11T07:15:25.750159+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/trump-demands-compensation-from-iran-as-hormuz-deal-hopes-fade/": {
-    "ts": "2026-08-11T02:04:06.413218+00:00",
+    "ts": "2026-08-11T07:15:25.750159+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/ukraine-agrees-to-avoid-targeting-some-tankers-and-black-sea-oil-infrastructure/": {
-    "ts": "2026-08-11T02:04:06.413218+00:00",
+    "ts": "2026-08-11T07:15:25.750159+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/logistica/transpetro-fara-simulados-contra-emergencias-em-dutos": {
@@ -1257,6 +1217,50 @@
   },
   "https://www.offshore-energy.biz/more-offshore-drilling-work-for-seadrill-rig-trio-in-us-gulf-and-malaysia/": {
     "ts": "2026-08-11T02:04:06.413218+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/541972-dof-wins-ahts-contracts-in-caricom-region": {
+    "ts": "2026-08-11T07:15:25.750159+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/damico-reclaims-mr-from-lease-for-15m/": {
+    "ts": "2026-08-11T07:15:25.750159+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/cosco-shippings-newest-80000dwt-grain-carrier-floated-out": {
+    "ts": "2026-08-11T07:15:25.750159+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/internacional/eni-entra-em-bloco-no-offshore-do-uruguai": {
+    "ts": "2026-08-11T07:15:25.750159+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/procopious-hengli-vlcc-haul-reaches-20/": {
+    "ts": "2026-08-11T07:15:25.750159+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/boxships/pacific-international-lines-takes-delivery-of-lng-fuelled-containership": {
+    "ts": "2026-08-11T07:15:25.750159+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/false-flags-and-fraudulent-registries-the-hidden-threat-to-global-shipping/": {
+    "ts": "2026-08-11T07:15:25.750159+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/iran-oman-talks-on-hormuz-route-nears-final-stage-but-u-s-must-remove-blockade-tehran-says/?utm_source=rss&utm_medium=rss&utm_campaign=iran-oman-talks-on-hormuz-route-nears-final-stage-but-u-s-must-remove-blockade-tehran-says": {
+    "ts": "2026-08-11T07:15:25.750159+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/baker-hughes-furnishing-southeast-asian-deepwater-gas-project-with-subsea-systems/": {
+    "ts": "2026-08-11T07:15:25.750159+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/eni-joins-block-offshore-uruguay-ahead-of-drilling-ops/": {
+    "ts": "2026-08-11T07:15:25.750159+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/cadeler-orders-two-giant-offshore-wind-installation-vessels-in-938-million-fleet-expansion/": {
+    "ts": "2026-08-11T07:15:25.750159+00:00",
     "type": "other"
   }
 }
