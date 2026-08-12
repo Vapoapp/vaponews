@@ -3,17 +3,6 @@
     "date": "2026-08-04",
     "drivers": [
       "atividade Petrobras/Transpetro",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação projetada em até 50 dias. Isso obriga importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo bruto. A apreensão de navios e o risco de suspensão de apólices pelas seguradoras ampliam a volatilidade financeira, dificultando o fechamento de contratos de longo prazo na região. No offshore brasileiro, a retomada da plat"
-  },
-  {
-    "date": "2026-08-04",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -325,5 +314,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com previsão de recuperação em até 50 dias. A restrição prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para VLCCs e impactando diretamente os custos do transporte marítimo de petróleo bruto. A volatilidade financeira na região aumenta devido ao risco de apreensão de navios e suspensão de apólices, dificultando a negociação de contratos de longo prazo. No Mar Vermelho, ataques Houthi continuam a el"
+  },
+  {
+    "date": "2026-08-12",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação estimada em até 50 dias. Essa limitação prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. A volatilidade financeira na região aumenta, dificultando a negociação e manutenção de contratos de longo prazo devido ao risco de apreensão de navios e suspensão de apólices. No offshore brasileiro, contratos de manutenção"
   }
 ]
