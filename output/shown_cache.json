@@ -4,7 +4,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-08-12T02:21:32.996459+00:00",
+    "ts": "2026-08-13T19:07:59.096951+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/vessel-reviews": {
@@ -15,18 +15,6 @@
     "ts": "2026-08-09T07:03:38.064209+00:00",
     "type": "other"
   },
-  "https://maritime-executive.com/article/oman-s-turtle-coast-hit-by-oil-leaking-from-the-tanker-caroline-bezengi": {
-    "ts": "2026-08-06T14:24:09.008486+00:00",
-    "type": "highlight"
-  },
-  "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-recebe-novos-servidores-aprovados-no-cpnu": {
-    "ts": "2026-08-06T14:24:09.008486+00:00",
-    "type": "highlight"
-  },
-  "https://www.oedigital.com/news/541796-enermech-lands-offshore-services-job-for-north-sea-operator": {
-    "ts": "2026-08-06T14:24:09.008486+00:00",
-    "type": "highlight"
-  },
   "https://www.tecnologistica.com.br/noticias/portos/21721/ministerio-de-portos-e-aeroportos-publica-plano-mestre-do-complexo-portuario-de-paranagua-e-antonina/": {
     "ts": "2026-08-07T13:14:36.178020+00:00",
     "type": "highlight"
@@ -34,14 +22,6 @@
   "https://www.tecnologistica.com.br/noticias/portos/21722/portos-brasileiros-registram-crescimento-na-movimentacao-de-cargas-no-primeiro-semestre/": {
     "ts": "2026-08-07T00:06:36.035678+00:00",
     "type": "other"
-  },
-  "https://petronoticias.com.br/backlog-de-us-18-bilhao-mostra-a-capacidade-da-forsea-apenas-com-tres-de-operacoes-no-pais/": {
-    "ts": "2026-08-06T14:24:09.008486+00:00",
-    "type": "highlight"
-  },
-  "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/06/rio-innovation-week-maior-navio-de-guerra-da-america-latina-sedia-exposicao-de-arte-digital-e-campeonato-de-e-sports.ghtml": {
-    "ts": "2026-08-06T14:24:09.008486+00:00",
-    "type": "highlight"
   },
   "https://maritime-executive.com/article/oil-slicks-and-a-burning-ship-show-the-toll-of-the-hormuz-crisis": {
     "ts": "2026-08-07T13:14:36.178020+00:00",
@@ -59,48 +39,12 @@
     "ts": "2026-08-07T00:06:36.035678+00:00",
     "type": "highlight"
   },
-  "https://www.hellenicshippingnews.com/iran-war-oil-banking-on-phantom-deal/": {
-    "ts": "2026-08-06T14:24:09.008486+00:00",
-    "type": "highlight"
-  },
-  "https://www.rigzone.com/news/what_has_been_the_one_constant_through_hormuz_turmoil-06-aug-2026-184311-article/": {
-    "ts": "2026-08-06T14:24:09.008486+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/latest-chapter-up-and-running-at-chinese-oilfield-project-housing-19-offshore-platforms/": {
-    "ts": "2026-08-06T14:24:09.008486+00:00",
-    "type": "other"
-  },
   "https://www.oedigital.com/news/541852-exxonmobil-picks-sercel-s-marlin-for-guyana-offshore-operations": {
     "ts": "2026-08-08T07:00:50.856799+00:00",
     "type": "other"
   },
-  "https://www.hellenicshippingnews.com/tensions-in-the-black-sea-and-regional-droughts-spark-rising-global-wheat-prices/": {
-    "ts": "2026-08-06T14:24:09.008486+00:00",
-    "type": "other"
-  },
   "https://www.gov.br/antaq/pt-br/noticias/2026/nova-metodologia-organiza-gestao-do-estoque-regulatorio-da-antaq": {
     "ts": "2026-08-07T19:03:49.189468+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/asyad-shipping-receives-mr-chemical-tanker-from-chinese-shipyard": {
-    "ts": "2026-08-06T14:24:09.008486+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/capital-tankers-takes-delivery-of-newbuild-lr2-tanker": {
-    "ts": "2026-08-06T14:24:09.008486+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/global-shipping-groups-urge-un-to-reject-any-compulsory-transit-tolls-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=global-shipping-groups-urge-un-to-reject-any-compulsory-transit-tolls-in-strait-of-hormuz": {
-    "ts": "2026-08-06T14:24:09.008486+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/uk-to-get-extreme-environment-center-for-subsea-technology-testing/": {
-    "ts": "2026-08-06T14:24:09.008486+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/damen-signs-contract-with-aegean-tugs-shipping-company-for-asd-tug-2811-delivery/": {
-    "ts": "2026-08-06T14:24:09.008486+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/anp-define-blocos-que-estarao-nos-proximos-leiloes-da-oferta-permanente-em-dezembro/": {
@@ -1016,7 +960,7 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/tecnologia/21748/porto-de-santos-tera-sistema-de-gerenciamento-de-trafego-maritimo-a-partir-de-2027/": {
-    "ts": "2026-08-13T13:22:15.999071+00:00",
+    "ts": "2026-08-13T19:07:59.096951+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/imo-secretary-general-statement-on-tihamah/": {
@@ -1068,7 +1012,7 @@
     "type": "other"
   },
   "https://brasilenergia.com.br/petroleoegas/recursos-humanos/fundacao-cesgranrio-abre-inscricoes-para-concurso-da-transpetro": {
-    "ts": "2026-08-13T13:22:15.999071+00:00",
+    "ts": "2026-08-13T19:07:59.096951+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/saudi-red-sea-crude-exports-go-dark-542044": {
@@ -1108,8 +1052,8 @@
     "type": "other"
   },
   "https://www.nytimes.com/2026/08/12/business/iran-war-hormuz-oil.html": {
-    "ts": "2026-08-12T19:07:07.135100+00:00",
-    "type": "other"
+    "ts": "2026-08-13T19:07:59.096951+00:00",
+    "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/us-officially-clears-gms-to-dismantle-two-seized-shadow-fleet-tankers": {
     "ts": "2026-08-12T19:07:07.135100+00:00",
@@ -1184,7 +1128,7 @@
     "type": "other"
   },
   "https://splash247.com/sk-shipping-takes-aim-at-asia-lng-top-spot-in-h-line-tanker-swap/": {
-    "ts": "2026-08-13T13:22:15.999071+00:00",
+    "ts": "2026-08-13T19:07:59.096951+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/cargo-fire-loss-innovation-initiative-building-evidence-for-safer-cargo-operations/": {
@@ -1240,15 +1184,15 @@
     "type": "other"
   },
   "https://safety4sea.com/imo-piracy-report-15-incidents-during-june-2026/": {
-    "ts": "2026-08-13T13:22:15.999071+00:00",
+    "ts": "2026-08-13T19:07:59.096951+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/agencia-internacional-de-energia-preve-queda-ainda-maior-na-demanda-por-petroleo-diante-de-efeitos-da-guerra-no-ira/": {
-    "ts": "2026-08-13T13:22:15.999071+00:00",
+    "ts": "2026-08-13T19:07:59.096951+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/ukraine-confirms-hits-on-four-russian-warships-at-novorossiysk": {
-    "ts": "2026-08-13T13:22:15.999071+00:00",
+    "ts": "2026-08-13T19:07:59.096951+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/mma-improper-use-of-hand-tools-and-unplanned-deviations/": {
@@ -1293,6 +1237,58 @@
   },
   "https://maritime-executive.com/article/suspicious-subsea-cable-breaks-prompt-calls-for-investigation-in-australia": {
     "ts": "2026-08-13T13:22:15.999071+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/boskalis-comemora-resultado-da-operacao-de-transporte-do-fpso-cidade-de-niteroi-pelo-oceano-atlantico-rumo-a-reciclagem/": {
+    "ts": "2026-08-13T19:07:59.096951+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/major-salvage-effort-begins-for-grounded-shadow-fleet-tanker-off-oman/": {
+    "ts": "2026-08-13T19:07:59.096951+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/o-13o-forum-do-biogas-bateu-recorde-de-publico-e-mostrou-a-importancia-que-o-segmento-assumiu-nos-ultimos-anos/": {
+    "ts": "2026-08-13T19:07:59.096951+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/legislacao/21759/abol-defende-multimodalidade-e-politica-nacional-para-formacao-de-profissionais-na-logistica/": {
+    "ts": "2026-08-13T19:07:59.096951+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/geral/21758/novo-pnl-orienta-investimentos-que-vao-definir-a-logistica-brasileira-pelos-proximos-24-anos/": {
+    "ts": "2026-08-13T19:07:59.096951+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/ukraine-halts-drone-strikes-on-oil-tankers-using-russias-black-sea-port-after-us-request/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-halts-drone-strikes-on-oil-tankers-using-russias-black-sea-port-after-us-request": {
+    "ts": "2026-08-13T19:07:59.096951+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/mol-puts-bow-on-six-vessel-newbuilding-program-with-final-lng-carrier-delivery/": {
+    "ts": "2026-08-13T19:07:59.096951+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542090-emerson-to-deliver-automation-solutions-to-shah-deniz-compression-project": {
+    "ts": "2026-08-13T19:07:59.096951+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/hormuz-shipping-traffic-shows-no-sign-of-recovery/": {
+    "ts": "2026-08-13T19:07:59.096951+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/genco-shipping-and-trading-takes-delivery-of-capesize-bulker": {
+    "ts": "2026-08-13T19:07:59.096951+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/ballast-water-tech-erma-firsts-portfolio-542079": {
+    "ts": "2026-08-13T19:07:59.096951+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/royal-navy-steps-up-monitoring-as-russian-naval-activity-around-uk-waters-rises-25/?utm_source=rss&utm_medium=rss&utm_campaign=royal-navy-steps-up-monitoring-as-russian-naval-activity-around-uk-waters-rises-25": {
+    "ts": "2026-08-13T19:07:59.096951+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542080-autonomy-offshore-uncrewed-systems-move-from-trials-to-critical-operations": {
+    "ts": "2026-08-13T19:07:59.096951+00:00",
     "type": "other"
   }
 }

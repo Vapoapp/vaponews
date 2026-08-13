@@ -2,17 +2,6 @@
   {
     "date": "2026-08-06",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação projetada em até 50 dias. Essa limitação força importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos logísticos no transporte de petróleo bruto. A apreensão de navios e o risco de suspensão de apólices pelas seguradoras aumentam a volatilidade financeira, dificultando a negociação e manutenção de contratos de longo prazo na região. No Brasil, a Petrobras acele"
-  },
-  {
-    "date": "2026-08-06",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -325,5 +314,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com previsão de recuperação em até 50 dias. Essa restrição alonga rotas para importadores asiáticos, pressionando tarifas de afretamento para VLCCs e elevando custos no transporte marítimo de petróleo bruto. A volatilidade financeira na região aumenta o risco de apreensão de navios e suspensão de apólices, dificultando a negociação de contratos de longo prazo. No Mar Vermelho, ataques Houthi a embarcações militares e comercia"
+  },
+  {
+    "date": "2026-08-13",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem sinais de recuperação rápida, estendendo rotas para importadores asiáticos. Essa limitação pressiona tarifas de afretamento para VLCCs e eleva custos no transporte marítimo de petróleo bruto, impactando diretamente a cadeia logística global de energia. A volatilidade financeira regional, combinada com o risco crescente de apreensão de navios e suspensão de apólices, dificulta a negociação de contratos de longo prazo. Para"
   }
 ]
