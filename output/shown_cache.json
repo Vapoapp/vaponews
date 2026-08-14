@@ -1060,7 +1060,7 @@
     "type": "other"
   },
   "https://safety4sea.com/imo-piracy-report-15-incidents-during-june-2026/": {
-    "ts": "2026-08-14T13:16:48.343159+00:00",
+    "ts": "2026-08-14T19:00:26.026404+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/agencia-internacional-de-energia-preve-queda-ainda-maior-na-demanda-por-petroleo-diante-de-efeitos-da-guerra-no-ira/": {
@@ -1072,7 +1072,7 @@
     "type": "highlight"
   },
   "https://safety4sea.com/mma-improper-use-of-hand-tools-and-unplanned-deviations/": {
-    "ts": "2026-08-13T13:22:15.999071+00:00",
+    "ts": "2026-08-14T19:00:26.026404+00:00",
     "type": "other"
   },
   "https://splash247.com/splash-singapore-heidelbergs-willem-vermaat-on-when-the-algorithm-looks-away/": {
@@ -1168,7 +1168,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/542109-tupi-sets-petrobras-production-record": {
-    "ts": "2026-08-14T07:39:01.502983+00:00",
+    "ts": "2026-08-14T19:00:26.026404+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/korean-register-issues-technical-information-on-pilot-transfer-arrangements-ahead-of-2028-imo-deadline/": {
@@ -1176,7 +1176,7 @@
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-reforca-acoes-preventivas-diante-dos-impactos-da-estiagem-na-regiao-amazonica": {
-    "ts": "2026-08-14T13:16:48.343159+00:00",
+    "ts": "2026-08-14T19:00:26.026404+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/inovacao/petrobras-estuda-a-dinamica-da-corente-norte-do-brasil": {
@@ -1260,7 +1260,7 @@
     "type": "highlight"
   },
   "https://splash247.com/ukraine-seeks-black-sea-shipping-truce-as-drones-hit-ust-luga/": {
-    "ts": "2026-08-14T13:16:48.343159+00:00",
+    "ts": "2026-08-14T19:00:26.026404+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/breakwater-rehabilitation-making-headway-for-portugals-1-mw-wave-energy-project/": {
@@ -1301,6 +1301,70 @@
   },
   "https://www.hellenicshippingnews.com/new-safety-and-training-resources-launched-to-help-shipping-prepare-for-ammonia-fuelled-vessels/": {
     "ts": "2026-08-14T13:16:48.343159+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542117-russian-crude-production-falls-lower-amidst-global-uncertainty-sanctions": {
+    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/br-offshore-vai-comecar-a-construir-estaleiro-de-reciclagem-no-norte-fluminense/": {
+    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/iranian-attacks-push-hormuz-shipping-toward-tehran-controlled-route/": {
+    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "type": "highlight"
+  },
+  "https://www.guiamaritimo.com.br/noticias/maritimo/braskem-recebe-primeiro-navio-nafta-nova-geracao-porto-aratu": {
+    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "type": "other"
+  },
+  "https://brasilenergia.com.br/petroleoegas/empresas/br-offshore-apresenta-projeto-de-estaleiro-na-firjan-norte-fluminense": {
+    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/logistica/pnl-2050-plano-nacional-logistica-transportes": {
+    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "type": "other"
+  },
+  "https://brasilenergia.com.br/petroleoegas/descomissionamento-da-industria-mundial-de-gas-natural": {
+    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/egypt-refloats-drone-damaged-lng-fsru-energos-winter-after-14-hour-salvage-operation/?utm_source=rss&utm_medium=rss&utm_campaign=egypt-refloats-drone-damaged-lng-fsru-energos-winter-after-14-hour-salvage-operation": {
+    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/two-slicks-appear-in-gulf-as-huge-oil-spill-off-oman-threatens-disaster/": {
+    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/minsheng-steps-up-tanker-push-with-500m-vlcc-order/": {
+    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/court-ruling-deals-blow-to-shells-south-africa-offshore-exploration": {
+    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/hormuz-traffic-dwindles-us-threatens-542122": {
+    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/xeneta-weekly-ocean-container-shipping-market-update-8/": {
+    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/russian-oil-tanker-suffers-major-hull-damage-in-arctic-despite-icebreaker-escort-en-route-to-china/?utm_source=rss&utm_medium=rss&utm_campaign=russian-oil-tanker-suffers-major-hull-damage-in-arctic-despite-icebreaker-escort-en-route-to-china": {
+    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/seatrium-lines-up-third-flng-conversion-assignment-with-golar-lng/": {
+    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/bp-xrg-and-ucc-on-4-tcf-venezuelan-gas-quest-as-offshore-development-gathers-pace/": {
+    "ts": "2026-08-14T19:00:26.026404+00:00",
     "type": "other"
   }
 }
