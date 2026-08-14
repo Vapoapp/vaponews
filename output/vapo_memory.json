@@ -2,17 +2,6 @@
   {
     "date": "2026-08-06",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação projetada em até 50 dias. A limitação obriga importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos no transporte marítimo de petróleo bruto. A volatilidade financeira aumenta diante da apreensão de navios e risco de suspensão de apólices, dificultando contratos de longo prazo na região. No offshore brasileiro, a Petrobras acelera investimentos, refletindo um cresc"
-  },
-  {
-    "date": "2026-08-06",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -325,5 +314,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem sinais de recuperação rápida, estendendo rotas para importadores asiáticos. Essa limitação pressiona tarifas de afretamento para VLCCs e eleva custos no transporte marítimo de petróleo bruto, impactando diretamente a cadeia logística global de energia. A volatilidade financeira regional, combinada com o risco crescente de apreensão de navios e suspensão de apólices, dificulta a negociação de contratos de longo prazo. Para"
+  },
+  {
+    "date": "2026-08-14",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, sem perspectiva de recuperação rápida, estendendo rotas para importadores asiáticos e elevando tarifas de afretamento para VLCCs. Essa restrição aumenta custos logísticos e dificulta a negociação de contratos de longo prazo, devido ao risco crescente de apreensão de navios e suspensão de apólices. No Mar Vermelho, ataques Houthi ampliam riscos de segurança para operações offshore e navegação comercial, impactando a estabilidade d"
   }
 ]
