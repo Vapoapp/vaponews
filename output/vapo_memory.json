@@ -2,17 +2,6 @@
   {
     "date": "2026-08-07",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com previsão de recuperação em até 50 dias. A restrição obriga importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte marítimo de petróleo bruto. A apreensão de navios e o risco de suspensão de apólices aumentam a volatilidade financeira, dificultando contratos de longo prazo na região. No mercado offshore brasileiro, Petrobras acelera investimentos e renova contrato"
-  },
-  {
-    "date": "2026-08-07",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -325,5 +314,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem perspectiva de recuperação rápida. Isso alonga rotas para importadores asiáticos, eleva tarifas de afretamento para VLCCs e aumenta custos logísticos no transporte de petróleo bruto. O risco elevado de apreensão de navios e suspensão de apólices dificulta a negociação de contratos de longo prazo na região. No Mar Vermelho, ataques Houthi ampliam riscos de segurança para operações offshore e navegação comercial, impactando"
+  },
+  {
+    "date": "2026-08-14",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, sem perspectiva de recuperação rápida, ampliando rotas para importadores asiáticos e elevando tarifas de afretamento para VLCCs. Esse cenário eleva custos logísticos no transporte de petróleo bruto e dificulta a negociação de contratos de longo prazo, devido ao risco crescente de apreensão de navios e suspensão de apólices. A volatilidade regional reforça a aversão a compromissos prolongados no mercado de afretamento. No Mar Verm"
   }
 ]
