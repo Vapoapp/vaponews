@@ -23,10 +23,6 @@
     "ts": "2026-08-08T07:00:50.856799+00:00",
     "type": "other"
   },
-  "https://www.gov.br/antaq/pt-br/noticias/2026/nova-metodologia-organiza-gestao-do-estoque-regulatorio-da-antaq": {
-    "ts": "2026-08-07T19:03:49.189468+00:00",
-    "type": "other"
-  },
   "https://maritime-executive.com/article/ntsb-houston-pilot-s-cell-phone-call-contributed-to-fatal-collision": {
     "ts": "2026-08-08T18:44:22.805372+00:00",
     "type": "highlight"
@@ -58,10 +54,6 @@
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction/island-offshores-newest-hybrid-construction-vessel-arrives-in-norway-for-final-outfitting": {
     "ts": "2026-08-08T18:44:22.805372+00:00",
     "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/environmental-disaster-looms-as-tanker-laden-with-russian-crude-oil-leaks-off-oman/": {
-    "ts": "2026-08-07T19:03:49.189468+00:00",
-    "type": "highlight"
   },
   "https://petronoticias.com.br/decisao-da-diretoria-da-anp-e-postura-da-petrobras-diante-do-gas-release-vao-movimentar-o-mercado-nesta-sexta-feira/": {
     "ts": "2026-08-08T07:00:50.856799+00:00",
@@ -103,10 +95,6 @@
     "ts": "2026-08-09T13:00:38.724285+00:00",
     "type": "highlight"
   },
-  "https://petronoticias.com.br/efeito-ormuz-preco-do-querosene-de-aviacao-aumenta-quase-50-para-as-empresas-no-brasil-aponta-os-dados-da-quive/": {
-    "ts": "2026-08-07T19:03:49.189468+00:00",
-    "type": "other"
-  },
   "https://www.bairdmaritime.com/offshore/drilling-production/petrobras-nearly-doubles-q2-profit-to-104b-on-record-operational-performance": {
     "ts": "2026-08-09T02:04:45.222283+00:00",
     "type": "other"
@@ -129,10 +117,6 @@
   },
   "https://www.marineinsight.com/pilots-cellphone-distraction-leads-to-fatal-houston-ship-channel-collision-involving-bulk-carrier-and-towboat-ntsb/?utm_source=rss&utm_medium=rss&utm_campaign=pilots-cellphone-distraction-leads-to-fatal-houston-ship-channel-collision-involving-bulk-carrier-and-towboat-ntsb": {
     "ts": "2026-08-09T02:04:45.222283+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/iran-oman-hormuz-plan-said-to-forbid-u-s-passage-iran-attacks-hostile-targets/": {
-    "ts": "2026-08-07T19:03:49.189468+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/boxships/importers-clear-out-early-rush-as-us-container-volume-surge-cools-off": {
@@ -1060,7 +1044,7 @@
     "type": "other"
   },
   "https://safety4sea.com/imo-piracy-report-15-incidents-during-june-2026/": {
-    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "ts": "2026-08-15T01:30:36.330315+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/agencia-internacional-de-energia-preve-queda-ainda-maior-na-demanda-por-petroleo-diante-de-efeitos-da-guerra-no-ira/": {
@@ -1096,7 +1080,7 @@
     "type": "other"
   },
   "https://safety4sea.com/new-resources-target-safety-and-competency-needs-for-ammonia-fuelled-vessels/": {
-    "ts": "2026-08-13T13:22:15.999071+00:00",
+    "ts": "2026-08-15T01:30:36.330315+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/542081-orsted-q2-beats-estimates": {
@@ -1128,7 +1112,7 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/legislacao/21759/abol-defende-multimodalidade-e-politica-nacional-para-formacao-de-profissionais-na-logistica/": {
-    "ts": "2026-08-13T19:07:59.096951+00:00",
+    "ts": "2026-08-15T01:30:36.330315+00:00",
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/geral/21758/novo-pnl-orienta-investimentos-que-vao-definir-a-logistica-brasileira-pelos-proximos-24-anos/": {
@@ -1168,7 +1152,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/542109-tupi-sets-petrobras-production-record": {
-    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "ts": "2026-08-15T01:30:36.330315+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/korean-register-issues-technical-information-on-pilot-transfer-arrangements-ahead-of-2028-imo-deadline/": {
@@ -1176,7 +1160,7 @@
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-reforca-acoes-preventivas-diante-dos-impactos-da-estiagem-na-regiao-amazonica": {
-    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "ts": "2026-08-15T01:30:36.330315+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/inovacao/petrobras-estuda-a-dinamica-da-corente-norte-do-brasil": {
@@ -1260,7 +1244,7 @@
     "type": "highlight"
   },
   "https://splash247.com/ukraine-seeks-black-sea-shipping-truce-as-drones-hit-ust-luga/": {
-    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "ts": "2026-08-15T01:30:36.330315+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/breakwater-rehabilitation-making-headway-for-portugals-1-mw-wave-energy-project/": {
@@ -1304,15 +1288,15 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/542117-russian-crude-production-falls-lower-amidst-global-uncertainty-sanctions": {
-    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "ts": "2026-08-15T01:30:36.330315+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/br-offshore-vai-comecar-a-construir-estaleiro-de-reciclagem-no-norte-fluminense/": {
-    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "ts": "2026-08-15T01:30:36.330315+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/iranian-attacks-push-hormuz-shipping-toward-tehran-controlled-route/": {
-    "ts": "2026-08-14T19:00:26.026404+00:00",
+    "ts": "2026-08-15T01:30:36.330315+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/maritimo/braskem-recebe-primeiro-navio-nafta-nova-geracao-porto-aratu": {
@@ -1365,6 +1349,54 @@
   },
   "https://www.offshore-energy.biz/bp-xrg-and-ucc-on-4-tcf-venezuelan-gas-quest-as-offshore-development-gathers-pace/": {
     "ts": "2026-08-14T19:00:26.026404+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/petro-victory-anuncia-que-producao-de-petroleo-da-capixaba-energia-mais-que-dobrou-no-ultimo-ano/": {
+    "ts": "2026-08-15T01:30:36.330315+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/two-more-tankers-attacked-in-the-strait-of-hormuz": {
+    "ts": "2026-08-15T01:30:36.330315+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/gms-week-33-tanks-fill-talks-stall/": {
+    "ts": "2026-08-15T01:30:36.330315+00:00",
+    "type": "highlight"
+  },
+  "https://www.guiamaritimo.com.br/noticias/terminais/cade-maersk-msc-btp-leilao-tecon-santos-10": {
+    "ts": "2026-08-15T01:30:36.330315+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/petrobras-confirma-presenca-de-hidrocarbonetos-na-bacia-da-foz-do-amazonas/": {
+    "ts": "2026-08-15T01:30:36.330315+00:00",
+    "type": "other"
+  },
+  "https://brasilenergia.com.br/petroleoegas/ep/producao-da-ate-aumenta-35-em-julho": {
+    "ts": "2026-08-15T01:30:36.330315+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/283983-2/": {
+    "ts": "2026-08-15T01:30:36.330315+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/cabotagem/norsul-reducao-emissoes-co2-eficiencia-energetica-cabotagem": {
+    "ts": "2026-08-15T01:30:36.330315+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/vhbs-new-contex-container-ship-time-charter-assessment-index-week-33-2/": {
+    "ts": "2026-08-15T01:30:36.330315+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/solstad-lands-long-term-csv-contract-in-west-africa/": {
+    "ts": "2026-08-15T01:30:36.330315+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542125-dof-group-announces-subsea-contracts-in-the-apac-region": {
+    "ts": "2026-08-15T01:30:36.330315+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/editorials/will-chinese-oil-imports-rebound-after-the-iran-war": {
+    "ts": "2026-08-15T01:30:36.330315+00:00",
     "type": "other"
   }
 }
