@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-08-07",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A operação no Estreito de Ormuz segue abaixo de 10%, com recuperação estimada em até 50 dias. A restrição obriga importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte marítimo de petróleo bruto. A apreensão de navios e o risco de suspensão de apólices ampliam a volatilidade financeira, dificultando a negociação e manutenção de contratos de longo prazo na região. No Brasil, Petrobras acelera investimentos offshore, refletindo maior"
-  },
-  {
     "date": "2026-08-08",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -325,5 +314,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem perspectiva de recuperação rápida. Essa restrição alonga rotas para importadores asiáticos e eleva tarifas de afretamento para VLCCs, aumentando custos logísticos no transporte de petróleo bruto. O risco crescente de ataques e apreensão de navios dificulta a negociação de contratos de longo prazo, gerando volatilidade no mercado de afretamento. No Mar Vermelho, ataques Houthi ampliam riscos de segurança para operações off"
+  },
+  {
+    "date": "2026-08-15",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem sinais de recuperação rápida. Isso força importadores asiáticos a alongar rotas, elevando custos logísticos e tarifas para VLCCs. O aumento do risco de apreensão e suspensão de apólices reduz a atratividade de contratos de longo prazo, ampliando volatilidade no mercado de afretamento. No Mar Vermelho, ataques Houthi intensificam riscos de segurança para operações offshore e navegação comercial. Esse cenário eleva custos d"
   }
 ]
