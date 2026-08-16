@@ -5,17 +5,6 @@
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional na região segue abaixo de 10%, com recuperação estimada em até 50 dias, forçando importadores asiáticos a alongar rotas e elevando tarifas de afretamento para VLCCs. A apreensão de navios e o risco de suspensão de apólices ampliam a volatilidade financeira, dificultando a negociação de contratos de longo prazo e impactando a estabilidade do mercado de petróleo bruto. No Brasil, a Petrobras acelera investimentos offshore, refletindo maior dinamismo no segmento e potencial"
-  },
-  {
-    "date": "2026-08-08",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
       "risco geopolítico",
       "petróleo e gás"
     ],
@@ -325,5 +314,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem perspectiva de normalização. Isso força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte de petróleo bruto. O risco crescente de ataques e apreensão de navios reduz a atratividade de contratos de longo prazo, ampliando volatilidade no mercado de afretamento. No Mar Vermelho, ataques Houthi intensificam riscos de segurança para operações offshore e naveg"
+  },
+  {
+    "date": "2026-08-16",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem perspectiva de normalização no curto prazo. Isso força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte de petróleo bruto. O aumento do risco de ataques e apreensão de navios reduz a atratividade de contratos de longo prazo, ampliando volatilidade no mercado de afretamento. No Mar Vermelho, a intensificação dos ataques Houthi aumenta os riscos de segura"
   }
 ]
