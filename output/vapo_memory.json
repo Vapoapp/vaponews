@@ -4,16 +4,6 @@
     "drivers": [
       "contratos marítimos",
       "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação estimada em até 50 dias. A restrição prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. A volatilidade financeira aumenta diante da apreensão de navios e do risco de suspensão de apólices, dificultando a negociação e manutenção de contratos de longo prazo na região. Os ataques recentes a embarcações da ADNOC e"
-  },
-  {
-    "date": "2026-08-09",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
       "logística e portos",
       "risco geopolítico",
       "petróleo e gás"
@@ -325,5 +315,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem perspectiva de normalização no curto prazo. Isso força importadores asiáticos a alongar rotas, pressionando tarifas de afretamento para VLCCs e elevando custos logísticos no transporte de petróleo bruto. A volatilidade no mercado de afretamento aumenta diante do risco crescente de ataques e apreensão de navios, reduzindo a atratividade de contratos de longo prazo. No Mar Vermelho, a suspensão das operações no porto de Moc"
+  },
+  {
+    "date": "2026-08-16",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, sem previsão de normalização. Importadores asiáticos enfrentam rotas alongadas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. A volatilidade no mercado de afretamento aumenta diante do risco crescente de ataques e apreensão de navios, reduzindo a atratividade de contratos de longo prazo. Os ataques recentes a embarcações, incluindo petroleiros da ADNOC, reforçam o amb"
   }
 ]
