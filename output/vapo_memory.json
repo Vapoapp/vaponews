@@ -8,17 +8,6 @@
       "risco geopolítico",
       "petróleo e gás"
     ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com previsão de recuperação em até 50 dias. Essa restrição prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. A volatilidade financeira aumenta devido à apreensão de navios e ao risco de suspensão de apólices, dificultando a negociação e manutenção de contratos de longo prazo na região. Os ataques recentes a embarcações da ADNOC"
-  },
-  {
-    "date": "2026-08-10",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recuperação projetada em até 50 dias. A restrição prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. A volatilidade financeira aumenta diante da apreensão de navios e risco de suspensão de apólices, dificultando a negociação e manutenção de contratos de longo prazo na região. Os ataques recentes a embarcações da ADNOC e a ten"
   },
   {
@@ -326,5 +315,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem previsão de normalização, forçando importadores asiáticos a alongar rotas e elevar tarifas de afretamento para VLCCs. A escalada de ataques a petroleiros, incluindo embarcações da ADNOC, intensifica a volatilidade no mercado de afretamento, reduzindo a atratividade de contratos de longo prazo e pressionando custos logísticos no transporte de petróleo bruto. No Mar Vermelho, a suspensão das operações no porto de Mocha devi"
+  },
+  {
+    "date": "2026-08-17",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, sem perspectiva de normalização. Importadores asiáticos enfrentam rotas mais longas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. O ambiente de risco elevado, com ataques recentes a petroleiros, amplia a volatilidade no mercado de afretamento e reduz a atratividade de contratos de longo prazo. No Mar Vermelho, a paralisação do porto de Mocha devido a ataques do grupo"
   }
 ]
