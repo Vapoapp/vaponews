@@ -2,17 +2,6 @@
   {
     "date": "2026-08-09",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação estimada em até 50 dias. A restrição prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte marítimo de petróleo bruto. A volatilidade financeira aumenta devido à apreensão de navios e ao risco de suspensão de apólices, dificultando contratos de longo prazo na região. Os ataques recentes a embarcações da ADNOC intensificam o risco g"
-  },
-  {
-    "date": "2026-08-09",
-    "drivers": [
       "logística e portos",
       "risco geopolítico",
       "petróleo e gás"
@@ -326,5 +315,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, sem previsão de normalização. Importadores asiáticos enfrentam rotas alongadas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. A volatilidade no mercado de afretamento aumenta diante do risco crescente de ataques e apreensão de navios, reduzindo a atratividade de contratos de longo prazo. Os ataques recentes a embarcações, incluindo petroleiros da ADNOC, reforçam o amb"
+  },
+  {
+    "date": "2026-08-17",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, sem previsão de normalização, forçando importadores asiáticos a alongar rotas e elevar tarifas de afretamento para VLCCs. A escalada de ataques a navios, incluindo petroleiros da ADNOC, amplia a volatilidade no mercado de afretamento, reduzindo a atratividade de contratos de longo prazo e elevando o custo do transporte de petróleo bruto. No Mar Vermelho, a suspensão das operações no porto de Mocha devido a ataques do grupo Houthi"
   }
 ]
