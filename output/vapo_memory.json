@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-08-10",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A operação no Estreito de Ormuz mantém-se abaixo de 10%, com recuperação prevista em até 50 dias. Essa restrição prolonga significativamente as rotas para importadores asiáticos, pressionando tarifas de afretamento para VLCCs e elevando custos no transporte marítimo de petróleo bruto. A volatilidade financeira na região aumenta, dificultando a negociação e manutenção de contratos de longo prazo devido ao risco de apreensão de navios e suspensão de apólices. Os ataques contínuos a embarcações lig"
-  },
-  {
     "date": "2026-08-11",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -326,5 +315,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem perspectiva de normalização, forçando importadores asiáticos a alongar rotas e elevar tarifas de afretamento para VLCCs. A escalada de ataques a petroleiros, incluindo embarcações da ADNOC, intensifica a volatilidade no mercado de afretamento, reduzindo a atratividade de contratos de longo prazo e pressionando custos logísticos no transporte de petróleo bruto. No Mar Vermelho, a suspensão do porto de Mocha devido a ataque"
+  },
+  {
+    "date": "2026-08-18",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, sem perspectiva de normalização, forçando importadores asiáticos a alongar rotas e elevar tarifas de afretamento para VLCCs. Ataques recentes a navios, incluindo petroleiros, ampliam a volatilidade no mercado de afretamento e reduzem a atratividade de contratos de longo prazo, pressionando custos no transporte de petróleo bruto. No Mar Vermelho, a suspensão das operações no porto de Mocha devido a ataques do grupo Houthi interrom"
   }
 ]
