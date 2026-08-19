@@ -5,17 +5,6 @@
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com previsão de recuperação em até 50 dias. A restrição prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para VLCCs e aumentando custos logísticos no transporte de petróleo bruto. A volatilidade financeira na região dificulta a negociação e manutenção de contratos de longo prazo, devido ao risco crescente de apreensão de navios e suspensão de apólices. No Mar Vermelho, ataques Houthi continuam a imp"
-  },
-  {
-    "date": "2026-08-12",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
       "logística e portos",
       "risco geopolítico"
     ],
@@ -326,5 +315,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem perspectiva de normalização. Importadores asiáticos ampliam rotas alternativas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte marítimo de petróleo bruto. A volatilidade no mercado de afretamento aumenta diante da escalada de ataques a petroleiros e da apreensão de embarcações por autoridades iranianas, reduzindo a atratividade de contratos de longo prazo. No Mar Vermelho, a suspensão das o"
+  },
+  {
+    "date": "2026-08-19",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem perspectiva de normalização. A escalada de ataques e apreensões de navios iranianos força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. A volatilidade reduz a atratividade de contratos de longo prazo, impactando planejamento e custo de fornecimento. No Mar Negro, ataques entre Rússia e Ucrânia paralisam mais de 97% das e"
   }
 ]
