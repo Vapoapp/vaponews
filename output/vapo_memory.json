@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-08-11",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com previsão de recuperação em até 50 dias. A restrição prolonga rotas para importadores asiáticos, elevando tarifas de afretamento para VLCCs e impactando diretamente os custos do transporte marítimo de petróleo bruto. A volatilidade financeira na região aumenta devido ao risco de apreensão de navios e suspensão de apólices, dificultando a negociação de contratos de longo prazo. No Mar Vermelho, ataques Houthi continuam a el"
-  },
-  {
     "date": "2026-08-12",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -326,5 +315,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, sem perspectiva de normalização. Importadores asiáticos ampliam rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. Ataques recentes a petroleiros e a detenção de embarcações por autoridades iranianas ampliam a volatilidade no mercado de afretamento, reduzindo a atratividade de contratos de longo prazo. No Mar Vermelho, a suspensão das operações no porto de Mocha apó"
+  },
+  {
+    "date": "2026-08-19",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, sem perspectiva de normalização. Importadores asiáticos ampliam rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. Ataques recentes a petroleiros e a detenção de embarcações por autoridades iranianas ampliam a volatilidade do mercado e reduzem a atratividade de contratos de longo prazo. No Mar Vermelho, a suspensão do porto de Mocha após ataques com mísseis interrom"
   }
 ]

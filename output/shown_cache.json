@@ -1,10 +1,10 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-08-18T06:51:24.175349+00:00",
+    "ts": "2026-08-19T06:52:07.383194+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-08-18T06:51:24.175349+00:00",
+    "ts": "2026-08-19T06:52:07.383194+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/vessel-reviews": {
@@ -14,18 +14,6 @@
   "https://www.bairdmaritime.com/offshore/drilling-production": {
     "ts": "2026-08-14T07:39:01.502983+00:00",
     "type": "other"
-  },
-  "https://maritime-executive.com/article/ukraine-agrees-under-u-s-pressure-to-stop-attacks-on-caspian-pipeline": {
-    "ts": "2026-08-12T02:21:32.996459+00:00",
-    "type": "highlight"
-  },
-  "https://www.oedigital.com/news/541961-intermoor-secures-third-petrobras-services-contract": {
-    "ts": "2026-08-12T02:21:32.996459+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/541972-dof-wins-ahts-contracts-in-caricom-region": {
-    "ts": "2026-08-12T02:21:32.996459+00:00",
-    "type": "highlight"
   },
   "https://safety4sea.com/sulphuric-acid-tanker-suffers-explosion-during-repairs-off-norway/": {
     "ts": "2026-08-12T07:39:36.598662+00:00",
@@ -81,34 +69,6 @@
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-define-audiencia-publica-sobre-concessao-do-canal-de-acesso-ao-porto-de-santos": {
     "ts": "2026-08-13T02:22:54.465174+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/rio-brasil-terminal-expands-cabotage-connectivity-with-new-norcoast-service/": {
-    "ts": "2026-08-12T02:21:32.996459+00:00",
-    "type": "other"
-  },
-  "https://petronoticias.com.br/a-coreia-do-sul-acelera-construcao-deu-seu-submarino-movido-a-propulsao-nuclear-que-devera-estar-pronto-em-2030/": {
-    "ts": "2026-08-12T02:21:32.996459+00:00",
-    "type": "other"
-  },
-  "https://brasilenergia.com.br/petroleoegas/empresas/siemens-e-contratada-pela-sbm-para-fornecer-sistemas-a-fpsos-de-seap": {
-    "ts": "2026-08-12T02:21:32.996459+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/542016-cadeler-acquires-offshore-wind-foundation-specialist": {
-    "ts": "2026-08-12T02:21:32.996459+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/trump-hardens-stance-on-iran-clouding-hopes-for-hormuz-deal/": {
-    "ts": "2026-08-12T02:21:32.996459+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/great-eastern-lines-up-fourth-kamsarmax-in-a-year/": {
-    "ts": "2026-08-12T02:21:32.996459+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/fresh-oil-discovery-strengthens-angolas-hydrocarbon-arsenal/": {
-    "ts": "2026-08-12T02:21:32.996459+00:00",
     "type": "other"
   },
   "https://splash247.com/us-disables-boxship-while-red-sea-attack-kills-six/": {
@@ -1144,15 +1104,15 @@
     "type": "other"
   },
   "https://safety4sea.com/mocha-port-suspends-operations-following-houthi-attack/": {
-    "ts": "2026-08-19T01:35:31.065295+00:00",
+    "ts": "2026-08-19T06:52:07.383194+00:00",
     "type": "highlight"
   },
   "https://splash247.com/seafarer-killed-in-latest-hormuz-strike/": {
-    "ts": "2026-08-19T01:35:31.065295+00:00",
+    "ts": "2026-08-19T06:52:07.383194+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/saudi-arabia-resumes-oil-loadings-sales-from-inside-strait-of-hormuz/": {
-    "ts": "2026-08-19T01:35:31.065295+00:00",
+    "ts": "2026-08-19T06:52:07.383194+00:00",
     "type": "highlight"
   },
   "https://splash247.com/china-merchants-firms-charter-deal-for-five-mpp-newbuilds/": {
@@ -1200,11 +1160,11 @@
     "type": "highlight"
   },
   "https://gcaptain.com/seafarer-killed-in-latest-strait-of-hormuz-attack-on-commercial-shipping/": {
-    "ts": "2026-08-19T01:35:31.065295+00:00",
+    "ts": "2026-08-19T06:52:07.383194+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/542200-deugro-delivers-110-kilometers-of-subsea-cables-for-saudi-installation-project": {
-    "ts": "2026-08-19T01:35:31.065295+00:00",
+    "ts": "2026-08-19T06:52:07.383194+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/empresas/transpetro-vai-transportar-bunker-via-barcacas-no-rj-este-ano": {
@@ -1268,15 +1228,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/transpetro-vai-iniciar-operacao-de-transporte-de-bunker-por-barcacas-no-rio/": {
-    "ts": "2026-08-19T01:35:31.065295+00:00",
+    "ts": "2026-08-19T06:52:07.383194+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/transporte-maritimo/21777/camorim-investe-r-180-milhoes-em-nova-serie-de-rebocadores-azimutais/": {
-    "ts": "2026-08-19T01:35:31.065295+00:00",
+    "ts": "2026-08-19T06:52:07.383194+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/the-global-diesel-crunch-russias-refinery-crisis-meets-middle-east-turmoil/": {
-    "ts": "2026-08-19T01:35:31.065295+00:00",
+    "ts": "2026-08-19T06:52:07.383194+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/firjan-aproveita-o-inicio-da-navalshore-para-atualizar-o-panorama-naval-do-rio-de-janeiro-repleto-de-oportunidades/": {
@@ -1329,6 +1289,50 @@
   },
   "https://safety4sea.com/icct-calls-for-stronger-california-policies-to-decarbonise-shipping-and-aviation/": {
     "ts": "2026-08-19T01:35:31.065295+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/uae-suspends-trade-with-iran-following-antiship-missile-strike": {
+    "ts": "2026-08-19T06:52:07.383194+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/hormuz-traffic-slows-uncertainty-persists-542220": {
+    "ts": "2026-08-19T06:52:07.383194+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/sinokors-6bn-tanker-bet-pays-off-spectacularly/": {
+    "ts": "2026-08-19T06:52:07.383194+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/internacional/slb-fecha-contrato-para-retomar-producao-de-pocos-em-brunei": {
+    "ts": "2026-08-19T06:52:07.383194+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542215-pipesense-enters-offshore-market": {
+    "ts": "2026-08-19T06:52:07.383194+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542211-guyana-now-entitled-to-nearly-40-of-production-from-stabroek": {
+    "ts": "2026-08-19T06:52:07.383194+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/msc-tests-transits-as-container-volumes-rise-at-suez-canal": {
+    "ts": "2026-08-19T06:52:07.383194+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/top-10-buyers-across-the-bulker-and-tanker-markets/": {
+    "ts": "2026-08-19T06:52:07.383194+00:00",
+    "type": "other"
+  },
+  "https://www.rigzone.com/news/will_oil_prices_keep_rising-18-aug-2026-184396-article/": {
+    "ts": "2026-08-19T06:52:07.383194+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/slb-lends-shell-a-hand-to-unlock-oil-gas-from-shut-in-wells/": {
+    "ts": "2026-08-19T06:52:07.383194+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/stena-drillings-14-year-old-drillship-caps-three-well-campaign-offshore-egypt-ahead-of-plan/": {
+    "ts": "2026-08-19T06:52:07.383194+00:00",
     "type": "other"
   }
 }
