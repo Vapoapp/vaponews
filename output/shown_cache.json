@@ -4,7 +4,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-08-19T06:52:07.383194+00:00",
+    "ts": "2026-08-19T12:55:41.841471+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/vessel-reviews": {
@@ -14,14 +14,6 @@
   "https://www.bairdmaritime.com/offshore/drilling-production": {
     "ts": "2026-08-14T07:39:01.502983+00:00",
     "type": "other"
-  },
-  "https://safety4sea.com/sulphuric-acid-tanker-suffers-explosion-during-repairs-off-norway/": {
-    "ts": "2026-08-12T07:39:36.598662+00:00",
-    "type": "highlight"
-  },
-  "https://www.marineinsight.com/trump-demands-compensation-from-iran-for-deaths-and-injuries-as-new-condition-to-reopen-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=trump-demands-compensation-from-iran-for-deaths-and-injuries-as-new-condition-to-reopen-hormuz": {
-    "ts": "2026-08-12T07:39:36.598662+00:00",
-    "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21745/tcp-movimenta-um-milhao-de-teus-mais-cedo-do-que-em-2025/": {
     "ts": "2026-08-12T19:07:07.135100+00:00",
@@ -47,10 +39,6 @@
     "ts": "2026-08-12T13:20:17.684140+00:00",
     "type": "highlight"
   },
-  "https://www.marineinsight.com/ukraine-halts-attacks-on-oil-tankers-infrastructure-on-black-sea-coast-after-u-s-intervention/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-halts-attacks-on-oil-tankers-infrastructure-on-black-sea-coast-after-u-s-intervention": {
-    "ts": "2026-08-12T07:39:36.598662+00:00",
-    "type": "highlight"
-  },
   "https://safety4sea.com/ai-enters-shipping-contracts-but-bimco-says-human-expertise-still-matters/": {
     "ts": "2026-08-13T07:41:26.943490+00:00",
     "type": "other"
@@ -61,10 +49,6 @@
   },
   "https://maritime-executive.com/article/new-iranian-leader-sends-a-hardline-message-on-hormuz-deal": {
     "ts": "2026-08-12T13:20:17.684140+00:00",
-    "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/reed-smith-relocates-sanctions-partner-from-london-to-singapore/": {
-    "ts": "2026-08-12T07:39:36.598662+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-define-audiencia-publica-sobre-concessao-do-canal-de-acesso-ao-porto-de-santos": {
@@ -78,46 +62,6 @@
   "https://maritime-executive.com/article/in-manila-back-to-back-repatriations-show-toll-of-conflict-for-seafarers": {
     "ts": "2026-08-12T19:07:07.135100+00:00",
     "type": "highlight"
-  },
-  "https://www.oedigital.com/news/542015-aker-bp-and-equinor-plug-dry-svarteknippa-well": {
-    "ts": "2026-08-12T07:39:36.598662+00:00",
-    "type": "highlight"
-  },
-  "https://splash247.com/technipfmc-secures-subsea-contract-for-angola-oil-project/": {
-    "ts": "2026-08-12T07:39:36.598662+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/cadeler-acquires-offshore-wind-foundation-542016": {
-    "ts": "2026-08-12T07:39:36.598662+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/542011-nov-technology-used-for-drilling-waste-management-in-guyana": {
-    "ts": "2026-08-12T07:39:36.598662+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/ship-pays-4-million-to-cut-the-line-at-panama-canal/": {
-    "ts": "2026-08-12T07:39:36.598662+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/542006-romania-destroys-drones-drifting-near-offshore-gas-project": {
-    "ts": "2026-08-12T07:39:36.598662+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/lloyds-register-strengthens-offshore-energy-capabilities-with-senior-apac-appointment/": {
-    "ts": "2026-08-12T07:39:36.598662+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/north-sea-well-interventions-unlock-multi-million-barrel-boost-as-exploration-drilling-dries-up/": {
-    "ts": "2026-08-12T07:39:36.598662+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/bp-entrusts-emerson-with-automation-job-on-caspian-sea-gas-project/": {
-    "ts": "2026-08-12T07:39:36.598662+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/us-lawmakers-move-to-overturn-california-shipping-emissions-waivers/": {
-    "ts": "2026-08-12T07:39:36.598662+00:00",
-    "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/tecnologia/21748/porto-de-santos-tera-sistema-de-gerenciamento-de-trafego-maritimo-a-partir-de-2027/": {
     "ts": "2026-08-14T07:39:01.502983+00:00",
@@ -1024,7 +968,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/iran-claims-to-have-seized-uae-tanker-after-multiple-attacks-last-week": {
-    "ts": "2026-08-18T01:27:36.034132+00:00",
+    "ts": "2026-08-19T12:55:41.841471+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/542175-exxonmobil-awards-contracts-for-rovuma-lng-project": {
@@ -1104,7 +1048,7 @@
     "type": "other"
   },
   "https://safety4sea.com/mocha-port-suspends-operations-following-houthi-attack/": {
-    "ts": "2026-08-19T06:52:07.383194+00:00",
+    "ts": "2026-08-19T12:55:41.841471+00:00",
     "type": "highlight"
   },
   "https://splash247.com/seafarer-killed-in-latest-hormuz-strike/": {
@@ -1132,7 +1076,7 @@
     "type": "other"
   },
   "https://safety4sea.com/gms-recycling-market-prices-around-uncertainty/": {
-    "ts": "2026-08-18T12:54:56.211557+00:00",
+    "ts": "2026-08-19T12:55:41.841471+00:00",
     "type": "other"
   },
   "https://www.marineinsight.com/houthis-claim-ballistic-missile-attack-on-saudi-military-landing-ship-off-red-seaport-of-mocha/?utm_source=rss&utm_medium=rss&utm_campaign=houthis-claim-ballistic-missile-attack-on-saudi-military-landing-ship-off-red-seaport-of-mocha": {
@@ -1164,7 +1108,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/542200-deugro-delivers-110-kilometers-of-subsea-cables-for-saudi-installation-project": {
-    "ts": "2026-08-19T06:52:07.383194+00:00",
+    "ts": "2026-08-19T12:55:41.841471+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/empresas/transpetro-vai-transportar-bunker-via-barcacas-no-rj-este-ano": {
@@ -1228,15 +1172,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/transpetro-vai-iniciar-operacao-de-transporte-de-bunker-por-barcacas-no-rio/": {
-    "ts": "2026-08-19T06:52:07.383194+00:00",
+    "ts": "2026-08-19T12:55:41.841471+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/transporte-maritimo/21777/camorim-investe-r-180-milhoes-em-nova-serie-de-rebocadores-azimutais/": {
-    "ts": "2026-08-19T06:52:07.383194+00:00",
+    "ts": "2026-08-19T12:55:41.841471+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/the-global-diesel-crunch-russias-refinery-crisis-meets-middle-east-turmoil/": {
-    "ts": "2026-08-19T06:52:07.383194+00:00",
+    "ts": "2026-08-19T12:55:41.841471+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/firjan-aproveita-o-inicio-da-navalshore-para-atualizar-o-panorama-naval-do-rio-de-janeiro-repleto-de-oportunidades/": {
@@ -1296,11 +1240,11 @@
     "type": "highlight"
   },
   "https://www.marinelink.com/news/hormuz-traffic-slows-uncertainty-persists-542220": {
-    "ts": "2026-08-19T06:52:07.383194+00:00",
+    "ts": "2026-08-19T12:55:41.841471+00:00",
     "type": "highlight"
   },
   "https://splash247.com/sinokors-6bn-tanker-bet-pays-off-spectacularly/": {
-    "ts": "2026-08-19T06:52:07.383194+00:00",
+    "ts": "2026-08-19T12:55:41.841471+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/internacional/slb-fecha-contrato-para-retomar-producao-de-pocos-em-brunei": {
@@ -1333,6 +1277,50 @@
   },
   "https://www.offshore-energy.biz/stena-drillings-14-year-old-drillship-caps-three-well-campaign-offshore-egypt-ahead-of-plan/": {
     "ts": "2026-08-19T06:52:07.383194+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/um-jornalista-americano-escreve-um-livro-contando-toda-a-conspiracao-que-resultou-na-explosao-dos-gasodutos-nord-stream-no-mar-baltico/": {
+    "ts": "2026-08-19T12:55:41.841471+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/seafarer-dies-after-attack-on-greek-owned-bulk-carrier-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=seafarer-dies-after-attack-on-greek-owned-bulk-carrier-in-strait-of-hormuz": {
+    "ts": "2026-08-19T12:55:41.841471+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/glomar-offshore-unveils-new-osv-concept": {
+    "ts": "2026-08-19T12:55:41.841471+00:00",
+    "type": "highlight"
+  },
+  "https://www.offshore-energy.biz/worlds-most-powerful-subsea-trencher-nears-first-testing/": {
+    "ts": "2026-08-19T12:55:41.841471+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/lloyds-register-assists-with-lng-carrier-to-fsu-conversion-for-african-gas-project/": {
+    "ts": "2026-08-19T12:55:41.841471+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/unmanned-cargo-ship-declared-total-loss-after-attack-in-southern-red-sea-off-yemen/?utm_source=rss&utm_medium=rss&utm_campaign=unmanned-cargo-ship-declared-total-loss-after-attack-in-southern-red-sea-off-yemen": {
+    "ts": "2026-08-19T12:55:41.841471+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/chief-engineer-killed-as-bulker-is-attacked-exiting-strait-of-hormuz": {
+    "ts": "2026-08-19T12:55:41.841471+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/cargo-ship-destroyed-in-new-attack-off-yemen/": {
+    "ts": "2026-08-19T12:55:41.841471+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/lack-of-clear-reopening-signals-curbs-strait-of-hormuz-shipping": {
+    "ts": "2026-08-19T12:55:41.841471+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/alam-maritim-head-resumes-duties-after-release-from-custody/": {
+    "ts": "2026-08-19T12:55:41.841471+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542202-geir-h-y-appointed-to-macartney-board-of-directors": {
+    "ts": "2026-08-19T12:55:41.841471+00:00",
     "type": "other"
   }
 }
