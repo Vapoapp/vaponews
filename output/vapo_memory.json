@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-08-12",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com recuperação prevista em até 50 dias. A restrição alonga rotas para importadores asiáticos, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte marítimo de petróleo bruto. A volatilidade financeira aumenta, dificultando contratos de longo prazo por risco crescente de apreensão de navios e suspensão de apólices. No Mar Vermelho, ataques Houthi intensificam riscos à navegação, forçando petroleiros"
-  },
-  {
     "date": "2026-08-13",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -326,5 +315,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem perspectiva de normalização. A escalada de ataques e apreensões de navios por autoridades iranianas força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. A volatilidade reduz a atratividade de contratos de longo prazo, impactando planejamento e custo de fornecimento. No Mar Vermelho, a suspensão do porto de Mocha após ataq"
+  },
+  {
+    "date": "2026-08-20",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade no Estreito de Ormuz segue abaixo de 10%, sem previsão de normalização, devido à escalada de ataques e apreensões de navios por autoridades iranianas. Importadores asiáticos ampliam rotas alternativas, pressionando tarifas de afretamento para VLCCs e elevando custos no transporte de petróleo bruto. A volatilidade crescente reduz a atratividade de contratos de longo prazo, impactando planejamento e custo de fornecimento. No Mar Vermelho, a suspensão do porto de Mocha após ataques com"
   }
 ]
