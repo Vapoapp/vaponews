@@ -23,10 +23,6 @@
     "ts": "2026-08-14T02:21:17.500518+00:00",
     "type": "other"
   },
-  "https://brasilenergia.com.br/petroleoegas/recursos-humanos/fundacao-cesgranrio-abre-inscricoes-para-concurso-da-transpetro": {
-    "ts": "2026-08-13T19:07:59.096951+00:00",
-    "type": "highlight"
-  },
   "https://www.nytimes.com/2026/08/12/business/iran-war-hormuz-oil.html": {
     "ts": "2026-08-14T07:39:01.502983+00:00",
     "type": "highlight"
@@ -67,10 +63,6 @@
     "ts": "2026-08-14T13:16:48.343159+00:00",
     "type": "highlight"
   },
-  "https://maritime-executive.com/article/ukraine-confirms-hits-on-four-russian-warships-at-novorossiysk": {
-    "ts": "2026-08-13T19:07:59.096951+00:00",
-    "type": "highlight"
-  },
   "https://safety4sea.com/mma-improper-use-of-hand-tools-and-unplanned-deviations/": {
     "ts": "2026-08-14T19:00:26.026404+00:00",
     "type": "other"
@@ -87,10 +79,6 @@
     "ts": "2026-08-14T13:16:48.343159+00:00",
     "type": "highlight"
   },
-  "https://petronoticias.com.br/o-13o-forum-do-biogas-bateu-recorde-de-publico-e-mostrou-a-importancia-que-o-segmento-assumiu-nos-ultimos-anos/": {
-    "ts": "2026-08-13T19:07:59.096951+00:00",
-    "type": "other"
-  },
   "https://www.tecnologistica.com.br/noticias/legislacao/21759/abol-defende-multimodalidade-e-politica-nacional-para-formacao-de-profissionais-na-logistica/": {
     "ts": "2026-08-15T01:30:36.330315+00:00",
     "type": "other"
@@ -99,36 +87,12 @@
     "ts": "2026-08-15T06:46:02.169310+00:00",
     "type": "other"
   },
-  "https://www.marineinsight.com/ukraine-halts-drone-strikes-on-oil-tankers-using-russias-black-sea-port-after-us-request/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-halts-drone-strikes-on-oil-tankers-using-russias-black-sea-port-after-us-request": {
-    "ts": "2026-08-13T19:07:59.096951+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/mol-puts-bow-on-six-vessel-newbuilding-program-with-final-lng-carrier-delivery/": {
-    "ts": "2026-08-13T19:07:59.096951+00:00",
-    "type": "other"
-  },
   "https://www.oedigital.com/news/542090-emerson-to-deliver-automation-solutions-to-shah-deniz-compression-project": {
     "ts": "2026-08-15T06:46:02.169310+00:00",
     "type": "other"
   },
   "https://gcaptain.com/hormuz-shipping-traffic-shows-no-sign-of-recovery/": {
     "ts": "2026-08-15T12:46:25.960590+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/genco-shipping-and-trading-takes-delivery-of-capesize-bulker": {
-    "ts": "2026-08-13T19:07:59.096951+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/ballast-water-tech-erma-firsts-portfolio-542079": {
-    "ts": "2026-08-13T19:07:59.096951+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/royal-navy-steps-up-monitoring-as-russian-naval-activity-around-uk-waters-rises-25/?utm_source=rss&utm_medium=rss&utm_campaign=royal-navy-steps-up-monitoring-as-russian-naval-activity-around-uk-waters-rises-25": {
-    "ts": "2026-08-13T19:07:59.096951+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/542080-autonomy-offshore-uncrewed-systems-move-from-trials-to-critical-operations": {
-    "ts": "2026-08-13T19:07:59.096951+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/542109-tupi-sets-petrobras-production-record": {
@@ -1124,7 +1088,7 @@
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/transportes-infraestrutura-saip-sul-mirim-concessao-consulta-publica": {
-    "ts": "2026-08-20T18:47:04.657093+00:00",
+    "ts": "2026-08-21T01:39:03.982757+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/abpip-e-anp-realizarao-workshop-para-debater-regras-de-incentivo-ao-biometano/": {
@@ -1136,7 +1100,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/iran-claims-to-turn-back-chinese-tanker-and-continues-to-detain-uae-vessel": {
-    "ts": "2026-08-20T01:34:36.346785+00:00",
+    "ts": "2026-08-21T01:39:03.982757+00:00",
     "type": "other"
   },
   "https://gcaptain.com/three-chinese-tankers-u-turn-in-hormuz-as-risks-remain-high/": {
@@ -1200,11 +1164,11 @@
     "type": "highlight"
   },
   "https://safety4sea.com/vessel-abandoned-after-flooding-in-western-pacific/": {
-    "ts": "2026-08-20T18:47:04.657093+00:00",
+    "ts": "2026-08-21T01:39:03.982757+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/bodies-of-4-seafarers-killed-in-houthi-missile-attack-in-red-sea-taken-from-yemen-to-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=bodies-of-4-seafarers-killed-in-houthi-missile-attack-in-red-sea-taken-from-yemen-to-saudi-arabia": {
-    "ts": "2026-08-20T18:47:04.657093+00:00",
+    "ts": "2026-08-21T01:39:03.982757+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/eventos/navalshore-2026-debate-retomada-da-construcao-naval-e-descomissionamento": {
@@ -1260,7 +1224,7 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/tcu-derruba-liminar-condominio-logistico-saboo-porto-santos": {
-    "ts": "2026-08-20T18:47:04.657093+00:00",
+    "ts": "2026-08-21T01:39:03.982757+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/542291-lr-subsea-pipeline-design-choices-determine-integrity": {
@@ -1305,6 +1269,70 @@
   },
   "https://splash247.com/oil-india-adds-more-time-to-dolphin-drilling-rig-deal/": {
     "ts": "2026-08-20T18:47:04.657093+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/fpso-alexandre-de-gusmao-atinge-pico-de-producao-de-180-mil-barris-por-dia-em-mero/": {
+    "ts": "2026-08-21T01:39:03.982757+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/542320-everllence-s-175d-engines-to-power-four-offshore-tugs-destined-for-guyana": {
+    "ts": "2026-08-21T01:39:03.982757+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/global-grain-shipments-fall-8-as-attacks-in-the-black-sea-escalate/": {
+    "ts": "2026-08-21T01:39:03.982757+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/wilson-sons-batiza-terceiro-rebocador-de-alta-potencia-de-nova-serie/": {
+    "ts": "2026-08-21T01:39:03.982757+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542324-alexandre-de-gusm-o-fpso-reaches-peak-production": {
+    "ts": "2026-08-21T01:39:03.982757+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/porto-do-acu-e-petrobras-firmam-contrato-para-exportacao-de-coque-de-petroleo/": {
+    "ts": "2026-08-21T01:39:03.982757+00:00",
+    "type": "other"
+  },
+  "https://brasilenergia.com.br/petroleoegas/empresas/porto-do-acu-e-petrobras-assinam-contrato-para-exportacao-de-coque": {
+    "ts": "2026-08-21T01:39:03.982757+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/antaq/pt-br/noticias/2026/inscricoes-para-participacao-virtual-no-xxxiii-cooperaportos-estao-abertas": {
+    "ts": "2026-08-21T01:39:03.982757+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/tecnologia-da-bioren-para-ocombate-a-bioincrustracoes-em-cascos-de-navios-e-destaque-na-navalshore/": {
+    "ts": "2026-08-21T01:39:03.982757+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542313-fifth-fpso-for-exxon-arrives-in-guyana": {
+    "ts": "2026-08-21T01:39:03.982757+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/white-house-s-hormuz-traffic-claims-diverge-from-independent-counts": {
+    "ts": "2026-08-21T01:39:03.982757+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/navios-maritime-partners-l-p-reports-financial-results-for-the-second-quarter-and-six-months-ended-june-30-2026/": {
+    "ts": "2026-08-21T01:39:03.982757+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/transoceans-16-year-old-drillship-lands-300m-job-with-indias-ongc/": {
+    "ts": "2026-08-21T01:39:03.982757+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/south-korea-to-test-arctic-shipping-route-to-europe-sparking-western-concerns-over-russian-cooperation/?utm_source=rss&utm_medium=rss&utm_campaign=south-korea-to-test-arctic-shipping-route-to-europe-sparking-western-concerns-over-russian-cooperation": {
+    "ts": "2026-08-21T01:39:03.982757+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/uk-chamber-of-shipping-key-safety-considerations-for-five-green-paths-to-net-zero/": {
+    "ts": "2026-08-21T01:39:03.982757+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/sanctioned-shadow-fleet-tanker-hijacked-in-gulf-of-aden-and-diverted-toward-somalia/": {
+    "ts": "2026-08-21T01:39:03.982757+00:00",
     "type": "other"
   }
 }
