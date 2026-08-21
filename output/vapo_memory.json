@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-08-13",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem sinais de recuperação rápida, estendendo rotas para importadores asiáticos. Essa limitação pressiona tarifas de afretamento para VLCCs e eleva custos no transporte marítimo de petróleo bruto, impactando diretamente a cadeia logística global de energia. A volatilidade financeira regional, combinada com o risco crescente de apreensão de navios e suspensão de apólices, dificulta a negociação de contratos de longo prazo. Para"
-  },
-  {
     "date": "2026-08-14",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -326,5 +315,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem perspectiva de normalização, devido à escalada de ataques e apreensões de navios iranianos. Importadores asiáticos ampliam rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. Essa volatilidade reduz a atratividade de contratos de longo prazo, complicando o planejamento financeiro das cadeias de suprimento. No offshore, a produção no campo de Mero atinge pico"
+  },
+  {
+    "date": "2026-08-21",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A operação no Estreito de Ormuz permanece abaixo de 10%, sem previsão de normalização, devido à escalada de ataques e apreensões. Importadores asiáticos alongam rotas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte de petróleo bruto. A volatilidade reduz a atratividade de contratos de longo prazo, dificultando o planejamento financeiro e operacional das cadeias de suprimento. No offshore brasileiro, o FPSO Alexandre de Gusmão atingiu pico de produção de 180 mil ba"
   }
 ]
