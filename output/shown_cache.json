@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-08-21T12:56:55.030983+00:00",
+    "ts": "2026-08-22T06:48:03.659665+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
@@ -9,26 +9,6 @@
   },
   "https://www.bairdmaritime.com/offshore/vessel-reviews": {
     "ts": "2026-08-15T18:36:06.337640+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/imo-piracy-report-15-incidents-during-june-2026/": {
-    "ts": "2026-08-15T06:46:02.169310+00:00",
-    "type": "highlight"
-  },
-  "https://safety4sea.com/new-resources-target-safety-and-competency-needs-for-ammonia-fuelled-vessels/": {
-    "ts": "2026-08-15T01:30:36.330315+00:00",
-    "type": "other"
-  },
-  "https://www.tecnologistica.com.br/noticias/legislacao/21759/abol-defende-multimodalidade-e-politica-nacional-para-formacao-de-profissionais-na-logistica/": {
-    "ts": "2026-08-15T01:30:36.330315+00:00",
-    "type": "other"
-  },
-  "https://www.tecnologistica.com.br/noticias/geral/21758/novo-pnl-orienta-investimentos-que-vao-definir-a-logistica-brasileira-pelos-proximos-24-anos/": {
-    "ts": "2026-08-15T06:46:02.169310+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/542090-emerson-to-deliver-automation-solutions-to-shah-deniz-compression-project": {
-    "ts": "2026-08-15T06:46:02.169310+00:00",
     "type": "other"
   },
   "https://gcaptain.com/hormuz-shipping-traffic-shows-no-sign-of-recovery/": {
@@ -43,17 +23,9 @@
     "ts": "2026-08-15T18:36:06.337640+00:00",
     "type": "highlight"
   },
-  "https://www.tecnologistica.com.br/noticias/transporte-rodoviario/21760/antt-divulga-pesquisa-para-atualizar-tabela-de-piso-minimo-do-frete/": {
-    "ts": "2026-08-15T06:46:02.169310+00:00",
-    "type": "other"
-  },
   "https://maritime-executive.com/article/india-s-big-boost-for-maritime-oil-gas-exploration": {
     "ts": "2026-08-17T07:04:17.528014+00:00",
     "type": "highlight"
-  },
-  "https://maritime-executive.com/article/egypt-disavows-association-with-cargo-ship-attacked-by-houthis": {
-    "ts": "2026-08-15T06:46:02.169310+00:00",
-    "type": "other"
   },
   "https://www.oedigital.com/news/542114-tgs-and-gti-collaborate-on-seismic-acquisition": {
     "ts": "2026-08-16T01:39:59.421081+00:00",
@@ -135,32 +107,16 @@
     "ts": "2026-08-16T18:34:54.554584+00:00",
     "type": "highlight"
   },
-  "https://www.guiamaritimo.com.br/noticias/terminais/cade-maersk-msc-btp-leilao-tecon-santos-10": {
-    "ts": "2026-08-15T01:30:36.330315+00:00",
-    "type": "other"
-  },
   "https://petronoticias.com.br/petrobras-confirma-presenca-de-hidrocarbonetos-na-bacia-da-foz-do-amazonas/": {
     "ts": "2026-08-16T01:39:59.421081+00:00",
-    "type": "other"
-  },
-  "https://brasilenergia.com.br/petroleoegas/ep/producao-da-ate-aumenta-35-em-julho": {
-    "ts": "2026-08-15T01:30:36.330315+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/283983-2/": {
     "ts": "2026-08-16T06:47:35.477014+00:00",
     "type": "other"
   },
-  "https://www.guiamaritimo.com.br/noticias/cabotagem/norsul-reducao-emissoes-co2-eficiencia-energetica-cabotagem": {
-    "ts": "2026-08-15T01:30:36.330315+00:00",
-    "type": "other"
-  },
   "https://www.hellenicshippingnews.com/vhbs-new-contex-container-ship-time-charter-assessment-index-week-33-2/": {
     "ts": "2026-08-16T01:39:59.421081+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/solstad-lands-long-term-csv-contract-in-west-africa/": {
-    "ts": "2026-08-15T01:30:36.330315+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/542125-dof-group-announces-subsea-contracts-in-the-apac-region": {
@@ -171,21 +127,9 @@
     "ts": "2026-08-16T01:39:59.421081+00:00",
     "type": "other"
   },
-  "https://g1.globo.com/mundo/noticia/2026/08/14/trump-diz-que-vai-declarar-estreito-de-ormuz-como-territorio-dos-eua.ghtml": {
-    "ts": "2026-08-15T06:46:02.169310+00:00",
-    "type": "highlight"
-  },
   "https://www.marineinsight.com/iran-says-strait-of-hormuz-under-its-control-and-management-rejects-trumps-total-control-claim/?utm_source=rss&utm_medium=rss&utm_campaign=iran-says-strait-of-hormuz-under-its-control-and-management-rejects-trumps-total-control-claim": {
     "ts": "2026-08-16T12:48:33.294979+00:00",
     "type": "highlight"
-  },
-  "https://brasilenergia.com.br/petroleoegas/empresas/p-33-chega-ao-estaleiro-rio-grande-para-ser-desmantelada": {
-    "ts": "2026-08-15T06:46:02.169310+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/ethanol-emerges-as-a-marine-fuel-with-big-name-backing/": {
-    "ts": "2026-08-15T06:46:02.169310+00:00",
-    "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/sea1-offshore-reports-increased-revenue-in-second-quarter": {
     "ts": "2026-08-16T06:47:35.477014+00:00",
@@ -992,7 +936,7 @@
     "type": "highlight"
   },
   "https://safety4sea.com/vessel-abandoned-after-flooding-in-western-pacific/": {
-    "ts": "2026-08-22T01:27:48.617234+00:00",
+    "ts": "2026-08-22T06:48:03.659665+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/bodies-of-4-seafarers-killed-in-houthi-missile-attack-in-red-sea-taken-from-yemen-to-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=bodies-of-4-seafarers-killed-in-houthi-missile-attack-in-red-sea-taken-from-yemen-to-saudi-arabia": {
@@ -1036,7 +980,7 @@
     "type": "other"
   },
   "https://safety4sea.com/core-power-and-port-of-corpus-christi-launch-nuclear-maritime-readiness-study/": {
-    "ts": "2026-08-20T12:57:45.728803+00:00",
+    "ts": "2026-08-22T06:48:03.659665+00:00",
     "type": "other"
   },
   "https://splash247.com/navios-partners-takes-vlcc-newbuild-spend-past-840m-with-fresh-trio/": {
@@ -1092,7 +1036,7 @@
     "type": "other"
   },
   "https://www.offshore-energy.biz/deepocean-deploys-robotics-for-diverless-subsea-tie-in-at-north-sea-oil-gas-development/": {
-    "ts": "2026-08-20T18:47:04.657093+00:00",
+    "ts": "2026-08-22T06:48:03.659665+00:00",
     "type": "other"
   },
   "https://splash247.com/oil-india-adds-more-time-to-dolphin-drilling-rig-deal/": {
@@ -1104,7 +1048,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/542320-everllence-s-175d-engines-to-power-four-offshore-tugs-destined-for-guyana": {
-    "ts": "2026-08-22T01:27:48.617234+00:00",
+    "ts": "2026-08-22T06:48:03.659665+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/global-grain-shipments-fall-8-as-attacks-in-the-black-sea-escalate/": {
@@ -1116,7 +1060,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/542324-alexandre-de-gusm-o-fpso-reaches-peak-production": {
-    "ts": "2026-08-21T01:39:03.982757+00:00",
+    "ts": "2026-08-22T06:48:03.659665+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/porto-do-acu-e-petrobras-firmam-contrato-para-exportacao-de-coque-de-petroleo/": {
@@ -1128,7 +1072,7 @@
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/inscricoes-para-participacao-virtual-no-xxxiii-cooperaportos-estao-abertas": {
-    "ts": "2026-08-21T01:39:03.982757+00:00",
+    "ts": "2026-08-22T06:48:03.659665+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/tecnologia-da-bioren-para-ocombate-a-bioincrustracoes-em-cascos-de-navios-e-destaque-na-navalshore/": {
@@ -1172,7 +1116,7 @@
     "type": "highlight"
   },
   "https://splash247.com/sanctioned-tanker-hijacked-in-gulf-of-aden/": {
-    "ts": "2026-08-22T01:27:48.617234+00:00",
+    "ts": "2026-08-22T06:48:03.659665+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/ep/fpso-alexandre-de-gusmao-atinge-topo-de-producao-no-pre-sal": {
@@ -1212,15 +1156,15 @@
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/pauta-da-617a-reuniao-ordinaria-da-diretoria-colegiada-esta-disponivel": {
-    "ts": "2026-08-22T01:27:48.617234+00:00",
+    "ts": "2026-08-22T06:48:03.659665+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/petrobras-targets-west-africa-offshore-frontier-with-four-block-talks-in-ghana/": {
-    "ts": "2026-08-22T01:27:48.617234+00:00",
+    "ts": "2026-08-22T06:48:03.659665+00:00",
     "type": "highlight"
   },
   "https://www.nytimes.com/2026/08/21/business/iran-war-hormuz-oil-spill.html": {
-    "ts": "2026-08-22T01:27:48.617234+00:00",
+    "ts": "2026-08-22T06:48:03.659665+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/flex-lng-reports-higher-q2-earnings-on-increased-charter-revenues": {
@@ -1260,15 +1204,15 @@
     "type": "other"
   },
   "https://brasilenergia.com.br/petroleoegas/empresas/petrobras-e-marinha-do-brasil-assinam-protocolo-de-intencoes": {
-    "ts": "2026-08-22T01:27:48.617234+00:00",
+    "ts": "2026-08-22T06:48:03.659665+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/542330-norway-approves-request-to-delay-offshore-wind-farm-license-application": {
-    "ts": "2026-08-22T01:27:48.617234+00:00",
+    "ts": "2026-08-22T06:48:03.659665+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/u-s-secretly-set-up-trade-corridor-in-strait-of-hormuz-moving-10-million-barrels-of-oil-daily/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-secretly-set-up-trade-corridor-in-strait-of-hormuz-moving-10-million-barrels-of-oil-daily": {
-    "ts": "2026-08-22T01:27:48.617234+00:00",
+    "ts": "2026-08-22T06:48:03.659665+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/a-petrobras-e-a-marinha-ampliam-cooperacao-na-logistica-offshore-prevendo-todos-cuidados-na-margem-equatorial/": {
@@ -1300,15 +1244,15 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/petrobras-sets-sights-on-west-africa-with-new-ghana-offshore-bid": {
-    "ts": "2026-08-22T01:27:48.617234+00:00",
+    "ts": "2026-08-22T06:48:03.659665+00:00",
     "type": "highlight"
   },
   "https://www.marinelog.com/news/marad-and-port-of-corpus-christi-ink-agreement-on-developing-smr-tech-for-maritime/": {
-    "ts": "2026-08-22T01:27:48.617234+00:00",
+    "ts": "2026-08-22T06:48:03.659665+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/vhbs-new-contex-container-ship-time-charter-assessment-index-week-34-3/": {
-    "ts": "2026-08-22T01:27:48.617234+00:00",
+    "ts": "2026-08-22T06:48:03.659665+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/gibson-tanker-report-crossed-wakes/": {
@@ -1341,6 +1285,22 @@
   },
   "https://gcaptain.com/us-sanctions-fishing-fleet-accused-of-shipping-cocaine-to-mexico/": {
     "ts": "2026-08-22T01:27:48.617234+00:00",
+    "type": "other"
+  },
+  "https://noticias.r7.com/brasilia/lula-defende-frete-minimo-e-pontos-de-descanso-para-caminhoneiros-21082026/": {
+    "ts": "2026-08-22T06:48:03.659665+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/affinity-tanker-weekly-21-august-2026/": {
+    "ts": "2026-08-22T06:48:03.659665+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/dutch-designers-promote-electric-powered-vessel-for-short-sea-shipping": {
+    "ts": "2026-08-22T06:48:03.659665+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/legal-battle-for-germany-sell-oil-from-detained-shadow-tanker-drags-on": {
+    "ts": "2026-08-22T06:48:03.659665+00:00",
     "type": "other"
   }
 }

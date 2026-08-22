@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-08-14",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A operação no Estreito de Ormuz segue abaixo de 10%, sem perspectiva de recuperação rápida, forçando importadores asiáticos a alongar rotas e elevando tarifas de afretamento para VLCCs. O aumento dos custos logísticos no transporte de petróleo bruto e o risco crescente de apreensão de navios reduzem a atratividade de contratos de longo prazo na região, ampliando volatilidade no mercado de afretamento. No Mar Vermelho, ataques Houthi intensificam riscos de segurança para operações offshore e nave"
-  },
-  {
     "date": "2026-08-15",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -326,5 +315,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, sem perspectiva de normalização. A escalada de ataques e apreensões eleva tarifas de afretamento para VLCCs, pressionando custos no transporte de petróleo bruto e reduzindo a atratividade de contratos de longo prazo. A volatilidade dificulta o planejamento financeiro e operacional das cadeias globais de suprimento. No offshore, Petrobras avança em negociações para explorar quatro blocos em Gana, ampliando sua presença na África O"
+  },
+  {
+    "date": "2026-08-22",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem previsão de normalização, devido à escalada de ataques e apreensões. Isso força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. A volatilidade reduz a atratividade de contratos de longo prazo, dificultando o planejamento financeiro e operacional das cadeias globais de suprimento. No offshore brasileiro, o FPSO Alexandre de"
   }
 ]
