@@ -3,17 +3,6 @@
     "date": "2026-08-15",
     "drivers": [
       "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem perspectiva de recuperação rápida. Essa restrição alonga rotas para importadores asiáticos e eleva tarifas de afretamento para VLCCs, aumentando custos logísticos no transporte de petróleo bruto. O risco crescente de ataques e apreensão de navios dificulta a negociação de contratos de longo prazo, gerando volatilidade no mercado de afretamento. No Mar Vermelho, ataques Houthi ampliam riscos de segurança para operações off"
-  },
-  {
-    "date": "2026-08-15",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -326,5 +315,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem previsão de normalização, devido à escalada de ataques e apreensões. Isso força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. A volatilidade reduz a atratividade de contratos de longo prazo, dificultando o planejamento financeiro e operacional das cadeias globais de suprimento. No offshore brasileiro, o FPSO Alexandre de"
+  },
+  {
+    "date": "2026-08-22",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional na principal rota do petróleo permanece abaixo de 10%, sem perspectiva de normalização devido à escalada de ataques e apreensões. Importadores asiáticos alongam rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos, o que reduz a atratividade de contratos de longo prazo e dificulta o planejamento financeiro das cadeias globais de suprimento. No offshore brasileiro, Petrobras avança em negociações para explorar quatro blocos na costa de Gana,"
   }
 ]
