@@ -1,22 +1,10 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-08-22T12:48:22.827357+00:00",
+    "ts": "2026-08-22T18:36:52.088829+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
     "ts": "2026-08-21T06:55:01.047971+00:00",
-    "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/offshore/vessel-reviews": {
-    "ts": "2026-08-15T18:36:06.337640+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/542109-tupi-sets-petrobras-production-record": {
-    "ts": "2026-08-15T18:36:06.337640+00:00",
-    "type": "highlight"
-  },
-  "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-reforca-acoes-preventivas-diante-dos-impactos-da-estiagem-na-regiao-amazonica": {
-    "ts": "2026-08-15T18:36:06.337640+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/india-s-big-boost-for-maritime-oil-gas-exploration": {
@@ -37,22 +25,6 @@
   },
   "https://www.offshore-energy.biz/73-years-in-the-making-petrobras-oil-field-exceeds-4-billion-barrels-as-brazils-pre-salt-turns-20/": {
     "ts": "2026-08-16T06:47:35.477014+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/seven-die-in-toxic-gas-leak-at-bangladesh-shipbreaking-yard/": {
-    "ts": "2026-08-15T18:36:06.337640+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/heavy-lift/vessel-review-wind-whale-modular-cargo-ship-to-transport-components-for-japanese-offshore-wind-farms": {
-    "ts": "2026-08-15T18:36:06.337640+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/offshore-vessel-news-roundup-august-14-irish-crewboat-delivery-uk-and-chinese-cable-layer-orders-and-more": {
-    "ts": "2026-08-15T18:36:06.337640+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/us-warns-iran-it-will-step-up-economic-pressure-two-more-ships-attacked-in-hormuz/": {
-    "ts": "2026-08-15T18:36:06.337640+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/542117-russian-crude-production-falls-lower-amidst-global-uncertainty-sanctions": {
@@ -1028,7 +1000,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/542320-everllence-s-175d-engines-to-power-four-offshore-tugs-destined-for-guyana": {
-    "ts": "2026-08-22T12:48:22.827357+00:00",
+    "ts": "2026-08-22T18:36:52.088829+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/global-grain-shipments-fall-8-as-attacks-in-the-black-sea-escalate/": {
@@ -1064,7 +1036,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/white-house-s-hormuz-traffic-claims-diverge-from-independent-counts": {
-    "ts": "2026-08-21T01:39:03.982757+00:00",
+    "ts": "2026-08-22T18:36:52.088829+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/navios-maritime-partners-l-p-reports-financial-results-for-the-second-quarter-and-six-months-ended-june-30-2026/": {
@@ -1088,7 +1060,7 @@
     "type": "other"
   },
   "https://www.marinelink.com/news/ships-trickle-strait-hormuz-542325": {
-    "ts": "2026-08-22T12:48:22.827357+00:00",
+    "ts": "2026-08-22T18:36:52.088829+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/romanian-forces-destroy-russian-drone-near-black-sea-gas-project": {
@@ -1104,7 +1076,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/542322-zenith-energy-to-lead-phase-2-of-northern-endeavour-decommissioning": {
-    "ts": "2026-08-21T06:55:01.047971+00:00",
+    "ts": "2026-08-22T18:36:52.088829+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/clean-tankers-under-pressure-amid-persistent-conflicts/": {
@@ -1136,11 +1108,11 @@
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/pauta-da-617a-reuniao-ordinaria-da-diretoria-colegiada-esta-disponivel": {
-    "ts": "2026-08-22T12:48:22.827357+00:00",
+    "ts": "2026-08-22T18:36:52.088829+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/petrobras-targets-west-africa-offshore-frontier-with-four-block-talks-in-ghana/": {
-    "ts": "2026-08-22T12:48:22.827357+00:00",
+    "ts": "2026-08-22T18:36:52.088829+00:00",
     "type": "highlight"
   },
   "https://www.nytimes.com/2026/08/21/business/iran-war-hormuz-oil-spill.html": {
@@ -1148,7 +1120,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/flex-lng-reports-higher-q2-earnings-on-increased-charter-revenues": {
-    "ts": "2026-08-21T12:56:55.030983+00:00",
+    "ts": "2026-08-22T18:36:52.088829+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/everllences-175d-engine-wins-offshore-tug-order-from-turkiye/": {
@@ -1160,7 +1132,7 @@
     "type": "other"
   },
   "https://www.offshore-energy.biz/technipfmcs-first-7-in-subsea-2-0-tree-goes-to-chevron-in-australia/": {
-    "ts": "2026-08-21T12:56:55.030983+00:00",
+    "ts": "2026-08-22T18:36:52.088829+00:00",
     "type": "other"
   },
   "https://splash247.com/splash-wrap-more-ships-fewer-reliable-routes/": {
@@ -1184,11 +1156,11 @@
     "type": "other"
   },
   "https://brasilenergia.com.br/petroleoegas/empresas/petrobras-e-marinha-do-brasil-assinam-protocolo-de-intencoes": {
-    "ts": "2026-08-22T12:48:22.827357+00:00",
+    "ts": "2026-08-22T18:36:52.088829+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/542330-norway-approves-request-to-delay-offshore-wind-farm-license-application": {
-    "ts": "2026-08-22T12:48:22.827357+00:00",
+    "ts": "2026-08-22T18:36:52.088829+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/u-s-secretly-set-up-trade-corridor-in-strait-of-hormuz-moving-10-million-barrels-of-oil-daily/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-secretly-set-up-trade-corridor-in-strait-of-hormuz-moving-10-million-barrels-of-oil-daily": {
@@ -1224,11 +1196,11 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/petrobras-sets-sights-on-west-africa-with-new-ghana-offshore-bid": {
-    "ts": "2026-08-22T12:48:22.827357+00:00",
+    "ts": "2026-08-22T18:36:52.088829+00:00",
     "type": "highlight"
   },
   "https://www.marinelog.com/news/marad-and-port-of-corpus-christi-ink-agreement-on-developing-smr-tech-for-maritime/": {
-    "ts": "2026-08-22T12:48:22.827357+00:00",
+    "ts": "2026-08-22T18:36:52.088829+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/vhbs-new-contex-container-ship-time-charter-assessment-index-week-34-3/": {
@@ -1272,11 +1244,11 @@
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/affinity-tanker-weekly-21-august-2026/": {
-    "ts": "2026-08-22T12:48:22.827357+00:00",
+    "ts": "2026-08-22T18:36:52.088829+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/dutch-designers-promote-electric-powered-vessel-for-short-sea-shipping": {
-    "ts": "2026-08-22T12:48:22.827357+00:00",
+    "ts": "2026-08-22T18:36:52.088829+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/legal-battle-for-germany-sell-oil-from-detained-shadow-tanker-drags-on": {
@@ -1284,7 +1256,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/a-14-mw-siemens-gamesa-turbine-at-taiwans-orsted-offshore-wind-farm-catches-fire/?utm_source=rss&utm_medium=rss&utm_campaign=a-14-mw-siemens-gamesa-turbine-at-taiwans-orsted-offshore-wind-farm-catches-fire": {
-    "ts": "2026-08-22T12:48:22.827357+00:00",
+    "ts": "2026-08-22T18:36:52.088829+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/heerema-af-gruppen-take-on-35000-ton-north-sea-platform-removal-and-recycling-project/": {
@@ -1313,6 +1285,26 @@
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
     "ts": "2026-08-22T12:48:22.827357+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/iran-grants-permission-for-a-number-of-iraqi-oil-tankers-to-pass-through-hormuz/": {
+    "ts": "2026-08-22T18:36:52.088829+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/chinas-deep-water-offshore-engineering-vessel-built-in-15-months-with-underwater-robots-delivered/?utm_source=rss&utm_medium=rss&utm_campaign=chinas-deep-water-offshore-engineering-vessel-built-in-15-months-with-underwater-robots-delivered": {
+    "ts": "2026-08-22T18:36:52.088829+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/xeneta-weekly-ocean-container-shipping-market-update-21-08-26/": {
+    "ts": "2026-08-22T18:36:52.088829+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/saudis-shuttle-oil-north-on-tankers-to-evade-houthis/": {
+    "ts": "2026-08-22T18:36:52.088829+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/russian-oil-discounts-vanish-in-india-as-urals-flips-to-premium-on-tight-supply": {
+    "ts": "2026-08-22T18:36:52.088829+00:00",
     "type": "other"
   }
 }
