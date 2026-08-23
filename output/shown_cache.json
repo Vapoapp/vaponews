@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-08-22T18:36:52.088829+00:00",
+    "ts": "2026-08-23T06:49:20.795786+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
@@ -11,24 +11,12 @@
     "ts": "2026-08-17T07:04:17.528014+00:00",
     "type": "highlight"
   },
-  "https://www.offshore-energy.biz/breakwater-rehabilitation-making-headway-for-portugals-1-mw-wave-energy-project/": {
-    "ts": "2026-08-16T06:47:35.477014+00:00",
-    "type": "highlight"
-  },
-  "https://www.offshore-energy.biz/73-years-in-the-making-petrobras-oil-field-exceeds-4-billion-barrels-as-brazils-pre-salt-turns-20/": {
-    "ts": "2026-08-16T06:47:35.477014+00:00",
-    "type": "other"
-  },
   "https://www.oedigital.com/news/542117-russian-crude-production-falls-lower-amidst-global-uncertainty-sanctions": {
     "ts": "2026-08-16T12:48:33.294979+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/iranian-attacks-push-hormuz-shipping-toward-tehran-controlled-route/": {
     "ts": "2026-08-16T12:48:33.294979+00:00",
-    "type": "highlight"
-  },
-  "https://petronoticias.com.br/petro-victory-anuncia-que-producao-de-petroleo-da-capixaba-energia-mais-que-dobrou-no-ultimo-ano/": {
-    "ts": "2026-08-16T06:47:35.477014+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/two-more-tankers-attacked-in-the-strait-of-hormuz": {
@@ -39,21 +27,9 @@
     "ts": "2026-08-16T18:34:54.554584+00:00",
     "type": "highlight"
   },
-  "https://petronoticias.com.br/283983-2/": {
-    "ts": "2026-08-16T06:47:35.477014+00:00",
-    "type": "other"
-  },
   "https://www.marineinsight.com/iran-says-strait-of-hormuz-under-its-control-and-management-rejects-trumps-total-control-claim/?utm_source=rss&utm_medium=rss&utm_campaign=iran-says-strait-of-hormuz-under-its-control-and-management-rejects-trumps-total-control-claim": {
     "ts": "2026-08-16T12:48:33.294979+00:00",
     "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/sea1-offshore-reports-increased-revenue-in-second-quarter": {
-    "ts": "2026-08-16T06:47:35.477014+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/gibson-tanker-report-running-low/": {
-    "ts": "2026-08-16T06:47:35.477014+00:00",
-    "type": "other"
   },
   "https://petronoticias.com.br/transpetro-abre-inscricoes-para-concurso-com-281-vagas-e-salarios-de-ate-r-15-mil/": {
     "ts": "2026-08-17T01:37:55.189530+00:00",
@@ -95,21 +71,9 @@
     "ts": "2026-08-17T12:53:00.250045+00:00",
     "type": "highlight"
   },
-  "https://g1.globo.com/mundo/noticia/2026/08/15/ataque-russo-com-misseis-provoca-incendios-em-kiev-e-deixa-um-ferido-dizem-autoridades.ghtml": {
-    "ts": "2026-08-16T06:47:35.477014+00:00",
-    "type": "highlight"
-  },
   "https://gcaptain.com/uae-says-iran-attacked-another-adnoc-vessel-in-hormuz/": {
     "ts": "2026-08-17T12:53:00.250045+00:00",
     "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/offshore/exploration-development/subsea-surveying/tgs-and-geophysical-technology-partner-on-global-seismic-projects": {
-    "ts": "2026-08-16T06:47:35.477014+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/ypf-eni-and-xrg-set-sights-on-51b-argentina-lng-export-venture": {
-    "ts": "2026-08-16T06:47:35.477014+00:00",
-    "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/ports/yemens-mocha-port-halts-operations-after-houthi-attacks-port-director-says": {
     "ts": "2026-08-17T07:04:17.528014+00:00",
@@ -1020,7 +984,7 @@
     "type": "highlight"
   },
   "https://splash247.com/sanctioned-tanker-hijacked-in-gulf-of-aden/": {
-    "ts": "2026-08-22T12:48:22.827357+00:00",
+    "ts": "2026-08-23T06:49:20.795786+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/ep/fpso-alexandre-de-gusmao-atinge-topo-de-producao-no-pre-sal": {
@@ -1060,11 +1024,11 @@
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/pauta-da-617a-reuniao-ordinaria-da-diretoria-colegiada-esta-disponivel": {
-    "ts": "2026-08-23T01:42:10.529349+00:00",
+    "ts": "2026-08-23T06:49:20.795786+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/petrobras-targets-west-africa-offshore-frontier-with-four-block-talks-in-ghana/": {
-    "ts": "2026-08-23T01:42:10.529349+00:00",
+    "ts": "2026-08-23T06:49:20.795786+00:00",
     "type": "highlight"
   },
   "https://www.nytimes.com/2026/08/21/business/iran-war-hormuz-oil-spill.html": {
@@ -1112,11 +1076,11 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/542330-norway-approves-request-to-delay-offshore-wind-farm-license-application": {
-    "ts": "2026-08-22T18:36:52.088829+00:00",
+    "ts": "2026-08-23T06:49:20.795786+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/u-s-secretly-set-up-trade-corridor-in-strait-of-hormuz-moving-10-million-barrels-of-oil-daily/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-secretly-set-up-trade-corridor-in-strait-of-hormuz-moving-10-million-barrels-of-oil-daily": {
-    "ts": "2026-08-23T01:42:10.529349+00:00",
+    "ts": "2026-08-23T06:49:20.795786+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/a-petrobras-e-a-marinha-ampliam-cooperacao-na-logistica-offshore-prevendo-todos-cuidados-na-margem-equatorial/": {
@@ -1136,7 +1100,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/542327-tennet-completes-drilling-installation-of-protective-conduits-for-wind-farms": {
-    "ts": "2026-08-21T18:42:35.555050+00:00",
+    "ts": "2026-08-23T06:49:20.795786+00:00",
     "type": "other"
   },
   "https://www.rigzone.com/news/court_upholds_trump_admin_order_to_restart_syu-21-aug-2026-184433-article/": {
@@ -1148,11 +1112,11 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/petrobras-sets-sights-on-west-africa-with-new-ghana-offshore-bid": {
-    "ts": "2026-08-23T01:42:10.529349+00:00",
+    "ts": "2026-08-23T06:49:20.795786+00:00",
     "type": "highlight"
   },
   "https://www.marinelog.com/news/marad-and-port-of-corpus-christi-ink-agreement-on-developing-smr-tech-for-maritime/": {
-    "ts": "2026-08-23T01:42:10.529349+00:00",
+    "ts": "2026-08-23T06:49:20.795786+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/vhbs-new-contex-container-ship-time-charter-assessment-index-week-34-3/": {
@@ -1180,7 +1144,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/feature-brazils-lula-seizes-on-offshore-oil-find-to-bolster-re-election-hopes-despite-uncertain-future": {
-    "ts": "2026-08-22T01:27:48.617234+00:00",
+    "ts": "2026-08-23T06:49:20.795786+00:00",
     "type": "other"
   },
   "https://maritime-executive.com/editorials/op-ed-fmc-chairman-dibella-calls-for-rethinking-imo-s-net-zero-framework": {
@@ -1196,11 +1160,11 @@
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/affinity-tanker-weekly-21-august-2026/": {
-    "ts": "2026-08-22T18:36:52.088829+00:00",
+    "ts": "2026-08-23T06:49:20.795786+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/dutch-designers-promote-electric-powered-vessel-for-short-sea-shipping": {
-    "ts": "2026-08-22T18:36:52.088829+00:00",
+    "ts": "2026-08-23T06:49:20.795786+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/legal-battle-for-germany-sell-oil-from-detained-shadow-tanker-drags-on": {
@@ -1208,15 +1172,15 @@
     "type": "other"
   },
   "https://www.marineinsight.com/a-14-mw-siemens-gamesa-turbine-at-taiwans-orsted-offshore-wind-farm-catches-fire/?utm_source=rss&utm_medium=rss&utm_campaign=a-14-mw-siemens-gamesa-turbine-at-taiwans-orsted-offshore-wind-farm-catches-fire": {
-    "ts": "2026-08-23T01:42:10.529349+00:00",
+    "ts": "2026-08-23T06:49:20.795786+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/heerema-af-gruppen-take-on-35000-ton-north-sea-platform-removal-and-recycling-project/": {
-    "ts": "2026-08-23T01:42:10.529349+00:00",
+    "ts": "2026-08-23T06:49:20.795786+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/ports-delays-and-congestion-absorb-5-of-industry-s-teu-capacity": {
-    "ts": "2026-08-22T12:48:22.827357+00:00",
+    "ts": "2026-08-23T06:49:20.795786+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/iran-threatens-devastating-response-as-new-us-sanctions-raise-risks-for-hormuz-shipping/?utm_source=rss&utm_medium=rss&utm_campaign=iran-threatens-devastating-response-as-new-us-sanctions-raise-risks-for-hormuz-shipping": {
@@ -1240,7 +1204,7 @@
     "type": "other"
   },
   "https://gcaptain.com/iran-grants-permission-for-a-number-of-iraqi-oil-tankers-to-pass-through-hormuz/": {
-    "ts": "2026-08-23T01:42:10.529349+00:00",
+    "ts": "2026-08-23T06:49:20.795786+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/chinas-deep-water-offshore-engineering-vessel-built-in-15-months-with-underwater-robots-delivered/?utm_source=rss&utm_medium=rss&utm_campaign=chinas-deep-water-offshore-engineering-vessel-built-in-15-months-with-underwater-robots-delivered": {
@@ -1248,7 +1212,7 @@
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/xeneta-weekly-ocean-container-shipping-market-update-21-08-26/": {
-    "ts": "2026-08-22T18:36:52.088829+00:00",
+    "ts": "2026-08-23T06:49:20.795786+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/saudis-shuttle-oil-north-on-tankers-to-evade-houthis/": {
@@ -1260,11 +1224,19 @@
     "type": "other"
   },
   "https://petronoticias.com.br/associacao-de-fornecedores-de-navios-tem-nova-diretoria-que-promete-destravar-gargalos-e-melhorar-atendimento/": {
-    "ts": "2026-08-23T01:42:10.529349+00:00",
+    "ts": "2026-08-23T06:49:20.795786+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/trump-administration-claims-massive-oil-flows-through-hormuz-but-industry-data-raises-questions/": {
-    "ts": "2026-08-23T01:42:10.529349+00:00",
+    "ts": "2026-08-23T06:49:20.795786+00:00",
     "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-dry-bulk-index-sees-late-week-lift-but-weekly-losses-hold": {
+    "ts": "2026-08-23T06:49:20.795786+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/chinas-fuel-exports-bounce-back-in-july-driven-by-big-southeast-asia-push": {
+    "ts": "2026-08-23T06:49:20.795786+00:00",
+    "type": "other"
   }
 }
