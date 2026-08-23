@@ -8,17 +8,6 @@
       "risco geopolítico",
       "petróleo e gás"
     ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, sem perspectiva de normalização. Esse gargalo alonga rotas para importadores asiáticos, eleva tarifas de afretamento para VLCCs e aumenta custos logísticos no transporte de petróleo bruto. O risco crescente de ataques e apreensão de navios reduz a atratividade de contratos de longo prazo, ampliando volatilidade no mercado de afretamento. No Mar Vermelho, ataques Houthi intensificam riscos de segurança para operações offshore e na"
-  },
-  {
-    "date": "2026-08-15",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem perspectiva de normalização. Isso força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte de petróleo bruto. O risco crescente de ataques e apreensão de navios reduz a atratividade de contratos de longo prazo, ampliando volatilidade no mercado de afretamento. No Mar Vermelho, ataques Houthi intensificam riscos de segurança para operações offshore e naveg"
   },
   {
@@ -326,5 +315,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem perspectiva de normalização, devido à escalada de ataques e apreensões. Isso força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. A volatilidade reduz a atratividade de contratos de longo prazo, complicando o planejamento financeiro e operacional das cadeias globais de suprimento. No offshore brasileiro, Petrobras avança"
+  },
+  {
+    "date": "2026-08-23",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, sem perspectiva de normalização diante da escalada de ataques e apreensões. Importadores asiáticos alongam rotas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte de petróleo bruto. Essa volatilidade reduz a atratividade de contratos de longo prazo, complicando o planejamento financeiro e operacional das cadeias globais de suprimento. No offshore brasileiro, Petrobras avança em negociações para explo"
   }
 ]
