@@ -2,15 +2,6 @@
   {
     "date": "2026-08-17",
     "drivers": [
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem previsão de normalização. Importadores asiáticos enfrentam rotas mais longas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte de petróleo bruto. A escalada de ataques a navios, incluindo petroleiros da ADNOC, amplia a volatilidade no mercado de afretamento e reduz a atratividade de contratos de longo prazo. No Mar Vermelho, a suspensão das operações no porto de Mocha devido a ataques do grup"
-  },
-  {
-    "date": "2026-08-17",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -326,5 +317,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com ataques e apreensões intensificando riscos para armadores. Importadores asiáticos alongam rotas para evitar a região, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte de petróleo bruto. Essa instabilidade reduz a atratividade de contratos de longo prazo, dificultando o planejamento financeiro e operacional das cadeias globais. No offshore, Petrobras avança em negociações para exploração de qu"
+  },
+  {
+    "date": "2026-08-24",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com ataques e apreensões intensificando riscos para armadores e importadores asiáticos. A necessidade de alongar rotas eleva tarifas de afretamento para VLCCs a níveis inéditos, com custos próximos a US$ 20 milhões por trânsito, pressionando margens e encarecendo o transporte de petróleo bruto. Essa volatilidade reduz a atratividade de contratos de longo prazo, dificultando o planejamento financeiro e operacional das cadeias glob"
   }
 ]
