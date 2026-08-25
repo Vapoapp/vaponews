@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-08-17",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, sem perspectiva de normalização. Importadores asiáticos enfrentam rotas mais longas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. O ambiente de risco elevado, com ataques recentes a petroleiros, amplia a volatilidade no mercado de afretamento e reduz a atratividade de contratos de longo prazo. No Mar Vermelho, a paralisação do porto de Mocha devido a ataques do grupo"
-  },
-  {
     "date": "2026-08-18",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -328,5 +317,16 @@
       "petróleo e gás"
     ],
     "summary": "A operação no Estreito de Ormuz segue abaixo de 10%, com ataques e apreensões mantendo a região altamente instável. Armadores enfrentam tarifas de afretamento para VLCCs próximas a US$ 20 milhões por trânsito, elevando custos logísticos e reduzindo a atratividade de contratos de longo prazo. A volatilidade dificulta o planejamento financeiro e operacional das cadeias globais de suprimento de petróleo. No offshore, a Petrobras avança em negociações para novos projetos de exploração, sinalizando c"
+  },
+  {
+    "date": "2026-08-25",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com ataques e apreensões elevando tarifas de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Essa elevação abrupta nos custos logísticos encarece o transporte de petróleo bruto e reduz a atratividade de contratos de longo prazo, dificultando o planejamento financeiro e operacional das cadeias globais de suprimento. No offshore, a Petrobras avança em negociações para novos projetos de exploração, sinalizando continu"
   }
 ]
