@@ -2,17 +2,6 @@
   {
     "date": "2026-08-18",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem perspectiva de normalização, forçando importadores asiáticos a alongar rotas e elevar tarifas de afretamento para VLCCs. A escalada de ataques a petroleiros, incluindo embarcações da ADNOC, intensifica a volatilidade no mercado de afretamento, reduzindo a atratividade de contratos de longo prazo e pressionando custos logísticos no transporte de petróleo bruto. No Mar Vermelho, a suspensão do porto de Mocha devido a ataque"
-  },
-  {
-    "date": "2026-08-18",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -328,5 +317,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com ataques e apreensões elevando tarifas de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Essa elevação abrupta nos custos logísticos encarece o transporte de petróleo bruto e reduz a atratividade de contratos de longo prazo, dificultando o planejamento financeiro e operacional das cadeias globais de suprimento. No offshore, a Petrobras avança em negociações para novos projetos de exploração, sinalizando continu"
+  },
+  {
+    "date": "2026-08-25",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A operação na rota do Estreito de Ormuz permanece abaixo de 10%, com ataques e apreensões elevando tarifas de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Essa escalada de custos pressiona margens e reduz a atratividade de contratos de longo prazo, complicando o planejamento financeiro e operacional das cadeias globais de petróleo. A volatilidade na região reforça a necessidade de estratégias de mitigação de risco para armadores e operadores logísticos. No offshore, a Petrobras"
   }
 ]
