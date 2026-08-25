@@ -2,17 +2,6 @@
   {
     "date": "2026-08-17",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem previsão de normalização, forçando importadores asiáticos a alongar rotas e elevar tarifas de afretamento para VLCCs. A escalada de ataques a petroleiros, incluindo embarcações da ADNOC, intensifica a volatilidade no mercado de afretamento, reduzindo a atratividade de contratos de longo prazo e pressionando custos logísticos no transporte de petróleo bruto. No Mar Vermelho, a suspensão das operações no porto de Mocha devi"
-  },
-  {
-    "date": "2026-08-17",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -328,5 +317,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com ataques e apreensões intensificando riscos para armadores e importadores asiáticos. A necessidade de alongar rotas eleva tarifas de afretamento para VLCCs a níveis inéditos, com custos próximos a US$ 20 milhões por trânsito, pressionando margens e encarecendo o transporte de petróleo bruto. Essa volatilidade reduz a atratividade de contratos de longo prazo, dificultando o planejamento financeiro e operacional das cadeias glob"
+  },
+  {
+    "date": "2026-08-25",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A operação no Estreito de Ormuz segue abaixo de 10%, com ataques e apreensões mantendo a região altamente instável. Armadores enfrentam tarifas de afretamento para VLCCs próximas a US$ 20 milhões por trânsito, elevando custos logísticos e reduzindo a atratividade de contratos de longo prazo. A volatilidade dificulta o planejamento financeiro e operacional das cadeias globais de suprimento de petróleo. No offshore, a Petrobras avança em negociações para novos projetos de exploração, sinalizando c"
   }
 ]
