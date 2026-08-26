@@ -2,17 +2,6 @@
   {
     "date": "2026-08-18",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem perspectiva de normalização, obrigando importadores asiáticos a alongar rotas e elevar tarifas de afretamento para VLCCs. A retomada parcial da Arábia Saudita não reduz o risco, com ataques recentes a petroleiros e ameaças iranianas ampliando a volatilidade do mercado de afretamento e reduzindo a atratividade de contratos de longo prazo. A pressão sobre custos logísticos no transporte de petróleo bruto segue crescente. No"
-  },
-  {
-    "date": "2026-08-18",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "operações offshore",
       "logística e portos",
@@ -328,5 +317,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com ataques recentes a petroleiros elevando tarifas de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Essa escalada de custos reduz a atratividade de contratos de longo prazo e dificulta o planejamento financeiro e operacional das cadeias globais de petróleo. Armadores e operadores precisam ajustar estratégias de mitigação de risco para preservar margens diante da volatilidade persistente. No offshore, a Petrobras"
+  },
+  {
+    "date": "2026-08-26",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com ataques recentes elevando tarifas de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Essa escalada de custos reduz a atratividade de contratos de longo prazo e dificulta o planejamento financeiro das cadeias globais de petróleo. Armadores e operadores precisam ajustar estratégias de mitigação de risco para preservar margens diante da volatilidade persistente. No offshore, a Petrobras avança em negociações p"
   }
 ]
