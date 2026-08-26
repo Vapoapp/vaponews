@@ -3,17 +3,6 @@
     "date": "2026-08-19",
     "drivers": [
       "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, sem perspectiva de normalização. Importadores asiáticos ampliam rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. Ataques recentes a petroleiros e a detenção de embarcações por autoridades iranianas ampliam a volatilidade do mercado e reduzem a atratividade de contratos de longo prazo. No Mar Vermelho, a suspensão do porto de Mocha após ataques com mísseis interrom"
-  },
-  {
-    "date": "2026-08-19",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -327,5 +316,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com ataques recentes elevando tarifas de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Esse aumento pressiona margens e reduz a atratividade de contratos de longo prazo, exigindo revisão imediata das estratégias de mitigação de risco por armadores e operadores logísticos. A volatilidade na região permanece como fator crítico para o planejamento financeiro das cadeias globais de suprimento. No offshore brasileiro,"
+  },
+  {
+    "date": "2026-08-26",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com ataques recentes elevando tarifas de afretamento para VLCCs em torno de US$ 20 milhões por trânsito. Esse custo elevado reduz a atratividade de contratos de longo prazo, forçando armadores e operadores a revisarem suas estratégias de mitigação de risco para proteger margens e garantir continuidade nas cadeias globais de petróleo. No offshore brasileiro, a Petrobras renovou contrato de US$ 62 milhões com a Solstad Offshore par"
   }
 ]
