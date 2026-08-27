@@ -3,17 +3,6 @@
     "date": "2026-08-19",
     "drivers": [
       "atividade Petrobras/Transpetro",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem perspectiva de normalização. Importadores asiáticos ampliam rotas alternativas, elevando tarifas de afretamento para VLCCs e pressionando custos no transporte marítimo de petróleo bruto. A volatilidade no mercado de afretamento aumenta diante da escalada de ataques a petroleiros e da apreensão de embarcações por autoridades iranianas, reduzindo a atratividade de contratos de longo prazo. No Mar Vermelho, a suspensão das o"
-  },
-  {
-    "date": "2026-08-19",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -327,5 +316,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com ataques recentes elevando tarifas de afretamento para VLCCs em torno de US$ 20 milhões por trânsito. Esse custo elevado reduz a atratividade de contratos de longo prazo, forçando armadores e operadores a revisarem suas estratégias de mitigação de risco para proteger margens e garantir continuidade nas cadeias globais de petróleo. No offshore brasileiro, a Petrobras renovou contrato de US$ 62 milhões com a Solstad Offshore par"
+  },
+  {
+    "date": "2026-08-27",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recente ataque a petroleiro elevando tarifas de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Essa escalada encarece o transporte de petróleo bruto, reduzindo a atratividade de contratos de longo prazo e dificultando o planejamento financeiro das cadeias globais de suprimento. Operadores e armadores precisam ajustar rapidamente estratégias de mitigação para preservar margens diante da volatilidade persistente"
   }
 ]
