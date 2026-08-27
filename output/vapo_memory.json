@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-08-19",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem perspectiva de normalização. A escalada de ataques e apreensões de navios iranianos força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. A volatilidade reduz a atratividade de contratos de longo prazo, impactando planejamento e custo de fornecimento. No Mar Negro, ataques entre Rússia e Ucrânia paralisam mais de 97% das e"
-  },
-  {
     "date": "2026-08-20",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -327,5 +316,15 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com recente ataque a petroleiro elevando tarifas de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Essa escalada encarece o transporte de petróleo bruto, reduzindo a atratividade de contratos de longo prazo e dificultando o planejamento financeiro das cadeias globais de suprimento. Operadores e armadores precisam ajustar rapidamente estratégias de mitigação para preservar margens diante da volatilidade persistente"
+  },
+  {
+    "date": "2026-08-27",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com ataques recentes a petroleiros elevando tarifas de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Essa pressão de custo reduz a atratividade de contratos de longo prazo e impõe desafios ao planejamento financeiro das cadeias globais de petróleo. Armadores e operadores precisam ajustar estratégias de mitigação para preservar margens diante da volatilidade persistente. No offshore brasileiro, a Petrobras ava"
   }
 ]
