@@ -2,17 +2,6 @@
   {
     "date": "2026-08-20",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade no Estreito de Ormuz segue abaixo de 10%, sem previsão de normalização, devido à escalada de ataques e apreensões de navios por autoridades iranianas. Importadores asiáticos ampliam rotas alternativas, pressionando tarifas de afretamento para VLCCs e elevando custos no transporte de petróleo bruto. A volatilidade crescente reduz a atratividade de contratos de longo prazo, impactando planejamento e custo de fornecimento. No Mar Vermelho, a suspensão do porto de Mocha após ataques com"
-  },
-  {
-    "date": "2026-08-20",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -326,5 +315,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com ataques recentes elevando tarifas de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Esse custo elevado reduz a atratividade de contratos de longo prazo e pressiona margens, forçando armadores e operadores a revisarem estratégias de mitigação de risco para garantir continuidade nas cadeias globais de suprimento. Apesar de um leve aumento no tráfego, a volatilidade permanece alta, impactando planejamento finance"
+  },
+  {
+    "date": "2026-08-28",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com ataques recentes elevando tarifas de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Esse custo elevado reduz a atratividade de contratos de longo prazo e força armadores e operadores a revisarem estratégias de mitigação para preservar margens e garantir continuidade nas cadeias globais de petróleo. A volatilidade e o risco geopolítico seguem como fatores críticos no planejamento financeiro e operacional do"
   }
 ]
