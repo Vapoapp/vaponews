@@ -8,17 +8,6 @@
       "risco geopolítico",
       "petróleo e gás"
     ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, sem previsão de normalização, forçando importadores asiáticos a alongar rotas e elevar tarifas de afretamento para VLCCs. Essa dinâmica intensifica a volatilidade no transporte de petróleo bruto, reduzindo a atratividade de contratos de longo prazo e impactando o planejamento logístico e financeiro das cadeias de suprimento. No segmento offshore, avanços na infraestrutura são evidentes com a conclusão da conexão submarina no camp"
-  },
-  {
-    "date": "2026-08-20",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, sem previsão de normalização, devido à escalada de ataques e apreensões de navios iranianos. Importadores asiáticos ampliam rotas alternativas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. Essa volatilidade reduz a atratividade de contratos de longo prazo, complicando o planejamento financeiro das cadeias de suprimento. No Mar Vermelho, ataques recentes interromperam"
   },
   {
@@ -326,5 +315,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com ataques recentes elevando tarifas de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Esse custo elevado reduz a atratividade de contratos de longo prazo e força armadores e operadores a revisarem estratégias de mitigação para preservar margens e garantir continuidade nas cadeias globais de petróleo. A volatilidade e o risco geopolítico seguem como fatores críticos no planejamento financeiro e operacional do"
+  },
+  {
+    "date": "2026-08-29",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional na região permanece abaixo de 10% após ataques recentes a petroleiros, elevando o custo de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Esse aumento substancial encarece o transporte de petróleo bruto, reduzindo a atratividade de contratos de longo prazo e dificultando o planejamento financeiro das cadeias globais de suprimento. No offshore brasileiro, a Petrobras avança em contratos e expansão de produção, com a preparação de duas novas FPSOs para o ca"
   }
 ]
