@@ -2,17 +2,6 @@
   {
     "date": "2026-08-21",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem perspectiva de normalização, devido à escalada de ataques e apreensões de navios iranianos. Importadores asiáticos ampliam rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. Essa volatilidade reduz a atratividade de contratos de longo prazo, complicando o planejamento financeiro das cadeias de suprimento. No offshore, a produção no campo de Mero atinge pico"
-  },
-  {
-    "date": "2026-08-21",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -326,5 +315,16 @@
       "petróleo e gás"
     ],
     "summary": "A operação no Estreito de Ormuz permanece abaixo de 10%, com ataques recentes a petroleiros elevando tarifas de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Esse aumento substancial encarece o transporte de petróleo bruto, reduzindo a atratividade de contratos de longo prazo e complicando o planejamento financeiro das cadeias globais de suprimento. Operadores e armadores precisam ajustar estratégias para mitigar riscos e preservar margens diante da volatilidade. No Brasil, a Pe"
+  },
+  {
+    "date": "2026-08-29",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com ataques recentes elevando tarifas de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Esse custo elevado reduz a atratividade de contratos de longo prazo e impõe desafios ao planejamento financeiro das cadeias globais de suprimento. Armadores e operadores precisam revisar estratégias de mitigação para preservar margens diante da volatilidade e do risco geopolítico persistentes. No Golfo, a crise acelera inve"
   }
 ]
