@@ -8,17 +8,6 @@
       "logística e portos",
       "risco geopolítico"
     ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, sem perspectiva de normalização. A escalada de ataques e apreensões eleva tarifas de afretamento para VLCCs, pressionando custos no transporte de petróleo bruto e reduzindo a atratividade de contratos de longo prazo. A volatilidade dificulta o planejamento financeiro e operacional das cadeias globais de suprimento. No offshore, Petrobras avança em negociações para explorar quatro blocos em Gana, ampliando sua presença na África O"
-  },
-  {
-    "date": "2026-08-22",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem previsão de normalização, devido à escalada de ataques e apreensões. Isso força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. A volatilidade reduz a atratividade de contratos de longo prazo, dificultando o planejamento financeiro e operacional das cadeias globais de suprimento. No offshore brasileiro, o FPSO Alexandre de"
   },
   {
@@ -322,5 +311,14 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com ataques recentes a petroleiros elevando o custo de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Esse patamar pressiona margens e reduz a atratividade de contratos de longo prazo, exigindo revisão urgente de estratégias comerciais e de mitigação de risco para armadores e operadores. A volatilidade no transporte de petróleo bruto compromete o planejamento financeiro das cadeias globais de suprimento. No offsho"
+  },
+  {
+    "date": "2026-08-30",
+    "drivers": [
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com ataques recentes a petroleiros elevando o custo de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Esse aumento pressiona margens e reduz a atratividade de contratos de longo prazo, exigindo revisão urgente das estratégias comerciais e de mitigação de risco para armadores e operadores. A volatilidade compromete o planejamento financeiro das cadeias globais de suprimento de petróleo. No Canal do Panamá, a es"
   }
 ]
