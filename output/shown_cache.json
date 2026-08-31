@@ -4,16 +4,12 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-08-30T16:24:47.401848+00:00",
+    "ts": "2026-08-31T04:48:58.692585+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/a-14-mw-siemens-gamesa-turbine-at-taiwans-orsted-offshore-wind-farm-catches-fire/?utm_source=rss&utm_medium=rss&utm_campaign=a-14-mw-siemens-gamesa-turbine-at-taiwans-orsted-offshore-wind-farm-catches-fire": {
     "ts": "2026-08-24T07:07:30.817061+00:00",
     "type": "highlight"
-  },
-  "https://www.marineinsight.com/iran-threatens-devastating-response-as-new-us-sanctions-raise-risks-for-hormuz-shipping/?utm_source=rss&utm_medium=rss&utm_campaign=iran-threatens-devastating-response-as-new-us-sanctions-raise-risks-for-hormuz-shipping": {
-    "ts": "2026-08-24T01:39:48.393025+00:00",
-    "type": "other"
   },
   "https://gcaptain.com/iran-grants-permission-for-a-number-of-iraqi-oil-tankers-to-pass-through-hormuz/": {
     "ts": "2026-08-24T07:07:30.817061+00:00",
@@ -50,14 +46,6 @@
   "https://maritime-executive.com/article/three-studies-confirm-viability-of-year-round-shipping-in-the-hudson-bay": {
     "ts": "2026-08-24T07:07:30.817061+00:00",
     "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/manage-tanker-information-with-a-new-modernized-q88-experience/": {
-    "ts": "2026-08-24T01:39:48.393025+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/iran-grants-iraq-limited-hormuz-passage-to-revive-oil-exports/": {
-    "ts": "2026-08-24T01:39:48.393025+00:00",
-    "type": "other"
   },
   "https://splash247.com/seafarers-are-not-expendable/": {
     "ts": "2026-08-24T07:07:30.817061+00:00",
@@ -952,7 +940,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/2-killed-after-fire-breaks-out-aboard-oil-tanker-off-south-korea/?utm_source=rss&utm_medium=rss&utm_campaign=2-killed-after-fire-breaks-out-aboard-oil-tanker-off-south-korea": {
-    "ts": "2026-08-30T20:49:51.706373+00:00",
+    "ts": "2026-08-31T04:48:58.692585+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/california-files-suit-calling-offshore-wind-cancellation-blatantly-unlaw": {
@@ -992,11 +980,11 @@
     "type": "other"
   },
   "https://gcaptain.com/panama-canal-congestion-drives-gas-tankers-to-unusual-routes/": {
-    "ts": "2026-08-30T20:49:51.706373+00:00",
+    "ts": "2026-08-31T04:48:58.692585+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/iran-urges-nations-to-reject-new-u-s-sanctions-as-talks-focus-on-reopening-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=iran-urges-nations-to-reject-new-u-s-sanctions-as-talks-focus-on-reopening-strait-of-hormuz": {
-    "ts": "2026-08-30T16:24:47.401848+00:00",
+    "ts": "2026-08-31T04:48:58.692585+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/encomaras-squid-floating-wind-connection-system-reaches-commercialization/": {
@@ -1052,7 +1040,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/sodexo-destaca-importancia-de-nutricionistas-a-bordo-de-operacoes-offshore-para-bem-estar-dos-trabalhadores/": {
-    "ts": "2026-08-30T20:49:51.706373+00:00",
+    "ts": "2026-08-31T04:48:58.692585+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/editorials/enabling-the-next-wave-of-marine-electrification": {
@@ -1076,7 +1064,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/renegociacoes-de-dividas-pelo-desenrola-2-vai-ate-amanha-mas-sebrae-alerta-contra-fraudes/": {
-    "ts": "2026-08-30T20:49:51.706373+00:00",
+    "ts": "2026-08-31T04:48:58.692585+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/iran-targets-tankers-inbound-to-the-persian-gulf": {
@@ -1084,7 +1072,47 @@
     "type": "highlight"
   },
   "https://gcaptain.com/panama-canal-loosens-neopanamax-booking-rules-as-capacity-tightens/": {
-    "ts": "2026-08-30T20:49:51.706373+00:00",
+    "ts": "2026-08-31T04:48:58.692585+00:00",
     "type": "highlight"
+  },
+  "https://www.marinelink.com/news/tanker-hit-hormuz-sailings-drop-542542": {
+    "ts": "2026-08-31T04:48:58.692585+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/df/noticia/2026/08/30/vazamento-de-gas-provoca-incendio-na-casa-de-presidente-do-tse-ministro-nunes-marques.ghtml": {
+    "ts": "2026-08-31T04:48:58.692585+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/houthi-s-unmanned-attack-boat-base-destroyed-by-yemeni-forces": {
+    "ts": "2026-08-31T04:48:58.692585+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/middle-east-tanker-spree-stokes-vlcc-glut-fears-as-2028-2029-deliveries-loom/": {
+    "ts": "2026-08-31T04:48:58.692585+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/acta-marine-csov-commences-long-term-charter-at-sofia-offshore-wind-farm-in-uk": {
+    "ts": "2026-08-31T04:48:58.692585+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/furetank-christens-newest-biomethane-powered-product-tanker": {
+    "ts": "2026-08-31T04:48:58.692585+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/tanker-shipping-vlccs-keep-returning-major-profits/": {
+    "ts": "2026-08-31T04:48:58.692585+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/royal-navy-describes-intense-72-hour-operation-tracking-russian-vessels": {
+    "ts": "2026-08-31T04:48:58.692585+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/california-floating-wind-lease-heads-to-court/": {
+    "ts": "2026-08-31T04:48:58.692585+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/pistiolis-adds-k-shipbuilding-mr-pair-to-tanker-spree/": {
+    "ts": "2026-08-31T04:48:58.692585+00:00",
+    "type": "other"
   }
 }
