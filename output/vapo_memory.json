@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-08-22",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sem perspectiva de normalização, devido à escalada de ataques e apreensões. Isso força importadores asiáticos a alongar rotas, elevando tarifas de afretamento para VLCCs e pressionando custos logísticos no transporte de petróleo bruto. A volatilidade reduz a atratividade de contratos de longo prazo, complicando o planejamento financeiro e operacional das cadeias globais de suprimento. No offshore brasileiro, Petrobras avança"
-  },
-  {
     "date": "2026-08-23",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -317,5 +306,15 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com ataques recentes elevando o afretamento de VLCCs a cerca de US$ 20 milhões por trânsito. Esse cenário restringe a viabilidade de contratos de longo prazo, forçando armadores a revisarem estratégias comerciais e de mitigação de risco para preservar margens e garantir continuidade nas cadeias globais de petróleo. A volatilidade operacional compromete o planejamento financeiro e aumenta a exposição a riscos geopolíticos. No"
+  },
+  {
+    "date": "2026-08-31",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com ataques recentes elevando o custo de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Esse cenário restringe contratos de longo prazo e força armadores a revisarem estratégias comerciais e de mitigação de risco para preservar margens e continuidade nas cadeias globais de suprimento. A volatilidade operacional compromete o planejamento financeiro e aumenta a exposição a riscos geopolíticos. No mercado de petrolei"
   }
 ]
