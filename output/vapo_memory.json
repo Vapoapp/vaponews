@@ -2,17 +2,6 @@
   {
     "date": "2026-08-24",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A operação no Estreito de Ormuz permanece abaixo de 10%, com ataques e apreensões mantendo a região instável. Importadores asiáticos alongam rotas, pressionando tarifas de afretamento para VLCCs e elevando custos no transporte de petróleo bruto. Essa volatilidade impacta diretamente a atratividade de contratos de longo prazo, dificultando o planejamento financeiro e operacional das cadeias globais de suprimento. No offshore brasileiro, Petrobras avança em negociações para exploração, sinalizando"
-  },
-  {
-    "date": "2026-08-24",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -313,5 +302,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com ataques recentes a petroleiros elevando o custo de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Esse patamar inviabiliza contratos de longo prazo, forçando armadores a revisar estratégias comerciais e de mitigação de risco, impactando diretamente a continuidade das cadeias globais de petróleo e aumentando a volatilidade financeira para operadores e seguradoras. No offshore, a consolidação avança com a fu"
+  },
+  {
+    "date": "2026-09-02",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com ataques recentes elevando o custo de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Esse aumento inviabiliza contratos de longo prazo, forçando armadores a revisar estratégias comerciais e de mitigação de risco, o que eleva a volatilidade financeira e expõe operadores a riscos geopolíticos crescentes. A continuidade das cadeias globais de petróleo enfrenta desafios diretos, com impacto sobre planejamento e"
   }
 ]
