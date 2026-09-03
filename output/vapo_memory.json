@@ -8,17 +8,6 @@
       "risco geopolítico",
       "petróleo e gás"
     ],
-    "summary": "A operação na rota do Estreito de Ormuz permanece abaixo de 10%, com ataques e apreensões elevando tarifas de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Essa escalada de custos pressiona margens e reduz a atratividade de contratos de longo prazo, complicando o planejamento financeiro e operacional das cadeias globais de petróleo. A volatilidade na região reforça a necessidade de estratégias de mitigação de risco para armadores e operadores logísticos. No offshore, a Petrobras"
-  },
-  {
-    "date": "2026-08-25",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com ataques recentes a petroleiros elevando tarifas de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Essa escalada de custos reduz a atratividade de contratos de longo prazo e dificulta o planejamento financeiro e operacional das cadeias globais de petróleo. Armadores e operadores precisam ajustar estratégias de mitigação de risco para preservar margens diante da volatilidade persistente. No offshore, a Petrobras"
   },
   {
@@ -312,5 +301,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com ataques recentes a petroleiros elevando o custo de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Esse nível inviabiliza contratos de longo prazo, forçando armadores a revisar estratégias comerciais e ampliar mitigação de riscos, o que eleva volatilidade financeira e expõe operadores e seguradoras a riscos geopolíticos crescentes. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o t"
+  },
+  {
+    "date": "2026-09-03",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com ataques recentes elevando o custo de afretamento de VLCCs para cerca de US$ 20 milhões por trânsito. Esse patamar inviabiliza contratos de longo prazo e força armadores a revisar estratégias comerciais e ampliar mitigação de riscos, elevando volatilidade financeira e expondo operadores e seguradoras a riscos geopolíticos crescentes. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o tráfego na rota"
   }
 ]
