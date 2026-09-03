@@ -1,10 +1,10 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-09-02T16:19:27.984923+00:00",
+    "ts": "2026-09-03T03:51:00.620221+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-08-31T04:48:58.692585+00:00",
+    "ts": "2026-09-03T03:51:00.620221+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/comercio-exterior/21802/minas-gerais-inicia-fluxo-de-baixo-carbono-para-exportacao-de-acucar-pelo-porto-de-santos/": {
@@ -848,7 +848,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/iran-increases-hormuz-pressure-with-nearly-simultaneous-attacks-on-tankers": {
-    "ts": "2026-09-01T20:51:06.700462+00:00",
+    "ts": "2026-09-03T03:51:00.620221+00:00",
     "type": "other"
   },
   "https://www.marinelink.com/news/deep-sea-specialist-team-joins-search-542610": {
@@ -904,7 +904,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/turkish-companies-suspend-shipping-to-russia-citing-increased-dangers": {
-    "ts": "2026-09-02T16:19:27.984923+00:00",
+    "ts": "2026-09-03T03:51:00.620221+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/offshore-consolidation-continues-as-both-tidewater-and-helix-close-deals": {
@@ -948,7 +948,7 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/abpip-propoe-medidas-prioritarias-para-destravar-ate-r-15-bilhoes-em-investimentos-no-setor-de-oleo-e-gas-do-rio-grande-do-norte/": {
-    "ts": "2026-09-02T20:50:25.523325+00:00",
+    "ts": "2026-09-03T03:51:00.620221+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/u-s-iran-trade-more-strikes-as-hormuz-tensions-simmer/": {
@@ -1004,7 +1004,7 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/a-gilbarco-veeder-root-levara-as-novas-tecnologias-desenvolvidas-para-a-feira-expopostos-que-sera-realizada-em-sao-paulo-e/": {
-    "ts": "2026-09-02T20:50:25.523325+00:00",
+    "ts": "2026-09-03T03:51:00.620221+00:00",
     "type": "highlight"
   },
   "https://splash247.com/cssc-shipping-expands-dry-bulk-portfolio-with-10-newbuilds/": {
@@ -1056,15 +1056,15 @@
     "type": "other"
   },
   "https://gcaptain.com/two-seafarers-killed-in-strait-of-hormuz-tanker-attack/": {
-    "ts": "2026-09-02T20:50:25.523325+00:00",
+    "ts": "2026-09-03T03:51:00.620221+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/chevron-anuncia-planos-para-investir-mais-de-us-7-bilhoes-na-venezuela-e-dobrar-a-producao/": {
-    "ts": "2026-09-02T20:50:25.523325+00:00",
+    "ts": "2026-09-03T03:51:00.620221+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/iran-widens-hormuz-shipping-blacklist-to-56-vessels": {
-    "ts": "2026-09-02T20:50:25.523325+00:00",
+    "ts": "2026-09-03T03:51:00.620221+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/negocios/21835/motiva-conclui-venda-de-20-aeroportos-para-a-asur-por-r-12-21-bilhoes/": {
@@ -1117,6 +1117,54 @@
   },
   "https://safety4sea.com/iran-seizes-bulk-carrier-over-alleged-oil-and-sludge-discharge-in-hormuz/": {
     "ts": "2026-09-02T20:50:25.523325+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542678-shell-acquires-stake-in-bp-s-conifer-prospect-in-the-gulf-of-mexico": {
+    "ts": "2026-09-03T03:51:00.620221+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/ships-turn-to-makeshift-armor-as-black-sea-attacks-surge/": {
+    "ts": "2026-09-03T03:51:00.620221+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/abs-recognizes-german-shipping-communitys-542686": {
+    "ts": "2026-09-03T03:51:00.620221+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/ep/shell-adquire-da-bp-50-do-bloco-exploratorio-tupinamba": {
+    "ts": "2026-09-03T03:51:00.620221+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/eneva-e-diamante-energia-trocam-participacao-em-ativos-movimentando-ate-r-867-milhoes/": {
+    "ts": "2026-09-03T03:51:00.620221+00:00",
+    "type": "other"
+  },
+  "https://www.marinelog.com/news/everllence-completes-g80-me-lgime-engine-rd-test/": {
+    "ts": "2026-09-03T03:51:00.620221+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542689-pipelay-vessel-ready-for-uk-carbon-storage-project": {
+    "ts": "2026-09-03T03:51:00.620221+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542683-nadara-confirms-landfall-location-for-bellrock-floating-wind-project": {
+    "ts": "2026-09-03T03:51:00.620221+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/anemoi-and-maersk-to-deliver-world-first-with-rotor-sail-technology-for-container-shipping/": {
+    "ts": "2026-09-03T03:51:00.620221+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/hornbeck-offshore-helix-energy-solutions-complete-merger": {
+    "ts": "2026-09-03T03:51:00.620221+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/newbuild-orders-continue-with-scrubbers/": {
+    "ts": "2026-09-03T03:51:00.620221+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/chinese-shipbuilder-taps-gtt-for-tank-design-of-four-lng-carriers/": {
+    "ts": "2026-09-03T03:51:00.620221+00:00",
     "type": "other"
   }
 }
