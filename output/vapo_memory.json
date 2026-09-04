@@ -2,17 +2,6 @@
   {
     "date": "2026-08-26",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com ataques recentes elevando tarifas de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Essa escalada de custos reduz a atratividade de contratos de longo prazo e dificulta o planejamento financeiro das cadeias globais de petróleo. Armadores e operadores precisam ajustar estratégias de mitigação de risco para preservar margens diante da volatilidade persistente. No offshore, a Petrobras avança em negociações p"
-  },
-  {
-    "date": "2026-08-26",
-    "drivers": [
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -310,5 +299,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com custos de afretamento para VLCCs atingindo cerca de US$ 20 milhões por trânsito. Esse patamar inviabiliza contratos de longo prazo e força armadores a ajustar estratégias comerciais e ampliar mitigação de riscos, elevando volatilidade financeira e expondo operadores e seguradoras a riscos geopolíticos crescentes. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o tráfego na rota. No cenário offshor"
+  },
+  {
+    "date": "2026-09-04",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com custos de afretamento para VLCCs atingindo cerca de US$ 20 milhões por trânsito. Esse patamar inviabiliza contratos de longo prazo e força armadores a ajustar estratégias comerciais e ampliar mitigação de riscos, elevando volatilidade financeira e expondo operadores e seguradoras a riscos geopolíticos crescentes. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o tráfego na rota, pressionando c"
   }
 ]
