@@ -19,16 +19,8 @@
     "ts": "2026-08-30T20:49:51.706373+00:00",
     "type": "highlight"
   },
-  "https://gcaptain.com/imo-net-zero-talks-resume-with-carbon-pricing-at-center-of-debate/": {
-    "ts": "2026-08-30T16:24:47.401848+00:00",
-    "type": "highlight"
-  },
   "https://www.marineinsight.com/2-killed-after-fire-breaks-out-aboard-oil-tanker-off-south-korea/?utm_source=rss&utm_medium=rss&utm_campaign=2-killed-after-fire-breaks-out-aboard-oil-tanker-off-south-korea": {
     "ts": "2026-08-31T04:48:58.692585+00:00",
-    "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/ukrainian-attacks-deal-severe-blow-to-russian-black-sea-oil-exports": {
-    "ts": "2026-08-30T16:24:47.401848+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/china-deploys-worlds-first-100-kw-bamboo-built-offshore-solar-platform/?utm_source=rss&utm_medium=rss&utm_campaign=china-deploys-worlds-first-100-kw-bamboo-built-offshore-solar-platform": {
@@ -50,14 +42,6 @@
   "https://maritime-executive.com/editorials/enabling-the-next-wave-of-marine-electrification": {
     "ts": "2026-08-30T20:49:51.706373+00:00",
     "type": "highlight"
-  },
-  "https://maritime-executive.com/editorials/arctic-shipping-what-does-it-mean-for-trade-environment-and-geopolitics": {
-    "ts": "2026-08-30T16:24:47.401848+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/inland-shipping/rain-comes-to-the-rescue-as-rhine-water-levels-hold-stable": {
-    "ts": "2026-08-30T16:24:47.401848+00:00",
-    "type": "other"
   },
   "https://petronoticias.com.br/renegociacoes-de-dividas-pelo-desenrola-2-vai-ate-amanha-mas-sebrae-alerta-contra-fraudes/": {
     "ts": "2026-08-31T13:14:00.576200+00:00",
@@ -1100,7 +1084,7 @@
     "type": "highlight"
   },
   "https://gcaptain.com/coast-guard-key-bridge-inquiry-finds-u-s-ports-facing-growing-risks-from-larger-ships/": {
-    "ts": "2026-09-06T15:14:52.568103+00:00",
+    "ts": "2026-09-06T20:14:04.511776+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/misc-explores-consortium-role-in-potential-yinson-privatization/": {
@@ -1128,7 +1112,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/worlds-first-ethanol-capable-engine-passes-rd-testing-for-very-large-ore-carrier/?utm_source=rss&utm_medium=rss&utm_campaign=worlds-first-ethanol-capable-engine-passes-rd-testing-for-very-large-ore-carrier": {
-    "ts": "2026-09-06T15:14:52.568103+00:00",
+    "ts": "2026-09-06T20:14:04.511776+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/542748-northern-territory-shale-developers-look-towards-lng-production": {
@@ -1156,7 +1140,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/captain-3rd-officer-of-oil-tanker-arrested-on-charges-of-negligent-homicide/?utm_source=rss&utm_medium=rss&utm_campaign=captain-3rd-officer-of-oil-tanker-arrested-on-charges-of-negligent-homicide": {
-    "ts": "2026-09-06T15:14:52.568103+00:00",
+    "ts": "2026-09-06T20:14:04.511776+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/u-s-forces-destroy-one-iranian-tanker-and-damage-two-more": {
@@ -1176,11 +1160,11 @@
     "type": "other"
   },
   "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html": {
-    "ts": "2026-09-06T15:14:52.568103+00:00",
+    "ts": "2026-09-06T20:14:04.511776+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/rov-inspection-confirms-wreck-site-of-lost-turkish-freighter": {
-    "ts": "2026-09-06T15:14:52.568103+00:00",
+    "ts": "2026-09-06T20:14:04.511776+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
@@ -1192,7 +1176,7 @@
     "type": "other"
   },
   "https://gcaptain.com/iran-us-trade-tit-for-tat-tanker-attacks-as-war-drags-on/": {
-    "ts": "2026-09-06T15:14:52.568103+00:00",
+    "ts": "2026-09-06T20:14:04.511776+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production/falklands-oil-dispute-ensnares-israeli-investors-after-milei-warning": {
@@ -1205,6 +1189,26 @@
   },
   "https://www.bairdmaritime.com/shipping/ports/new-zealands-lyttelton-port-advances-482m-port-expansion-project": {
     "ts": "2026-09-06T15:14:52.568103+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/iran-renews-threats-and-says-it-turned-back-ships-after-us-sinks-tanker": {
+    "ts": "2026-09-06T20:14:04.511776+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/oil-states-scores-three-year-petrobras-subsea-deal/": {
+    "ts": "2026-09-06T20:14:04.511776+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/eps-takes-delivery-of-three-lng-dual-fuel-bulk-carriers/": {
+    "ts": "2026-09-06T20:14:04.511776+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/dof-picks-up-north-sea-floating-wind-installation-job/": {
+    "ts": "2026-09-06T20:14:04.511776+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/is-ttf-gas-fairly-priced-as-hormuz-winter-risks-keep-prices-elevated/": {
+    "ts": "2026-09-06T20:14:04.511776+00:00",
     "type": "other"
   }
 }
