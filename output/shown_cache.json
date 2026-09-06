@@ -1,10 +1,10 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-09-06T03:54:59.371748+00:00",
+    "ts": "2026-09-06T10:38:31.641574+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-09-06T03:54:59.371748+00:00",
+    "ts": "2026-09-06T10:38:31.641574+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/imo-six-months-of-uncertainty-for-seafarers-in-strait-of-hormuz/": {
@@ -14,42 +14,6 @@
   "https://maritime-executive.com/article/romania-rescues-crew-from-cargo-ship-it-suspects-was-attacked-in-its-eez": {
     "ts": "2026-08-30T11:38:01.051574+00:00",
     "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/clarksons-hellas-snp-weekly-7/": {
-    "ts": "2026-08-30T04:45:42.271560+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/himalaya-pushes-rate-cover-into-2027/": {
-    "ts": "2026-08-30T04:45:42.271560+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/542513-pms-completes-subsea-pipeline-installation-at-egypt-s-kamose-gas-field": {
-    "ts": "2026-08-30T04:45:42.271560+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/worlds-largest-shipping-firm-suspends-russian-port-of-novorossiysks-bookings-after-ship-attack/?utm_source=rss&utm_medium=rss&utm_campaign=worlds-largest-shipping-firm-suspends-russian-port-of-novorossiysks-bookings-after-ship-attack": {
-    "ts": "2026-08-30T04:45:42.271560+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/boxships/cosco-shipping-orders-18-containerships-worth-nearly-3b": {
-    "ts": "2026-08-30T04:45:42.271560+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/higher-shipping-earnings-lift-bw-lpg-profit-in-q2-2026": {
-    "ts": "2026-08-30T04:45:42.271560+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/542519-floatel-triumph-lined-up-for-brazil-msu-work": {
-    "ts": "2026-08-30T04:45:42.271560+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/qatari-mediators-press-iran-to-restore-strait-of-hormuz-shipping": {
-    "ts": "2026-08-30T04:45:42.271560+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/four-shipowners-order-four-vinga-product-542516": {
-    "ts": "2026-08-30T04:45:42.271560+00:00",
-    "type": "other"
   },
   "https://petronoticias.com.br/a-seagems-coloca-em-pratico-resultado-de-uma-pesquisa-sobre-importancia-do-sentir-bem-estar-em-trabalhos-offshore/": {
     "ts": "2026-08-30T20:49:51.706373+00:00",
@@ -75,10 +39,6 @@
     "ts": "2026-08-31T04:48:58.692585+00:00",
     "type": "highlight"
   },
-  "https://maritime-executive.com/article/california-files-suit-calling-offshore-wind-cancellation-blatantly-unlaw": {
-    "ts": "2026-08-30T04:45:42.271560+00:00",
-    "type": "highlight"
-  },
   "https://www.bairdmaritime.com/shipping/tankers/ukrainian-attacks-deal-severe-blow-to-russian-black-sea-oil-exports": {
     "ts": "2026-08-30T16:24:47.401848+00:00",
     "type": "highlight"
@@ -94,22 +54,6 @@
   "https://www.marineinsight.com/iran-urges-nations-to-reject-new-u-s-sanctions-as-talks-focus-on-reopening-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=iran-urges-nations-to-reject-new-u-s-sanctions-as-talks-focus-on-reopening-strait-of-hormuz": {
     "ts": "2026-08-31T04:48:58.692585+00:00",
     "type": "highlight"
-  },
-  "https://splash247.com/k-line-steps-back-into-vlcc-newbuild-market/": {
-    "ts": "2026-08-30T04:45:42.271560+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/iran-condemns-new-us-sanctions-mediators-542530": {
-    "ts": "2026-08-30T04:45:42.271560+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/shearwater-steps-up-norwegian-multi-client-push-with-new-3d-seismic-survey/": {
-    "ts": "2026-08-30T04:45:42.271560+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/bp-wraps-up-caspian-sea-platform-turnaround-ahead-of-schedule-production-ramp-up-underway/": {
-    "ts": "2026-08-30T04:45:42.271560+00:00",
-    "type": "other"
   },
   "https://petronoticias.com.br/sodexo-destaca-importancia-de-nutricionistas-a-bordo-de-operacoes-offshore-para-bem-estar-dos-trabalhadores/": {
     "ts": "2026-08-31T13:14:00.576200+00:00",
@@ -1104,7 +1048,7 @@
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/pauta-da-618a-reuniao-ordinaria-da-diretoria-colegiada-esta-disponivel": {
-    "ts": "2026-09-06T03:54:59.371748+00:00",
+    "ts": "2026-09-06T10:38:31.641574+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/oil-states-conquista-contrato-de-tres-anos-com-a-petrobras-para-servicos-subsea/": {
@@ -1144,7 +1088,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/presidenciaveis-recebem-da-abiquim-uma-agenda-estrategica-de-como-associacao-se-posicionara-e-o-que-reivindica-ate-2035/": {
-    "ts": "2026-09-06T03:54:59.371748+00:00",
+    "ts": "2026-09-06T10:38:31.641574+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/captain-and-third-officer-arrested-on-negligent-homicide-in-turkish-crash": {
@@ -1152,7 +1096,7 @@
     "type": "highlight"
   },
   "https://gcaptain.com/imo-net-zero-framework-holds-ground-after-latest-round-of-climate-talks/": {
-    "ts": "2026-09-06T03:54:59.371748+00:00",
+    "ts": "2026-09-06T10:38:31.641574+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/2-1-billion-sea-lion-project-on-track-for-first-oil-despite-falklands-tensions/": {
@@ -1172,15 +1116,15 @@
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/dorian-lpg-ltd-announces-vlgc-newbuilding-contracts-forward-chartering-estimates-and-new-credit-facility/": {
-    "ts": "2026-09-06T03:54:59.371748+00:00",
+    "ts": "2026-09-06T10:38:31.641574+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/coast-guard-key-bridge-inquiry-finds-u-s-ports-facing-growing-risks-from-larger-ships/": {
-    "ts": "2026-09-06T03:54:59.371748+00:00",
+    "ts": "2026-09-06T10:38:31.641574+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/misc-explores-consortium-role-in-potential-yinson-privatization/": {
-    "ts": "2026-09-05T10:18:45.525731+00:00",
+    "ts": "2026-09-06T10:38:31.641574+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/embarcacoes/maersk-anemoi-vela-rotativa-porta-conteineres": {
@@ -1196,7 +1140,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/latvia-and-lithuania-weigh-closing-ports-to-russian-grain-exports": {
-    "ts": "2026-09-05T03:50:41.864889+00:00",
+    "ts": "2026-09-06T10:38:31.641574+00:00",
     "type": "other"
   },
   "https://splash247.com/nanjing-shenghang-lines-up-six-chemical-tankers-at-china-merchants-yard/": {
@@ -1204,11 +1148,11 @@
     "type": "other"
   },
   "https://www.marineinsight.com/worlds-first-ethanol-capable-engine-passes-rd-testing-for-very-large-ore-carrier/?utm_source=rss&utm_medium=rss&utm_campaign=worlds-first-ethanol-capable-engine-passes-rd-testing-for-very-large-ore-carrier": {
-    "ts": "2026-09-06T03:54:59.371748+00:00",
+    "ts": "2026-09-06T10:38:31.641574+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/542748-northern-territory-shale-developers-look-towards-lng-production": {
-    "ts": "2026-09-05T10:18:45.525731+00:00",
+    "ts": "2026-09-06T10:38:31.641574+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-36-2026/": {
@@ -1224,7 +1168,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/oil-prices-dip-but-weekly-gains-hold-firm-after-us-iran-hostilities": {
-    "ts": "2026-09-05T14:54:57.701098+00:00",
+    "ts": "2026-09-06T10:38:31.641574+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/cosco-denies-u-s-allegations-that-its-ships-used-concealed-equipment-to-spy-for-beijing/?utm_source=rss&utm_medium=rss&utm_campaign=cosco-denies-u-s-allegations-that-its-ships-used-concealed-equipment-to-spy-for-beijing": {
@@ -1232,15 +1176,15 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/captain-3rd-officer-of-oil-tanker-arrested-on-charges-of-negligent-homicide/?utm_source=rss&utm_medium=rss&utm_campaign=captain-3rd-officer-of-oil-tanker-arrested-on-charges-of-negligent-homicide": {
-    "ts": "2026-09-06T03:54:59.371748+00:00",
+    "ts": "2026-09-06T10:38:31.641574+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/u-s-forces-destroy-one-iranian-tanker-and-damage-two-more": {
-    "ts": "2026-09-06T03:54:59.371748+00:00",
+    "ts": "2026-09-06T10:38:31.641574+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/gms-week-36-strikes-return-freight-soars/": {
-    "ts": "2026-09-05T20:09:21.616996+00:00",
+    "ts": "2026-09-06T10:38:31.641574+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/05/incendio-mercadao-de-madureira.ghtml": {
@@ -1249,6 +1193,22 @@
   },
   "https://splash247.com/yangzijiang-maritime-piles-on-another-12-newbuilds/": {
     "ts": "2026-09-06T03:54:59.371748+00:00",
+    "type": "other"
+  },
+  "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html": {
+    "ts": "2026-09-06T10:38:31.641574+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/rov-inspection-confirms-wreck-site-of-lost-turkish-freighter": {
+    "ts": "2026-09-06T10:38:31.641574+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/offshore/drilling-production": {
+    "ts": "2026-09-06T10:38:31.641574+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/high-freight-rates-persist-for-russian-crude-shipments-to-india": {
+    "ts": "2026-09-06T10:38:31.641574+00:00",
     "type": "other"
   }
 }

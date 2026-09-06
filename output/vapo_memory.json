@@ -5,17 +5,6 @@
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A operação no Estreito de Ormuz permanece abaixo de 10%, com ataques recentes a petroleiros elevando tarifas de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Esse aumento substancial encarece o transporte de petróleo bruto, reduzindo a atratividade de contratos de longo prazo e complicando o planejamento financeiro das cadeias globais de suprimento. Operadores e armadores precisam ajustar estratégias para mitigar riscos e preservar margens diante da volatilidade. No Brasil, a Pe"
-  },
-  {
-    "date": "2026-08-29",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
       "logística e portos",
       "risco geopolítico"
     ],
@@ -311,5 +300,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamento de VLCCs em torno de US$ 20 milhões por trânsito. Esse custo inviabiliza contratos de longo prazo e força armadores a revisar estratégias comerciais, ampliando a volatilidade financeira e os riscos geopolíticos para operadores e seguradoras. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o tráfego, pressionando a logística global de petróleo. No offshore, contratos de manutenção e"
+  },
+  {
+    "date": "2026-09-06",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com custos de afretamento para VLCCs em torno de US$ 20 milhões por trânsito. Esse patamar inviabiliza contratos de longo prazo, forçando armadores a ajustar estratégias comerciais e ampliar mitigação de riscos geopolíticos. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o tráfego, elevando volatilidade financeira e expondo operadores e seguradoras a riscos crescentes. No offshore, a disputa por cont"
   }
 ]
