@@ -5,16 +5,6 @@
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade no Estreito de Ormuz segue abaixo de 10%, com ataques recentes a petroleiros elevando o custo de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Essa pressão reduz a viabilidade de contratos de longo prazo e força armadores a revisarem estratégias comerciais e de mitigação de risco, impactando diretamente a continuidade das cadeias globais de petróleo. A volatilidade operacional compromete o planejamento financeiro e aumenta a exposição a riscos geopolíticos na região"
-  },
-  {
-    "date": "2026-09-01",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
       "risco geopolítico",
       "petróleo e gás"
     ],
@@ -319,5 +309,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por trânsito. Esse custo inviabiliza contratos de longo prazo, obrigando armadores a rever estratégias comerciais e ampliar mitigação de riscos geopolíticos. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o tráfego, elevando volatilidade para operadores e seguradoras. No offshore, contratos relevantes avançam com Ventura Offshore fechando"
+  },
+  {
+    "date": "2026-09-08",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo, forçando armadores a rever estratégias comerciais e ampliar mitigação de riscos geopolíticos. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o tráfego, elevando volatilidade para operadores e seguradoras. No offshore, contratos relevantes avançam, como o acordo de US$ 58 milh"
   }
 ]
