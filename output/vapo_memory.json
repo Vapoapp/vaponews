@@ -2,16 +2,6 @@
   {
     "date": "2026-08-31",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A operação no Estreito de Ormuz segue abaixo de 10%, com ataques recentes elevando o afretamento de VLCCs a cerca de US$ 20 milhões por trânsito. Esse patamar impõe restrições severas à viabilidade de contratos de longo prazo, forçando armadores a reverem estratégias comerciais e de mitigação de risco para preservar margens e continuidade nas cadeias globais de petróleo. No Canal do Panamá, a flexibilização das reservas Neopanamax tenta mitigar gargalos causados pela alta demanda e restrições hí"
-  },
-  {
-    "date": "2026-08-31",
-    "drivers": [
       "operações offshore",
       "logística e portos",
       "risco geopolítico"
@@ -316,5 +306,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com afretamentos para VLCCs estabilizados em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo e força armadores a revisar estratégias comerciais, ampliando mitigação de riscos geopolíticos e elevando volatilidade para operadores e seguradoras. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o tráfego, pressionando a logística global de petróleo. O conflito direto entre EUA"
+  },
+  {
+    "date": "2026-09-08",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por trânsito. Esse custo inviabiliza contratos de longo prazo, obrigando armadores a rever estratégias comerciais e ampliar mitigação de riscos geopolíticos. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o tráfego, elevando volatilidade financeira para operadores e seguradoras. A escalada dos ataques entre EUA e Irã mantém o ambiente de r"
   }
 ]
