@@ -1,10 +1,10 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-09-09T11:02:22.153149+00:00",
+    "ts": "2026-09-09T16:17:54.700150+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-09-09T11:02:22.153149+00:00",
+    "ts": "2026-09-09T16:17:54.700150+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/542573-lucas-cribley-named-ceo-of-c-innovation": {
@@ -812,7 +812,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/goldman-rystad-see-room-for-120-oil-if-u-s-iran-conflict-continues": {
-    "ts": "2026-09-09T11:02:22.153149+00:00",
+    "ts": "2026-09-09T16:17:54.700150+00:00",
     "type": "highlight"
   },
   "https://splash247.com/iran-threatens-wider-hormuz-exclusion-zone-after-tanker-strikes/": {
@@ -1080,11 +1080,11 @@
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/iran-targets-u-s-base-in-jordan-attacks-ships-after-tanker-strikes/": {
-    "ts": "2026-09-09T11:02:22.153149+00:00",
+    "ts": "2026-09-09T16:17:54.700150+00:00",
     "type": "highlight"
   },
   "https://splash247.com/poseidon-principles-expands-reach-across-marine-insurance/": {
-    "ts": "2026-09-09T11:02:22.153149+00:00",
+    "ts": "2026-09-09T16:17:54.700150+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/u-s-hits-three-more-iranian-tankers-after-second-attack-on-u-s-warship": {
@@ -1125,6 +1125,70 @@
   },
   "https://www.marineinsight.com/u-s-destroys-5-iranian-oil-tankers-after-irgc-targets-american-warship-with-ballistic-missiles/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-destroys-5-iranian-oil-tankers-after-irgc-targets-american-warship-with-ballistic-missiles": {
     "ts": "2026-09-09T11:02:22.153149+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/vessel-said-to-be-listing-after-reported-attack-off-uae/": {
+    "ts": "2026-09-09T16:17:54.700150+00:00",
+    "type": "highlight"
+  },
+  "https://www.guiamaritimo.com.br/noticias/portos/porto-do-acu-primeira-importacao-enxofre-fertilizantes": {
+    "ts": "2026-09-09T16:17:54.700150+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/busan-coast-guard-raids-5-locations-including-shipping-company-over-tugboat-accident-that-left-5-crew-missing/?utm_source=rss&utm_medium=rss&utm_campaign=busan-coast-guard-raids-5-locations-including-shipping-company-over-tugboat-accident-that-left-5-crew-missing": {
+    "ts": "2026-09-09T16:17:54.700150+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/justica-e-seguranca-na-revisao-tarifaria-do-transporte-de-gas": {
+    "ts": "2026-09-09T16:17:54.700150+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/drone-strike-hits-greek-interest-tanker-in-iraqi-waters/": {
+    "ts": "2026-09-09T16:17:54.700150+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/iran-and-us-hit-tankers-in-biggest-wave-of-attacks-on-shipping-since-war-began/": {
+    "ts": "2026-09-09T16:17:54.700150+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542826-dnv-industrialization-standardization-could-slash-north-sea-offshore-wind-costs": {
+    "ts": "2026-09-09T16:17:54.700150+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542822-exxonmobil-makes-new-oil-discovery-in-angola-s-offshore-block-15": {
+    "ts": "2026-09-09T16:17:54.700150+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/albania-blocks-russian-shadow-fleet-tanker-from-entering-durres-port/?utm_source=rss&utm_medium=rss&utm_campaign=albania-blocks-russian-shadow-fleet-tanker-from-entering-durres-port": {
+    "ts": "2026-09-09T16:17:54.700150+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/growing-arsenal-of-threats-puts-red-sea-shipping-on-high-alert/": {
+    "ts": "2026-09-09T16:17:54.700150+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/former-oocl-boss-and-hong-kong-leader-tung-chee-hwa-dies-at-89/": {
+    "ts": "2026-09-09T16:17:54.700150+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/abs-certifies-fpso-design-for-south-american-and-west-african-deep-waters/": {
+    "ts": "2026-09-09T16:17:54.700150+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542821-slb-shearwater-launch-multi-client-3d-seismic-survey-off-brazil": {
+    "ts": "2026-09-09T16:17:54.700150+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/india-larsen-toubro-company-gets-epcic-order-from-ongc/": {
+    "ts": "2026-09-09T16:17:54.700150+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/uk-natgas-prices-rise-further-as-middle-east-hostilities-continue/": {
+    "ts": "2026-09-09T16:17:54.700150+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/tanker-anchor-dragging-case-reopened-by-helsinki-appeals-court": {
+    "ts": "2026-09-09T16:17:54.700150+00:00",
     "type": "other"
   }
 }

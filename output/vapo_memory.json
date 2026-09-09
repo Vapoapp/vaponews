@@ -1,15 +1,5 @@
 [
   {
-    "date": "2026-09-01",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional na região segue abaixo de 10%, com ataques recentes elevando o afretamento de VLCCs a US$ 20 milhões por trânsito. Esse patamar inviabiliza contratos de longo prazo, obrigando armadores a revisarem estratégias comerciais e de mitigação de risco. O impacto direto recai sobre a continuidade das cadeias globais de petróleo, elevando a volatilidade financeira e o risco geopolítico para operadores e seguradoras. No offshore, a retomada do interesse em exploração na África Oci"
-  },
-  {
     "date": "2026-09-02",
     "drivers": [
       "operações offshore",
@@ -320,5 +310,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com afretamentos de VLCCs em US$ 20 milhões por trânsito, inviabilizando contratos de longo prazo e forçando armadores a revisar estratégias comerciais. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o tráfego, elevando volatilidade para operadores e seguradoras. O ambiente de risco elevado, com ataques recentes entre EUA e Irã, mantém a pressão sobre as cadeias logísticas globais de petróleo. No off"
+  },
+  {
+    "date": "2026-09-09",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo, forçando armadores a rever estratégias comerciais e ampliar mitigação de riscos geopolíticos. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o tráfego, elevando volatilidade para operadores e seguradoras. No offshore, avanços em contratos indicam continuidade da atividade, co"
   }
 ]
