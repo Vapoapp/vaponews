@@ -1,10 +1,10 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-09-09T04:02:21.531959+00:00",
+    "ts": "2026-09-09T11:02:22.153149+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-09-09T04:02:21.531959+00:00",
+    "ts": "2026-09-09T11:02:22.153149+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/542573-lucas-cribley-named-ceo-of-c-innovation": {
@@ -15,20 +15,8 @@
     "ts": "2026-09-02T16:19:27.984923+00:00",
     "type": "highlight"
   },
-  "https://www.marinelog.com/news/rolls-royce-expands-variable-speed-mtu-genset-range/": {
-    "ts": "2026-09-02T10:58:39.488079+00:00",
-    "type": "other"
-  },
-  "https://petronoticias.com.br/integridade-de-ativos-offshore-como-a-integraca-entre-inspecao-e-manutencao-sustenta-a-continuidade-operacional/": {
-    "ts": "2026-09-02T10:58:39.488079+00:00",
-    "type": "highlight"
-  },
   "https://gcaptain.com/two-tankers-carrying-saudi-oil-attacked-in-strait-of-hormuz/": {
     "ts": "2026-09-02T16:19:27.984923+00:00",
-    "type": "highlight"
-  },
-  "https://maritime-executive.com/article/iranian-misrepresentations-over-the-strait-of-hormuz-addressed-by-oman": {
-    "ts": "2026-09-02T10:58:39.488079+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/wison-fires-starting-gun-on-fpso-fabrication-for-enis-african-oil-gas-project/": {
@@ -51,69 +39,13 @@
     "ts": "2026-09-03T03:51:00.620221+00:00",
     "type": "other"
   },
-  "https://www.oedigital.com/news/542633-coli-group-delivers-transformers-for-ge-vernova": {
-    "ts": "2026-09-02T10:58:39.488079+00:00",
-    "type": "highlight"
-  },
   "https://maritime-executive.com/article/turkish-companies-suspend-shipping-to-russia-citing-increased-dangers": {
     "ts": "2026-09-03T16:10:24.410414+00:00",
-    "type": "highlight"
-  },
-  "https://safety4sea.com/ten-crew-members-missing-following-collision-in-marmara-sea/": {
-    "ts": "2026-09-02T10:58:39.488079+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/abpip-propoe-medidas-prioritarias-para-destravar-ate-r-15-bilhoes-em-investimentos-no-setor-de-oleo-e-gas-do-rio-grande-do-norte/": {
     "ts": "2026-09-03T03:51:00.620221+00:00",
     "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/u-s-iran-trade-more-strikes-as-hormuz-tensions-simmer/": {
-    "ts": "2026-09-02T10:58:39.488079+00:00",
-    "type": "highlight"
-  },
-  "https://safety4sea.com/tanker-attacks-harassment-and-mine-risks-continue-in-strait-of-hormuz/": {
-    "ts": "2026-09-02T10:58:39.488079+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/qatari-uae-lng-cargoes-transferred-via-ship-to-ship-outside-strait-of-hormuz/": {
-    "ts": "2026-09-02T10:58:39.488079+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/us-goes-tanker-for-tanker-with-iran/": {
-    "ts": "2026-09-02T10:58:39.488079+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/u-s-strikes-2-iranian-government-tankers-under-new-tanker-for-tanker-policy-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-strikes-2-iranian-government-tankers-under-new-tanker-for-tanker-policy-in-strait-of-hormuz": {
-    "ts": "2026-09-02T10:58:39.488079+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/passenger-ferry-collides-with-tanker-off-malaysias-penang-port-injuring-21-people/?utm_source=rss&utm_medium=rss&utm_campaign=passenger-ferry-collides-with-tanker-off-malaysias-penang-port-injuring-21-people": {
-    "ts": "2026-09-02T10:58:39.488079+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/bessent-warns-strait-of-hormuz-will-be-worthless-within-2-years/": {
-    "ts": "2026-09-02T10:58:39.488079+00:00",
-    "type": "other"
-  },
-  "https://www.marinelog.com/news/deltamarin-advances-ship-design-with-hydrodynamic-optimization/": {
-    "ts": "2026-09-02T10:58:39.488079+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/boxships/euroholdings-secures-charter-extensions-for-two-feeder-containerships": {
-    "ts": "2026-09-02T10:58:39.488079+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/542640-ian-tyler-appointed-bp-chair": {
-    "ts": "2026-09-02T10:58:39.488079+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/sdsc-advances-fleet-with-six-ethanol-methanol-fueled-ore-carriers/": {
-    "ts": "2026-09-02T10:58:39.488079+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/542627-valeura-accelerates-wassana-redevelopment": {
-    "ts": "2026-09-02T10:58:39.488079+00:00",
-    "type": "other"
   },
   "https://safety4sea.com/two-filipino-seafarers-dead-in-incident-in-the-strait-of-hormuz/": {
     "ts": "2026-09-02T16:19:27.984923+00:00",
@@ -808,7 +740,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/beng-kuang-marine-unit-secures-58m-contract-for-fpso-works-in-angola": {
-    "ts": "2026-09-07T12:04:30.240440+00:00",
+    "ts": "2026-09-09T11:02:22.153149+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/542763-sea-lion-oil-project-caught-in-argentina-falklands-oil-dispute": {
@@ -880,7 +812,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/goldman-rystad-see-room-for-120-oil-if-u-s-iran-conflict-continues": {
-    "ts": "2026-09-09T04:02:21.531959+00:00",
+    "ts": "2026-09-09T11:02:22.153149+00:00",
     "type": "highlight"
   },
   "https://splash247.com/iran-threatens-wider-hormuz-exclusion-zone-after-tanker-strikes/": {
@@ -940,11 +872,11 @@
     "type": "other"
   },
   "https://safety4sea.com/yemen-coast-guard-intercepts-tanker-after-unauthorized-cargo-delivery/": {
-    "ts": "2026-09-09T04:02:21.531959+00:00",
+    "ts": "2026-09-09T11:02:22.153149+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/sauer-compressors-planeja-duplicar-sua-capacidade-no-brasil-e-ve-espaco-para-crescimento/": {
-    "ts": "2026-09-09T04:02:21.531959+00:00",
+    "ts": "2026-09-09T11:02:22.153149+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/26-filipino-seafarers-await-repatriation-after-attack-on-bulk-carrier-in-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=26-filipino-seafarers-await-repatriation-after-attack-on-bulk-carrier-in-ukraine": {
@@ -952,7 +884,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/542785-oil-jumps-as-houthi-strikes-disrupt-saudi-energy-operations": {
-    "ts": "2026-09-08T10:57:59.495969+00:00",
+    "ts": "2026-09-09T11:02:22.153149+00:00",
     "type": "other"
   },
   "https://splash247.com/ship-recycling-safety-must-start-before-the-first-cut/": {
@@ -1008,7 +940,7 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/perdidas-esfaceladas-sem-direcao-liderancas-iranianas-se-desentendem-sobre-seguir-ou-nao-a-guerra-contra-os-estados-unidos/": {
-    "ts": "2026-09-09T04:02:21.531959+00:00",
+    "ts": "2026-09-09T11:02:22.153149+00:00",
     "type": "highlight"
   },
   "https://splash247.com/shipping-powers-warn-global-maritime-rulebook-is-breaking-down/": {
@@ -1141,6 +1073,58 @@
   },
   "https://www.offshore-energy.biz/saipem-put-in-charge-of-commissioning-services-for-turkiye-bound-fpu/": {
     "ts": "2026-09-09T04:02:21.531959+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/oman-evacuates-16-crew-from-saudi-tanker-attacked-by-iran/": {
+    "ts": "2026-09-09T11:02:22.153149+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/iran-targets-u-s-base-in-jordan-attacks-ships-after-tanker-strikes/": {
+    "ts": "2026-09-09T11:02:22.153149+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/poseidon-principles-expands-reach-across-marine-insurance/": {
+    "ts": "2026-09-09T11:02:22.153149+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/u-s-hits-three-more-iranian-tankers-after-second-attack-on-u-s-warship": {
+    "ts": "2026-09-09T11:02:22.153149+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542819-abs-backs-hanwha-ocean-s-standardized-fpso-design": {
+    "ts": "2026-09-09T11:02:22.153149+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542816-larsen-toubro-adds-major-ongc-offshore-project-to-orderbook": {
+    "ts": "2026-09-09T11:02:22.153149+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/qatar-signals-lng-export-restart-as-ship-clears-strait-of-hormuz/": {
+    "ts": "2026-09-09T11:02:22.153149+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/two-maritime-companies-fined-1-75-million-for-discharging-oily-waste-into-the-ocean/?utm_source=rss&utm_medium=rss&utm_campaign=two-maritime-companies-fined-1-75-million-for-discharging-oily-waste-into-the-ocean": {
+    "ts": "2026-09-09T11:02:22.153149+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/south-korea-launches-national-body-to-shape-autonomous-shipping-rules/": {
+    "ts": "2026-09-09T11:02:22.153149+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/al-seer-marine-capitalises-on-higher-ship-valuations-by-selling-vlcc": {
+    "ts": "2026-09-09T11:02:22.153149+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/schoeller-doubles-down-at-chengxi-with-180m-mr-quartet/": {
+    "ts": "2026-09-09T11:02:22.153149+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/iran-strikes-back-us-military-destroys-542817": {
+    "ts": "2026-09-09T11:02:22.153149+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/u-s-destroys-5-iranian-oil-tankers-after-irgc-targets-american-warship-with-ballistic-missiles/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-destroys-5-iranian-oil-tankers-after-irgc-targets-american-warship-with-ballistic-missiles": {
+    "ts": "2026-09-09T11:02:22.153149+00:00",
     "type": "other"
   }
 }
