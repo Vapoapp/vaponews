@@ -2,16 +2,6 @@
   {
     "date": "2026-09-02",
     "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com ataques recentes a petroleiros elevando o custo de afretamento para VLCCs a cerca de US$ 20 milhões por trânsito. Esse patamar inviabiliza contratos de longo prazo, forçando armadores a revisar estratégias comerciais e de mitigação de risco, impactando diretamente a continuidade das cadeias globais de petróleo e aumentando a volatilidade financeira para operadores e seguradoras. No offshore, a consolidação avança com a fu"
-  },
-  {
-    "date": "2026-09-02",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -321,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo, forçando armadores a rever estratégias comerciais e ampliar mitigação de riscos geopolíticos. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o tráfego, elevando volatilidade para operadores e seguradoras. No offshore, avanços em contratos indicam continuidade da atividade, co"
+  },
+  {
+    "date": "2026-09-09",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por trânsito. Esse custo elevado inviabiliza contratos de longo prazo, forçando armadores a ajustar estratégias comerciais e ampliar mitigação de riscos geopolíticos. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o tráfego, aumentando volatilidade para operadores e seguradoras. O conflito direto entre EUA e Irã, com ataques recentes a pet"
   }
 ]
