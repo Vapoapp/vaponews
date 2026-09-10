@@ -908,7 +908,7 @@
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/porto-do-acu-primeira-importacao-enxofre-fertilizantes": {
-    "ts": "2026-09-10T10:59:04.419901+00:00",
+    "ts": "2026-09-10T16:09:22.993005+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/busan-coast-guard-raids-5-locations-including-shipping-company-over-tugboat-accident-that-left-5-crew-missing/?utm_source=rss&utm_medium=rss&utm_campaign=busan-coast-guard-raids-5-locations-including-shipping-company-over-tugboat-accident-that-left-5-crew-missing": {
@@ -968,11 +968,11 @@
     "type": "other"
   },
   "https://www.marinelink.com/news/us-iran-strike-oil-tankers-biggest-attack-542833": {
-    "ts": "2026-09-10T10:59:04.419901+00:00",
+    "ts": "2026-09-10T16:09:22.993005+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/brent-crude-oil-rises-above-100-a-barrel-as-middle-east-conflict-intensifies/": {
-    "ts": "2026-09-10T10:59:04.419901+00:00",
+    "ts": "2026-09-10T16:09:22.993005+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/boxships/arctic-containership-voyage-from-china-reaches-britain": {
@@ -1020,7 +1020,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/mcdermott-conquista-contrato-com-a-eni-para-desenvolvimento-submarino-de-campo-no-chipre/": {
-    "ts": "2026-09-10T10:59:04.419901+00:00",
+    "ts": "2026-09-10T16:09:22.993005+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/ships-and-seafarers-increasingly-caught-in-the-crossfire-of-unrelated-wars/": {
@@ -1056,7 +1056,7 @@
     "type": "other"
   },
   "https://splash247.com/hormuz-attacks-reach-wartime-high/": {
-    "ts": "2026-09-10T10:59:04.419901+00:00",
+    "ts": "2026-09-10T16:09:22.993005+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/storm-causes-vessel-to-run-aground-in-vladivostok/": {
@@ -1064,7 +1064,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/boxships/chinese-containership-arrives-in-uk-following-arctic-voyage-via-northern-sea-route": {
-    "ts": "2026-09-10T10:59:04.419901+00:00",
+    "ts": "2026-09-10T16:09:22.993005+00:00",
     "type": "highlight"
   },
   "https://splash247.com/new-fortress-scraps-former-seadrill-semisub-pair-after-flng-plans-fade/": {
@@ -1113,6 +1113,66 @@
   },
   "https://www.rigzone.com/news/oil_closes_at_highest_level_in_4_months-10-sep-2026-184581-article/": {
     "ts": "2026-09-10T10:59:04.419901+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/seafarer-killed-another-missing-after-attack-on-oil-tanker-off-dubai/?utm_source=rss&utm_medium=rss&utm_campaign=seafarer-killed-another-missing-after-attack-on-oil-tanker-off-dubai": {
+    "ts": "2026-09-10T16:09:22.993005+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/o-preco-do-petroleo-continua-alto-e-sensivel-acima-dos-101-dolares-com-a-guerra-envolvendo-os-terroristas-houthis-e-as-forcas-sauditas/": {
+    "ts": "2026-09-10T16:09:22.993005+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/25-dead-in-bulker-blaze-at-chinese-shipyard/": {
+    "ts": "2026-09-10T16:09:22.993005+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/gas/tbg-abre-processo-de-consulta-ao-mercado-para-2027": {
+    "ts": "2026-09-10T16:09:22.993005+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/iran-claims-attacks-on-10-ships-near-strait-of-hormuz-after-us-sinks-5-iranian-tankers/?utm_source=rss&utm_medium=rss&utm_campaign=iran-claims-attacks-on-10-ships-near-strait-of-hormuz-after-us-sinks-5-iranian-tankers": {
+    "ts": "2026-09-10T16:09:22.993005+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/aggression-against-shipping-expands-both-in-frequency-and-geographic-reach/": {
+    "ts": "2026-09-10T16:09:22.993005+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/norwegian-psv-to-continue-current-charter-for-additional-100-days/": {
+    "ts": "2026-09-10T16:09:22.993005+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/cm-world-suicide-prevention-day-breaking-the-silence-at-sea/": {
+    "ts": "2026-09-10T16:09:22.993005+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/from-hormuz-to-the-black-sea-shipping-faces-a-new-era-of-risk/": {
+    "ts": "2026-09-10T16:09:22.993005+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/hormuz-shipping-traffic-in-single-digits-data-shows/": {
+    "ts": "2026-09-10T16:09:22.993005+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/houthi-advance-toward-bab-elmandeb-raises-542858": {
+    "ts": "2026-09-10T16:09:22.993005+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542862-boskalis-windpiper-starts-maiden-job-at-polish-wind-farms": {
+    "ts": "2026-09-10T16:09:22.993005+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542863-exxonmobil-taps-saipem-jan-de-nul-for-rovuma-lng-work": {
+    "ts": "2026-09-10T16:09:22.993005+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/petronas-hands-new-offshore-contract-to-australian-backed-explorer": {
+    "ts": "2026-09-10T16:09:22.993005+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/naming-ceremony-held-for-new-lng-carrier-built-by-samsung-heavy-industries/": {
+    "ts": "2026-09-10T16:09:22.993005+00:00",
     "type": "other"
   }
 }

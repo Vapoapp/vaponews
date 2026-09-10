@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-09-02",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com ataques recentes elevando o custo de afretamento de VLCCs para cerca de US$ 20 milhões por trânsito. Esse patamar inviabiliza contratos de longo prazo, forçando armadores a revisar estratégias comerciais e de mitigação de risco, o que aumenta a volatilidade financeira e expõe operadores e seguradoras a riscos geopolíticos elevados. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o tráfego na rota"
-  },
-  {
     "date": "2026-09-03",
     "drivers": [
       "operações offshore",
@@ -322,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, com afretamentos de VLCCs em US$ 20 milhões por passagem, inviabilizando contratos de longo prazo. A ampliação da lista negra iraniana para 56 embarcações restringe o tráfego e eleva volatilidade para armadores e seguradoras, pressionando custos de seguro e estratégias comerciais. O conflito direto entre EUA e Irã intensifica ataques a petroleiros, elevando o risco geopolítico e impactando o fornecimento global de petróleo. O Bre"
+  },
+  {
+    "date": "2026-09-10",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em torno de US$ 20 milhões por passagem, inviabilizando contratos de longo prazo e forçando armadores a revisar estratégias comerciais. A ampliação da lista negra iraniana para 56 embarcações amplia a volatilidade para operadores e seguradoras, elevando custos de seguro e restringindo o fluxo global de petróleo. O aumento dos ataques entre EUA e Irã, incluindo incidentes fatais em petro"
   }
 ]
