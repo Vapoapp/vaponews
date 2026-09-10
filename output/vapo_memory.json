@@ -2,16 +2,6 @@
   {
     "date": "2026-09-03",
     "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com ataques recentes a petroleiros elevando o custo de afretamento de VLCCs para cerca de US$ 20 milhões por trânsito. Esse aumento inviabiliza contratos de longo prazo e força armadores a revisar estratégias comerciais e de mitigação de risco, ampliando a volatilidade financeira e o risco geopolítico para operadores e seguradoras. A ampliação da lista negra iraniana para 56 embarcações reforça a restrição do tráfego na rota."
-  },
-  {
-    "date": "2026-09-03",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -322,5 +312,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em torno de US$ 20 milhões por passagem, inviabilizando contratos de longo prazo e forçando armadores a revisar estratégias comerciais. A ampliação da lista negra iraniana para 56 embarcações amplia a volatilidade para operadores e seguradoras, elevando custos de seguro e restringindo o fluxo global de petróleo. O aumento dos ataques entre EUA e Irã, incluindo incidentes fatais em petro"
+  },
+  {
+    "date": "2026-09-10",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo e força armadores a revisar estratégias comerciais, ampliando a mitigação de riscos geopolíticos. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o tráfego, elevando volatilidade para operadores e seguradoras. O aumento dos ataques entre EUA e Irã intensifica o risco geopolítico na rota, press"
   }
 ]
