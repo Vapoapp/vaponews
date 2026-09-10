@@ -1,34 +1,14 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-09-09T20:45:25.508488+00:00",
+    "ts": "2026-09-10T04:01:20.568515+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
     "ts": "2026-09-09T16:17:54.700150+00:00",
     "type": "highlight"
   },
-  "https://www.offshore-energy.biz/wison-fires-starting-gun-on-fpso-fabrication-for-enis-african-oil-gas-project/": {
-    "ts": "2026-09-02T20:50:25.523325+00:00",
-    "type": "other"
-  },
-  "https://www.nytimes.com/2026/09/01/business/ships-oil-hormuz-iran-war.html": {
-    "ts": "2026-09-02T20:50:25.523325+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/542606-coli-group-delivers-14-transformers-for-baltica-2-offshore-wind-farm": {
-    "ts": "2026-09-02T20:50:25.523325+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/iran-increases-hormuz-pressure-with-nearly-simultaneous-attacks-on-tankers": {
-    "ts": "2026-09-03T03:51:00.620221+00:00",
-    "type": "other"
-  },
   "https://maritime-executive.com/article/turkish-companies-suspend-shipping-to-russia-citing-increased-dangers": {
     "ts": "2026-09-03T16:10:24.410414+00:00",
-    "type": "highlight"
-  },
-  "https://petronoticias.com.br/abpip-propoe-medidas-prioritarias-para-destravar-ate-r-15-bilhoes-em-investimentos-no-setor-de-oleo-e-gas-do-rio-grande-do-norte/": {
-    "ts": "2026-09-03T03:51:00.620221+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/a-gilbarco-veeder-root-levara-as-novas-tecnologias-desenvolvidas-para-a-feira-expopostos-que-sera-realizada-em-sao-paulo-e/": {
@@ -39,16 +19,8 @@
     "ts": "2026-09-03T20:47:34.908088+00:00",
     "type": "other"
   },
-  "https://gcaptain.com/two-seafarers-killed-in-strait-of-hormuz-tanker-attack/": {
-    "ts": "2026-09-03T03:51:00.620221+00:00",
-    "type": "highlight"
-  },
   "https://petronoticias.com.br/chevron-anuncia-planos-para-investir-mais-de-us-7-bilhoes-na-venezuela-e-dobrar-a-producao/": {
     "ts": "2026-09-03T16:10:24.410414+00:00",
-    "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/shipping/iran-widens-hormuz-shipping-blacklist-to-56-vessels": {
-    "ts": "2026-09-03T03:51:00.620221+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/negocios/21835/motiva-conclui-venda-de-20-aeroportos-para-a-asur-por-r-12-21-bilhoes/": {
@@ -59,96 +31,16 @@
     "ts": "2026-09-04T03:52:52.292348+00:00",
     "type": "other"
   },
-  "https://maritime-executive.com/article/iran-threatens-additional-punitive-measures-as-us-goes-tanker-for-tanker": {
-    "ts": "2026-09-02T20:50:25.523325+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/saudi-oil-exports-dive-as-tankers-at-risk-from-hormuz-to-red-sea/": {
-    "ts": "2026-09-02T20:50:25.523325+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/10-missing-as-turkish-cargo-ship-sinks-after-collision-off-istanbul/": {
-    "ts": "2026-09-02T20:50:25.523325+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/ten-missing-as-turkish-cargo-ship-feared-sunk-after-marmara-collision/": {
-    "ts": "2026-09-02T20:50:25.523325+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/cosco-shipping-energy-transportation-reports-141-per-cent-rise-in-h1-profit": {
-    "ts": "2026-09-02T20:50:25.523325+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/consortium-launches-wintegrate-accelerate-542675": {
-    "ts": "2026-09-02T20:50:25.523325+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/shipping-industry-welcomes-proposed-addition-of-indian-yards-to-european-list/": {
-    "ts": "2026-09-02T20:50:25.523325+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/inmarsat-weather-accounted-for-84-6-of-urgent-maritime-safety-broadcasts-in-2025/": {
-    "ts": "2026-09-02T20:50:25.523325+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-september-2-2026/": {
-    "ts": "2026-09-02T20:50:25.523325+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/iran-adds-ships-hormuz-blacklist-542669": {
-    "ts": "2026-09-02T20:50:25.523325+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/iran-seizes-bulk-carrier-over-alleged-oil-and-sludge-discharge-in-hormuz/": {
-    "ts": "2026-09-02T20:50:25.523325+00:00",
-    "type": "other"
-  },
   "https://www.oedigital.com/news/542678-shell-acquires-stake-in-bp-s-conifer-prospect-in-the-gulf-of-mexico": {
     "ts": "2026-09-04T20:35:03.003196+00:00",
-    "type": "highlight"
-  },
-  "https://gcaptain.com/ships-turn-to-makeshift-armor-as-black-sea-attacks-surge/": {
-    "ts": "2026-09-03T03:51:00.620221+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/abs-recognizes-german-shipping-communitys-542686": {
     "ts": "2026-09-03T10:57:49.739470+00:00",
     "type": "highlight"
   },
-  "https://brasilenergia.com.br/petroleoegas/ep/shell-adquire-da-bp-50-do-bloco-exploratorio-tupinamba": {
-    "ts": "2026-09-03T03:51:00.620221+00:00",
-    "type": "other"
-  },
-  "https://petronoticias.com.br/eneva-e-diamante-energia-trocam-participacao-em-ativos-movimentando-ate-r-867-milhoes/": {
-    "ts": "2026-09-03T03:51:00.620221+00:00",
-    "type": "other"
-  },
   "https://www.marinelog.com/news/everllence-completes-g80-me-lgime-engine-rd-test/": {
     "ts": "2026-09-04T10:57:46.056256+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/542689-pipelay-vessel-ready-for-uk-carbon-storage-project": {
-    "ts": "2026-09-03T03:51:00.620221+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/542683-nadara-confirms-landfall-location-for-bellrock-floating-wind-project": {
-    "ts": "2026-09-03T03:51:00.620221+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/anemoi-and-maersk-to-deliver-world-first-with-rotor-sail-technology-for-container-shipping/": {
-    "ts": "2026-09-03T03:51:00.620221+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/hornbeck-offshore-helix-energy-solutions-complete-merger": {
-    "ts": "2026-09-03T03:51:00.620221+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/newbuild-orders-continue-with-scrubbers/": {
-    "ts": "2026-09-03T03:51:00.620221+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/chinese-shipbuilder-taps-gtt-for-tank-design-of-four-lng-carriers/": {
-    "ts": "2026-09-03T03:51:00.620221+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/six-months-of-us-iran-war-leaves-hormuz-traffic-severely-depressed/": {
@@ -808,7 +700,7 @@
     "type": "other"
   },
   "https://safety4sea.com/yemen-coast-guard-intercepts-tanker-after-unauthorized-cargo-delivery/": {
-    "ts": "2026-09-09T20:45:25.508488+00:00",
+    "ts": "2026-09-10T04:01:20.568515+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/sauer-compressors-planeja-duplicar-sua-capacidade-no-brasil-e-ve-espaco-para-crescimento/": {
@@ -916,11 +808,11 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/542798-eni-picks-mcdermott-for-cronos-field-subsea-work-off-cyprus": {
-    "ts": "2026-09-08T16:22:43.562811+00:00",
+    "ts": "2026-09-10T04:01:20.568515+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/542795-t12-engineering-gets-owgp-funding-for-floating-wind-mooring-tech": {
-    "ts": "2026-09-08T16:22:43.562811+00:00",
+    "ts": "2026-09-10T04:01:20.568515+00:00",
     "type": "other"
   },
   "https://gcaptain.com/russias-arctic-lng-2-seeks-1-billion-in-damages-from-south-koreas-hanwha/": {
@@ -968,7 +860,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/qatar-lng-tanker-sails-through-strait-of-hormuz-for-first-time-since-july/?utm_source=rss&utm_medium=rss&utm_campaign=qatar-lng-tanker-sails-through-strait-of-hormuz-for-first-time-since-july": {
-    "ts": "2026-09-08T20:57:28.793121+00:00",
+    "ts": "2026-09-10T04:01:20.568515+00:00",
     "type": "other"
   },
   "https://www.offshore-energy.biz/first-subsea-contract-with-eni-takes-mcdermott-to-cyprus/": {
@@ -1020,7 +912,7 @@
     "type": "highlight"
   },
   "https://splash247.com/poseidon-principles-expands-reach-across-marine-insurance/": {
-    "ts": "2026-09-09T20:45:25.508488+00:00",
+    "ts": "2026-09-10T04:01:20.568515+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/u-s-hits-three-more-iranian-tankers-after-second-attack-on-u-s-warship": {
@@ -1064,15 +956,15 @@
     "type": "other"
   },
   "https://safety4sea.com/vessel-said-to-be-listing-after-reported-attack-off-uae/": {
-    "ts": "2026-09-09T20:45:25.508488+00:00",
+    "ts": "2026-09-10T04:01:20.568515+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/porto-do-acu-primeira-importacao-enxofre-fertilizantes": {
-    "ts": "2026-09-09T20:45:25.508488+00:00",
+    "ts": "2026-09-10T04:01:20.568515+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/busan-coast-guard-raids-5-locations-including-shipping-company-over-tugboat-accident-that-left-5-crew-missing/?utm_source=rss&utm_medium=rss&utm_campaign=busan-coast-guard-raids-5-locations-including-shipping-company-over-tugboat-accident-that-left-5-crew-missing": {
-    "ts": "2026-09-09T20:45:25.508488+00:00",
+    "ts": "2026-09-10T04:01:20.568515+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/justica-e-seguranca-na-revisao-tarifaria-do-transporte-de-gas": {
@@ -1128,15 +1020,15 @@
     "type": "other"
   },
   "https://www.marinelink.com/news/us-iran-strike-oil-tankers-biggest-attack-542833": {
-    "ts": "2026-09-09T20:45:25.508488+00:00",
+    "ts": "2026-09-10T04:01:20.568515+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/brent-crude-oil-rises-above-100-a-barrel-as-middle-east-conflict-intensifies/": {
-    "ts": "2026-09-09T20:45:25.508488+00:00",
+    "ts": "2026-09-10T04:01:20.568515+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/boxships/arctic-containership-voyage-from-china-reaches-britain": {
-    "ts": "2026-09-09T20:45:25.508488+00:00",
+    "ts": "2026-09-10T04:01:20.568515+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/weekly-tanker-time-charter-estimates-september-9-2026/": {
@@ -1177,6 +1069,42 @@
   },
   "https://www.oedigital.com/news/542814-energean-s-profit-rises-as-israeli-gas-operations-recover": {
     "ts": "2026-09-09T20:45:25.508488+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/mcdermott-conquista-contrato-com-a-eni-para-desenvolvimento-submarino-de-campo-no-chipre/": {
+    "ts": "2026-09-10T04:01:20.568515+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/ships-and-seafarers-increasingly-caught-in-the-crossfire-of-unrelated-wars/": {
+    "ts": "2026-09-10T04:01:20.568515+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/iran-threatens-tankers-in-kuwait-and-bahrain-as-irgc-responds-to-us-attacks": {
+    "ts": "2026-09-10T04:01:20.568515+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/eventos/firjan-promove-evento-sobre-seap-i-e-ii": {
+    "ts": "2026-09-10T04:01:20.568515+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/us-military-says-it-destroyed-5-more-iranian-oil-tankers-after-missile-attacks-on-navy-warship/": {
+    "ts": "2026-09-10T04:01:20.568515+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/ukraine-claims-missile-strike-on-russian-navy-frigate": {
+    "ts": "2026-09-10T04:01:20.568515+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/shipping-nations-sound-alarm-over-threats-to-freedom-of-navigation/": {
+    "ts": "2026-09-10T04:01:20.568515+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/msc-shipmanagement-and-vessel-owner-plead-guilty-over-illegal-oily-waste-discharges/": {
+    "ts": "2026-09-10T04:01:20.568515+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/542791-ventura-expands-drillship-fleet-lands-58m-petronas-deal": {
+    "ts": "2026-09-10T04:01:20.568515+00:00",
     "type": "other"
   }
 }
