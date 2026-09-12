@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-09-04",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A operação no Estreito de Ormuz permanece abaixo de 10%, com afretamento de VLCCs atingindo US$ 20 milhões por trânsito. Esse custo inviabiliza contratos de longo prazo, forçando armadores a ajustar estratégias comerciais e ampliar mitigação de riscos. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o tráfego, elevando volatilidade financeira e expondo operadores e seguradoras a riscos geopolíticos crescentes. No offshore, o investimento em terminais de descomissiona"
-  },
-  {
     "date": "2026-09-05",
     "drivers": [
       "contratos marítimos",
@@ -324,5 +313,14 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo, forçando armadores a reconfigurar estratégias comerciais e ampliar medidas de mitigação de risco. A ampliação da lista negra iraniana para 56 embarcações eleva volatilidade e custos de seguro, restringindo o fluxo global de petróleo e pressionando a logística marítima. Ataques recentes, incluindo disparos de pr"
+  },
+  {
+    "date": "2026-09-12",
+    "drivers": [
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem. Esse nível inviabiliza contratos de longo prazo e força armadores a reconfigurar estratégias comerciais, ampliando medidas de mitigação de risco. A ampliação da lista negra iraniana para 56 embarcações aumenta volatilidade e pressiona custos de seguro e frete, impactando diretamente a logística global de petróleo. Ataques recentes, incluindo disparos de p"
   }
 ]
