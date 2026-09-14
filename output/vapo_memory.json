@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-09-06",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamento de VLCCs em torno de US$ 20 milhões por trânsito. Esse custo inviabiliza contratos de longo prazo, forçando armadores a rever estratégias comerciais e ampliar mitigação de riscos geopolíticos. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o tráfego, elevando volatilidade financeira para operadores e seguradoras. No offshore, contratos de manutenção e instalação seguem ativos, com"
-  },
-  {
     "date": "2026-09-07",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -317,5 +306,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem, inviabilizando contratos de longo prazo. A ampliação da lista negra iraniana para 56 embarcações pressiona custos de seguro e frete, forçando armadores a reconfigurar estratégias comerciais e ampliar medidas de mitigação de risco. A interrupção do oleoduto estratégico na Arábia Saudita, após ataque de drones, intensifica a volatilidade no mercado de petró"
+  },
+  {
+    "date": "2026-09-14",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo e força armadores a reestruturarem estratégias comerciais, ampliando medidas de mitigação de risco. A ampliação da lista negra iraniana para 56 embarcações pressiona custos de seguro e frete, restringindo o fluxo global de petróleo. O ataque ao oleoduto estratégico na Arábia Saudita intensifica a volatilid"
   }
 ]
