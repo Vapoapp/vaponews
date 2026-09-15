@@ -2,17 +2,6 @@
   {
     "date": "2026-09-07",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por trânsito. Esse patamar inviabiliza contratos de longo prazo, forçando armadores a ajustar estratégias comerciais e ampliar mitigação de riscos geopolíticos. A escalada de ataques e contra-ataques entre EUA e Irã mantém a volatilidade financeira alta e restringe o tráfego, impactando diretamente a logística global de petróleo. No offshore, contratos de manutenção e supo"
-  },
-  {
-    "date": "2026-09-07",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -317,5 +306,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo e força armadores a reestruturarem estratégias comerciais, ampliando medidas de mitigação de risco. A ampliação da lista negra iraniana para 56 embarcações pressiona custos de seguro e frete, restringindo o fluxo global de petróleo. O ataque ao oleoduto estratégico na Arábia Saudita intensifica a volatilid"
+  },
+  {
+    "date": "2026-09-15",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo, obrigando armadores a reestruturarem estratégias comerciais e ampliar medidas de mitigação de risco geopolítico. A ampliação da lista negra iraniana para 56 embarcações pressiona custos de seguro e frete, restringindo o fluxo global de petróleo. O ataque a um oleoduto estratégico na Arábia Saudita, que levo"
   }
 ]
