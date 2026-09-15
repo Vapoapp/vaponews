@@ -2,16 +2,6 @@
   {
     "date": "2026-09-08",
     "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por trânsito. Esse custo inviabiliza contratos de longo prazo, obrigando armadores a rever estratégias comerciais e ampliar mitigação de riscos geopolíticos. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o tráfego, elevando volatilidade financeira para operadores e seguradoras. A escalada dos ataques entre EUA e Irã mantém o ambiente de r"
-  },
-  {
-    "date": "2026-09-08",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -317,5 +307,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem, inviabilizando contratos de longo prazo. A ampliação da lista negra iraniana para 77 embarcações eleva custos de seguro e frete, forçando armadores a reconfigurar estratégias comerciais e ampliar medidas de mitigação de risco geopolítico. A volatilidade no fluxo global de petróleo aumenta com ataques recentes a oleodutos na Arábia Saudita, impactando a logíst"
+  },
+  {
+    "date": "2026-09-15",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com tarifas de afretamento para VLCCs estabilizadas em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo, forçando armadores a reconfigurar estratégias comerciais e ampliar medidas de mitigação de risco, enquanto a lista negra iraniana atinge 77 embarcações, pressionando custos de seguro e frete. A volatilidade aumenta com ataques a oleodutos na Arábia Saudita, interrompendo exportações pelo Mar V"
   }
 ]
