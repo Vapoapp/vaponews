@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-09-17T11:21:22.424737+00:00",
+    "ts": "2026-09-17T16:38:01.990545+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
@@ -21,10 +21,6 @@
   },
   "https://www.marinelink.com/news/us-iran-strike-oil-tankers-biggest-attack-542833": {
     "ts": "2026-09-11T03:58:09.689579+00:00",
-    "type": "highlight"
-  },
-  "https://gcaptain.com/brent-crude-oil-rises-above-100-a-barrel-as-middle-east-conflict-intensifies/": {
-    "ts": "2026-09-10T16:09:22.993005+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/mcdermott-conquista-contrato-com-a-eni-para-desenvolvimento-submarino-de-campo-no-chipre/": {
@@ -55,25 +51,9 @@
     "ts": "2026-09-11T10:57:58.119916+00:00",
     "type": "highlight"
   },
-  "https://petronoticias.com.br/o-preco-do-petroleo-continua-alto-e-sensivel-acima-dos-101-dolares-com-a-guerra-envolvendo-os-terroristas-houthis-e-as-forcas-sauditas/": {
-    "ts": "2026-09-10T16:09:22.993005+00:00",
-    "type": "highlight"
-  },
   "https://splash247.com/25-dead-in-bulker-blaze-at-chinese-shipyard/": {
     "ts": "2026-09-12T20:23:25.887180+00:00",
     "type": "highlight"
-  },
-  "https://brasilenergia.com.br/petroleoegas/gas/tbg-abre-processo-de-consulta-ao-mercado-para-2027": {
-    "ts": "2026-09-10T16:09:22.993005+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/iran-claims-attacks-on-10-ships-near-strait-of-hormuz-after-us-sinks-5-iranian-tankers/?utm_source=rss&utm_medium=rss&utm_campaign=iran-claims-attacks-on-10-ships-near-strait-of-hormuz-after-us-sinks-5-iranian-tankers": {
-    "ts": "2026-09-10T16:09:22.993005+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/aggression-against-shipping-expands-both-in-frequency-and-geographic-reach/": {
-    "ts": "2026-09-10T16:09:22.993005+00:00",
-    "type": "other"
   },
   "https://www.offshore-energy.biz/norwegian-psv-to-continue-current-charter-for-additional-100-days/": {
     "ts": "2026-09-11T16:12:37.088266+00:00",
@@ -81,18 +61,6 @@
   },
   "https://safety4sea.com/cm-world-suicide-prevention-day-breaking-the-silence-at-sea/": {
     "ts": "2026-09-11T16:12:37.088266+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/from-hormuz-to-the-black-sea-shipping-faces-a-new-era-of-risk/": {
-    "ts": "2026-09-10T16:09:22.993005+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/hormuz-shipping-traffic-in-single-digits-data-shows/": {
-    "ts": "2026-09-10T16:09:22.993005+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/houthi-advance-toward-bab-elmandeb-raises-542858": {
-    "ts": "2026-09-10T16:09:22.993005+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/542862-boskalis-windpiper-starts-maiden-job-at-polish-wind-farms": {
@@ -992,7 +960,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/ports/stakeholders-hold-groundbreaking-ceremony-for-delaware-container-terminal": {
-    "ts": "2026-09-16T16:32:48.251555+00:00",
+    "ts": "2026-09-17T16:38:01.990545+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/ports/antwerp-bruges-to-launch-commercial-autonomous-container-truck-trial": {
@@ -1008,11 +976,11 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/543012-noia-celebrates-passage-of-twic-workforce-bill-in-the-house-of-representatives": {
-    "ts": "2026-09-17T11:21:22.424737+00:00",
+    "ts": "2026-09-17T16:38:01.990545+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/empresas/vallourec-fornecera-tubos-para-o-epci-de-sepia-2": {
-    "ts": "2026-09-17T11:21:22.424737+00:00",
+    "ts": "2026-09-17T16:38:01.990545+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/the-war-premium-has-moved-into-the-balance-sheet/": {
@@ -1068,7 +1036,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/editorials/hormuz-route-negotiations-would-have-handed-substantial-control-to-iran": {
-    "ts": "2026-09-17T11:21:22.424737+00:00",
+    "ts": "2026-09-17T16:38:01.990545+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/gtt-energy-strengthens-its-offering-with-the-launch-of-the-lng-performance-centre-and-next-generation-lng-as-fuel-solution/": {
@@ -1112,11 +1080,11 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543028-cyber-security-regulations-drive-resilience-agenda-for-offshore-energy-infrastructure": {
-    "ts": "2026-09-17T11:21:22.424737+00:00",
+    "ts": "2026-09-17T16:38:01.990545+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/80-ship-attacks-in-strait-of-hormuz-kill-20-seafarers-injure-several-since-us-iran-war-began-imo-reveals/?utm_source=rss&utm_medium=rss&utm_campaign=80-ship-attacks-in-strait-of-hormuz-kill-20-seafarers-injure-several-since-us-iran-war-began-imo-reveals": {
-    "ts": "2026-09-17T11:21:22.424737+00:00",
+    "ts": "2026-09-17T16:38:01.990545+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/diana-shipping-signs-charter-deal-with-aquavita-for-kamsarmax-bulker": {
@@ -1161,6 +1129,62 @@
   },
   "https://www.offshore-energy.biz/fore-accommodation-lng-carrier-with-four-wind-challenger-sails-clears-lr-design-appraisal/": {
     "ts": "2026-09-17T11:21:22.424737+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/cyberattacks-on-two-us-bound-tankers-put-cyber-risk-back-in-the-spotlight/": {
+    "ts": "2026-09-17T16:38:01.990545+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/cacas-da-arabia-saudita-atacam-tropas-houthis-no-iemem-e-no-estreito-de-bab-al-mandab-depois-de-ter-um-oleoduto-atingido-pelos-terroristas/": {
+    "ts": "2026-09-17T16:38:01.990545+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/stop-attacking-merchant-ships-and-seafarers-imo-secretary-general-to-member-states/": {
+    "ts": "2026-09-17T16:38:01.990545+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/subsea7-apresenta-tecnologias-para-aguas-profundas-durante-a-rog-e-2026/": {
+    "ts": "2026-09-17T16:38:01.990545+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/petrobras-widens-its-african-offshore-portfolio-with-multiple-blocks-in-cote-divoire/": {
+    "ts": "2026-09-17T16:38:01.990545+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/transito-launches-combined-sea-and-inland-freight-service/": {
+    "ts": "2026-09-17T16:38:01.990545+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/diana-keeps-rate-momentum-going-with-kamsarmax-deal/": {
+    "ts": "2026-09-17T16:38:01.990545+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/lessons-learned-safe-vessel-interfaces-depend-on-agreed-methods-and-clear-communication/": {
+    "ts": "2026-09-17T16:38:01.990545+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/expansion-move-puts-us-lng-project-on-path-for-almost-twofold-capacity-boost/": {
+    "ts": "2026-09-17T16:38:01.990545+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/us-contracted-vessel-hit-by-4-iranian-drones-a-missile-near-strait-of-hormuz-report/?utm_source=rss&utm_medium=rss&utm_campaign=us-contracted-vessel-hit-by-4-iranian-drones-a-missile-near-strait-of-hormuz-report": {
+    "ts": "2026-09-17T16:38:01.990545+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/report-u-s-personnel-injured-in-iranian-attack-on-boat-near-hormuz": {
+    "ts": "2026-09-17T16:38:01.990545+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/shipping-technology-launches-st-sailing-543037": {
+    "ts": "2026-09-17T16:38:01.990545+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/ibia-issues-biofuel-checklist-as-imo-moves-to-support-safer-fame-bunkering/": {
+    "ts": "2026-09-17T16:38:01.990545+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543024-lng-prices-projected-to-spike-european-stocks-dwindle": {
+    "ts": "2026-09-17T16:38:01.990545+00:00",
     "type": "other"
   }
 }
