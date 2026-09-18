@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-09-10",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo e força armadores a revisar estratégias comerciais, ampliando a mitigação de riscos geopolíticos. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o tráfego, elevando volatilidade para operadores e seguradoras. O aumento dos ataques entre EUA e Irã intensifica o risco geopolítico na rota, press"
-  },
-  {
     "date": "2026-09-11",
     "drivers": [
       "contratos marítimos",
@@ -317,5 +306,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem. Esse custo elevado inviabiliza contratos de longo prazo, forçando armadores a reestruturarem estratégias comerciais e ampliar medidas de mitigação de risco geopolítico. A inclusão de 77 embarcações na lista negra iraniana eleva prêmios de seguro e frete, restringindo o fluxo global de petróleo e aumentando volatilidade logística. No offshore brasileiro, o"
+  },
+  {
+    "date": "2026-09-18",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com afretamentos de VLCCs em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo e força armadores a reconfigurar estratégias comerciais, ampliando medidas de mitigação de risco geopolítico. A inclusão de 77 embarcações na lista negra iraniana eleva prêmios de seguro e frete, restringindo o fluxo global de petróleo e aumentando volatilidade na cadeia logística. No offshore brasileiro, a assinatura de cont"
   }
 ]
