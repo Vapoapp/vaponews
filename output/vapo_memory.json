@@ -2,17 +2,6 @@
   {
     "date": "2026-09-11",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo e força armadores a ajustar estratégias comerciais, ampliando a mitigação de riscos geopolíticos. A ampliação da lista negra iraniana para 56 embarcações restringe ainda mais o fluxo, elevando volatilidade para operadores e seguradoras. Os ataques recentes entre EUA e Irã, incluindo incidentes fatais e incên"
-  },
-  {
-    "date": "2026-09-11",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -317,5 +306,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes de VLCCs estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo e força armadores a reestruturarem estratégias comerciais para mitigar riscos, diante da ampliação da lista negra iraniana para 77 embarcações. O aumento dos prêmios de seguro e a volatilidade logística pressionam o fluxo global de petróleo, impactando diretamente a cadeia marítima de abastecimento. No Mar Verme"
+  },
+  {
+    "date": "2026-09-19",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem, inviabilizando contratos de longo prazo. A inclusão de 77 embarcações na lista negra iraniana eleva prêmios de seguro e frete, ampliando volatilidade e restringindo o fluxo global de petróleo. Armadores reestruturam estratégias comerciais para mitigar riscos geopolíticos, mas a instabilidade persiste como fator limitante para a cadeia marítima. No Mar Vermelh"
   }
 ]

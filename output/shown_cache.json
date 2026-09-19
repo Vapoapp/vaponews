@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-09-19T04:01:24.212691+00:00",
+    "ts": "2026-09-19T10:38:23.647136+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
@@ -14,14 +14,6 @@
   "https://splash247.com/25-dead-in-bulker-blaze-at-chinese-shipyard/": {
     "ts": "2026-09-12T20:23:25.887180+00:00",
     "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/offshore/exploration-development/petronas-hands-new-offshore-contract-to-australian-backed-explorer": {
-    "ts": "2026-09-12T10:24:53.173199+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/iran-waives-levy-ease-foreign-energy-542855": {
-    "ts": "2026-09-12T10:24:53.173199+00:00",
-    "type": "other"
   },
   "https://maritime-executive.com/article/ukmto-two-more-tankers-attacked-on-omani-route-in-strait-of-hormuz": {
     "ts": "2026-09-12T20:23:25.887180+00:00",
@@ -66,10 +58,6 @@
   "https://www.offshore-energy.biz/spanish-shipyard-launches-its-largest-ever-vessel-built-for-ostensjo-rederi/": {
     "ts": "2026-09-12T15:19:39.996241+00:00",
     "type": "other"
-  },
-  "https://petronoticias.com.br/petroleo-passa-de-us-104-com-os-avancos-dos-terroristas-houthis-apoiando-o-ira-e-estrangulando-o-trafego-de-navios-pelos-estreitos/": {
-    "ts": "2026-09-12T10:24:53.173199+00:00",
-    "type": "highlight"
   },
   "https://splash247.com/splash-wrap-the-risk-premium/": {
     "ts": "2026-09-12T20:23:25.887180+00:00",
@@ -151,10 +139,6 @@
     "ts": "2026-09-13T20:34:35.028400+00:00",
     "type": "highlight"
   },
-  "https://gcaptain.com/imo-urged-to-give-shipping-clear-investment-signal-on-net-zero-pathway/": {
-    "ts": "2026-09-12T10:24:53.173199+00:00",
-    "type": "other"
-  },
   "https://www.bairdmaritime.com/shipping/indias-modi-challenges-iran-on-maritime-freedom-and-safety-of-sailors": {
     "ts": "2026-09-13T11:27:49.612983+00:00",
     "type": "other"
@@ -165,10 +149,6 @@
   },
   "https://www.bairdmaritime.com/shipping/tankers/gas/japan-locks-in-landmark-emergency-lng-lifeline-with-petronas": {
     "ts": "2026-09-13T11:27:49.612983+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/houthis-strengthen-position-near-bab-el-mandeb-strait-after-seizing-yemens-mocha-port-city/?utm_source=rss&utm_medium=rss&utm_campaign=houthis-strengthen-position-near-bab-el-mandeb-strait-after-seizing-yemens-mocha-port-city": {
-    "ts": "2026-09-12T10:24:53.173199+00:00",
     "type": "other"
   },
   "https://www.marineinsight.com/u-s-philippine-marines-simulate-attacks-against-chinese-warships-using-drones-brahmos-anti-ship-missiles/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-philippine-marines-simulate-attacks-against-chinese-warships-using-drones-brahmos-anti-ship-missiles": {
@@ -932,7 +912,7 @@
     "type": "other"
   },
   "https://safety4sea.com/cyberattacks-on-two-us-bound-tankers-put-cyber-risk-back-in-the-spotlight/": {
-    "ts": "2026-09-19T04:01:24.212691+00:00",
+    "ts": "2026-09-19T10:38:23.647136+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/cacas-da-arabia-saudita-atacam-tropas-houthis-no-iemem-e-no-estreito-de-bab-al-mandab-depois-de-ter-um-oleoduto-atingido-pelos-terroristas/": {
@@ -1064,7 +1044,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/germany-receives-next-fsru-as-it-adds-lng-import-capacity": {
-    "ts": "2026-09-18T04:03:48.270522+00:00",
+    "ts": "2026-09-19T10:38:23.647136+00:00",
     "type": "other"
   },
   "https://gcaptain.com/shippings-fuel-transition-hinges-on-a-number-nobody-has-agreed-on-yet/": {
@@ -1092,7 +1072,7 @@
     "type": "highlight"
   },
   "https://splash247.com/iran-claims-fresh-hormuz-tanker-strike-italy-readies-red-sea-escorts/": {
-    "ts": "2026-09-19T04:01:24.212691+00:00",
+    "ts": "2026-09-19T10:38:23.647136+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/turkey-proposes-an-expanded-grain-initiative-to-end-black-sea-strikes": {
@@ -1132,7 +1112,7 @@
     "type": "other"
   },
   "https://brasilenergia.com.br/petroleoegas/eventos/petrobras-batiza-1-psv-do-programa-mar-aberto": {
-    "ts": "2026-09-19T04:01:24.212691+00:00",
+    "ts": "2026-09-19T10:38:23.647136+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/tanker-struck-by-unknown-projectile-in-hormuz-british-maritime-agency/": {
@@ -1140,7 +1120,7 @@
     "type": "highlight"
   },
   "https://safety4sea.com/plastic-pellets-from-msc-elsa-3-sinking-persist-along-indian-coast-a-year-later/": {
-    "ts": "2026-09-19T04:01:24.212691+00:00",
+    "ts": "2026-09-19T10:38:23.647136+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/petrobras-locks-in-20-year-us-supply-from-sempras-lng-project-in-lone-star-state/": {
@@ -1180,15 +1160,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/petrobras-batiza-starnav-elektra-primeira-embarcacao-do-programa-mar-aberto/": {
-    "ts": "2026-09-19T04:01:24.212691+00:00",
+    "ts": "2026-09-19T10:38:23.647136+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/another-tanker-suffers-failure-as-crew-suspect-cyber-attack/": {
-    "ts": "2026-09-19T04:01:24.212691+00:00",
+    "ts": "2026-09-19T10:38:23.647136+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/italian-defense-minister-calls-stronger-543090": {
-    "ts": "2026-09-19T04:01:24.212691+00:00",
+    "ts": "2026-09-19T10:38:23.647136+00:00",
     "type": "highlight"
   },
   "https://agencia.petrobras.com.br/w/negocio/primeiro-navio-afretado-pela-petrobras-entregue-no-programa-mar-aberto-%C3%A9-batizado-no-rio-de-janeiro": {
@@ -1224,15 +1204,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/apresentacao-da-camorim-na-roge-confirmara-avanco-no-setor-maritimo-no-setor-de-oleo-e-gas/": {
-    "ts": "2026-09-19T04:01:24.212691+00:00",
+    "ts": "2026-09-19T10:38:23.647136+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/the-houthis-take-perim-and-petroline-is-hit-as-freight-rates-cross-1-million-a-day/": {
-    "ts": "2026-09-19T04:01:24.212691+00:00",
+    "ts": "2026-09-19T10:38:23.647136+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/iran-exploits-attack-on-small-product-tanker-to-assert-hormuz-control": {
-    "ts": "2026-09-19T04:01:24.212691+00:00",
+    "ts": "2026-09-19T10:38:23.647136+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/19/salario-minimo-e-aposentadoria-propostas-candidatos-presidente.ghtml": {
@@ -1269,6 +1249,42 @@
   },
   "https://www.offshore-energy.biz/exmars-flng-conversion-earns-bureau-veritas-seal-of-approval/": {
     "ts": "2026-09-19T04:01:24.212691+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/shipping-groups-urge-eu-states-to-back-two-indian-ship-recycling-yards/": {
+    "ts": "2026-09-19T10:38:23.647136+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/meio-ambiente/noticia/2026/09/19/ultimo-fim-de-semana-do-inverno-tera-temporais-no-sul-e-avanco-da-chuva-para-o-sudeste.ghtml": {
+    "ts": "2026-09-19T10:38:23.647136+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/shippings-new-normal-slower-trade-higher-costs-bigger-profits/": {
+    "ts": "2026-09-19T10:38:23.647136+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/iran-says-it-struck-and-detained-an-oil-tanker-in-strait-of-hormuz-over-illegal-passage/?utm_source=rss&utm_medium=rss&utm_campaign=iran-says-it-struck-and-detained-an-oil-tanker-in-strait-of-hormuz-over-illegal-passage": {
+    "ts": "2026-09-19T10:38:23.647136+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/as-russia-ukraine-conflict-escalates-marine-insurers-widen-black-sea-risk-area": {
+    "ts": "2026-09-19T10:38:23.647136+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/affinity-tanker-weekly-18-september-2026/": {
+    "ts": "2026-09-19T10:38:23.647136+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/exmar-flng-conversion-concept-gets-bureau-543085": {
+    "ts": "2026-09-19T10:38:23.647136+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/vietnam-made-cable-layer-enters-into-service-in-taiwan/": {
+    "ts": "2026-09-19T10:38:23.647136+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/mou-signed-to-develop-next-generation-ethanol-fuelled-50000-dwt-medium-range-tanker/?utm_source=rss&utm_medium=rss&utm_campaign=mou-signed-to-develop-next-generation-ethanol-fuelled-50000-dwt-medium-range-tanker": {
+    "ts": "2026-09-19T10:38:23.647136+00:00",
     "type": "other"
   }
 }
