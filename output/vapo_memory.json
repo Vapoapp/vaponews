@@ -2,17 +2,6 @@
   {
     "date": "2026-09-11",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo, forçando armadores a ajustar estratégias comerciais e ampliar mitigação de riscos geopolíticos. A ampliação da lista negra iraniana para 56 embarcações aumenta a volatilidade para operadores e seguradoras, elevando custos de seguro e restringindo o fluxo global de petróleo. Os ataques recentes entre EUA e"
-  },
-  {
-    "date": "2026-09-11",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -317,5 +306,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs em US$ 20 milhões por passagem, inviabilizando contratos de longo prazo. A inclusão de 77 embarcações na lista negra iraniana eleva prêmios de seguro e frete, ampliando volatilidade e restringindo o fluxo global de petróleo. Armadores reconfiguram estratégias comerciais para mitigar riscos geopolíticos, mas a instabilidade segue impactando a logística marítima global. No offshore brasileiro, contrato"
+  },
+  {
+    "date": "2026-09-19",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes de VLCCs estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo e força armadores a reestruturarem estratégias comerciais para mitigar riscos, diante da ampliação da lista negra iraniana para 77 embarcações. O aumento dos prêmios de seguro e a volatilidade logística pressionam o fluxo global de petróleo, impactando diretamente a cadeia marítima de abastecimento. No Mar Verme"
   }
 ]
