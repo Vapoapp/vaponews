@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-09-19T10:38:23.647136+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
@@ -11,46 +11,6 @@
     "ts": "2026-09-14T04:17:36.371417+00:00",
     "type": "highlight"
   },
-  "https://splash247.com/25-dead-in-bulker-blaze-at-chinese-shipyard/": {
-    "ts": "2026-09-12T20:23:25.887180+00:00",
-    "type": "highlight"
-  },
-  "https://maritime-executive.com/article/ukmto-two-more-tankers-attacked-on-omani-route-in-strait-of-hormuz": {
-    "ts": "2026-09-12T20:23:25.887180+00:00",
-    "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/offshore/vessels-rigs/energy-holdings-ventura-offshore-agree-to-combine-in-all-share-deal": {
-    "ts": "2026-09-12T20:23:25.887180+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/splash-wrap-the-risk-premium/": {
-    "ts": "2026-09-12T20:23:25.887180+00:00",
-    "type": "highlight"
-  },
-  "https://brasilenergia.com.br/petroleoegas/empresas/menor-proposta-no-bid-do-fpso-de-albacora-e-questionada": {
-    "ts": "2026-09-12T20:23:25.887180+00:00",
-    "type": "other"
-  },
-  "https://brasilenergia.com.br/petroleoegas/veolia-reafirma-lideranca-em-inovacao-na-roge-2026": {
-    "ts": "2026-09-12T20:23:25.887180+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/542882-skyborn-reaches-financial-close-on-gennaker-offshore-wind-farm": {
-    "ts": "2026-09-12T20:23:25.887180+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/sed-energy-holdings-and-ventura-offshore-to-unite-into-one/": {
-    "ts": "2026-09-13T04:10:02.932716+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/542871-sed-energy-holdings-and-ventura-offshore-set-to-combine-ops": {
-    "ts": "2026-09-12T20:23:25.887180+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/india-launches-seafarer-tracking-system-for-high-risk-global-hotspots/": {
-    "ts": "2026-09-12T20:23:25.887180+00:00",
-    "type": "other"
-  },
   "https://petronoticias.com.br/movimento-de-ongs-financiadas-internacionalmente-quer-criar-onda-contraria-ao-programa-nuclear-brasileiro/": {
     "ts": "2026-09-13T15:56:22.999281+00:00",
     "type": "highlight"
@@ -58,10 +18,6 @@
   "https://gcaptain.com/oil-tanker-rates-hit-record-highs-following-iran-us-shipping-attacks/": {
     "ts": "2026-09-13T11:27:49.612983+00:00",
     "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/shipping/boxships/sfl-corporation-agrees-750m-charter-extension-with-hapag-lloyd": {
-    "ts": "2026-09-13T04:10:02.932716+00:00",
-    "type": "other"
   },
   "https://gcaptain.com/u-s-facilitated-hormuz-transits-help-lift-gulf-crude-exports-above-10-million-bpd/": {
     "ts": "2026-09-13T11:27:49.612983+00:00",
@@ -74,18 +30,6 @@
   "https://www.hellenicshippingnews.com/gms-week-37-routes-tighten-bids-rise/": {
     "ts": "2026-09-13T20:34:35.028400+00:00",
     "type": "highlight"
-  },
-  "https://www.oedigital.com/news/542875-iea-sees-bigger-oil-supply-gap-as-gulf-recovery-slips-into-2027": {
-    "ts": "2026-09-13T04:10:02.932716+00:00",
-    "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/appec-tankers-transit-hormuz-in-the-dark-as-oil-flows-persist/": {
-    "ts": "2026-09-13T04:10:02.932716+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/world-shipping-council-calls-for-imo-action-on-lithium-battery-cargo-safety-gap/": {
-    "ts": "2026-09-13T04:10:02.932716+00:00",
-    "type": "other"
   },
   "https://maritime-executive.com/article/saudi-east-west-pipeline-suffers-significant-damage-in-drone-attack": {
     "ts": "2026-09-13T15:56:22.999281+00:00",
@@ -134,34 +78,6 @@
   "https://maritime-executive.com/article/wsc-better-rules-needed-to-manage-fire-risk-of-small-li-ion-batteries": {
     "ts": "2026-09-13T15:56:22.999281+00:00",
     "type": "highlight"
-  },
-  "https://www.offshore-energy.biz/saipem-jan-de-nul-consortium-joins-mozambiques-lng-project/": {
-    "ts": "2026-09-12T20:23:25.887180+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/542873-italy-cuts-red-tape-to-boost-domestic-oil-and-gas-output": {
-    "ts": "2026-09-13T04:10:02.932716+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/542870-shell-joins-20-rivals-in-norway-s-latest-exploration-round": {
-    "ts": "2026-09-13T04:10:02.932716+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/refining-processing": {
-    "ts": "2026-09-13T04:10:02.932716+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/refining-processing/saudi-oil-supply-sinks-to-lowest-level-in-over-30-years-after-iran-backed-attacks": {
-    "ts": "2026-09-13T04:10:02.932716+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/mitsui-osk-lines-formally-names-new-lng-carrier-fitted-with-wind-assist-propulsion-units": {
-    "ts": "2026-09-13T04:10:02.932716+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/the-buffers-are-gone-chevron-chief-sees-higher-crude-prices-ahead": {
-    "ts": "2026-09-13T04:10:02.932716+00:00",
-    "type": "other"
   },
   "https://petronoticias.com.br/a-maritime-ship-service-participara-em-londres-do-impa-2026-um-dos-principais-eventos-do-setor-de-fornecimento-maritimo/": {
     "ts": "2026-09-14T12:20:22.487587+00:00",
@@ -1028,7 +944,7 @@
     "type": "highlight"
   },
   "https://splash247.com/iran-claims-fresh-hormuz-tanker-strike-italy-readies-red-sea-escorts/": {
-    "ts": "2026-09-19T20:20:55.022265+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/turkey-proposes-an-expanded-grain-initiative-to-end-black-sea-strikes": {
@@ -1076,7 +992,7 @@
     "type": "highlight"
   },
   "https://safety4sea.com/plastic-pellets-from-msc-elsa-3-sinking-persist-along-indian-coast-a-year-later/": {
-    "ts": "2026-09-19T20:20:55.022265+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/petrobras-locks-in-20-year-us-supply-from-sempras-lng-project-in-lone-star-state/": {
@@ -1112,23 +1028,23 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/eiffage-meyer-werft-jv-wins-second-german-offshore-converter-station-contract": {
-    "ts": "2026-09-18T16:09:32.435877+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/petrobras-batiza-starnav-elektra-primeira-embarcacao-do-programa-mar-aberto/": {
-    "ts": "2026-09-19T20:20:55.022265+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/another-tanker-suffers-failure-as-crew-suspect-cyber-attack/": {
-    "ts": "2026-09-19T20:20:55.022265+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/italian-defense-minister-calls-stronger-543090": {
-    "ts": "2026-09-19T15:41:35.817873+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "highlight"
   },
   "https://agencia.petrobras.com.br/w/negocio/primeiro-navio-afretado-pela-petrobras-entregue-no-programa-mar-aberto-%C3%A9-batizado-no-rio-de-janeiro": {
-    "ts": "2026-09-18T20:41:37.269880+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "other"
   },
   "https://g1.globo.com/mundo/noticia/2026/09/18/eua-se-preparam-para-reconstruir-porto-em-ilha-remota-e-acedem-temor-de-terceira-guerra-mundial.ghtml": {
@@ -1136,19 +1052,19 @@
     "type": "other"
   },
   "https://gcaptain.com/three-tanker-attacks-hit-hormuz-as-saudi-oil-is-forced-back-toward-strait/": {
-    "ts": "2026-09-18T20:41:37.269880+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "other"
   },
   "https://www.offshore-energy.biz/new-contracts-for-vallourec-in-brazil-and-greece-for-oil-gas-and-co2-storage/": {
-    "ts": "2026-09-18T20:41:37.269880+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "other"
   },
   "https://splash247.com/turkey-pushes-black-sea-truce/": {
-    "ts": "2026-09-18T20:41:37.269880+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/543087-aesen-debuts-next-gen-hybrid-crew-boat": {
-    "ts": "2026-09-18T20:41:37.269880+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "other"
   },
   "https://www.marineinsight.com/u-s-sanctions-irans-bitbank-over-bitcoin-payments-linked-to-strait-of-hormuz-shipping-tolls/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-sanctions-irans-bitbank-over-bitcoin-payments-linked-to-strait-of-hormuz-shipping-tolls": {
@@ -1160,11 +1076,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/apresentacao-da-camorim-na-roge-confirmara-avanco-no-setor-maritimo-no-setor-de-oleo-e-gas/": {
-    "ts": "2026-09-19T20:20:55.022265+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/the-houthis-take-perim-and-petroline-is-hit-as-freight-rates-cross-1-million-a-day/": {
-    "ts": "2026-09-19T20:20:55.022265+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/iran-exploits-attack-on-small-product-tanker-to-assert-hormuz-control": {
@@ -1180,11 +1096,11 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/543071-osaka-gas-to-buy-5-stake-in-browse-project-off-australia-from-bp": {
-    "ts": "2026-09-19T04:01:24.212691+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "other"
   },
   "https://maritime-executive.com/article/somali-navy-reports-rescue-of-crew-from-bulker": {
-    "ts": "2026-09-19T04:01:24.212691+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "other"
   },
   "https://gcaptain.com/londons-marine-insurers-widen-black-sea-high-risk-zone-as-shipping-attacks-surge/": {
@@ -1192,11 +1108,11 @@
     "type": "other"
   },
   "https://safety4sea.com/world-first-ship-to-ship-ammonia-bunkering-marks-step-toward-fuel-supply-at-sea/": {
-    "ts": "2026-09-19T04:01:24.212691+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/543080-transocean-drillship-secures-80m-equatorial-guinea-job": {
-    "ts": "2026-09-19T04:01:24.212691+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "other"
   },
   "https://www.offshore-energy.biz/worley-helps-propel-21b-asian-lng-and-ccs-project-forward-with-feeds-now-out-of-the-way/": {
@@ -1208,7 +1124,7 @@
     "type": "other"
   },
   "https://safety4sea.com/shipping-groups-urge-eu-states-to-back-two-indian-ship-recycling-yards/": {
-    "ts": "2026-09-19T20:20:55.022265+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/meio-ambiente/noticia/2026/09/19/ultimo-fim-de-semana-do-inverno-tera-temporais-no-sul-e-avanco-da-chuva-para-o-sudeste.ghtml": {
@@ -1248,7 +1164,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/lng-tanker-carrying-us-cargo-to-europe-turns-back-after-crew-reports-suspected-cyberattack/?utm_source=rss&utm_medium=rss&utm_campaign=lng-tanker-carrying-us-cargo-to-europe-turns-back-after-crew-reports-suspected-cyberattack": {
-    "ts": "2026-09-19T20:20:55.022265+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/editorials/africa-s-red-sea-states-face-growing-risks-as-houthi-expand-their-reach": {
@@ -1276,7 +1192,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/a-radix-levara-para-a-roge-a-experiencia-internacional-que-a-empresa-adquiriu-nos-ultimos-anos-de-crescimento/": {
-    "ts": "2026-09-19T20:20:55.022265+00:00",
+    "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/italy-to-deploy-warships-in-red-sea-to-protect-shipping-as-houthis-tighten-grip-on-bab-el-mandeb/": {

@@ -2,16 +2,6 @@
   {
     "date": "2026-09-12",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo, forçando armadores a reconfigurar estratégias comerciais e ampliar medidas de mitigação de risco. A ampliação da lista negra iraniana para 56 embarcações eleva volatilidade e custos de seguro, restringindo o fluxo global de petróleo e pressionando a logística marítima. Ataques recentes, incluindo disparos de pr"
-  },
-  {
-    "date": "2026-09-12",
-    "drivers": [
       "operações offshore",
       "risco geopolítico",
       "petróleo e gás"
@@ -317,5 +307,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo e pressiona armadores a reconfigurarem estratégias comerciais para mitigar riscos, diante da inclusão de 77 embarcações na lista negra iraniana. O aumento dos prêmios de seguro e a volatilidade logística restringem o fluxo global de petróleo, impactando diretamente a cadeia marítima de abastecimento. No Ma"
+  },
+  {
+    "date": "2026-09-20",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com fretes de VLCCs estabilizados em US$ 20 milhões por passagem, inviabilizando contratos de longo prazo. A inclusão de 77 embarcações na lista negra iraniana eleva prêmios de seguro, ampliando volatilidade e restringindo o fluxo global de petróleo. Armadores reconfiguram estratégias comerciais para mitigar riscos, mas a instabilidade geopolítica mantém pressão sobre a logística marítima. No Mar Vermelho, ataques dos Houthis a i"
   }
 ]
