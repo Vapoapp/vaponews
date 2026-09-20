@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-09-12",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo e força armadores a reestruturar estratégias comerciais, ampliando medidas de mitigação de risco. A ampliação da lista negra iraniana para 56 embarcações aumenta volatilidade e pressiona custos de seguro e frete, impactando diretamente o fluxo global de petróleo. Ataques recentes na região, incluindo o fec"
-  },
-  {
     "date": "2026-09-13",
     "drivers": [
       "contratos marítimos",
@@ -320,5 +309,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade no Estreito de Ormuz permanece abaixo de 10%, com fretes de VLCCs estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo e força armadores a reestruturarem estratégias comerciais para mitigar riscos geopolíticos, diante da inclusão de 77 embarcações na lista negra iraniana e aumento dos prêmios de seguro. A volatilidade logística restringe o fluxo global de petróleo, pressionando a cadeia marítima de abastecimento. No Mar Vermelho, o avanço d"
+  },
+  {
+    "date": "2026-09-20",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes de VLCCs estabilizados em US$ 20 milhões por passagem, inviabilizando contratos de longo prazo e pressionando armadores a reestruturar suas estratégias comerciais. A inclusão de 77 embarcações na lista negra iraniana e o aumento dos prêmios de seguro ampliam a volatilidade logística, restringindo o fluxo global de petróleo e impactando diretamente a cadeia marítima de abastecimento. No Mar Vermelho, o avanço dos Ho"
   }
 ]
