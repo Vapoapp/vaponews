@@ -2,16 +2,6 @@
   {
     "date": "2026-09-13",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo e força armadores a reestruturar estratégias comerciais, ampliando medidas de mitigação de risco geopolítico. A lista negra iraniana, agora com 56 embarcações, aumenta volatilidade e pressiona custos de seguro e frete. O ataque recente a oleoduto estratégico na Arábia Saudita interrompeu um importante corr"
-  },
-  {
-    "date": "2026-09-13",
-    "drivers": [
       "operações offshore",
       "risco geopolítico",
       "petróleo e gás"
@@ -319,5 +309,14 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com fretes de VLCC estabilizados em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo e força armadores a reestruturarem estratégias comerciais para mitigar riscos geopolíticos, agravados pela inclusão de 77 embarcações na lista negra iraniana e pelo aumento dos prêmios de seguro. A volatilidade logística restringe o fluxo global de petróleo, pressionando diretamente a cadeia marítima de abastecimento."
+  },
+  {
+    "date": "2026-09-21",
+    "drivers": [
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes de VLCCs estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo e força armadores a reconfigurar estratégias comerciais para mitigar riscos geopolíticos, agravados pela inclusão de 77 embarcações na lista negra iraniana e pelo aumento dos prêmios de seguro. A volatilidade logística restringe o fluxo global de petróleo, elevando custos e incertezas na cadeia de abastecimento."
   }
 ]
