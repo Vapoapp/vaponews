@@ -15,10 +15,6 @@
     "ts": "2026-09-16T04:13:22.708389+00:00",
     "type": "other"
   },
-  "https://brasilenergia.com.br/petroleoegas/ep/sbm-pode-operar-seap-por-mais-sete-anos": {
-    "ts": "2026-09-15T21:04:35.835972+00:00",
-    "type": "highlight"
-  },
   "https://maritime-executive.com/editorials/the-liner-s-dilemma-schedule-integrity-vs-contractual-flexibility": {
     "ts": "2026-09-16T11:13:30.432579+00:00",
     "type": "highlight"
@@ -67,10 +63,6 @@
     "ts": "2026-09-16T16:32:48.251555+00:00",
     "type": "highlight"
   },
-  "https://www.offshore-energy.biz/santos-broadens-asia-pacific-lng-portfolio-with-canadian-supply-and-10-year-posco-deal/": {
-    "ts": "2026-09-15T21:04:35.835972+00:00",
-    "type": "highlight"
-  },
   "https://safety4sea.com/mhss-suicide-prevention-training-should-be-mandatory/": {
     "ts": "2026-09-17T04:20:12.064141+00:00",
     "type": "other"
@@ -91,48 +83,8 @@
     "ts": "2026-09-16T04:13:22.708389+00:00",
     "type": "highlight"
   },
-  "https://petronoticias.com.br/mineracao-rio-do-norte-se-prepara-para-investir-r-5-bilhoes-em-projetos-no-para-nos-proximos-cinco-anos/": {
-    "ts": "2026-09-15T21:04:35.835972+00:00",
-    "type": "other"
-  },
-  "https://petronoticias.com.br/exxonmobil-concede-contrato-de-us-200-milhoes-a-wood-para-servicos-em-projeto-de-gnl-em-papua-nova-guine/": {
-    "ts": "2026-09-15T21:04:35.835972+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/crude-tanker-rates-hit-new-highs-as-hormuz-risk-escalates/": {
-    "ts": "2026-09-15T21:04:35.835972+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/lng-bunker-price-rally-amplifies-freight-gains-for-lng-fuelled-clean-tankers/": {
-    "ts": "2026-09-15T21:04:35.835972+00:00",
-    "type": "other"
-  },
   "https://www.marinelog.com/news/navigator-gas-back-at-primeserv-for-new-ethane-retrofits/": {
     "ts": "2026-09-17T04:20:12.064141+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/lng-carriers-to-get-the-hybrid-electric-propulsion-treatment/": {
-    "ts": "2026-09-15T21:04:35.835972+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/destination-agent-compliance-shipping-act-542971": {
-    "ts": "2026-09-15T21:04:35.835972+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/oil-jumps-nearly-3-as-saudi-export-halt-libya-outages-stoke-supply-fears": {
-    "ts": "2026-09-15T21:04:35.835972+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/ground-breaking-100-foot-full-foiling-monohull-yacht-driven-by-renewable-energy-to-redefine-ocean-sailing/?utm_source=rss&utm_medium=rss&utm_campaign=ground-breaking-100-foot-full-foiling-monohull-yacht-driven-by-renewable-energy-to-redefine-ocean-sailing": {
-    "ts": "2026-09-15T21:04:35.835972+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/modec-eld-energy-chart-path-to-low-carbon-fpso-power-with-abs-milestone/": {
-    "ts": "2026-09-15T21:04:35.835972+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/tanker-boom-breaks-every-historical-benchmark/": {
-    "ts": "2026-09-15T21:04:35.835972+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/petrobras-contrata-a-strohm-para-fornecer-tubos-compositos-termoplasticos/": {
@@ -1000,7 +952,7 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/porto-de-sao-sebastiao-alternativa-santos-conteineres": {
-    "ts": "2026-09-22T16:39:25.389761+00:00",
+    "ts": "2026-09-22T21:05:37.302573+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/two-more-tankers-hit-in-strait-of-hormuz-as-attacks-mount/": {
@@ -1076,7 +1028,7 @@
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/antaq-participa-de-missao-tecnica-nos-estados-unidos": {
-    "ts": "2026-09-22T16:39:25.389761+00:00",
+    "ts": "2026-09-22T21:05:37.302573+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/hormuz-shuttles-keep-oil-flowing-but-at-a-high-cost/": {
@@ -1144,7 +1096,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/543140-foz-do-amazonas-discovery-yields-high-quality-oil-for-petrobras": {
-    "ts": "2026-09-22T16:39:25.389761+00:00",
+    "ts": "2026-09-22T21:05:37.302573+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/bulk-carrier-remains-aground-off-gladstone-after-failed-refloating-attempts/": {
@@ -1152,7 +1104,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/eu-s-top-diplomat-calls-for-bigger-naval-force-in-the-red-sea": {
-    "ts": "2026-09-22T16:39:25.389761+00:00",
+    "ts": "2026-09-22T21:05:37.302573+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/22/falta-energia-viracopos.ghtml": {
@@ -1216,11 +1168,11 @@
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/qatarenergys-ceo-repairs-on-damaged-lng-trains-to-take-three-years/": {
-    "ts": "2026-09-22T16:39:25.389761+00:00",
+    "ts": "2026-09-22T21:05:37.302573+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/bulk-carrier-collides-with-chinese-fishing-vessel-in-singapore-strait/": {
-    "ts": "2026-09-22T16:39:25.389761+00:00",
+    "ts": "2026-09-22T21:05:37.302573+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/cenario/petroleo-instavel-cabotagem-bunker-b24-seguranca": {
@@ -1265,6 +1217,66 @@
   },
   "https://www.hellenicshippingnews.com/world-maritime-day-industry-panel-to-examine-the-gap-between-maritime-policy-and-the-reality-of-life-at-sea/": {
     "ts": "2026-09-22T16:39:25.389761+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/22/quem-era-paulo-soares-videomaker-que-morreu-em-queda-de-helicoptero-com-cantor-rick.ghtml": {
+    "ts": "2026-09-22T21:05:37.302573+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/saudi-aramco-boosts-crude-loadings-after-pipeline-disruption/": {
+    "ts": "2026-09-22T21:05:37.302573+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/russias-arctic-port-murmansk-to-use-fertilizer-equipment-to-start-shipping-grain/": {
+    "ts": "2026-09-22T21:05:37.302573+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/empresas/petrobras-valida-proposta-da-yinson-para-albacora": {
+    "ts": "2026-09-22T21:05:37.302573+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/porto-do-acu-e-a-perenco-assinam-acordo-para-um-projeto-de-eletrificacao-na-bacia-de-campos/": {
+    "ts": "2026-09-22T21:05:37.302573+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/a-vallourec-leva-para-a-roge-as-suas-ultimas-solucoes-para-o-mercado-offshore/": {
+    "ts": "2026-09-22T21:05:37.302573+00:00",
+    "type": "other"
+  },
+  "https://brasilenergia.com.br/petroleoegas/ep/exxon-mira-1-mi-de-bpd-na-guiana-e-margem-equatorial-no-brasil": {
+    "ts": "2026-09-22T21:05:37.302573+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/taiwan-tests-out-conversion-of-coast-guard-cutters-for-antiship-role": {
+    "ts": "2026-09-22T21:05:37.302573+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/gcmd-and-equinor-partner-to-advance-alternative-fuel-and-carbon-value-chains/": {
+    "ts": "2026-09-22T21:05:37.302573+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/iraq-blames-saudi-tanker-buying-spree-for-shipping-rate-surge-riyadh-rejects-claim": {
+    "ts": "2026-09-22T21:05:37.302573+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/valeura-energy-and-pttep-greenlights-offshore-gas-project-in-thailand": {
+    "ts": "2026-09-22T21:05:37.302573+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/key-winners-in-post-maduro-oil-rush-push-for-cheaper-venezuelan-crude-as-shipping-costs-rise": {
+    "ts": "2026-09-22T21:05:37.302573+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/international-maritime-organization-launches-global-survey-to-evaluate-maritime-single-window-adoption/?utm_source=rss&utm_medium=rss&utm_campaign=international-maritime-organization-launches-global-survey-to-evaluate-maritime-single-window-adoption": {
+    "ts": "2026-09-22T21:05:37.302573+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/omans-sohar-port-becomes-gateway-for-indian-exporters-shipping-cargo-to-gcc-nations/?utm_source=rss&utm_medium=rss&utm_campaign=omans-sohar-port-becomes-gateway-for-indian-exporters-shipping-cargo-to-gcc-nations": {
+    "ts": "2026-09-22T21:05:37.302573+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/saudi-arabia-denies-iraqi-claim-buying-543179": {
+    "ts": "2026-09-22T21:05:37.302573+00:00",
     "type": "other"
   }
 }
