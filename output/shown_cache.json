@@ -4,7 +4,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-09-21T21:51:40.097847+00:00",
+    "ts": "2026-09-22T04:13:57.582413+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/transport": {
@@ -1136,15 +1136,15 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/porto-de-sao-sebastiao-alternativa-santos-conteineres": {
-    "ts": "2026-09-21T21:51:40.097847+00:00",
+    "ts": "2026-09-22T04:13:57.582413+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/two-more-tankers-hit-in-strait-of-hormuz-as-attacks-mount/": {
-    "ts": "2026-09-21T21:51:40.097847+00:00",
+    "ts": "2026-09-22T04:13:57.582413+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/houthis-vow-not-to-attack-us-ships-in-red-sea-warn-countries-backing-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=houthis-vow-not-to-attack-us-ships-in-red-sea-warn-countries-backing-saudi-arabia": {
-    "ts": "2026-09-21T21:51:40.097847+00:00",
+    "ts": "2026-09-22T04:13:57.582413+00:00",
     "type": "highlight"
   },
   "https://splash247.com/transpetrol-broadens-tanker-fleet-with-lr1-newbuilds/": {
@@ -1209,6 +1209,74 @@
   },
   "https://www.offshore-energy.biz/totalenergies-staatsolie-and-apa-advancing-12-2b-oil-project-ahead-of-2027-drilling-ops/": {
     "ts": "2026-09-21T21:51:40.097847+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/antaq/pt-br/noticias/antaq-participa-de-missao-tecnica-nos-estados-unidos": {
+    "ts": "2026-09-22T04:13:57.582413+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/hormuz-shuttles-keep-oil-flowing-but-at-a-high-cost/": {
+    "ts": "2026-09-22T04:13:57.582413+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/rmk-marine-launches-ditas-tanker": {
+    "ts": "2026-09-22T04:13:57.582413+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/21/bombeiros-levam-buscas-por-helicoptero-desaparecido-em-sc-para-area-de-ultimo-sinal-de-celular.ghtml": {
+    "ts": "2026-09-22T04:13:57.582413+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/to/tocantins/noticia/2026/09/21/todo-mundo-preocupado-diz-primo-de-rick-apos-aeronave-em-que-cantor-estava-desaparecer-em-sc.ghtml": {
+    "ts": "2026-09-22T04:13:57.582413+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/union-maritime-orders-nine-newbuildings": {
+    "ts": "2026-09-22T04:13:57.582413+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/germany-s-largest-offshore-wind-farm-inaugurated-as-commissioning-proceeds": {
+    "ts": "2026-09-22T04:13:57.582413+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/ate-energy-brings-new-cable-layer-into-taiwan-market/": {
+    "ts": "2026-09-22T04:13:57.582413+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/asyad-sheds-ageing-tanker-trio-for-178m/": {
+    "ts": "2026-09-22T04:13:57.582413+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/trafigura-launches-volare-shipping/": {
+    "ts": "2026-09-22T04:13:57.582413+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/jinhui-shipping-orders-two-bulk-carrier-543119": {
+    "ts": "2026-09-22T04:13:57.582413+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/greek-bulk-carrier-carrying-175000-tonnes-of-iron-ore-suffers-damage-off-vietnams-dung-quat-port/?utm_source=rss&utm_medium=rss&utm_campaign=greek-bulk-carrier-carrying-175000-tonnes-of-iron-ore-suffers-damage-off-vietnams-dung-quat-port": {
+    "ts": "2026-09-22T04:13:57.582413+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/calls-grow-for-a-u-s-diesel-export-ban-but-economists-express-caution": {
+    "ts": "2026-09-22T04:13:57.582413+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/abs-approves-hd-hhi-and-hd-ksoe-design-for-bunker-vessel-capable-of-supplying-ammonia-fuel/": {
+    "ts": "2026-09-22T04:13:57.582413+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543112-hormuz-ship-traffic-slumps-as-middle-east-conflict-drags-on": {
+    "ts": "2026-09-22T04:13:57.582413+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543121-dong-fang-takes-delivery-of-newbuild-sov-orders-another-from-vard": {
+    "ts": "2026-09-22T04:13:57.582413+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543120-njord-survey-gets-multi-year-rwe-s-offshore-wind-services-deal": {
+    "ts": "2026-09-22T04:13:57.582413+00:00",
     "type": "other"
   }
 }

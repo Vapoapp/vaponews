@@ -2,15 +2,6 @@
   {
     "date": "2026-09-14",
     "drivers": [
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo, obrigando armadores a reestruturarem estratégias comerciais e ampliar medidas de mitigação de risco geopolítico. A lista negra iraniana, agora com 56 embarcações, eleva volatilidade e pressiona custos de seguro e frete, restringindo o fluxo global de petróleo. O ataque recente a um oleoduto estratégico na A"
-  },
-  {
-    "date": "2026-09-14",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -320,5 +311,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes de VLCCs estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo, forçando armadores a reconfigurar estratégias comerciais diante da inclusão de 77 embarcações na lista negra iraniana e do aumento dos prêmios de seguro. A volatilidade logística restringe o fluxo global de petróleo, elevando custos e incertezas na cadeia marítima de abastecimento. No contexto offshore, atrasos"
+  },
+  {
+    "date": "2026-09-22",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com fretes de VLCC estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo, forçando armadores a reconfigurar estratégias comerciais para mitigar riscos geopolíticos e seguradores a reajustar prêmios. A inclusão de 77 embarcações na lista negra iraniana amplia a volatilidade e restringe o fluxo global de petróleo, elevando custos na cadeia marítima de abastecimento. No mercado de renovação"
   }
 ]
