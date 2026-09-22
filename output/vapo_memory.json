@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-09-14",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo e força armadores a reestruturarem estratégias comerciais, ampliando medidas de mitigação de risco. A ampliação da lista negra iraniana para 56 embarcações pressiona custos de seguro e frete, restringindo o fluxo global de petróleo. O ataque ao oleoduto estratégico na Arábia Saudita intensifica a volatilid"
-  },
-  {
     "date": "2026-09-15",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -322,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes de VLCCs estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo e força armadores a reconfigurar estratégias comerciais diante da inclusão de 77 embarcações na lista negra iraniana e do aumento dos prêmios de seguro. A volatilidade logística eleva custos e incertezas na cadeia global de petróleo. Os ataques recentes a petroleiros e a persistente instabilidade na região mantê"
+  },
+  {
+    "date": "2026-09-22",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes de VLCC estabilizados em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo e força armadores a reestruturarem estratégias comerciais para mitigar riscos, agravados pela inclusão de 77 embarcações na lista negra iraniana e pelo aumento dos prêmios de seguro. A volatilidade logística restringe o fluxo global de petróleo, elevando custos e incertezas na cadeia marítima. No offshore brasileir"
   }
 ]
