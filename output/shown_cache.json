@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-09-22T16:39:25.389761+00:00",
+    "ts": "2026-09-23T04:10:28.353622+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
@@ -972,7 +972,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/543123-qatarenergy-s-lng-expansion-faces-delays-from-hormuz-crisis": {
-    "ts": "2026-09-21T21:51:40.097847+00:00",
+    "ts": "2026-09-23T04:10:28.353622+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/diana-shipping-seals-time-charter-contract-for-ultramax-bulker": {
@@ -984,7 +984,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/543115-tanker-shuttles-keep-hormuz-oil-moving-as-costs-soar": {
-    "ts": "2026-09-21T21:51:40.097847+00:00",
+    "ts": "2026-09-23T04:10:28.353622+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/tankers-is-an-oil-shortage-already-underway/": {
@@ -1028,7 +1028,7 @@
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/antaq-participa-de-missao-tecnica-nos-estados-unidos": {
-    "ts": "2026-09-22T21:05:37.302573+00:00",
+    "ts": "2026-09-23T04:10:28.353622+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/hormuz-shuttles-keep-oil-flowing-but-at-a-high-cost/": {
@@ -1096,7 +1096,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/543140-foz-do-amazonas-discovery-yields-high-quality-oil-for-petrobras": {
-    "ts": "2026-09-22T21:05:37.302573+00:00",
+    "ts": "2026-09-23T04:10:28.353622+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/bulk-carrier-remains-aground-off-gladstone-after-failed-refloating-attempts/": {
@@ -1168,7 +1168,7 @@
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/qatarenergys-ceo-repairs-on-damaged-lng-trains-to-take-three-years/": {
-    "ts": "2026-09-22T21:05:37.302573+00:00",
+    "ts": "2026-09-23T04:10:28.353622+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/bulk-carrier-collides-with-chinese-fishing-vessel-in-singapore-strait/": {
@@ -1224,11 +1224,11 @@
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/saudi-aramco-boosts-crude-loadings-after-pipeline-disruption/": {
-    "ts": "2026-09-22T21:05:37.302573+00:00",
+    "ts": "2026-09-23T04:10:28.353622+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/russias-arctic-port-murmansk-to-use-fertilizer-equipment-to-start-shipping-grain/": {
-    "ts": "2026-09-22T21:05:37.302573+00:00",
+    "ts": "2026-09-23T04:10:28.353622+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/empresas/petrobras-valida-proposta-da-yinson-para-albacora": {
@@ -1277,6 +1277,58 @@
   },
   "https://www.marinelink.com/news/saudi-arabia-denies-iraqi-claim-buying-543179": {
     "ts": "2026-09-22T21:05:37.302573+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/a-mol-consegue-recuperar-a-maior-refinaria-da-hungria-depois-de-um-incendio-devastador/": {
+    "ts": "2026-09-23T04:10:28.353622+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/2020-bulkers-seals-15-ship-ahts-roll-up/": {
+    "ts": "2026-09-23T04:10:28.353622+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/ukrainian-drone-force-commander-reports-300-ships-disabled": {
+    "ts": "2026-09-23T04:10:28.353622+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/22/helicoptero-com-cantor-rick-desaparece-infografico.ghtml": {
+    "ts": "2026-09-23T04:10:28.353622+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/portos/porto-do-acu-e-perenco-assinam-loi-para-eletrificacao": {
+    "ts": "2026-09-23T04:10:28.353622+00:00",
+    "type": "other"
+  },
+  "https://brasilenergia.com.br/petroleoegas/ep/exxonmobil-mira-1-mi-de-bpd-na-guiana-e-margem-equatorial-no-brasil": {
+    "ts": "2026-09-23T04:10:28.353622+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/jornal-nacional/noticia/2026/09/22/amigos-e-parceiros-recordam-momentos-ao-lado-de-rick.ghtml": {
+    "ts": "2026-09-23T04:10:28.353622+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/pttep-hands-two-jackup-deals-to-foresight-offshore-drilling/": {
+    "ts": "2026-09-23T04:10:28.353622+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/report-saudi-aramco-achieves-partial-restart-on-strategic-red-sea-pipeline": {
+    "ts": "2026-09-23T04:10:28.353622+00:00",
+    "type": "other"
+  },
+  "https://www.infomoney.com.br/mundo/ira-mostra-condicoes-para-reabrir-ormuz-a-representante-dos-eua-diz-midia-estatal/": {
+    "ts": "2026-09-23T04:10:28.353622+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/yasa-shipping-buys-newcastlemax-bulkers-rio-tinto": {
+    "ts": "2026-09-23T04:10:28.353622+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/imo-uncertainty-puts-shippings-2030-fuel-target-at-risk/": {
+    "ts": "2026-09-23T04:10:28.353622+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/abs-lomarlabs-accelerate-earlystage-543182": {
+    "ts": "2026-09-23T04:10:28.353622+00:00",
     "type": "other"
   }
 }
