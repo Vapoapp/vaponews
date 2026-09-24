@@ -5,17 +5,6 @@
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo, obrigando armadores a reestruturarem estratégias comerciais e ampliar medidas de mitigação de risco geopolítico, enquanto a lista negra iraniana atinge 77 embarcações, elevando custos de seguro e frete. No offshore brasileiro, o contrato da Vallourec com Subsea7 para fornecimento de 130 km de tubos no projeto"
-  },
-  {
-    "date": "2026-09-17",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
       "risco geopolítico",
       "petróleo e gás"
     ],
@@ -322,5 +311,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes de VLCC estabilizados em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo, forçando armadores a reestruturarem estratégias comerciais e seguradoras a elevarem prêmios, elevando volatilidade e custos na cadeia global de petróleo. A inclusão de 77 embarcações na lista negra iraniana intensifica o risco geopolítico e restringe o fluxo de cargas, impactando diretamente a logística internacio"
+  },
+  {
+    "date": "2026-09-24",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com fretes de VLCC estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo, forçando armadores a reestruturarem estratégias comerciais e seguradoras a elevarem prêmios, ampliando volatilidade e custos na cadeia global de petróleo. A inclusão de 77 embarcações na lista negra iraniana e ataques recentes reforçam o risco geopolítico, restringindo o fluxo de cargas e impactando diretamente a lo"
   }
 ]

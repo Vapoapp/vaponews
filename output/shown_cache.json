@@ -19,10 +19,6 @@
     "ts": "2026-09-18T10:55:04.987160+00:00",
     "type": "highlight"
   },
-  "https://maritime-executive.com/article/cma-cgm-invokes-general-average-after-cargo-hold-fire": {
-    "ts": "2026-09-17T21:09:13.210268+00:00",
-    "type": "other"
-  },
   "https://maritime-executive.com/editorials/hormuz-route-negotiations-would-have-handed-substantial-control-to-iran": {
     "ts": "2026-09-18T16:09:32.435877+00:00",
     "type": "highlight"
@@ -58,54 +54,6 @@
   "https://www.bairdmaritime.com/shipping/tankers/nordic-american-tankers-reports-surging-spot-charter-rates": {
     "ts": "2026-09-18T16:09:32.435877+00:00",
     "type": "highlight"
-  },
-  "https://brasilenergia.com.br/petroleoegas/ep/anp-divulga-sequencia-de-ofertas-dos-proximos-leiloes-de-areas-exploratorias": {
-    "ts": "2026-09-17T21:09:13.210268+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/newbuilding-orders-keep-increasing/": {
-    "ts": "2026-09-17T21:09:13.210268+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/landmark-south-africa-offshore-wind-project-in-limbo": {
-    "ts": "2026-09-17T21:09:13.210268+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/drone-attack-kills-master-injures-three-crewmembers-in-black-sea": {
-    "ts": "2026-09-17T21:09:13.210268+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/globus-maritime-takes-delivery-of-newbuild-ultramax-bulk-carrier": {
-    "ts": "2026-09-17T21:09:13.210268+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/a-second-gateway-under-threat-bab-el-mandeb-draws-fresh-concern/": {
-    "ts": "2026-09-17T21:09:13.210268+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/foreign-tanker-voyages-went-unreported-under-jones-act-waiver-bloomberg-finds/": {
-    "ts": "2026-09-17T21:09:13.210268+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/bulker-panama-canal-transits-drop-22-amid-higher-competition-for-transit-slots/": {
-    "ts": "2026-09-17T21:09:13.210268+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/south-korea-moves-to-lower-cost-barrier-to-arctic-shipping/": {
-    "ts": "2026-09-17T21:09:13.210268+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543047-spinergie-expands-software-platform-into-offshore-logistics": {
-    "ts": "2026-09-17T21:09:13.210268+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/watch-island-offshores-second-ocean-energy-construction-vessel-goes-to-norway-for-completion/": {
-    "ts": "2026-09-17T21:09:13.210268+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/south-korea-rolls-out-arctic-vessel-finance-programme/": {
-    "ts": "2026-09-17T21:09:13.210268+00:00",
-    "type": "other"
   },
   "https://petronoticias.com.br/petrobras-assina-contratos-para-exploracao-de-oito-blocos-offshore-na-costa-do-marfim/": {
     "ts": "2026-09-18T20:41:37.269880+00:00",
@@ -1092,7 +1040,7 @@
     "type": "other"
   },
   "https://splash247.com/seafarer-killed-and-capesize-adrift-in-hormuz/": {
-    "ts": "2026-09-24T16:52:27.593773+00:00",
+    "ts": "2026-09-24T21:21:37.369408+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/wilson-sons-investe-r-290-milhoes-na-compra-de-equipamentos-para-o-porto-de-rio-grande/": {
@@ -1152,7 +1100,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/gas/shell-and-trinidad-break-deadlock-over-offshore-gas-field-supply-terms": {
-    "ts": "2026-09-24T16:52:27.593773+00:00",
+    "ts": "2026-09-24T21:21:37.369408+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/asia-energy-stocks-rise-as-oil-rebounds-on-renewed-iran-supply-fears/": {
@@ -1204,7 +1152,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/a-inglesa-bp-optou-por-destacar-na-rog-e-o-seu-oleo-lubrificante-usado-pelo-mercado-maritimo/": {
-    "ts": "2026-09-24T16:52:27.593773+00:00",
+    "ts": "2026-09-24T21:21:37.369408+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/the-uk-ets-arrives-for-shipping-what-it-means-for-charterers/": {
@@ -1249,6 +1197,78 @@
   },
   "https://maritime-executive.com/article/trump-takes-aim-at-imo-and-the-net-zero-framework-at-the-un": {
     "ts": "2026-09-24T16:52:27.593773+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/constellation-vence-premio-de-melhor-fornecedora-de-sondas-offshore-da-petrobras/": {
+    "ts": "2026-09-24T21:21:37.369408+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/world-maritime-day-2026-imo-warns-shipping-rules-are-under-strain-as-seafarers-face-deadly-attacks/": {
+    "ts": "2026-09-24T21:21:37.369408+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/oil-tanker-insurance-triples-amidst-543249": {
+    "ts": "2026-09-24T21:21:37.369408+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/foresea-apresenta-programa-de-sustentabilidade-na-rog-e-e-destaca-100-de-reaproveitamento-de-residuos/": {
+    "ts": "2026-09-24T21:21:37.369408+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/wika-encerra-a-sua-participacao-na-roge-com-bons-resultados-para-o-seu-portfolio/": {
+    "ts": "2026-09-24T21:21:37.369408+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/terminais/tecon-rio-grande-expansao-sts-artgs-wilson-sons": {
+    "ts": "2026-09-24T21:21:37.369408+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/yanbu-tanker-loadings-yet-to-resume-despite-saudi-pipeline-restart": {
+    "ts": "2026-09-24T21:21:37.369408+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/engine-americas-bunker-fuel-availability-outlook-28/": {
+    "ts": "2026-09-24T21:21:37.369408+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543238-50hertz-taps-abl-for-ostwind-4-marine-assurance": {
+    "ts": "2026-09-24T21:21:37.369408+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543234-expro-picks-up-14-well-life-extension-campaign-off-canada": {
+    "ts": "2026-09-24T21:21:37.369408+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/van-oord-names-its-subsea-rock-installation-duo-being-built-in-china/": {
+    "ts": "2026-09-24T21:21:37.369408+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/marine-insurers-lose-billions-supporting-hormuz-energy-flows-iumi/": {
+    "ts": "2026-09-24T21:21:37.369408+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/countries-demand-hormuz-reopening-un-543248": {
+    "ts": "2026-09-24T21:21:37.369408+00:00",
+    "type": "other"
+  },
+  "https://www.infomoney.com.br/mundo/na-onu-80-paises-pedem-reabertura-do-estreito-de-ormuz-e-condenam-ataques-do-ira/": {
+    "ts": "2026-09-24T21:21:37.369408+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/17500-tonne-subsea-rock-installation-vessel-launched-for-offshore-wind-projects/?utm_source=rss&utm_medium=rss&utm_campaign=17500-tonne-subsea-rock-installation-vessel-launched-for-offshore-wind-projects": {
+    "ts": "2026-09-24T21:21:37.369408+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/ventura-offshore-rig-staying-longer-with-eni-and-petronas-searah-in-southeast-asia/": {
+    "ts": "2026-09-24T21:21:37.369408+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/supertanker-rally-lures-investors-as-war-squeezes-vessel-supply/": {
+    "ts": "2026-09-24T21:21:37.369408+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543232-subsea7-takes-more-work-on-sakarya-gas-project-offshore-t-rkiye": {
+    "ts": "2026-09-24T21:21:37.369408+00:00",
     "type": "other"
   }
 }
