@@ -1,10 +1,10 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "ts": "2026-09-25T16:56:06.101165+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "ts": "2026-09-25T16:56:06.101165+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/transport": {
@@ -14,10 +14,6 @@
   "https://www.bairdmaritime.com/offshore/vessel-reviews": {
     "ts": "2026-09-23T11:10:47.779069+00:00",
     "type": "other"
-  },
-  "https://maritime-executive.com/editorials/hormuz-route-negotiations-would-have-handed-substantial-control-to-iran": {
-    "ts": "2026-09-18T16:09:32.435877+00:00",
-    "type": "highlight"
   },
   "https://www.oedigital.com/news/543028-cyber-security-regulations-drive-resilience-agenda-for-offshore-energy-infrastructure": {
     "ts": "2026-09-19T04:01:24.212691+00:00",
@@ -29,18 +25,6 @@
   },
   "https://safety4sea.com/cyberattacks-on-two-us-bound-tankers-put-cyber-risk-back-in-the-spotlight/": {
     "ts": "2026-09-19T10:38:23.647136+00:00",
-    "type": "highlight"
-  },
-  "https://petronoticias.com.br/governadora-de-michigan-volta-a-carga-contra-oleoduto-da-linha-5-e-agora-apela-para-o-presidente-da-enbridge-no-canada/": {
-    "ts": "2026-09-18T16:09:32.435877+00:00",
-    "type": "highlight"
-  },
-  "https://gcaptain.com/imo-sounds-alarm-as-attacks-on-merchant-ships-spread-across-global-trade-routes/": {
-    "ts": "2026-09-18T16:09:32.435877+00:00",
-    "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/nordic-american-tankers-reports-surging-spot-charter-rates": {
-    "ts": "2026-09-18T16:09:32.435877+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/petrobras-assina-contratos-para-exploracao-de-oito-blocos-offshore-na-costa-do-marfim/": {
@@ -97,10 +81,6 @@
   },
   "https://www.oedigital.com/news/543085-exmar-flng-conversion-concept-gets-bureau-veritas-approval": {
     "ts": "2026-09-19T20:20:55.022265+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/pakistan-accuses-indian-warship-of-dangerous-manoeuvres-in-its-eez-before-collision-with-naval-vessel/?utm_source=rss&utm_medium=rss&utm_campaign=pakistan-accuses-indian-warship-of-dangerous-manoeuvres-in-its-eez-before-collision-with-naval-vessel": {
-    "ts": "2026-09-18T16:09:32.435877+00:00",
     "type": "other"
   },
   "https://www.marinelog.com/news/saronic-to-build-series-of-navy-lcus-at-port-alpha/": {
@@ -928,7 +908,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/indian-seafarer-union-demands-action-as-another-ship-is-attacked-in-hormuz": {
-    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "ts": "2026-09-25T16:56:06.101165+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/perenco-on-offshore-platform-electrification-quest-to-power-brazils-shallow-water-fields-from-shore/": {
@@ -1092,11 +1072,11 @@
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/transporte-maritimo/21928/navio-star-norge-chega-ao-pecem-com-cargas-para-energia-mineracao-e-industria/": {
-    "ts": "2026-09-24T16:52:27.593773+00:00",
+    "ts": "2026-09-25T16:56:06.101165+00:00",
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/operadores-logisticos/21923/operadores-logisticos-movimentam-r-247-bilhoes-e-avancam-no-transporte-multimodal-aponta-estudo/": {
-    "ts": "2026-09-24T16:52:27.593773+00:00",
+    "ts": "2026-09-25T16:56:06.101165+00:00",
     "type": "other"
   },
   "https://www.offshore-energy.biz/last-fsru-in-seven-vessel-conversion-program-boosts-karpowerships-lng-to-power-value-chain/": {
@@ -1120,7 +1100,7 @@
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/transbordo-de-granel-solido-e-pauta-de-webinario-da-antaq": {
-    "ts": "2026-09-24T16:52:27.593773+00:00",
+    "ts": "2026-09-25T16:56:06.101165+00:00",
     "type": "other"
   },
   "https://maritime-executive.com/article/trump-takes-aim-at-imo-and-the-net-zero-framework-at-the-un": {
@@ -1128,11 +1108,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/constellation-vence-premio-de-melhor-fornecedora-de-sondas-offshore-da-petrobras/": {
-    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "ts": "2026-09-25T16:56:06.101165+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/world-maritime-day-2026-imo-warns-shipping-rules-are-under-strain-as-seafarers-face-deadly-attacks/": {
-    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "ts": "2026-09-25T16:56:06.101165+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/oil-tanker-insurance-triples-amidst-543249": {
@@ -1200,7 +1180,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/report-cia-warns-of-russian-plans-for-ship-based-drone-strikes-in-the-med": {
-    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "ts": "2026-09-25T16:56:06.101165+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/go-ahead-for-dnos-north-sea-drilling-ops-with-odfjell-drilling-managed-rig/": {
@@ -1248,15 +1228,15 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/543259-saudi-oil-surge-pushes-gulf-of-oman-transfers-to-capacity": {
-    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "ts": "2026-09-25T16:56:06.101165+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/shipping-risks-mount-as-80-nations-demand-safe-passage-through-hormuz-and-red-sea/": {
-    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "ts": "2026-09-25T16:56:06.101165+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/trump-renews-attacks-on-imo-net-zero-framework/": {
-    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "ts": "2026-09-25T16:56:06.101165+00:00",
     "type": "highlight"
   },
   "https://splash247.com/precious-seals-fresh-ultramax-fixture/": {
@@ -1297,6 +1277,42 @@
   },
   "https://splash247.com/nyk-orders-new-offshore-wind-sov-from-paxocean/": {
     "ts": "2026-09-25T11:32:19.907263+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/25/engenheira-da-marinha-morre-em-base-militar-em-sp-e-corpo-e-levado-para-hospital-antes-da-pericia-diz-boletim-de-ocorrencia-da-policia.ghtml": {
+    "ts": "2026-09-25T16:56:06.101165+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/qatar-boosts-lng-traffic-via-hormuz-as-global-shortage-bites/": {
+    "ts": "2026-09-25T16:56:06.101165+00:00",
+    "type": "highlight"
+  },
+  "https://www.infomoney.com.br/mundo/passagens-de-navios-de-carga-pelo-estreito-de-ormuz-caem-para-um-digito/": {
+    "ts": "2026-09-25T16:56:06.101165+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/transpetro-diz-que-nova-lei-reforca-combate-ao-furto-de-combustiveis-em-dutos/": {
+    "ts": "2026-09-25T16:56:06.101165+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/petrobras-and-enh-forge-oil-gas-partnership/": {
+    "ts": "2026-09-25T16:56:06.101165+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/offshore-vessel-news-roundup-september-25-rock-installation-vessels-china-built-heavy-transport-ship-and-more": {
+    "ts": "2026-09-25T16:56:06.101165+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/ld-armateurs-welcomes-multipurpose-support-vessel-to-its-fleet/": {
+    "ts": "2026-09-25T16:56:06.101165+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/sincere-navigation-adds-modern-kamsarmax-in-38-5m-deal/": {
+    "ts": "2026-09-25T16:56:06.101165+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/fueleu-maritime-three-key-lessons-drawn-from-the-first-year-of-implementation/": {
+    "ts": "2026-09-25T16:56:06.101165+00:00",
     "type": "other"
   }
 }
