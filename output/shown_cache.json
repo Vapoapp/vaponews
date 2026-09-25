@@ -1,10 +1,10 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
+    "ts": "2026-09-25T11:32:19.907263+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
+    "ts": "2026-09-25T11:32:19.907263+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/transport": {
@@ -15,10 +15,6 @@
     "ts": "2026-09-23T11:10:47.779069+00:00",
     "type": "other"
   },
-  "https://www.oedigital.com/news/543012-noia-celebrates-passage-of-twic-workforce-bill-in-the-house-of-representatives": {
-    "ts": "2026-09-18T10:55:04.987160+00:00",
-    "type": "highlight"
-  },
   "https://maritime-executive.com/editorials/hormuz-route-negotiations-would-have-handed-substantial-control-to-iran": {
     "ts": "2026-09-18T16:09:32.435877+00:00",
     "type": "highlight"
@@ -27,20 +23,12 @@
     "ts": "2026-09-19T04:01:24.212691+00:00",
     "type": "highlight"
   },
-  "https://www.marineinsight.com/80-ship-attacks-in-strait-of-hormuz-kill-20-seafarers-injure-several-since-us-iran-war-began-imo-reveals/?utm_source=rss&utm_medium=rss&utm_campaign=80-ship-attacks-in-strait-of-hormuz-kill-20-seafarers-injure-several-since-us-iran-war-began-imo-reveals": {
-    "ts": "2026-09-18T10:55:04.987160+00:00",
-    "type": "highlight"
-  },
   "https://safety4sea.com/fragmented-ship-technology-raises-cybersecurity-and-data-integration-concerns/": {
     "ts": "2026-09-18T20:41:37.269880+00:00",
     "type": "other"
   },
   "https://safety4sea.com/cyberattacks-on-two-us-bound-tankers-put-cyber-risk-back-in-the-spotlight/": {
     "ts": "2026-09-19T10:38:23.647136+00:00",
-    "type": "highlight"
-  },
-  "https://petronoticias.com.br/cacas-da-arabia-saudita-atacam-tropas-houthis-no-iemem-e-no-estreito-de-bab-al-mandab-depois-de-ter-um-oleoduto-atingido-pelos-terroristas/": {
-    "ts": "2026-09-18T10:55:04.987160+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/governadora-de-michigan-volta-a-carga-contra-oleoduto-da-linha-5-e-agora-apela-para-o-presidente-da-enbridge-no-canada/": {
@@ -63,10 +51,6 @@
     "ts": "2026-09-19T10:38:23.647136+00:00",
     "type": "other"
   },
-  "https://safety4sea.com/fresh-tanker-strikes-hit-strait-of-hormuz-as-seafarer-death-toll-rises/": {
-    "ts": "2026-09-18T10:55:04.987160+00:00",
-    "type": "highlight"
-  },
   "https://splash247.com/iran-claims-fresh-hormuz-tanker-strike-italy-readies-red-sea-escorts/": {
     "ts": "2026-09-20T04:20:15.178378+00:00",
     "type": "highlight"
@@ -75,36 +59,12 @@
     "ts": "2026-09-18T20:41:37.269880+00:00",
     "type": "highlight"
   },
-  "https://brasilenergia.com.br/petroleoegas/eventos/subsea7-leva-inovacao-para-projetos-offshore-a-roge": {
-    "ts": "2026-09-18T10:55:04.987160+00:00",
-    "type": "other"
-  },
   "https://www.oedigital.com/news/543077-ineos-starts-full-scale-co2-storage-at-greensand-project-in-danish-north-sea": {
     "ts": "2026-09-19T15:41:35.817873+00:00",
     "type": "other"
   },
-  "https://www.offshore-energy.biz/technip-energies-picks-up-assignment-on-mexican-lng-project/": {
-    "ts": "2026-09-18T10:55:04.987160+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/captain-killed-in-black-sea-strike-as-turkiye-pushes-for-shipping-truce/": {
-    "ts": "2026-09-18T10:55:04.987160+00:00",
-    "type": "other"
-  },
-  "https://www.rigzone.com/news/wire/hormuz_sees_more_lng_traffic-18-sep-2026-184648-article/": {
-    "ts": "2026-09-18T10:55:04.987160+00:00",
-    "type": "other"
-  },
   "https://www.bairdmaritime.com/shipping/tankers/tanker-news-roundup-september-18-omani-product-carrier-orders-european-lng-bunkering-ship-agreement-and-more": {
     "ts": "2026-09-19T15:41:35.817873+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/splash-wrap-when-the-boom-spills-over/": {
-    "ts": "2026-09-18T10:55:04.987160+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/boxships/china-us-container-rates-near-record-iran-war-lifts-fuel-costs": {
-    "ts": "2026-09-18T10:55:04.987160+00:00",
     "type": "other"
   },
   "https://brasilenergia.com.br/petroleoegas/eventos/petrobras-batiza-1-psv-do-programa-mar-aberto": {
@@ -968,7 +928,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/indian-seafarer-union-demands-action-as-another-ship-is-attacked-in-hormuz": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
+    "ts": "2026-09-25T11:32:19.907263+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/perenco-on-offshore-platform-electrification-quest-to-power-brazils-shallow-water-fields-from-shore/": {
@@ -1088,7 +1048,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/boxships/ningbo-ocean-profit-falls-charter-bunker-costs": {
-    "ts": "2026-09-24T11:26:23.162286+00:00",
+    "ts": "2026-09-25T11:32:19.907263+00:00",
     "type": "other"
   },
   "https://www.rigzone.com/news/analysts_say_china_2026_oil_gas_demand_outlook_weakens-24-sep-2026-184691-article/": {
@@ -1120,7 +1080,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/a-inglesa-bp-optou-por-destacar-na-rog-e-o-seu-oleo-lubrificante-usado-pelo-mercado-maritimo/": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
+    "ts": "2026-09-25T11:32:19.907263+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/the-uk-ets-arrives-for-shipping-what-it-means-for-charterers/": {
@@ -1168,11 +1128,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/constellation-vence-premio-de-melhor-fornecedora-de-sondas-offshore-da-petrobras/": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
+    "ts": "2026-09-25T11:32:19.907263+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/world-maritime-day-2026-imo-warns-shipping-rules-are-under-strain-as-seafarers-face-deadly-attacks/": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
+    "ts": "2026-09-25T11:32:19.907263+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/oil-tanker-insurance-triples-amidst-543249": {
@@ -1240,7 +1200,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/report-cia-warns-of-russian-plans-for-ship-based-drone-strikes-in-the-med": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
+    "ts": "2026-09-25T11:32:19.907263+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/go-ahead-for-dnos-north-sea-drilling-ops-with-odfjell-drilling-managed-rig/": {
@@ -1285,6 +1245,58 @@
   },
   "https://www.bairdmaritime.com/shipping/ports/liberty-state-park-ferry-terminal-reopens-upgrade": {
     "ts": "2026-09-25T04:19:42.076764+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543259-saudi-oil-surge-pushes-gulf-of-oman-transfers-to-capacity": {
+    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "type": "highlight"
+  },
+  "https://safety4sea.com/shipping-risks-mount-as-80-nations-demand-safe-passage-through-hormuz-and-red-sea/": {
+    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/trump-renews-attacks-on-imo-net-zero-framework/": {
+    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/precious-seals-fresh-ultramax-fixture/": {
+    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543264-ld-armateurs-adds-multi-purpose-vessel-to-its-fleet": {
+    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543260-eni-and-petronas-jv-extend-drilling-backlog-for-ventura-offshore-s-semi-sub-rig": {
+    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/saudi-crude-rerouting-strains-tanker-capacity-in-gulf-of-oman": {
+    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/eni-broadens-its-exploration-horizons-in-southeast-asia-with-another-offshore-block/": {
+    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/attack-on-mv-cape-dao-sparks-calls-for-stronger-protection-of-indian-crews/": {
+    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/shifting-regulations-complicate-shippings-decarbonisation-investment-plans/": {
+    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/return-to-suez-routing-reduces-india-savannah-transit-10-14-days/": {
+    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/north-sea-appraisal-ops-up-the-oil-gas-discoveries-projected-size/": {
+    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/nyk-orders-new-offshore-wind-sov-from-paxocean/": {
+    "ts": "2026-09-25T11:32:19.907263+00:00",
     "type": "other"
   }
 }
