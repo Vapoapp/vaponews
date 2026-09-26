@@ -1,10 +1,10 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-09-26T16:07:18.903928+00:00",
+    "ts": "2026-09-26T20:52:43.726731+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-09-26T16:07:18.903928+00:00",
+    "ts": "2026-09-26T20:52:43.726731+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/transport": {
@@ -23,32 +23,8 @@
     "ts": "2026-09-20T11:01:05.028202+00:00",
     "type": "highlight"
   },
-  "https://www.offshore-energy.biz/petrobras-locks-in-20-year-us-supply-from-sempras-lng-project-in-lone-star-state/": {
-    "ts": "2026-09-19T20:20:55.022265+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543078-petrobras-signs-eight-production-sharing-contracts-in-c-te-d-ivoire": {
-    "ts": "2026-09-19T20:20:55.022265+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/eleven-years-later-maersk-seoul-ruling-traces-13-3m-casualty-to-dangerous-goods-packing-failure/": {
-    "ts": "2026-09-19T20:20:55.022265+00:00",
-    "type": "other"
-  },
-  "https://www.tecnologistica.com.br/noticias/negocios/21900/oceanpact-conclui-combinacao-de-negocios-com-a-cbo-e-passa-a-operar-70-embarcacoes/": {
-    "ts": "2026-09-19T20:20:55.022265+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543085-exmar-flng-conversion-concept-gets-bureau-veritas-approval": {
-    "ts": "2026-09-19T20:20:55.022265+00:00",
-    "type": "other"
-  },
   "https://www.marinelog.com/news/saronic-to-build-series-of-navy-lcus-at-port-alpha/": {
     "ts": "2026-09-20T11:01:05.028202+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/osaka-gas-scoops-up-bp-stake-in-australian-offshore-gas-project": {
-    "ts": "2026-09-19T20:20:55.022265+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/eiffage-meyer-werft-jv-wins-second-german-offshore-converter-station-contract": {
@@ -162,22 +138,6 @@
   "https://petronoticias.com.br/a-radix-levara-para-a-roge-a-experiencia-internacional-que-a-empresa-adquiriu-nos-ultimos-anos-de-crescimento/": {
     "ts": "2026-09-21T12:27:50.632400+00:00",
     "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/italy-to-deploy-warships-in-red-sea-to-protect-shipping-as-houthis-tighten-grip-on-bab-el-mandeb/": {
-    "ts": "2026-09-19T20:20:55.022265+00:00",
-    "type": "highlight"
-  },
-  "https://gcaptain.com/world-running-short-of-supertankers-threatens-long-haul-oil-flow/": {
-    "ts": "2026-09-19T20:20:55.022265+00:00",
-    "type": "highlight"
-  },
-  "https://brasilenergia.com.br/petroleoegas/entrevistas/sucesso-na-construcao-de-fpsos-proprias-abre-caminho-para-novas": {
-    "ts": "2026-09-19T20:20:55.022265+00:00",
-    "type": "other"
-  },
-  "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/19/pf-prende-homem-com-droga-do-amor-no-aeroporto-do-galeao.ghtml": {
-    "ts": "2026-09-19T20:20:55.022265+00:00",
-    "type": "other"
   },
   "https://splash247.com/crew-claims-hackers-seized-control-of-lng-carrier-safety-systems/": {
     "ts": "2026-09-21T12:27:50.632400+00:00",
@@ -1132,11 +1092,11 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/543259-saudi-oil-surge-pushes-gulf-of-oman-transfers-to-capacity": {
-    "ts": "2026-09-26T16:07:18.903928+00:00",
+    "ts": "2026-09-26T20:52:43.726731+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/shipping-risks-mount-as-80-nations-demand-safe-passage-through-hormuz-and-red-sea/": {
-    "ts": "2026-09-26T16:07:18.903928+00:00",
+    "ts": "2026-09-26T20:52:43.726731+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/trump-renews-attacks-on-imo-net-zero-framework/": {
@@ -1156,7 +1116,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/saudi-crude-rerouting-strains-tanker-capacity-in-gulf-of-oman": {
-    "ts": "2026-09-25T11:32:19.907263+00:00",
+    "ts": "2026-09-26T20:52:43.726731+00:00",
     "type": "other"
   },
   "https://www.offshore-energy.biz/eni-broadens-its-exploration-horizons-in-southeast-asia-with-another-offshore-block/": {
@@ -1200,15 +1160,15 @@
     "type": "other"
   },
   "https://www.offshore-energy.biz/petrobras-and-enh-forge-oil-gas-partnership/": {
-    "ts": "2026-09-25T16:56:06.101165+00:00",
+    "ts": "2026-09-26T20:52:43.726731+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/offshore-vessel-news-roundup-september-25-rock-installation-vessels-china-built-heavy-transport-ship-and-more": {
-    "ts": "2026-09-25T16:56:06.101165+00:00",
+    "ts": "2026-09-26T20:52:43.726731+00:00",
     "type": "other"
   },
   "https://www.offshore-energy.biz/ld-armateurs-welcomes-multipurpose-support-vessel-to-its-fleet/": {
-    "ts": "2026-09-25T16:56:06.101165+00:00",
+    "ts": "2026-09-26T20:52:43.726731+00:00",
     "type": "other"
   },
   "https://splash247.com/sincere-navigation-adds-modern-kamsarmax-in-38-5m-deal/": {
@@ -1216,7 +1176,7 @@
     "type": "other"
   },
   "https://safety4sea.com/fueleu-maritime-three-key-lessons-drawn-from-the-first-year-of-implementation/": {
-    "ts": "2026-09-25T16:56:06.101165+00:00",
+    "ts": "2026-09-26T20:52:43.726731+00:00",
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/porto-acu-oceanpact-loi-expansao-area": {
@@ -1224,11 +1184,11 @@
     "type": "highlight"
   },
   "https://www.marinelog.com/news/mary-mcallister-is-newest-84-tonne-bollard-pull-tug-to-join-the-mcallister-fleey/": {
-    "ts": "2026-09-26T16:07:18.903928+00:00",
+    "ts": "2026-09-26T20:52:43.726731+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/somali-forces-free-third-ship-seized-by-pirates": {
-    "ts": "2026-09-26T16:07:18.903928+00:00",
+    "ts": "2026-09-26T20:52:43.726731+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/porto-de-santos-bate-recorde-historico-de-movimentacao-de-conteineres-em-agosto": {
@@ -1280,11 +1240,11 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/iran-says-it-offered-the-us-a-new-proposal-to-open-the-strait-of-hormuz": {
-    "ts": "2026-09-26T16:07:18.903928+00:00",
+    "ts": "2026-09-26T20:52:43.726731+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/affinity-tanker-weekly-25-september-2026/": {
-    "ts": "2026-09-26T16:07:18.903928+00:00",
+    "ts": "2026-09-26T20:52:43.726731+00:00",
     "type": "highlight"
   },
   "https://www.offshore-energy.biz/fit-out-of-neuconnects-converter-stations-in-progress/": {
@@ -1312,15 +1272,15 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/543269-new-subsea-equipment-provider-aqo-joins-the-market": {
-    "ts": "2026-09-26T11:06:53.846697+00:00",
+    "ts": "2026-09-26T20:52:43.726731+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/us-sanctioned-oil-tanker-hijacked-by-somali-pirates-rescued-after-48-hour-operation/?utm_source=rss&utm_medium=rss&utm_campaign=us-sanctioned-oil-tanker-hijacked-by-somali-pirates-rescued-after-48-hour-operation": {
-    "ts": "2026-09-26T16:07:18.903928+00:00",
+    "ts": "2026-09-26T20:52:43.726731+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/the-week-in-alt-fuels-the-cold-feet-conundrum/": {
-    "ts": "2026-09-26T16:07:18.903928+00:00",
+    "ts": "2026-09-26T20:52:43.726731+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/giant-bulker-cape-falcon-refloated-after-six-days-aground-off-australia/?utm_source=rss&utm_medium=rss&utm_campaign=giant-bulker-cape-falcon-refloated-after-six-days-aground-off-australia": {
@@ -1348,11 +1308,27 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/joaquin-caballero-sera-o-novo-ceo-da-ecopetrol-a-partir-da-proxima-segunda-feira/": {
-    "ts": "2026-09-26T16:07:18.903928+00:00",
+    "ts": "2026-09-26T20:52:43.726731+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/ports/black-sea-truce-could-revive-80-per-cent-of-russian-grain-port-capacity": {
     "ts": "2026-09-26T16:07:18.903928+00:00",
     "type": "highlight"
+  },
+  "https://gcaptain.com/trump-rejects-iran-proposal-on-hormuz-as-houthis-target-riyadh/": {
+    "ts": "2026-09-26T20:52:43.726731+00:00",
+    "type": "highlight"
+  },
+  "https://www.infomoney.com.br/mundo/principe-nahyan-pede-restauracao-do-estreito-de-ormuz-a-status-sem-imposicao-de-taxas/": {
+    "ts": "2026-09-26T20:52:43.726731+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/09/26/donald-trump-diz-ter-rejeitado-proposta-de-paz-do-ira-que-previa-reabrir-estreito-de-ormuz.ghtml": {
+    "ts": "2026-09-26T20:52:43.726731+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/how-europes-intensifying-marine-heatwaves-threaten-its-fisheries/": {
+    "ts": "2026-09-26T20:52:43.726731+00:00",
+    "type": "other"
   }
 }
