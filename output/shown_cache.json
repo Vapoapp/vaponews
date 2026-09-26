@@ -1,10 +1,10 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-09-25T16:56:06.101165+00:00",
+    "ts": "2026-09-26T04:23:52.910672+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-09-25T21:20:36.282044+00:00",
+    "ts": "2026-09-26T04:23:52.910672+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/transport": {
@@ -14,10 +14,6 @@
   "https://www.bairdmaritime.com/offshore/vessel-reviews": {
     "ts": "2026-09-23T11:10:47.779069+00:00",
     "type": "other"
-  },
-  "https://www.oedigital.com/news/543028-cyber-security-regulations-drive-resilience-agenda-for-offshore-energy-infrastructure": {
-    "ts": "2026-09-19T04:01:24.212691+00:00",
-    "type": "highlight"
   },
   "https://safety4sea.com/cyberattacks-on-two-us-bound-tankers-put-cyber-risk-back-in-the-spotlight/": {
     "ts": "2026-09-19T10:38:23.647136+00:00",
@@ -123,10 +119,6 @@
     "ts": "2026-09-20T15:46:46.002131+00:00",
     "type": "highlight"
   },
-  "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/19/salario-minimo-e-aposentadoria-propostas-candidatos-presidente.ghtml": {
-    "ts": "2026-09-19T04:01:24.212691+00:00",
-    "type": "other"
-  },
   "https://www.hellenicshippingnews.com/gms-week-38-freight-pays-beaches-wait/": {
     "ts": "2026-09-20T11:01:05.028202+00:00",
     "type": "other"
@@ -153,10 +145,6 @@
   },
   "https://www.offshore-energy.biz/worley-helps-propel-21b-asian-lng-and-ccs-project-forward-with-feeds-now-out-of-the-way/": {
     "ts": "2026-09-20T11:01:05.028202+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/exmars-flng-conversion-earns-bureau-veritas-seal-of-approval/": {
-    "ts": "2026-09-19T04:01:24.212691+00:00",
     "type": "other"
   },
   "https://safety4sea.com/shipping-groups-urge-eu-states-to-back-two-indian-ship-recycling-yards/": {
@@ -1008,7 +996,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/danish-energy-trader-makes-entry-into-offshore-wind-through-skyborn-deal": {
-    "ts": "2026-09-24T11:26:23.162286+00:00",
+    "ts": "2026-09-26T04:23:52.910672+00:00",
     "type": "other"
   },
   "https://www.offshore-energy.biz/fugro-secures-more-work-in-timor-leste-alongside-new-contract-in-australia/": {
@@ -1056,11 +1044,11 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/543242-van-oord-names-next-generation-fallpipe-vessel-pair": {
-    "ts": "2026-09-24T16:52:27.593773+00:00",
+    "ts": "2026-09-26T04:23:52.910672+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/543241-dong-fang-offshore-orders-another-csov-from-vard": {
-    "ts": "2026-09-24T16:52:27.593773+00:00",
+    "ts": "2026-09-26T04:23:52.910672+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/543235-fugro-adds-more-survey-work-off-timor-leste": {
@@ -1084,7 +1072,7 @@
     "type": "highlight"
   },
   "https://gcaptain.com/world-maritime-day-2026-imo-warns-shipping-rules-are-under-strain-as-seafarers-face-deadly-attacks/": {
-    "ts": "2026-09-25T21:20:36.282044+00:00",
+    "ts": "2026-09-26T04:23:52.910672+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/oil-tanker-insurance-triples-amidst-543249": {
@@ -1200,11 +1188,11 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/543259-saudi-oil-surge-pushes-gulf-of-oman-transfers-to-capacity": {
-    "ts": "2026-09-25T21:20:36.282044+00:00",
+    "ts": "2026-09-26T04:23:52.910672+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/shipping-risks-mount-as-80-nations-demand-safe-passage-through-hormuz-and-red-sea/": {
-    "ts": "2026-09-25T21:20:36.282044+00:00",
+    "ts": "2026-09-26T04:23:52.910672+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/trump-renews-attacks-on-imo-net-zero-framework/": {
@@ -1256,11 +1244,11 @@
     "type": "highlight"
   },
   "https://gcaptain.com/qatar-boosts-lng-traffic-via-hormuz-as-global-shortage-bites/": {
-    "ts": "2026-09-25T21:20:36.282044+00:00",
+    "ts": "2026-09-26T04:23:52.910672+00:00",
     "type": "highlight"
   },
   "https://www.infomoney.com.br/mundo/passagens-de-navios-de-carga-pelo-estreito-de-ormuz-caem-para-um-digito/": {
-    "ts": "2026-09-25T21:20:36.282044+00:00",
+    "ts": "2026-09-26T04:23:52.910672+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/transpetro-diz-que-nova-lei-reforca-combate-ao-furto-de-combustiveis-em-dutos/": {
@@ -1288,15 +1276,15 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/porto-acu-oceanpact-loi-expansao-area": {
-    "ts": "2026-09-25T21:20:36.282044+00:00",
+    "ts": "2026-09-26T04:23:52.910672+00:00",
     "type": "highlight"
   },
   "https://www.marinelog.com/news/mary-mcallister-is-newest-84-tonne-bollard-pull-tug-to-join-the-mcallister-fleey/": {
-    "ts": "2026-09-25T21:20:36.282044+00:00",
+    "ts": "2026-09-26T04:23:52.910672+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/somali-forces-free-third-ship-seized-by-pirates": {
-    "ts": "2026-09-25T21:20:36.282044+00:00",
+    "ts": "2026-09-26T04:23:52.910672+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/porto-de-santos-bate-recorde-historico-de-movimentacao-de-conteineres-em-agosto": {
@@ -1345,6 +1333,38 @@
   },
   "https://splash247.com/rio-tinto-offloads-final-newcastlemax-pair-to-yasa/": {
     "ts": "2026-09-25T21:20:36.282044+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/iran-says-it-offered-the-us-a-new-proposal-to-open-the-strait-of-hormuz": {
+    "ts": "2026-09-26T04:23:52.910672+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/affinity-tanker-weekly-25-september-2026/": {
+    "ts": "2026-09-26T04:23:52.910672+00:00",
+    "type": "highlight"
+  },
+  "https://www.offshore-energy.biz/fit-out-of-neuconnects-converter-stations-in-progress/": {
+    "ts": "2026-09-26T04:23:52.910672+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/gibson-tanker-report-clean-catchup/": {
+    "ts": "2026-09-26T04:23:52.910672+00:00",
+    "type": "other"
+  },
+  "https://www.offshore-energy.biz/australian-interconnector-granted-final-approval-before-construction/": {
+    "ts": "2026-09-26T04:23:52.910672+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/how-the-resilience-premium-is-reshaping-shipping/": {
+    "ts": "2026-09-26T04:23:52.910672+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/volare-hits-1-2bn-valuation-after-500m-raise/": {
+    "ts": "2026-09-26T04:23:52.910672+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/ports/palm-beach-cruise-terminal-upgrade": {
+    "ts": "2026-09-26T04:23:52.910672+00:00",
     "type": "other"
   }
 }
