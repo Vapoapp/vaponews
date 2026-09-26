@@ -8,17 +8,6 @@
       "logística e portos",
       "risco geopolítico"
     ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com afretamentos de VLCCs em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo e força armadores a reconfigurar estratégias comerciais, ampliando medidas de mitigação de risco geopolítico. A inclusão de 77 embarcações na lista negra iraniana eleva prêmios de seguro e frete, restringindo o fluxo global de petróleo e aumentando volatilidade na cadeia logística. No offshore brasileiro, a assinatura de cont"
-  },
-  {
-    "date": "2026-09-18",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs em US$ 20 milhões por passagem, inviabilizando contratos de longo prazo. A inclusão de 77 embarcações na lista negra iraniana eleva prêmios de seguro e frete, ampliando volatilidade e restringindo o fluxo global de petróleo. Armadores reconfiguram estratégias comerciais para mitigar riscos geopolíticos, mas a instabilidade segue impactando a logística marítima global. No offshore brasileiro, contrato"
   },
   {
@@ -320,5 +309,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com fretes de VLCC em US$ 20 milhões por passagem, inviabilizando contratos de longo prazo. Armadores revisam estratégias comerciais diante do aumento dos prêmios de seguro, elevando volatilidade e custos na cadeia global de petróleo. A inclusão de 77 embarcações na lista negra iraniana e ataques recentes reforçam o risco geopolítico, restringindo o fluxo de cargas e impactando a logística internacional. No offshore, a expansão d"
+  },
+  {
+    "date": "2026-09-26",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes de VLCC estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo, forçando armadores a revisarem estratégias comerciais e seguradoras a elevar prêmios, o que amplia volatilidade e custos na cadeia global de petróleo. A inclusão de 77 embarcações na lista negra iraniana e ataques recentes reforçam o risco geopolítico, restringindo o fluxo de cargas e impactando diretamente a lo"
   }
 ]
