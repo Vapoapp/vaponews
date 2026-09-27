@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-09-19",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com afretamentos de VLCCs estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo e pressiona armadores a reconfigurarem estratégias comerciais para mitigar riscos, diante da inclusão de 77 embarcações na lista negra iraniana. O aumento dos prêmios de seguro e a volatilidade logística restringem o fluxo global de petróleo, impactando diretamente a cadeia marítima de abastecimento. No Ma"
-  },
-  {
     "date": "2026-09-20",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -319,5 +308,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com fretes de VLCC estabilizados em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo e força armadores a reestruturar estratégias comerciais, enquanto seguradoras elevam prêmios, ampliando volatilidade e custos na cadeia global de petróleo. A inclusão de 77 embarcações na lista negra iraniana e ataques recentes reforçam o risco geopolítico, restringindo o fluxo de cargas e impactando diretamente a logí"
+  },
+  {
+    "date": "2026-09-27",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com fretes para VLCC estabilizados em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo, forçando armadores a reestruturar estratégias comerciais e seguradoras a elevar prêmios, ampliando volatilidade e custos na cadeia global de petróleo. A inclusão de 77 embarcações na lista negra iraniana e ataques recentes reforçam o risco geopolítico, restringindo o fluxo de cargas. No Mar Vermelho, avanços dos reb"
   }
 ]
