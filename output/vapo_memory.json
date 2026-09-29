@@ -2,15 +2,6 @@
   {
     "date": "2026-09-21",
     "drivers": [
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes de VLCCs estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo e força armadores a reconfigurar estratégias comerciais para mitigar riscos geopolíticos, agravados pela inclusão de 77 embarcações na lista negra iraniana e pelo aumento dos prêmios de seguro. A volatilidade logística restringe o fluxo global de petróleo, elevando custos e incertezas na cadeia de abastecimento."
-  },
-  {
-    "date": "2026-09-21",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -320,5 +311,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes para VLCC estabilizados em US$ 20 milhões por passagem. Esse nível inviabiliza contratos de longo prazo, forçando armadores a reestruturar estratégias comerciais e seguradoras a elevar prêmios, ampliando custos e volatilidade na cadeia global de petróleo. A inclusão de 77 embarcações na lista negra iraniana e ameaças diretas do Irã aumentam a insegurança operacional e restringem o fluxo de cargas. No offshore, a co"
+  },
+  {
+    "date": "2026-09-29",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com fretes para VLCC estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo, forçando armadores a readequar estratégias comerciais e seguradoras a elevar prêmios, o que aumenta custos e volatilidade na cadeia global de petróleo. A inclusão de 77 embarcações na lista negra iraniana e ameaças diretas elevam o risco geopolítico e restringem o fluxo de cargas. No offshore, investimentos seguem"
   }
 ]
