@@ -2,17 +2,6 @@
   {
     "date": "2026-09-21",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com fretes de VLCC estabilizados em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo e força armadores a reestruturarem estratégias comerciais para mitigar riscos geopolíticos, agravados pela inclusão de 77 embarcações na lista negra iraniana e pelo aumento dos prêmios de seguro. A volatilidade logística restringe o fluxo global de petróleo, pressionando diretamente a cadeia marítima de abastecimento."
-  },
-  {
-    "date": "2026-09-21",
-    "drivers": [
       "operações offshore",
       "risco geopolítico",
       "petróleo e gás"
@@ -320,5 +309,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes para VLCC estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo, obriga armadores a readequar estratégias comerciais e eleva prêmios de seguro, ampliando volatilidade e custos na cadeia global de petróleo. A inclusão de 77 embarcações na lista negra iraniana e ataques recentes reforçam o risco geopolítico, restringindo o fluxo de cargas e aumentando insegurança operacional."
+  },
+  {
+    "date": "2026-09-29",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes para VLCC estabilizados em US$ 20 milhões por passagem. Esse nível inviabiliza contratos de longo prazo, forçando armadores a reestruturar estratégias comerciais e seguradoras a elevar prêmios, ampliando custos e volatilidade na cadeia global de petróleo. A inclusão de 77 embarcações na lista negra iraniana e ameaças diretas do Irã aumentam a insegurança operacional e restringem o fluxo de cargas. No offshore, a co"
   }
 ]
