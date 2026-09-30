@@ -4,19 +4,11 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-09-30T04:57:04.625358+00:00",
+    "ts": "2026-09-30T12:14:49.209904+00:00",
     "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/offshore/vessel-reviews": {
-    "ts": "2026-09-23T11:10:47.779069+00:00",
-    "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/antaq-participa-de-missao-tecnica-nos-estados-unidos": {
     "ts": "2026-09-23T21:19:44.005682+00:00",
-    "type": "highlight"
-  },
-  "https://www.oedigital.com/news/543140-foz-do-amazonas-discovery-yields-high-quality-oil-for-petrobras": {
-    "ts": "2026-09-23T11:10:47.779069+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/transporte-rodoviario/21913/antt-inicia-procedimentos-para-suspender-empresas-que-descumprem-piso-minimo-do-frete/": {
@@ -55,56 +47,12 @@
     "ts": "2026-09-23T16:32:23.667697+00:00",
     "type": "highlight"
   },
-  "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/o-que-se-sabe-sobre-acidente-de-helicoptero-que-matou-o-cantor-rick-e-outras-4-pessoas-em-sc.ghtml": {
-    "ts": "2026-09-23T11:10:47.779069+00:00",
-    "type": "highlight"
-  },
   "https://www.oedigital.com/news/543199-csl-owl-launches-first-subsea-rock-installation-vessel-video": {
     "ts": "2026-09-24T04:05:50.725434+00:00",
     "type": "highlight"
   },
-  "https://splash247.com/china-linked-hackers-step-up-attacks-on-european-shipping/": {
-    "ts": "2026-09-23T11:10:47.779069+00:00",
-    "type": "highlight"
-  },
-  "https://petronoticias.com.br/castrol-lanca-tecnologia-de-monitoramento-em-tempo-real-no-brasil-de-olho-em-oportunidades-no-setor-offshore/": {
-    "ts": "2026-09-23T11:10:47.779069+00:00",
-    "type": "other"
-  },
-  "https://www.tecnologistica.com.br/noticias/armazenagem/21920/id-logistics-amplia-cd-da-beiersdorf-em-extrema-mg-para-20-mil-m/": {
-    "ts": "2026-09-23T11:10:47.779069+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/diana-extends-rate-run-with-new-ultramax-fixture/": {
-    "ts": "2026-09-23T11:10:47.779069+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543201-inch-cape-offshore-wind-farm-installs-second-export-cable": {
-    "ts": "2026-09-23T11:10:47.779069+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/totalenergies-pushes-ahead-with-offshore-nigeria-gas-development": {
-    "ts": "2026-09-23T11:10:47.779069+00:00",
-    "type": "other"
-  },
   "https://safety4sea.com/shippings-green-transition-faces-policy-headwinds-despite-continued-progress/": {
     "ts": "2026-09-25T04:19:42.076764+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/maersk-boosts-suez-canal-route-as-global-container-market-tightens/": {
-    "ts": "2026-09-23T11:10:47.779069+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/deepocean-and-tfkable-plan-jv-for-inter-array-cable-projects-with-dedicated-vessel/": {
-    "ts": "2026-09-23T11:10:47.779069+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/from-policy-to-practice-ship-recycling/": {
-    "ts": "2026-09-23T11:10:47.779069+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/new-york-leads-lawsuits-challenging-1-4-billion-offshore-wind-buyouts/": {
-    "ts": "2026-09-23T11:10:47.779069+00:00",
     "type": "other"
   },
   "https://gcaptain.com/seafarer-killed-in-hormuz-attack-as-trump-pushes-iran-deal-at-un/": {
@@ -864,7 +812,7 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/desempenho/21940/porto-de-santos-registra-recorde-na-movimentacao-de-conteineres-em-agosto/": {
-    "ts": "2026-09-30T04:57:04.625358+00:00",
+    "ts": "2026-09-30T12:14:49.209904+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/80-countries-sign-joint-statement-calling-for-reopening-of-strait-of-hormuz/": {
@@ -916,7 +864,7 @@
     "type": "other"
   },
   "https://www.marinelog.com/news/maersk-in-first-ever-u-s-100-bioethanol-bunkering/": {
-    "ts": "2026-09-28T23:05:44.167980+00:00",
+    "ts": "2026-09-30T12:14:49.209904+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/brazils-imo-proposal-for-iswg-ghg-22-how-compliance-surplus-trading-and-the-facility-could-work/": {
@@ -1052,15 +1000,15 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/kuwaiti-tanker-struck-in-the-strait-of-hormuz": {
-    "ts": "2026-09-30T04:57:04.625358+00:00",
+    "ts": "2026-09-30T12:14:49.209904+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/fog-of-war-deepens-in-hormuz-as-ship-attacks-go-unreported-for-days/": {
-    "ts": "2026-09-30T04:57:04.625358+00:00",
+    "ts": "2026-09-30T12:14:49.209904+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/a-argentina-ameaca-processar-o-reino-unido-por-causa-do-campo-petrolifero-das-ilhas-malvinas/": {
-    "ts": "2026-09-30T04:57:04.625358+00:00",
+    "ts": "2026-09-30T12:14:49.209904+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/internacional/exxonmobil-alcanca-marca-de-1-bilhao-de-bpd-na-guiana": {
@@ -1124,11 +1072,11 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/guidotti-ships-half-year-loss": {
-    "ts": "2026-09-30T04:57:04.625358+00:00",
+    "ts": "2026-09-30T12:14:49.209904+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/mol-to-operate-japan-s-first-icebreaker-arctic-research-ship": {
-    "ts": "2026-09-30T04:57:04.625358+00:00",
+    "ts": "2026-09-30T12:14:49.209904+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/newbuilding-contracting-keeps-strong-momentum/": {
@@ -1165,6 +1113,58 @@
   },
   "https://splash247.com/tsakos-clears-out-oldest-ship-as-fleet-renewal-rolls-on/": {
     "ts": "2026-09-30T04:57:04.625358+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/uk-maib-annual-report-2025-watchkeeping-and-safety-management-remain-key-concerns/": {
+    "ts": "2026-09-30T12:14:49.209904+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/543349-petrobras-signs-long-term-lng-supply-deal-with-cheniere": {
+    "ts": "2026-09-30T12:14:49.209904+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/ship-catches-fire-after-being-hit-by-unknown-projectile-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=ship-catches-fire-after-being-hit-by-unknown-projectile-in-strait-of-hormuz": {
+    "ts": "2026-09-30T12:14:49.209904+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/somali-pirates-kill-five-tanker-crew-543350": {
+    "ts": "2026-09-30T12:14:49.209904+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543358-solstad-maritime-secures-apac-drilling-support-work-for-ahts-pair": {
+    "ts": "2026-09-30T12:14:49.209904+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543359-china-three-gorges-links-first-qingzhou-v-and-vii-wind-turbines-to-grid": {
+    "ts": "2026-09-30T12:14:49.209904+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/90m-for-near-17-year-old-non-eco-suezmax/": {
+    "ts": "2026-09-30T12:14:49.209904+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/gulf-crude-exports-rebound-sharply/": {
+    "ts": "2026-09-30T12:14:49.209904+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/seafarer-reportedly-missing-after-drone-strike-on-bulk-carrier-near-novorossiysk/": {
+    "ts": "2026-09-30T12:14:49.209904+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/recent-jotuns-project-highlights-the-role-of-coatings-in-hull-performance/": {
+    "ts": "2026-09-30T12:14:49.209904+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/imos-ccc-12-the-safety-gap-concerning-sp188/": {
+    "ts": "2026-09-30T12:14:49.209904+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/saam-towage-celebrates-the-christening-of-the-petrel-in-arica-chiles-first-imo-tier-iii-tugboat/": {
+    "ts": "2026-09-30T12:14:49.209904+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/lng-canada-greenlights-phase-2-doubling-export-capacity/": {
+    "ts": "2026-09-30T12:14:49.209904+00:00",
     "type": "other"
   }
 }
