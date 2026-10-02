@@ -1,22 +1,14 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-10-01T12:49:21.360803+00:00",
+    "ts": "2026-10-02T04:59:07.906868+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-10-01T12:49:21.360803+00:00",
+    "ts": "2026-10-02T04:59:07.906868+00:00",
     "type": "highlight"
-  },
-  "https://safety4sea.com/shippings-green-transition-faces-policy-headwinds-despite-continued-progress/": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
-    "type": "other"
   },
   "https://maritime-executive.com/article/indian-seafarer-union-demands-action-as-another-ship-is-attacked-in-hormuz": {
     "ts": "2026-09-25T16:56:06.101165+00:00",
-    "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/shell-and-trinidad-break-deadlock-over-offshore-gas-field-supply-terms": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/boxships/ningbo-ocean-profit-falls-charter-bunker-costs": {
@@ -59,10 +51,6 @@
     "ts": "2026-09-26T16:07:18.903928+00:00",
     "type": "highlight"
   },
-  "https://www.marinelink.com/news/oil-tanker-insurance-triples-amidst-543249": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
-    "type": "highlight"
-  },
   "https://www.oedigital.com/news/543238-50hertz-taps-abl-for-ostwind-4-marine-assurance": {
     "ts": "2026-09-26T11:06:53.846697+00:00",
     "type": "other"
@@ -70,50 +58,6 @@
   "https://maritime-executive.com/article/report-cia-warns-of-russian-plans-for-ship-based-drone-strikes-in-the-med": {
     "ts": "2026-09-25T16:56:06.101165+00:00",
     "type": "highlight"
-  },
-  "https://www.offshore-energy.biz/go-ahead-for-dnos-north-sea-drilling-ops-with-odfjell-drilling-managed-rig/": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
-    "type": "highlight"
-  },
-  "https://splash247.com/ventura-offshore-adds-indonesia-drilling-work-for-semisub/": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
-    "type": "highlight"
-  },
-  "https://splash247.com/hafnia-closes-in-on-20-of-torm-and-raises-300m/": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543250-us-senate-nears-completion-of-energy-infrastructure-reform-bill": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/dnv-shippings-fuel-future-hinges-on-what-regulators-do-next/": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/bimco-symposium-highlights-need-for-global-maritime-security-co-operation/": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543231-trinidad-s-aphrodite-gas-project-advances-after-shell-ngc-agreement": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543239-eni-confirms-sapukala-deepwater-block-award-in-indonesia": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
-    "type": "other"
-  },
-  "https://www.offshore-energy.biz/bahamas-studying-ocean-thermal-energy-conversion-potential/": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/uab-online-and-dropboard-bring-berth-planning-into-the-operational-workflow/": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/ports/liberty-state-park-ferry-terminal-reopens-upgrade": {
-    "ts": "2026-09-25T04:19:42.076764+00:00",
-    "type": "other"
   },
   "https://www.oedigital.com/news/543259-saudi-oil-surge-pushes-gulf-of-oman-transfers-to-capacity": {
     "ts": "2026-09-27T04:41:06.551736+00:00",
@@ -976,7 +920,7 @@
     "type": "other"
   },
   "https://splash247.com/transpetrol-trims-aframax-fleet-in-73m-deal/": {
-    "ts": "2026-10-01T22:31:06.741846+00:00",
+    "ts": "2026-10-02T04:59:07.906868+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/three-oil-tankers-fire-strait-hormuz-543387": {
@@ -984,7 +928,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/150-ships-bound-for-russian-ports-stuck-in-gulf-of-finland-in-50-km-long-queue/?utm_source=rss&utm_medium=rss&utm_campaign=150-ships-bound-for-russian-ports-stuck-in-gulf-of-finland-in-50-km-long-queue": {
-    "ts": "2026-10-01T12:49:21.360803+00:00",
+    "ts": "2026-10-02T04:59:07.906868+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/meio-ambiente/navio-de-pesquisa-dos-eua-vai-medir-mares-na-plataforma-amazonica": {
@@ -1036,15 +980,15 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/portos/21952/dp-world-recebe-novos-guindastes-para-ampliar-capacidade-no-porto-de-santos/": {
-    "ts": "2026-10-01T22:31:06.741846+00:00",
+    "ts": "2026-10-02T04:59:07.906868+00:00",
     "type": "highlight"
   },
   "https://splash247.com/tankers-enter-the-death-zone/": {
-    "ts": "2026-10-01T22:31:06.741846+00:00",
+    "ts": "2026-10-02T04:59:07.906868+00:00",
     "type": "highlight"
   },
   "https://www.infomoney.com.br/mundo/eua-consideram-improvavel-invasao-de-taiwan-pela-china-no-proximo-ano-dizem-fontes/": {
-    "ts": "2026-10-01T22:31:06.741846+00:00",
+    "ts": "2026-10-02T04:59:07.906868+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/enafis-2026-reune-fiscais-para-debates-tecnicos-e-atualizacao-profissional": {
@@ -1101,6 +1045,62 @@
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/inpex-indonesia-agung-blocks-deal": {
     "ts": "2026-10-01T22:31:06.741846+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/01/mprj-investiga-crescimento-patrimonial-de-empresas-ligadas-a-douglas-ruas.ghtml": {
+    "ts": "2026-10-02T04:59:07.906868+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/japan-conducts-demonstration-voyage-of-a-hydrogen-fueled-tanker": {
+    "ts": "2026-10-02T04:59:07.906868+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/crude-oil-exports-through-the-strait-of-hormuz-hit-prewar-levels-but-fuel-shipments-remain-constrained/": {
+    "ts": "2026-10-02T04:59:07.906868+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/internacional/tgs-firma-parceria-de-10-anos-com-gabao-para-dados-offshore": {
+    "ts": "2026-10-02T04:59:07.906868+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/another-tanker-hit-in-strait-of-hormuz-as-attacks-continue/": {
+    "ts": "2026-10-02T04:59:07.906868+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/rescue-operation-off-south-africa-turns-tragic-as-rescuers-are-killed": {
+    "ts": "2026-10-02T04:59:07.906868+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/abs-hd-ksoe-and-siemens-sign-mou-to-develop-digital-twin-technology-for-ammonia-safety/": {
+    "ts": "2026-10-02T04:59:07.906868+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/3-ships-including-crude-oil-tanker-lng-tanker-struck-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=3-ships-including-crude-oil-tanker-lng-tanker-struck-in-strait-of-hormuz": {
+    "ts": "2026-10-02T04:59:07.906868+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/maritime-companies-are-using-ai-every-day-but-governance-still-lags/": {
+    "ts": "2026-10-02T04:59:07.906868+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543398-siemens-energy-picks-est-floattech-for-marco-polo-s-csov-battery-system": {
+    "ts": "2026-10-02T04:59:07.906868+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543394-deme-installs-final-monopile-at-nordlicht-i-offshore-wind-farm": {
+    "ts": "2026-10-02T04:59:07.906868+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543389-inpex-buys-into-two-bp-operated-indonesian-offshore-blocks": {
+    "ts": "2026-10-02T04:59:07.906868+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/akrotiri-suezmax-order-new-times": {
+    "ts": "2026-10-02T04:59:07.906868+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/tanker-congestion-shunts-vital-oil-transfers-farther-from-hormuz/": {
+    "ts": "2026-10-02T04:59:07.906868+00:00",
     "type": "other"
   }
 }
