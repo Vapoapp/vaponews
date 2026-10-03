@@ -4,17 +4,6 @@
     "drivers": [
       "contratos marítimos",
       "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, mantendo fretes de VLCC em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo, forçando armadores a reestruturarem estratégias comerciais e seguradoras a elevarem prêmios, ampliando volatilidade e custos na cadeia global de petróleo. A inclusão de 77 embarcações na lista negra iraniana e ataques recentes reforçam o risco geopolítico, restringindo o fluxo de cargas e impactando a logística internacion"
-  },
-  {
-    "date": "2026-09-25",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
       "risco geopolítico",
       "petróleo e gás"
     ],
@@ -323,5 +312,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes para VLCC em US$ 20 milhões por passagem, inviabilizando contratos de longo prazo. Armadores ajustam estratégias comerciais para mitigar volatilidade e seguradoras elevam prêmios, pressionando custos e margens no transporte marítimo de óleo. Ataques recentes e inclusão de 77 embarcações na lista negra iraniana ampliam riscos e restringem o fluxo de cargas, deslocando operações para rotas alternativas no Golfo de Ku"
+  },
+  {
+    "date": "2026-10-03",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com fretes para VLCC firmados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo e força armadores a reconfigurar estratégias comerciais diante da volatilidade e do aumento dos prêmios de seguro. A inclusão de 77 embarcações na lista negra iraniana e ataques recentes ampliam o risco e restringem o fluxo de cargas, deslocando operações para rotas alternativas no Golfo de Ku. O aumento do trânsito de"
   }
 ]
