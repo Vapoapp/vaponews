@@ -2,17 +2,6 @@
   {
     "date": "2026-09-26",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes de VLCC estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo, forçando armadores a revisarem estratégias comerciais e seguradoras a elevarem prêmios, o que amplia volatilidade e custos na cadeia global de petróleo. A inclusão de 77 embarcações na lista negra iraniana e ataques recentes reforçam o risco geopolítico, restringindo o fluxo de cargas e impactando diretamente a"
-  },
-  {
-    "date": "2026-09-26",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "operações offshore",
       "risco geopolítico",
@@ -322,5 +311,16 @@
       "risco geopolítico"
     ],
     "summary": "A persistente restrição da capacidade no Estreito de Ormuz, com fretes para VLCC em US$ 20 milhões por passagem, inviabiliza contratos de longo prazo e pressiona margens. A inclusão de 77 embarcações na lista negra iraniana e ataques recentes ampliam o risco, elevando prêmios de seguro e deslocando operações para rotas alternativas no Golfo de Ku. A volatilidade geopolítica, com incidentes também no Mar Negro e no Iêmen, reforça a necessidade de adaptação logística e revisão das estratégias come"
+  },
+  {
+    "date": "2026-10-05",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes para VLCC atingindo US$ 20 milhões por passagem, inviabilizando contratos de longo prazo. A inclusão de 77 embarcações na lista negra iraniana, ataques recentes e o aumento dos prêmios de seguro elevam custos e riscos, forçando armadores a migrar operações para rotas alternativas no Golfo de Ku. Essa reconfiguração logística pressiona margens e demanda revisão imediata das estratégias comerciais. No Oriente Médio,"
   }
 ]
