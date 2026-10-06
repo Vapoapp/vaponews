@@ -1,15 +1,5 @@
 [
   {
-    "date": "2026-09-26",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com fretes de VLCC estabilizados em US$ 20 milhões por passagem. Esse nível inviabiliza contratos de longo prazo, forçando armadores a ajustar estratégias comerciais e seguradoras a elevar prêmios, o que amplia volatilidade e custos na cadeia global de petróleo. A inclusão de 77 embarcações na lista negra iraniana e ataques recentes reforçam o risco geopolítico, restringindo o fluxo de cargas e impactando diretamente a logística"
-  },
-  {
     "date": "2026-09-27",
     "drivers": [
       "contratos marítimos",
@@ -322,5 +312,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes para VLCC atingindo US$ 20 milhões por passagem, inviabilizando contratos de longo prazo. A inclusão de 77 embarcações na lista negra iraniana, ataques recentes e o aumento dos prêmios de seguro elevam custos e riscos, forçando armadores a migrar operações para rotas alternativas no Golfo de Ku. Essa reconfiguração logística pressiona margens e demanda revisão imediata das estratégias comerciais. No Oriente Médio,"
+  },
+  {
+    "date": "2026-10-06",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue restrita a menos de 10%, com fretes para VLCC alcançando US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo e força armadores a realocar operações para rotas alternativas no Golfo de Ku, elevando custos e complexidade logística. A inclusão de 77 embarcações na lista negra iraniana e ataques recentes intensificam o risco, pressionando prêmios de seguro e margens no transporte marítimo de óleo. No Mar Negro, ataques a na"
   }
 ]
