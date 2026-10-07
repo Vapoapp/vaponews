@@ -3,17 +3,6 @@
     "date": "2026-09-27",
     "drivers": [
       "atividade Petrobras/Transpetro",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com fretes para VLCC estabilizados em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo, forçando armadores a reestruturar estratégias comerciais e seguradoras a elevar prêmios, ampliando volatilidade e custos na cadeia global de petróleo. A inclusão de 77 embarcações na lista negra iraniana e ataques recentes reforçam o risco geopolítico, restringindo o fluxo de cargas. No Mar Vermelho, avanços dos reb"
-  },
-  {
-    "date": "2026-09-27",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -323,5 +312,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes para VLCC em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo e força armadores a desviar cargas para rotas alternativas no Golfo de Ku, elevando custos logísticos e complexidade operacional. A inclusão de 77 embarcações na lista negra iraniana e ataques recentes intensificam o risco, pressionando prêmios de seguro e margens no transporte marítimo de óleo. No Mar Negro, ataques com drone"
+  },
+  {
+    "date": "2026-10-07",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com fretes para VLCC em US$ 20 milhões por passagem, inviabilizando contratos de longo prazo. Armadores deslocam operações para o Golfo de Ku, elevando custos e complexidade logística, enquanto a inclusão de 77 embarcações na lista negra iraniana e ataques recentes aumentam prêmios de seguro e comprimem margens no transporte de petróleo. No Mar Negro, a intensificação dos ataques com drones a navios mercantes agrava o risco opera"
   }
 ]
