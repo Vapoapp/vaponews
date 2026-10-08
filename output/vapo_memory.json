@@ -2,17 +2,6 @@
   {
     "date": "2026-09-29",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes para VLCC estabilizados em US$ 20 milhões por passagem. Esse nível inviabiliza contratos de longo prazo, forçando armadores a reestruturar estratégias comerciais e seguradoras a elevar prêmios, ampliando custos e volatilidade na cadeia global de petróleo. A inclusão de 77 embarcações na lista negra iraniana e ameaças diretas do Irã aumentam a insegurança operacional e restringem o fluxo de cargas. No offshore, a co"
-  },
-  {
-    "date": "2026-09-29",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -325,5 +314,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com fretes para VLCC em US$ 20 milhões por passagem, inviabilizando contratos de longo prazo. Armadores desviam cargas para o Golfo de Ku, elevando custos logísticos e complexidade operacional. A inclusão de 77 embarcações na lista negra iraniana e ataques recentes ampliam prêmios de seguro, comprimindo margens no transporte marítimo de petróleo. No Brasil, o leilão offshore concedeu 56 blocos, com Petrobras e Equinor liderando."
+  },
+  {
+    "date": "2026-10-08",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes para VLCC atingindo US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo e força armadores a redirecionar cargas para o Golfo de Ku, aumentando custos e complexidade logística. A inclusão de 77 embarcações na lista negra iraniana e o crescimento dos ataques a petroleiros elevam prêmios de seguro, comprimindo margens no transporte marítimo de petróleo. No Brasil, o leilão offshore concedeu"
   }
 ]
