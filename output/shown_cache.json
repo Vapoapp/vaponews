@@ -7,10 +7,6 @@
     "ts": "2026-10-06T05:45:44.576956+00:00",
     "type": "highlight"
   },
-  "https://maritime-executive.com/article/gulf-oil-exports-rebound-to-prewar-levels-despite-iranian-attacks": {
-    "ts": "2026-10-02T22:00:59.446501+00:00",
-    "type": "other"
-  },
   "https://www.oedigital.com/news/543390-northern-lights-signs-up-second-swedish-ccs-customer": {
     "ts": "2026-10-03T04:42:30.581360+00:00",
     "type": "other"
@@ -25,10 +21,6 @@
   },
   "https://splash247.com/tankers-enter-the-death-zone/": {
     "ts": "2026-10-04T05:13:56.672765+00:00",
-    "type": "highlight"
-  },
-  "https://www.infomoney.com.br/mundo/eua-consideram-improvavel-invasao-de-taiwan-pela-china-no-proximo-ano-dizem-fontes/": {
-    "ts": "2026-10-02T22:00:59.446501+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/enafis-2026-reune-fiscais-para-debates-tecnicos-e-atualizacao-profissional": {
@@ -107,10 +99,6 @@
     "ts": "2026-10-04T12:04:41.024616+00:00",
     "type": "highlight"
   },
-  "https://brasilenergia.com.br/petroleoegas/ep/petrobras-fara-mais-atividades-em-alto-de-cabo-frio-central": {
-    "ts": "2026-10-02T22:00:59.446501+00:00",
-    "type": "other"
-  },
   "https://petronoticias.com.br/bw-offshore-e-mcdermott-conseguem-aprovacao-da-dnv-para-conceito-de-fpso-de-amonia-azul/": {
     "ts": "2026-10-04T05:13:56.672765+00:00",
     "type": "other"
@@ -141,10 +129,6 @@
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/agendas-em-sincronia-integra-areas-da-antaq-na-discussao-sobre-revisao-da-agenda-regulatoria": {
     "ts": "2026-10-04T05:13:56.672765+00:00",
-    "type": "other"
-  },
-  "https://www.infomoney.com.br/mundo/eua-interceptam-navio-de-carga-que-transportava-combustivel-para-cuba-diz-nyt/": {
-    "ts": "2026-10-02T22:00:59.446501+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/stolt-nielsen-q3-profit-rises-2026": {
@@ -1004,7 +988,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/calm-seas-favor-salvage-operations-at-shadow-fleet-tanker-wreck-off-oman": {
-    "ts": "2026-10-08T23:08:35.215877+00:00",
+    "ts": "2026-10-09T22:28:32.113704+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/syria-calls-imo-bulgaria-probe-sinking-543572": {
@@ -1120,11 +1104,11 @@
     "type": "other"
   },
   "https://safety4sea.com/armed-small-boat-opens-fire-on-containership-in-southern-red-sea/": {
-    "ts": "2026-10-09T12:54:39.474423+00:00",
+    "ts": "2026-10-09T22:28:32.113704+00:00",
     "type": "highlight"
   },
   "https://splash247.com/bimco-moves-to-break-ship-retrofit-cost-deadlock/": {
-    "ts": "2026-10-09T12:54:39.474423+00:00",
+    "ts": "2026-10-09T22:28:32.113704+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/economia/agronegocios/noticia/2026/10/09/do-campo-ao-planalto-os-problemas-que-o-agro-quer-ver-resolvidos-pelo-proximo-presidente.ghtml": {
@@ -1185,6 +1169,78 @@
   },
   "https://www.bairdmaritime.com/shipping/tankers/shaun-3-oil-tanker-review": {
     "ts": "2026-10-09T12:54:39.474423+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/mg/vales-mg/noticia/2026/10/09/queda-de-aviao-vale-do-aco.ghtml": {
+    "ts": "2026-10-09T22:28:32.113704+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/second-ship-struck-inside-persian-gulf-in-three-days/": {
+    "ts": "2026-10-09T22:28:32.113704+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/editorials/the-vl-prosperity-breach-what-u-s-cybersecurity-rules-already-require": {
+    "ts": "2026-10-09T22:28:32.113704+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/ceo-da-sca-brasil-aposta-no-etanol-de-milho-brasileiro-para-ser-o-novo-biobunker-do-transporte-maritimo-global/": {
+    "ts": "2026-10-09T22:28:32.113704+00:00",
+    "type": "other"
+  },
+  "https://brasilenergia.com.br/petroleoegas/internacional/eua-fara-novo-leilao-de-areas-offshore-do-alasca": {
+    "ts": "2026-10-09T22:28:32.113704+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/gibson-tanker-report-damage-control/": {
+    "ts": "2026-10-09T22:28:32.113704+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/the-grande-island-what-you-delete-is-only-half-the-story/": {
+    "ts": "2026-10-09T22:28:32.113704+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/gulf-america-lease-sale-bbg4": {
+    "ts": "2026-10-09T22:28:32.113704+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/sparrows-point-anduril-lease": {
+    "ts": "2026-10-09T22:28:32.113704+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/splash-wrap-drones-driverless-trains-and-the-future-of-shipping/": {
+    "ts": "2026-10-09T22:28:32.113704+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/worlds-first-ammonia-powered-dry-bulk-carrier-completes-sea-trials/": {
+    "ts": "2026-10-09T22:28:32.113704+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/cma-cgm-and-dsv-target-12000-tonnes-of-co2-cuts-over-2-years-with-biofuel-shipping/?utm_source=rss&utm_medium=rss&utm_campaign=cma-cgm-and-dsv-target-12000-tonnes-of-co2-cuts-over-2-years-with-biofuel-shipping": {
+    "ts": "2026-10-09T22:28:32.113704+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/global-oil-tanker-shortage-is-getting-worse-by-the-day/": {
+    "ts": "2026-10-09T22:28:32.113704+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/u-s-sanctions-22-vessels-and-27-companies-tied-to-irans-shadow-fleet-and-oil-sales/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-sanctions-22-vessels-and-27-companies-tied-to-irans-shadow-fleet-and-oil-sales": {
+    "ts": "2026-10-09T22:28:32.113704+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543587-gennaker-offshore-substations-depart-for-baltic-sea-installation-video": {
+    "ts": "2026-10-09T22:28:32.113704+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543586-valeura-starts-wassana-platform-installation-offshore-thailand": {
+    "ts": "2026-10-09T22:28:32.113704+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543584-equinor-taps-weatherford-for-norwegian-offshore-completions-work": {
+    "ts": "2026-10-09T22:28:32.113704+00:00",
+    "type": "other"
+  },
+  "https://www.rigzone.com/news/129_gulf_platforms_evacuated_as_isaias_gets_stronger-09-oct-2026-184809-article/": {
+    "ts": "2026-10-09T22:28:32.113704+00:00",
     "type": "other"
   }
 }
