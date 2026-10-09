@@ -7,18 +7,6 @@
     "ts": "2026-10-06T05:45:44.576956+00:00",
     "type": "highlight"
   },
-  "https://www.bairdmaritime.com/offshore/undersea-mining/india-tries-offshore-mineral-auction-again-after-failed-attempt": {
-    "ts": "2026-10-02T12:12:52.853465+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/iacs-cyber-resilience-requirements-move-into-ship-design-with-new-mr-tanker/": {
-    "ts": "2026-10-02T12:12:52.853465+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/150-ships-bound-for-russian-ports-stuck-in-gulf-of-finland-in-50-km-long-queue/?utm_source=rss&utm_medium=rss&utm_campaign=150-ships-bound-for-russian-ports-stuck-in-gulf-of-finland-in-50-km-long-queue": {
-    "ts": "2026-10-02T12:12:52.853465+00:00",
-    "type": "highlight"
-  },
   "https://maritime-executive.com/article/gulf-oil-exports-rebound-to-prewar-levels-despite-iranian-attacks": {
     "ts": "2026-10-02T22:00:59.446501+00:00",
     "type": "other"
@@ -67,10 +55,6 @@
     "ts": "2026-10-03T11:23:41.784996+00:00",
     "type": "other"
   },
-  "https://maritime-executive.com/article/japan-conducts-demonstration-voyage-of-a-hydrogen-fueled-tanker": {
-    "ts": "2026-10-02T12:12:52.853465+00:00",
-    "type": "highlight"
-  },
   "https://gcaptain.com/another-tanker-hit-in-strait-of-hormuz-as-attacks-continue/": {
     "ts": "2026-10-03T16:00:40.060966+00:00",
     "type": "other"
@@ -95,40 +79,16 @@
     "ts": "2026-10-04T05:13:56.672765+00:00",
     "type": "highlight"
   },
-  "https://www.hellenicshippingnews.com/houthi-and-al-shabab-ties-raise-alarm-over-widening-threat-to-red-sea-shipping/": {
-    "ts": "2026-10-02T12:12:52.853465+00:00",
-    "type": "highlight"
-  },
   "https://www.oedigital.com/news/543426-acta-marine-christens-vestas-chartered-csov-newbuild": {
     "ts": "2026-10-03T16:00:40.060966+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/pakistan-explores-buying-or-chartering-boxship-due-to-shipping-challenges": {
-    "ts": "2026-10-02T12:12:52.853465+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/543425-dnv-backs-blue-ammonia-fpso-concept-from-bw-offshore-and-mcdermott": {
     "ts": "2026-10-03T16:00:40.060966+00:00",
     "type": "other"
   },
-  "https://www.hellenicshippingnews.com/electric-and-hybrid-ferries-could-cut-emissions-by-63-in-sea-of-marmara-imo-study-finds/": {
-    "ts": "2026-10-02T12:12:52.853465+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/uk-expands-russia-sanctions-as-maritime-security-risks-mount/": {
-    "ts": "2026-10-02T12:12:52.853465+00:00",
-    "type": "other"
-  },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/precious-shipping-orders-ultramax-carriers": {
     "ts": "2026-10-03T16:00:40.060966+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/premier-alliance-prepares-for-asia-n-europe-services-return-to-suez/": {
-    "ts": "2026-10-02T12:12:52.853465+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/dnv-september-marks-two-year-high-for-alternative-fuelled-vessel-orders/": {
-    "ts": "2026-10-02T12:12:52.853465+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/gas/lng-cargoes-defy-strait-of-hormuz-security-risks-to-hit-wartime-high": {
@@ -916,7 +876,7 @@
     "type": "other"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/transporte-aquaviario-registra-crescimento-de-9-81-e-alcanca-374-6-bilhoes-de-tku-em-2025": {
-    "ts": "2026-10-09T05:30:29.391610+00:00",
+    "ts": "2026-10-09T12:54:39.474423+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/greenpeace-warns-of-environmental-fallout-from-tanker-attack-in-black-sea": {
@@ -1040,7 +1000,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/a-transpetro-usara-uma-frota-de-caminhoes-para-fazer-o-transporte-de-combustiveis-entre-as-refinarias-e-terminais/": {
-    "ts": "2026-10-09T05:30:29.391610+00:00",
+    "ts": "2026-10-09T12:54:39.474423+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/calm-seas-favor-salvage-operations-at-shadow-fleet-tanker-wreck-off-oman": {
@@ -1104,11 +1064,11 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/oil-prices-and-tanker-rates-rise-after-latest-iranian-attacks-in-mideast": {
-    "ts": "2026-10-09T05:30:29.391610+00:00",
+    "ts": "2026-10-09T12:54:39.474423+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/attack-risks-rise-for-tankers-as-iran-vows-to-block-more-hormuz-routes/": {
-    "ts": "2026-10-09T05:30:29.391610+00:00",
+    "ts": "2026-10-09T12:54:39.474423+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/boxships/elbdeich-container-ship-orderbook-eight": {
@@ -1157,6 +1117,74 @@
   },
   "https://safety4sea.com/south-korea-advances-offshore-nuclear-technology-with-new-smr-center/": {
     "ts": "2026-10-09T05:30:29.391610+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/armed-small-boat-opens-fire-on-containership-in-southern-red-sea/": {
+    "ts": "2026-10-09T12:54:39.474423+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/bimco-moves-to-break-ship-retrofit-cost-deadlock/": {
+    "ts": "2026-10-09T12:54:39.474423+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/economia/agronegocios/noticia/2026/10/09/do-campo-ao-planalto-os-problemas-que-o-agro-quer-ver-resolvidos-pelo-proximo-presidente.ghtml": {
+    "ts": "2026-10-09T12:54:39.474423+00:00",
+    "type": "highlight"
+  },
+  "https://www.guiamaritimo.com.br/noticias/maritimo/cma-cgm-e-dsv-fortalecem-parceria-para-acelerar-o-transporte-maritimo-de-baixo-carbono-por-meio-da-act": {
+    "ts": "2026-10-09T12:54:39.474423+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/eu-imports-record-12-18-million-tonnes-of-russian-arctic-lng/": {
+    "ts": "2026-10-09T12:54:39.474423+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/japans-first-lng-bunkering-vessel-kaguya-passes-200-ship-to-ship-supplies-in-under-6-years/?utm_source=rss&utm_medium=rss&utm_campaign=japans-first-lng-bunkering-vessel-kaguya-passes-200-ship-to-ship-supplies-in-under-6-years": {
+    "ts": "2026-10-09T12:54:39.474423+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/fsl-sells-speciality-after-charter": {
+    "ts": "2026-10-09T12:54:39.474423+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543593-shell-to-take-30-stake-in-equinor-s-bay-du-nord-project-off-canada": {
+    "ts": "2026-10-09T12:54:39.474423+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/black-sea-grain-exports-crater-amid-widening-maritime-war/": {
+    "ts": "2026-10-09T12:54:39.474423+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/nyk-simulates-bulk-carrier-grounding-oil-543591": {
+    "ts": "2026-10-09T12:54:39.474423+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/worlds-first-ammoniapowered-bulk-carrier-543588": {
+    "ts": "2026-10-09T12:54:39.474423+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/costly-shipping-pushes-asian-refiners-to-abandon-us-crude-purchases": {
+    "ts": "2026-10-09T12:54:39.474423+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543585-viking-energy-psv-moves-closer-to-ammonia-operations": {
+    "ts": "2026-10-09T12:54:39.474423+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/lessons-learned-optimize-securing-for-adverse-weather-conditions/": {
+    "ts": "2026-10-09T12:54:39.474423+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543589-transocean-adds-1-1b-to-offshore-drilling-backlog": {
+    "ts": "2026-10-09T12:54:39.474423+00:00",
+    "type": "other"
+  },
+  "https://www.rigzone.com/news/121_gulf_platforms_evacuated_as_isaias_gets_stronger-09-oct-2026-184809-article/": {
+    "ts": "2026-10-09T12:54:39.474423+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/shaun-3-oil-tanker-review": {
+    "ts": "2026-10-09T12:54:39.474423+00:00",
     "type": "other"
   }
 }
