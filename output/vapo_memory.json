@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-09-30",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com fretes para VLCC estabilizados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo e força armadores a readequar estratégias comerciais, enquanto seguradoras elevam prêmios, ampliando custos e volatilidade na cadeia global de petróleo. A inclusão de 77 embarcações na lista negra iraniana e ataques recentes reforçam a insegurança e restringem o fluxo de cargas. No offshore brasileiro, a Petrobras"
-  },
-  {
     "date": "2026-10-01",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -324,5 +313,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com tarifas para VLCC em US$ 20 milhões por passagem, inviabilizando contratos de longo prazo. Armadores desviam cargas para o Golfo de Ku, elevando custos logísticos e complexidade operacional nas cadeias de suprimento de petróleo. A inclusão de 77 embarcações na lista negra iraniana e o aumento dos ataques a petroleiros ampliam prêmios de seguro, comprimindo margens no transporte marítimo. No Brasil, o leilão offshore concedeu"
+  },
+  {
+    "date": "2026-10-10",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A operação no Estreito de Ormuz permanece abaixo de 10%, com tarifas para VLCC em US$ 20 milhões por passagem. Esse nível inviabiliza contratos de longo prazo, forçando armadores a desviar cargas para o Golfo de Ku, o que eleva custos e complexidade logística nas cadeias de suprimento de petróleo. O aumento dos ataques a petroleiros e a inclusão de 77 embarcações na lista negra iraniana ampliam prêmios de seguro, comprimindo margens no transporte marítimo de petróleo. No Brasil, o leilão offshor"
   }
 ]
