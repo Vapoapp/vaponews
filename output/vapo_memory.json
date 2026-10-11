@@ -3,17 +3,6 @@
     "date": "2026-10-01",
     "drivers": [
       "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com fretes para VLCC firmados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo, obriga armadores a reconfigurar estratégias comerciais e eleva prêmios de seguro, ampliando custos e volatilidade na cadeia global de petróleo. A inclusão de 77 embarcações na lista negra iraniana e ataques recentes reforçam o risco geopolítico e restringem o fluxo de cargas. No offshore brasileiro, a Petrobras mantém"
-  },
-  {
-    "date": "2026-10-01",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -323,5 +312,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, elevando tarifas para VLCC a US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo e força armadores a desviar cargas para o Golfo de Ku, aumentando custos logísticos e complexidade nas cadeias de suprimento de petróleo. A inclusão de 77 embarcações na lista negra iraniana e a escalada de ataques a petroleiros ampliam prêmios de seguro, comprimindo margens no transporte marítimo. No Mar Negro, a inten"
+  },
+  {
+    "date": "2026-10-11",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A operação no Estreito de Ormuz permanece abaixo de 10%, com tarifas para VLCC atingindo US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo, forçando armadores a redirecionar cargas pelo Golfo de Ku, o que eleva custos logísticos e complica as cadeias de suprimento de petróleo. A inclusão de 77 embarcações na lista negra iraniana e a intensificação dos ataques a petroleiros ampliam prêmios de seguro, comprimindo margens no transporte marítimo. No segmento offshore, o"
   }
 ]
