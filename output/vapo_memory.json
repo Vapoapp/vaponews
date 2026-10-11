@@ -2,17 +2,6 @@
   {
     "date": "2026-10-02",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes para VLCC firmados em US$ 20 milhões por passagem, inviabilizando contratos de longo prazo. Armadores reconfiguram estratégias comerciais diante da volatilidade e seguradoras elevam prêmios, ampliando custos na cadeia global de petróleo. Ataques recentes e a inclusão de 77 embarcações na lista negra iraniana reforçam o risco e restringem o fluxo de cargas, forçando deslocamento de transferências para o Golfo de Kut"
-  },
-  {
-    "date": "2026-10-02",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -322,5 +311,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com tarifas para VLCC atingindo US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo, forçando armadores a redirecionar cargas pelo Golfo de Ku, o que aumenta custos logísticos e eleva a complexidade das cadeias de suprimento de petróleo. O desvio operacional pressiona margens e exige ajustes na programação de frotas. A inclusão de 77 embarcações na lista negra iraniana, combinada com a intensificaçã"
+  },
+  {
+    "date": "2026-10-11",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade no Estreito de Ormuz segue abaixo de 10%, mantendo tarifas para VLCC em US$ 20 milhões por passagem. Esse nível inviabiliza contratos de longo prazo e força redirecionamento de cargas pelo Golfo de Ku, elevando custos logísticos e complexidade nas cadeias de suprimento de petróleo. A escalada de ataques a petroleiros na região e no Mar Negro amplia prêmios de seguro, comprimindo margens no transporte marítimo. O aumento da tensão geopolítica, com ataques a aeroportos na Arábia Saudi"
   }
 ]
