@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-10-02",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, com fretes para VLCC estabilizados em US$ 20 milhões por passagem. Esse nível inviabiliza contratos de longo prazo e força armadores a reestruturar estratégias comerciais, elevando a volatilidade na cadeia global de petróleo. A escalada dos prêmios de seguro amplia custos operacionais e pressiona margens em transporte marítimo de óleo. Ataques recentes, incluindo seis embarcações atingidas e a inclusão de 77 navios na lista n"
-  },
-  {
     "date": "2026-10-03",
     "drivers": [
       "contratos marítimos",
@@ -319,5 +308,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com tarifas para VLCC em US$ 20 milhões por passagem, inviabilizando contratos de longo prazo. Armadores desviam cargas pelo Golfo de Ku, pressionando custos e complexidade das cadeias de suprimento de petróleo. Esse desvio operacional exige ajustes na programação de frotas e impacta a eficiência logística global do setor. A escalada dos ataques a petroleiros no Golfo e no Mar Negro eleva prêmios de seguro, comprimindo margens no"
+  },
+  {
+    "date": "2026-10-12",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, elevando tarifas para VLCC a US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo, forçando redirecionamento de cargas pelo Golfo de Ku. O desvio aumenta custos logísticos e complica a programação de frotas, pressionando margens no transporte de petróleo. A escalada dos ataques a petroleiros na região, incluindo desaparecimento de tripulantes e incêndios, amplia prêmios de seguro e eleva o risco oper"
   }
 ]
