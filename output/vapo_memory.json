@@ -2,17 +2,6 @@
   {
     "date": "2026-10-04",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com fretes para VLCC firmados em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo, forçando armadores a reconfigurar estratégias comerciais diante da volatilidade e do aumento dos prêmios de seguro. A inclusão de 77 embarcações na lista negra iraniana e ataques recentes ampliam riscos e restringem o fluxo de cargas, deslocando operações para rotas alternativas no Golfo de Ku. A escalada dos riscos ge"
-  },
-  {
-    "date": "2026-10-04",
-    "drivers": [
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -319,5 +308,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com tarifas para VLCC em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo e força redirecionamento de cargas pelo Golfo de Ku, elevando custos e complexidade na programação de frotas. O desvio operacional aumenta o risco de atrasos, impactando diretamente a eficiência das cadeias globais de suprimento de petróleo. A escalada dos ataques a petroleiros na região e no Mar Negro eleva prêmios de seguro e p"
+  },
+  {
+    "date": "2026-10-14",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas para VLCC em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo e força redirecionamento de cargas pelo Golfo de Ku, elevando custos logísticos e complexidade na programação de frotas. O impacto direto é a redução da eficiência nas cadeias globais de suprimento de petróleo, com aumento do risco de atrasos. A escalada dos ataques a petroleiros no Estreito e no Mar Negro intensifica"
   }
 ]
