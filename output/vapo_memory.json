@@ -2,17 +2,6 @@
   {
     "date": "2026-10-05",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A persistente restrição da capacidade no Estreito de Ormuz, com fretes para VLCC em US$ 20 milhões por passagem, inviabiliza contratos de longo prazo e pressiona margens. A inclusão de 77 embarcações na lista negra iraniana e ataques recentes ampliam o risco, elevando prêmios de seguro e deslocando operações para rotas alternativas no Golfo de Ku. A volatilidade geopolítica, com incidentes também no Mar Negro e no Iêmen, reforça a necessidade de adaptação logística e revisão das estratégias come"
-  },
-  {
-    "date": "2026-10-05",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -322,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas de VLCC em US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo e força o redirecionamento de cargas pelo Golfo de Ku, elevando custos logísticos e complexidade na programação de frotas. O aumento do desvio operacional amplia o risco de atrasos e reduz a eficiência das cadeias globais de suprimento de petróleo. A escalada dos ataques a navios na região, incluindo o recente afundam"
+  },
+  {
+    "date": "2026-10-15",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A operação no Estreito de Ormuz permanece abaixo de 10%, mantendo tarifas para VLCC em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo e força o redirecionamento de cargas pelo Golfo de Ku, aumentando complexidade na programação de frotas e risco de atrasos nas cadeias globais de petróleo. A escalada dos ataques, incluindo naufrágios recentes, pressiona ainda mais os prêmios de seguro e a segurança operacional na região. No Mar Negro, ataques a petroleiros e navios q"
   }
 ]
