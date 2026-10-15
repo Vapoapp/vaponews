@@ -3,17 +3,9 @@
     "ts": "2026-10-14T21:27:50.285181+00:00",
     "type": "highlight"
   },
-  "https://www.bairdmaritime.com/offshore/vessel-reviews": {
-    "ts": "2026-10-08T13:08:10.330705+00:00",
-    "type": "other"
-  },
   "https://www.bairdmaritime.com/offshore/exploration-development": {
     "ts": "2026-10-15T04:01:30.260998+00:00",
     "type": "other"
-  },
-  "https://www.oedigital.com/news/543530-framo-signs-record-pump-service-deal-for-petrobras-fpso-fleet": {
-    "ts": "2026-10-08T13:08:10.330705+00:00",
-    "type": "highlight"
   },
   "https://maritime-executive.com/article/shots-fired-at-chinese-containership-in-the-red-sea": {
     "ts": "2026-10-09T05:30:29.391610+00:00",
@@ -27,10 +19,6 @@
     "ts": "2026-10-09T12:54:39.474423+00:00",
     "type": "highlight"
   },
-  "https://maritime-executive.com/article/greenpeace-warns-of-environmental-fallout-from-tanker-attack-in-black-sea": {
-    "ts": "2026-10-08T13:08:10.330705+00:00",
-    "type": "highlight"
-  },
   "https://www.oedigital.com/news/543552-petrobras-equinor-qatarenergy-among-winners-in-brazil-s-offshore-auction": {
     "ts": "2026-10-08T23:08:35.215877+00:00",
     "type": "highlight"
@@ -42,54 +30,6 @@
   "https://www.bairdmaritime.com/shipping/tanker-attacks-send-visible-strait-of-hormuz-transits-tumbling-to-two-month-low": {
     "ts": "2026-10-09T05:30:29.391610+00:00",
     "type": "highlight"
-  },
-  "https://brasilenergia.com.br/petroleoegas/ep/equinor-deve-compartilhar-estrutura-de-bacalhau-e-rodocrosita": {
-    "ts": "2026-10-08T13:08:10.330705+00:00",
-    "type": "other"
-  },
-  "https://g1.globo.com/pop-arte/noticia/2026/10/08/nobel-de-literatura-relembre-os-vencedores-dos-ultimos-anos.ghtml": {
-    "ts": "2026-10-08T13:08:10.330705+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/tanker-attack-off-qatar-widens-gulf-shipping-conflict/": {
-    "ts": "2026-10-08T13:08:10.330705+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/iran-to-block-illegal-routes-in-strait-of-hormuz-irgc-adviser-says/?utm_source=rss&utm_medium=rss&utm_campaign=iran-to-block-illegal-routes-in-strait-of-hormuz-irgc-adviser-says": {
-    "ts": "2026-10-08T13:08:10.330705+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543553-tropical-storm-isaias-forces-shell-chevron-to-curb-gulf-production": {
-    "ts": "2026-10-08T13:08:10.330705+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/drilling-production/shell-chevron-brace-for-gulf-of-mexico-storm-with-offshore-shutdowns": {
-    "ts": "2026-10-08T13:08:10.330705+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz/": {
-    "ts": "2026-10-08T13:08:10.330705+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/india-eu-green-shipping-corridor-targets-cleaner-maritime-trade/": {
-    "ts": "2026-10-08T13:08:10.330705+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/european-ports-push-ahead-with-green-transition-espo-report-finds/": {
-    "ts": "2026-10-08T13:08:10.330705+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/drewry-red-sea-diversion-tracker-shows-exponential-annual-rise/": {
-    "ts": "2026-10-08T13:08:10.330705+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/tanker-struck-by-multiple-projectiles-off-qatar-casualties-reported/?utm_source=rss&utm_medium=rss&utm_campaign=tanker-struck-by-multiple-projectiles-off-qatar-casualties-reported": {
-    "ts": "2026-10-08T13:08:10.330705+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/sanctioned-22-year-old-non-ice-class-tanker-makes-rare-late-season-arctic-voyage/": {
-    "ts": "2026-10-08T13:08:10.330705+00:00",
-    "type": "other"
   },
   "https://petronoticias.com.br/a-transpetro-usara-uma-frota-de-caminhoes-para-fazer-o-transporte-de-combustiveis-entre-as-refinarias-e-terminais/": {
     "ts": "2026-10-09T12:54:39.474423+00:00",
@@ -876,7 +816,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/editorials/charterparty-details-are-key-in-an-era-of-constrained-chokepoints": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
+    "ts": "2026-10-15T16:40:36.938797+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/saudi-arabia-strikes-houthi-targets-as-red-sea-war-escalates/": {
@@ -932,7 +872,7 @@
     "type": "other"
   },
   "https://safety4sea.com/iran-accuses-us-forces-of-misusing-maritime-distress-channel-in-persian-gulf/": {
-    "ts": "2026-10-15T04:01:30.260998+00:00",
+    "ts": "2026-10-15T16:40:36.938797+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543665-iran-steps-up-gulf-shipping-strikes-to-keep-oil-prices-high-before-us-vote": {
@@ -944,7 +884,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543673-petrobras-set-to-receive-859m-from-santos-basin-oil-and-gas-partners": {
-    "ts": "2026-10-14T11:31:28.321326+00:00",
+    "ts": "2026-10-15T16:40:36.938797+00:00",
     "type": "other"
   },
   "https://maritime-executive.com/article/ukmto-reports-third-strike-in-a-day-on-a-tanker-in-the-mideast": {
@@ -996,7 +936,7 @@
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/edital-para-arrendamento-de-terminal-no-porto-do-itaqui-e-publicado": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
+    "ts": "2026-10-15T16:40:36.938797+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/murphy-oil-avanca-com-descobertas-de-petroleo-na-costa-do-marfim-e-no-vietna-e-amplia-producao-no-golfo-do-mexico/": {
@@ -1052,7 +992,7 @@
     "type": "highlight"
   },
   "https://gcaptain.com/qatar-rewrites-its-gas-playbook-with-old-tankers-and-new-tactics/": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
+    "ts": "2026-10-15T16:40:36.938797+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/a-shell-lanca-uma-nova-assinatura-que-reposicionara-a-sua-marca-em-todo-o-brasil-pelos-proximos-anos/": {
@@ -1112,7 +1052,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/u-s-forces-destroy-a-dhow-suspected-of-conducting-surveillance-for-iran": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
+    "ts": "2026-10-15T16:40:36.938797+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543664-guyana-weighs-lng-project-cuts-as-exxonmobil-prioritizes-oil-output": {
@@ -1152,15 +1092,15 @@
     "type": "other"
   },
   "https://safety4sea.com/bimco-flags-persistent-dry-bulk-safety-risks-from-scrap-metal-and-fumigation/": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
+    "ts": "2026-10-15T16:40:36.938797+00:00",
     "type": "highlight"
   },
   "https://splash247.com/hormuz-claims-two-more-ships-in-fresh-wave-of-strikes/": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
+    "ts": "2026-10-15T16:40:36.938797+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/15/transicao-de-governo-no-rj-veja-quem-participa-prazos-e-proximos-passos.ghtml": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
+    "ts": "2026-10-15T16:40:36.938797+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/cyber-extortion-group-targets-38-maritime-organizations/": {
@@ -1213,6 +1153,54 @@
   },
   "https://www.oedigital.com/news/543697-bw-energy-confirms-commercial-oil-in-two-appraisal-wells-off-gabon": {
     "ts": "2026-10-15T11:09:38.984023+00:00",
+    "type": "other"
+  },
+  "https://brasilenergia.com.br/petroleoegas/ep/bacalhau-completa-1-ano-de-producao-somando-25-milhoes-de-barris": {
+    "ts": "2026-10-15T16:40:36.938797+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/two-ships-ablaze-off-romanian-black-sea-coast-7-sailors-missing/": {
+    "ts": "2026-10-15T16:40:36.938797+00:00",
+    "type": "highlight"
+  },
+  "https://safety4sea.com/es-ecsa-smap-must-match-the-scale-of-shippings-energy-transition-challenge/": {
+    "ts": "2026-10-15T16:40:36.938797+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/o-estaleiro-inhauma-voltara-a-vida-na-segunda-feira-quando-recebera-a-plataforma-p-35-para-reparos-e-modernizacoes/": {
+    "ts": "2026-10-15T16:40:36.938797+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/ataques-a-navios-em-oma-e-em-ormuz-mantem-o-golfo-persico-sob-alta-tensao-com-o-barril-do-petroleo-brent-quase-nos-us-105-dolares/": {
+    "ts": "2026-10-15T16:40:36.938797+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/as-fortes-chuvas-obrigaram-a-copel-a-abrir-as-comportas-de-tres-grandes-hidreletricas-do-parana-para-evitar-desastres/": {
+    "ts": "2026-10-15T16:40:36.938797+00:00",
+    "type": "other"
+  },
+  "https://www.gov.br/antaq/pt-br/noticias/2026/antaq-mpor-e-mma-promovem-oficina-sobre-adaptacao-climatica-no-setor-portuario": {
+    "ts": "2026-10-15T16:40:36.938797+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/romania-investigates-possible-drone-strike-after-ship-catches-fire-in-black-sea/?utm_source=rss&utm_medium=rss&utm_campaign=romania-investigates-possible-drone-strike-after-ship-catches-fire-in-black-sea": {
+    "ts": "2026-10-15T16:40:36.938797+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543705-seadrill-loses-appeal-in-55m-hercules-drilling-rig-dispute-with-sfl": {
+    "ts": "2026-10-15T16:40:36.938797+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/pcc-pctc/china-methanol-car-carrier-delivery": {
+    "ts": "2026-10-15T16:40:36.938797+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543717-hydra-subsea-shell-to-install-pipelines-on-subsea-tie-ins": {
+    "ts": "2026-10-15T16:40:36.938797+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/first-of-three-new-aloha-class-containerships-christened-in-philadelphia/?utm_source=rss&utm_medium=rss&utm_campaign=first-of-three-new-aloha-class-containerships-christened-in-philadelphia": {
+    "ts": "2026-10-15T16:40:36.938797+00:00",
     "type": "other"
   }
 }
