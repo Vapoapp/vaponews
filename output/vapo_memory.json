@@ -5,17 +5,6 @@
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com fretes para VLCC em US$ 20 milhões por passagem, inviabilizando contratos de longo prazo. Armadores deslocam operações para o Golfo de Ku, elevando custos e complexidade logística, enquanto a inclusão de 77 embarcações na lista negra iraniana e ataques recentes aumentam prêmios de seguro e comprimem margens no transporte de petróleo. No Mar Negro, a intensificação dos ataques com drones a navios mercantes agrava o risco opera"
-  },
-  {
-    "date": "2026-10-07",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
       "logística e portos",
       "risco geopolítico"
     ],
@@ -322,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, mantendo tarifas para VLCC em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo e obriga o desvio das cargas pelo Golfo de Ku, elevando custos e complexidade na programação de frotas. O aumento do desvio operacional amplia o risco de atrasos, impactando diretamente a eficiência das cadeias globais de suprimento de petróleo. No Mar Negro, ataques com drones a petroleiros resultaram em naufrágios e de"
+  },
+  {
+    "date": "2026-10-16",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCC. Esse custo inviabiliza contratos de longo prazo e força o desvio das cargas pelo Golfo de Ku, aumentando custos e complexidade na programação de frotas. O redirecionamento eleva o risco de atrasos, pressionando a eficiência das cadeias globais de petróleo. No Mar Negro, ataques recentes com drones a petroleiros resultaram em naufrágios e desaparecimento de"
   }
 ]
