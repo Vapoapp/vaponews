@@ -4,17 +4,6 @@
     "drivers": [
       "contratos marítimos",
       "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, com tarifas para VLCC em US$ 20 milhões por passagem, inviabilizando contratos de longo prazo. Armadores desviam cargas para o Golfo de Ku, elevando custos logísticos e complexidade operacional nas cadeias de suprimento de petróleo. A inclusão de 77 embarcações na lista negra iraniana e o aumento dos ataques a petroleiros ampliam prêmios de seguro, comprimindo margens no transporte marítimo. No Brasil, o leilão offshore concedeu"
-  },
-  {
-    "date": "2026-10-10",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
       "risco geopolítico",
       "petróleo e gás"
     ],
@@ -320,5 +309,14 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas de passagem para VLCC próximas a US$ 20 milhões. Esse patamar inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos logísticos e complexidade na programação de frotas. O aumento do desvio operacional amplia o risco de atrasos, pressionando a eficiência das cadeias globais de suprimento de petróleo. Ataques recentes a petroleiros, incluindo detonação de minas, intensificam a"
+  },
+  {
+    "date": "2026-10-18",
+    "drivers": [
+      "contratos marítimos",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas de passagem para VLCC em torno de US$ 20 milhões. Esse custo inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos logísticos e complexidade na programação de frotas. O aumento do desvio operacional amplia riscos de atrasos e pressiona a eficiência das cadeias globais de suprimento de petróleo. Ataques recentes a petroleiros, incluindo detonação de minas, intensificam a insegur"
   }
 ]
