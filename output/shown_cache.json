@@ -19,14 +19,6 @@
     "ts": "2026-10-12T14:57:23.207402+00:00",
     "type": "highlight"
   },
-  "https://maritime-executive.com/article/bulgaria-sends-frigate-to-search-for-evidence-in-attack-on-vessels": {
-    "ts": "2026-10-11T21:41:59.266317+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/nyk-conducts-crisis-response-drill-simulating-bulk-carrier-grounding-and-oil-spill/?utm_source=rss&utm_medium=rss&utm_campaign=nyk-conducts-crisis-response-drill-simulating-bulk-carrier-grounding-and-oil-spill": {
-    "ts": "2026-10-11T21:41:59.266317+00:00",
-    "type": "other"
-  },
   "https://www.marineinsight.com/malaysia-bans-bunkering-in-new-marine-sensitive-area-near-strait-of-malacca-and-singapore/?utm_source=rss&utm_medium=rss&utm_campaign=malaysia-bans-bunkering-in-new-marine-sensitive-area-near-strait-of-malacca-and-singapore": {
     "ts": "2026-10-12T05:19:01.786462+00:00",
     "type": "highlight"
@@ -38,10 +30,6 @@
   "https://petronoticias.com.br/a-transjordano-cria-o-corredor-verde-com-base-no-abastecimento-do-biometano-da-ultragaz-em-sua-frotra-que-liga-o-transporte-ate-o-porto-de-santos/": {
     "ts": "2026-10-12T14:57:23.207402+00:00",
     "type": "other"
-  },
-  "https://g1.globo.com/mundo/noticia/2026/10/11/aeroportos-da-arabia-saudita-voltam-a-ser-atacados.ghtml": {
-    "ts": "2026-10-11T21:41:59.266317+00:00",
-    "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/tankers-are-on-fire-after-multiple-attacks/": {
     "ts": "2026-10-12T05:19:01.786462+00:00",
@@ -57,30 +45,6 @@
   },
   "https://petronoticias.com.br/a-ppg-passa-a-produzir-no-brasil-revestimestos-de-protecao-maritimos-em-sua-fabrica-de-sumare-em-sao-paulo/": {
     "ts": "2026-10-13T00:24:38.202830+00:00",
-    "type": "other"
-  },
-  "https://g1.globo.com/mundo/noticia/2026/10/11/o-que-se-sabe-sobre-ataque-a-aeroporto-na-arabia-saudita-que-matou-12-e-feriu-mais-300.ghtml": {
-    "ts": "2026-10-11T21:41:59.266317+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/more-tankers-hit-in-hormuz-as-u-s-strikes-cargo-ship/": {
-    "ts": "2026-10-11T21:41:59.266317+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/ningbo-ocean-eyes-two-car-carriers-in-480m-leasing-plan/": {
-    "ts": "2026-10-11T21:41:59.266317+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/global-vlcc-spot-earnings-rise-to-805000-day/": {
-    "ts": "2026-10-11T21:41:59.266317+00:00",
-    "type": "other"
-  },
-  "https://www.infomoney.com.br/mundo/aeroporto-de-riad-volta-a-ser-alvo-de-ataque-em-meio-a-escalada-da-guerra/": {
-    "ts": "2026-10-11T21:41:59.266317+00:00",
-    "type": "other"
-  },
-  "https://www.infomoney.com.br/mundo/ira-resposta-dos-eua-a-proposta-de-reabrir-ormuz-foi-insuficiente-diz-midia-estatal/": {
-    "ts": "2026-10-11T21:41:59.266317+00:00",
     "type": "other"
   },
   "https://maritime-executive.com/article/two-seafarers-missing-in-drone-attack-on-product-tanker-off-oman": {
@@ -1100,7 +1064,7 @@
     "type": "other"
   },
   "https://gcaptain.com/irans-guards-say-two-tankers-hit-mines-in-strait-of-hormuz/": {
-    "ts": "2026-10-18T20:22:44.016239+00:00",
+    "ts": "2026-10-19T04:03:31.188346+00:00",
     "type": "highlight"
   },
   "https://www.infomoney.com.br/mundo/iphones-ficam-a-deriva-no-estreito-de-ormuz-apos-navio-ser-atingido-por-mina/": {
@@ -1156,11 +1120,43 @@
     "type": "other"
   },
   "https://petronoticias.com.br/entrevista-devastadora-de-roberta-luschinger-mostra-da-corrupcao-no-governo-com-envolvimento-de-lulinha-na-petrobras-e-do-proprio-presidente/": {
-    "ts": "2026-10-18T20:22:44.016239+00:00",
+    "ts": "2026-10-19T04:03:31.188346+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/iran-urges-us-to-accept-proposal-to-reopen-strait-of-hormuz/": {
-    "ts": "2026-10-18T20:22:44.016239+00:00",
+    "ts": "2026-10-19T04:03:31.188346+00:00",
     "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/iran-war-saudi-helicopter-crash-kills-two-as-tanker-attacks-threaten-hormuz/": {
+    "ts": "2026-10-19T04:03:31.188346+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/is-russia-probing-nato-weakness-in-the-black-sea": {
+    "ts": "2026-10-19T04:03:31.188346+00:00",
+    "type": "highlight"
+  },
+  "https://www.infomoney.com.br/mundo/incendio-em-base-militar-no-canada-deixa-4-mortos-e-dezenas-de-feridos/": {
+    "ts": "2026-10-19T04:03:31.188346+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/tanker-operator-transpetro-s-fleet-expansion-creates-local-jobs-in-brazil": {
+    "ts": "2026-10-19T04:03:31.188346+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/tankers-is-a-clean-slate-coming-for-15-of-the-tanker-fleet/": {
+    "ts": "2026-10-19T04:03:31.188346+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/felicitas-bunker-tanker-enters-service": {
+    "ts": "2026-10-19T04:03:31.188346+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/boxships/cma-cgm-lorenzaccio-methanol-containership": {
+    "ts": "2026-10-19T04:03:31.188346+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/ro-ro/smyril-line-takes-akranes-delivery": {
+    "ts": "2026-10-19T04:03:31.188346+00:00",
+    "type": "other"
   }
 }
