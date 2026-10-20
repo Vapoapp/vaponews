@@ -4,7 +4,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development": {
-    "ts": "2026-10-18T10:42:33.557592+00:00",
+    "ts": "2026-10-20T11:13:04.175900+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
@@ -280,7 +280,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/refining-processing": {
-    "ts": "2026-10-18T15:39:22.517190+00:00",
+    "ts": "2026-10-20T11:13:04.175900+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/gas/top-singapore-bunker-supplier-gambles-2026-profits-on-lng-expansion": {
@@ -944,7 +944,7 @@
     "type": "highlight"
   },
   "https://gcaptain.com/iran-urges-us-to-accept-proposal-to-reopen-strait-of-hormuz/": {
-    "ts": "2026-10-19T04:03:31.188346+00:00",
+    "ts": "2026-10-20T11:13:04.175900+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/iran-war-saudi-helicopter-crash-kills-two-as-tanker-attacks-threaten-hormuz/": {
@@ -984,11 +984,11 @@
     "type": "highlight"
   },
   "https://safety4sea.com/abs-annual-psc-report-565-detainable-deficiencies-recorded-in-2025/": {
-    "ts": "2026-10-20T04:16:51.324663+00:00",
+    "ts": "2026-10-20T11:13:04.175900+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543754-eidesvik-s-viking-avant-psv-on-extended-stay-with-equinor": {
-    "ts": "2026-10-20T04:16:51.324663+00:00",
+    "ts": "2026-10-20T11:13:04.175900+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/john-crane-aposta-no-crescimento-do-mercado-brasileiro-de-oleo-e-gas-e-destaca-novas-tecnologias-para-operacoes-offshore/": {
@@ -1052,11 +1052,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/a-petrobras-adia-o-acostamento-da-p-35-no-estaleiro-inhauma-e-se-prepara-para-receber-a-plataforma-p-82-que-saiu-de-cingapura-em-direcao-ao-brasil/": {
-    "ts": "2026-10-20T04:16:51.324663+00:00",
+    "ts": "2026-10-20T11:13:04.175900+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/tug-attacked-near-strait-of-hormuz": {
-    "ts": "2026-10-20T04:16:51.324663+00:00",
+    "ts": "2026-10-20T11:13:04.175900+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/northern-sea-route-transits-surpass-2025-total-as-arctic-shipping-gains-momentum/": {
@@ -1124,7 +1124,7 @@
     "type": "highlight"
   },
   "https://gcaptain.com/u-s-to-allow-dark-fleet-tankers-to-shed-sanctions-wright-says/": {
-    "ts": "2026-10-20T04:16:51.324663+00:00",
+    "ts": "2026-10-20T11:13:04.175900+00:00",
     "type": "highlight"
   },
   "https://splash247.com/who-owns-shippings-carbon-decisions/": {
@@ -1169,6 +1169,58 @@
   },
   "https://www.bairdmaritime.com/offshore/undersea-mining/us-regulators-certify-pacific-ocean-deep-sea-mining-licence-bid": {
     "ts": "2026-10-20T04:16:51.324663+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/intermanager-enclosed-space-deaths-demand-urgent-industry-action/": {
+    "ts": "2026-10-20T11:13:04.175900+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/wright-us-sanctions-relief-for-shadow-fleet-tankers-will-be-for-s-p-deals": {
+    "ts": "2026-10-20T11:13:04.175900+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/oil-hovers-near-five-month-high-as-hormuz-houthi-attacks-threaten-supply-recovery/": {
+    "ts": "2026-10-20T11:13:04.175900+00:00",
+    "type": "highlight"
+  },
+  "https://safety4sea.com/northern-sea-route-transits-surpass-2025-levels-as-eu-seeks-greater-arctic-access/": {
+    "ts": "2026-10-20T11:13:04.175900+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/dutch-inland-shipping-duo-expands-into-belgium-with-new-chartering-venture/": {
+    "ts": "2026-10-20T11:13:04.175900+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/the-grande-island-what-you-delete-is-only-half-the-story-2/": {
+    "ts": "2026-10-20T11:13:04.175900+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543781-sse-picks-seaway7-for-berwick-bank-b-offshore-wind-foundations-and-cables": {
+    "ts": "2026-10-20T11:13:04.175900+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/ports/cma-terminals-acquires-nador-stake": {
+    "ts": "2026-10-20T11:13:04.175900+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/ports/antwerp-bruges-container-throughput-rises": {
+    "ts": "2026-10-20T11:13:04.175900+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543782-transocean-secures-550m-in-us-gulf-drillship-deals": {
+    "ts": "2026-10-20T11:13:04.175900+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/sirius-shipping-marinus-hybrid-tanker": {
+    "ts": "2026-10-20T11:13:04.175900+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/us-moves-to-legitimise-shadow-tanker-fleet/": {
+    "ts": "2026-10-20T11:13:04.175900+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/drilling-production/norway-misses-energy-output-target-in-september-as-gas-lags": {
+    "ts": "2026-10-20T11:13:04.175900+00:00",
     "type": "other"
   }
 }
