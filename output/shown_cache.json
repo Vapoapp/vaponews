@@ -372,7 +372,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/transport": {
-    "ts": "2026-10-15T04:01:30.260998+00:00",
+    "ts": "2026-10-20T21:25:50.651987+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/equinor-and-partners-find-new-oil-and-gas-in-the-north-sea": {
@@ -916,7 +916,7 @@
     "type": "highlight"
   },
   "https://safety4sea.com/abs-annual-psc-report-565-detainable-deficiencies-recorded-in-2025/": {
-    "ts": "2026-10-20T16:37:42.074826+00:00",
+    "ts": "2026-10-20T21:25:50.651987+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543754-eidesvik-s-viking-avant-psv-on-extended-stay-with-equinor": {
@@ -988,7 +988,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/tug-attacked-near-strait-of-hormuz": {
-    "ts": "2026-10-20T16:37:42.074826+00:00",
+    "ts": "2026-10-20T21:25:50.651987+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/northern-sea-route-transits-surpass-2025-total-as-arctic-shipping-gains-momentum/": {
@@ -1108,7 +1108,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/wright-us-sanctions-relief-for-shadow-fleet-tankers-will-be-for-s-p-deals": {
-    "ts": "2026-10-20T16:37:42.074826+00:00",
+    "ts": "2026-10-20T21:25:50.651987+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/oil-hovers-near-five-month-high-as-hormuz-houthi-attacks-threaten-supply-recovery/": {
@@ -1156,11 +1156,11 @@
     "type": "other"
   },
   "https://safety4sea.com/chief-officer-lost-overboard-during-rescue-of-28-seafarers-from-burning-containership/": {
-    "ts": "2026-10-20T16:37:42.074826+00:00",
+    "ts": "2026-10-20T21:25:50.651987+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543786-union-vega-offshore-orders-two-breeze-designed-psvs-options-four-more": {
-    "ts": "2026-10-20T16:37:42.074826+00:00",
+    "ts": "2026-10-20T21:25:50.651987+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/maersk-and-hateco-plan-3-5-billion-vietnam-rail-freight-project/": {
@@ -1205,6 +1205,66 @@
   },
   "https://www.hellenicshippingnews.com/lng-shipping-stocks-down-on-the-surface/": {
     "ts": "2026-10-20T16:37:42.074826+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/maritimo/msc-inclui-suape-servico-gulf-to-saec": {
+    "ts": "2026-10-20T21:25:50.651987+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/iran-strikes-more-ship-engine-rooms-in-ramp-up-of-hormuz-attacks/": {
+    "ts": "2026-10-20T21:25:50.651987+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/sedna-and-nereus-bring-daily-bunker-prices-for-more-than-450-ports-into-the-conversations-behind-voyage-decisions/": {
+    "ts": "2026-10-20T21:25:50.651987+00:00",
+    "type": "highlight"
+  },
+  "https://www.guiamaritimo.com.br/noticias/maritimo/maersk-servico-ae18-rede-gemini-asia-mediterraneo": {
+    "ts": "2026-10-20T21:25:50.651987+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/a-maersk-realza-pela-primeira-vez-o-abastecimento-em-um-de-seus-navios-com-5-toneladas-metricas-de-etanol/": {
+    "ts": "2026-10-20T21:25:50.651987+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/iran-claims-more-tankers-hit-mines-in-hormuz-but-evidence-remains-elusive/": {
+    "ts": "2026-10-20T21:25:50.651987+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/transport/chevron-and-egypt-ink-deal-to-tap-offshore-cyprus-gas-reserves": {
+    "ts": "2026-10-20T21:25:50.651987+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/shipping-more-newbuilding-contracting-this-week/": {
+    "ts": "2026-10-20T21:25:50.651987+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/imo-net-zero-framework-japans-proposal-sparks-debate-over-climate-finance/": {
+    "ts": "2026-10-20T21:25:50.651987+00:00",
+    "type": "other"
+  },
+  "https://www.infomoney.com.br/mundo/ormuz-pode-se-tornar-desnecessario-em-cinco-anos-e-ser-substituido-diz-ceo-do-hsbc/": {
+    "ts": "2026-10-20T21:25:50.651987+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/harborlab-why-shippings-husbandry-bills-are-still-stuck-in-excel/": {
+    "ts": "2026-10-20T21:25:50.651987+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/fugro-lands-noaa-seabed-mapping-contract-off-florida/": {
+    "ts": "2026-10-20T21:25:50.651987+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543788-japan-clears-dnv-for-floating-wind-classifications": {
+    "ts": "2026-10-20T21:25:50.651987+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543787-demosath-floating-wind-project-enters-new-phase-with-japanese-partner": {
+    "ts": "2026-10-20T21:25:50.651987+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/refining-processing/refiners-in-north-asia-look-to-cut-2027-middle-east-crude-volumes-after-war-disruptions": {
+    "ts": "2026-10-20T21:25:50.651987+00:00",
     "type": "other"
   }
 }
