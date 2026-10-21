@@ -19,10 +19,6 @@
     "ts": "2026-10-14T04:19:16.940543+00:00",
     "type": "other"
   },
-  "https://petronoticias.com.br/carlos-mastrangelo-aponta-disputa-por-equipamentos-com-data-centers-e-adocao-de-novas-tecnologias-como-desafios-do-mercado-de-fpsos/": {
-    "ts": "2026-10-13T22:28:11.062461+00:00",
-    "type": "highlight"
-  },
   "https://safety4sea.com/hydrogen-laden-vessel-runs-aground-on-rhine-amid-low-water-levels/": {
     "ts": "2026-10-14T04:19:16.940543+00:00",
     "type": "highlight"
@@ -43,68 +39,8 @@
     "ts": "2026-10-14T11:31:28.321326+00:00",
     "type": "highlight"
   },
-  "https://maritime-executive.com/article/bulgaria-reports-one-ship-sunk-one-damaged-in-latest-drone-strike": {
-    "ts": "2026-10-13T22:28:11.062461+00:00",
-    "type": "highlight"
-  },
-  "https://www.guiamaritimo.com.br/noticias/mercado/mol-vale-contrato-25-anos-minereiros-etanol-metanol": {
-    "ts": "2026-10-13T22:28:11.062461+00:00",
-    "type": "other"
-  },
-  "https://brasilenergia.com.br/petroleoegas/engenharia-construcao/seis-disputam-seguro-da-engenharia-de-seap-i-e-ii": {
-    "ts": "2026-10-13T22:28:11.062461+00:00",
-    "type": "other"
-  },
-  "https://petronoticias.com.br/os-terroristas-houthis-ameacam-com-mais-bombardeios-se-sauditas-ou-americanos-reagirem-aos-ataques-contra-o-aeroporto-de-riade/": {
-    "ts": "2026-10-13T22:28:11.062461+00:00",
-    "type": "other"
-  },
-  "https://petronoticias.com.br/aumentar-a-competitividade-e-a-principal-razao-de-apoio-da-abiquim-ao-leilao-do-gas-marcado-para-o-dia-22/": {
-    "ts": "2026-10-13T22:28:11.062461+00:00",
-    "type": "other"
-  },
-  "https://www.guiamaritimo.com.br/noticias/maritimo/zilor-certificacao-iscc-eu-macatuba-etanol-uniao-europeia": {
-    "ts": "2026-10-13T22:28:11.062461+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/supertankers-turn-from-gulf-oil-transfer-hub-amid-irans-attacks/": {
-    "ts": "2026-10-13T22:28:11.062461+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/smartsea-launches-smartjourney-and-smartaccess-to-streamline-maritime-crew-movements-and-access-management/": {
-    "ts": "2026-10-13T22:28:11.062461+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/record-high-tanker-rates-to-india-are-eating-into-russias-oil-profits": {
-    "ts": "2026-10-13T22:28:11.062461+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/record-breaking-tanker-rates-pile-pressure-on-already-high-fuel-prices/": {
-    "ts": "2026-10-13T22:28:11.062461+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543633-seadrill-secures-offshore-drilling-deals-across-four-countries": {
-    "ts": "2026-10-13T22:28:11.062461+00:00",
-    "type": "other"
-  },
-  "https://www.tecnologistica.com.br/noticias/negocios/21996/csn-reduz-r-75-milhoes-em-estoques-apos-revisao-de-politicas-de-suprimentos/": {
-    "ts": "2026-10-13T22:28:11.062461+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/iran-lodges-imo-protest-over-us-use-of-channel-16-for-military-intimidation": {
-    "ts": "2026-10-13T22:28:11.062461+00:00",
-    "type": "other"
-  },
   "https://safety4sea.com/south-korea-completes-first-commercial-round-trip-to-europe-via-arctic/": {
     "ts": "2026-10-15T04:01:30.260998+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/lianson-fleet-snaps-up-third-ultramax/": {
-    "ts": "2026-10-13T22:28:11.062461+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/orsted-to-take-full-ownership-of-uks-172-mw-gunfleet-sands-wind-farm/?utm_source=rss&utm_medium=rss&utm_campaign=orsted-to-take-full-ownership-of-uks-172-mw-gunfleet-sands-wind-farm": {
-    "ts": "2026-10-13T22:28:11.062461+00:00",
     "type": "other"
   },
   "https://maritime-executive.com/editorials/charterparty-details-are-key-in-an-era-of-constrained-chokepoints": {
@@ -212,7 +148,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/refining-processing": {
-    "ts": "2026-10-20T11:13:04.175900+00:00",
+    "ts": "2026-10-21T04:05:08.131391+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/gas/top-singapore-bunker-supplier-gambles-2026-profits-on-lng-expansion": {
@@ -916,7 +852,7 @@
     "type": "highlight"
   },
   "https://safety4sea.com/abs-annual-psc-report-565-detainable-deficiencies-recorded-in-2025/": {
-    "ts": "2026-10-20T21:25:50.651987+00:00",
+    "ts": "2026-10-21T04:05:08.131391+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543754-eidesvik-s-viking-avant-psv-on-extended-stay-with-equinor": {
@@ -1000,7 +936,7 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/portos/22017/jbs-terminais-anuncia-aporte-de-r-15-2-milhoes-no-porto-de-itajai/": {
-    "ts": "2026-10-19T22:10:49.839013+00:00",
+    "ts": "2026-10-21T04:05:08.131391+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/a-arabia-saudita-intensifica-os-ataques-militares-contra-os-terroristas-houthis-pelo-dominio-do-estreito-de-bab-al-mandeb/": {
@@ -1008,11 +944,11 @@
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/comercio-exterior/22018/super-terminais-inicia-operacoes-do-super-porto-verde-em-itacoatiara-am/": {
-    "ts": "2026-10-19T22:10:49.839013+00:00",
+    "ts": "2026-10-21T04:05:08.131391+00:00",
     "type": "other"
   },
   "https://www.marineinsight.com/tanker-attacked-with-rocket-propelled-grenade-off-saudi-arabia-ukmto-says/?utm_source=rss&utm_medium=rss&utm_campaign=tanker-attacked-with-rocket-propelled-grenade-off-saudi-arabia-ukmto-says": {
-    "ts": "2026-10-19T22:10:49.839013+00:00",
+    "ts": "2026-10-21T04:05:08.131391+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/gas/looming-field-exhaustion-spurs-mozambiques-250m-offshore-gas-pivot": {
@@ -1020,7 +956,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production/apache-uk-offshore-workers-gear-up-for-24-hour-strike-over-pay": {
-    "ts": "2026-10-19T22:10:49.839013+00:00",
+    "ts": "2026-10-21T04:05:08.131391+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/543760-fugro-eirgrid-complete-marine-surveys-for-irish-offshore-wind-link": {
@@ -1156,11 +1092,11 @@
     "type": "other"
   },
   "https://safety4sea.com/chief-officer-lost-overboard-during-rescue-of-28-seafarers-from-burning-containership/": {
-    "ts": "2026-10-20T21:25:50.651987+00:00",
+    "ts": "2026-10-21T04:05:08.131391+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543786-union-vega-offshore-orders-two-breeze-designed-psvs-options-four-more": {
-    "ts": "2026-10-20T21:25:50.651987+00:00",
+    "ts": "2026-10-21T04:05:08.131391+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/maersk-and-hateco-plan-3-5-billion-vietnam-rail-freight-project/": {
@@ -1212,11 +1148,11 @@
     "type": "highlight"
   },
   "https://gcaptain.com/iran-strikes-more-ship-engine-rooms-in-ramp-up-of-hormuz-attacks/": {
-    "ts": "2026-10-20T21:25:50.651987+00:00",
+    "ts": "2026-10-21T04:05:08.131391+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/sedna-and-nereus-bring-daily-bunker-prices-for-more-than-450-ports-into-the-conversations-behind-voyage-decisions/": {
-    "ts": "2026-10-20T21:25:50.651987+00:00",
+    "ts": "2026-10-21T04:05:08.131391+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/maritimo/maersk-servico-ae18-rede-gemini-asia-mediterraneo": {
@@ -1265,6 +1201,50 @@
   },
   "https://www.bairdmaritime.com/offshore/refining-processing/refiners-in-north-asia-look-to-cut-2027-middle-east-crude-volumes-after-war-disruptions": {
     "ts": "2026-10-20T21:25:50.651987+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/after-354-accidents-shipping-industry-urged-to-rethink-enclosed-space-safety/": {
+    "ts": "2026-10-21T04:05:08.131391+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/pemex-platform-catches-fire-at-abkatun-field": {
+    "ts": "2026-10-21T04:05:08.131391+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/japans-flawed-shipping-proposal-leaves-developing-countries-adrift/": {
+    "ts": "2026-10-21T04:05:08.131391+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/eu-arctic-strategy-puts-emphasis-on-maritime-security-and-subsea-cables": {
+    "ts": "2026-10-21T04:05:08.131391+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543777-norway-misses-september-oil-and-gas-production-forecast": {
+    "ts": "2026-10-21T04:05:08.131391+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543780-bouri-gas-project-offshore-libya-set-for-october-start-up": {
+    "ts": "2026-10-21T04:05:08.131391+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/transworld-adds-supramax-in-fresh-fleet-move/": {
+    "ts": "2026-10-21T04:05:08.131391+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/imo-uncertainty-slows-marine-biofuel-demand/": {
+    "ts": "2026-10-21T04:05:08.131391+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/boxships/hd-hyundai-secures-hmm-order": {
+    "ts": "2026-10-21T04:05:08.131391+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/pcc-pctc/neptune-receives-nikos-travlos-carrier": {
+    "ts": "2026-10-21T04:05:08.131391+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/ports/iran-requests-caspian-port-upgrades": {
+    "ts": "2026-10-21T04:05:08.131391+00:00",
     "type": "other"
   }
 }
