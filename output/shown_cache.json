@@ -8,7 +8,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
-    "ts": "2026-10-20T04:16:51.324663+00:00",
+    "ts": "2026-10-22T11:29:13.574204+00:00",
     "type": "other"
   },
   "https://maritime-executive.com/editorials/charterparty-details-are-key-in-an-era-of-constrained-chokepoints": {
@@ -32,7 +32,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/refining-processing": {
-    "ts": "2026-10-21T21:27:01.556280+00:00",
+    "ts": "2026-10-22T11:29:13.574204+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/2026/edital-para-arrendamento-de-terminal-no-porto-do-itaqui-e-publicado": {
@@ -49,10 +49,6 @@
   },
   "https://gcaptain.com/qatar-rewrites-its-gas-playbook-with-old-tankers-and-new-tactics/": {
     "ts": "2026-10-15T16:40:36.938797+00:00",
-    "type": "highlight"
-  },
-  "https://petronoticias.com.br/a-shell-lanca-uma-nova-assinatura-que-reposicionara-a-sua-marca-em-todo-o-brasil-pelos-proximos-anos/": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
     "type": "highlight"
   },
   "https://www.marinelog.com/news/fmc-seeks-to-slap-spanish-flagged-ships-with-u-s-port-fees/": {
@@ -78,58 +74,6 @@
   "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/15/transicao-de-governo-no-rj-veja-quem-participa-prazos-e-proximos-passos.ghtml": {
     "ts": "2026-10-15T16:40:36.938797+00:00",
     "type": "highlight"
-  },
-  "https://safety4sea.com/cyber-extortion-group-targets-38-maritime-organizations/": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
-    "type": "other"
-  },
-  "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/14/escala-6x1-o-que-acontece-agora-quais-sao-os-proximos-passos-entenda.ghtml": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/middle-east-war-lifts-vlcc-rates-spurs-global-replacement-orders/": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/natos-black-sea-flank-on-alert-after-series-of-attacks/": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
-    "type": "other"
-  },
-  "https://www.nytimes.com/2026/10/15/business/hormuz-oil-tanker-attacks.html": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/seven-missing-tanker-fires-rock-romanias-543699": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/containership-sinks-in-strait-of-hormuz-after-reportedly-hitting-naval-mine/": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/container-ship-carrying-over-2500-containers-sinks-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=container-ship-carrying-over-2500-containers-sinks-in-strait-of-hormuz": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/bulk-carrier-sinks-weeks-after-deadly-strait-of-hormuz-strike/": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/boxships/container-vessel-news-roundup-october-15-us-newbuild-christening-chinese-yards-new-contracts-and-more": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543703-seascape-energy-expands-temaris-gas-acreage-offshore-malaysia": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543702-deme-to-install-turbines-at-zeevonk-offshore-wind-farm": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543697-bw-energy-confirms-commercial-oil-in-two-appraisal-wells-off-gabon": {
-    "ts": "2026-10-15T11:09:38.984023+00:00",
-    "type": "other"
   },
   "https://brasilenergia.com.br/petroleoegas/ep/bacalhau-completa-1-ano-de-producao-somando-25-milhoes-de-barris": {
     "ts": "2026-10-16T16:23:34.983250+00:00",
@@ -996,11 +940,11 @@
     "type": "other"
   },
   "https://safety4sea.com/ore-carrier-suffers-damage-after-striking-wharf-at-vietnamese-port/": {
-    "ts": "2026-10-22T04:06:09.295145+00:00",
+    "ts": "2026-10-22T11:29:13.574204+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/report-despite-iran-s-attacks-gulf-oil-exports-exceed-prewar-levels": {
-    "ts": "2026-10-22T04:06:09.295145+00:00",
+    "ts": "2026-10-22T11:29:13.574204+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/meio-ambiente/noticia/2026/10/21/temporais-ganham-forca-no-sul-e-chuva-se-espalha-pelo-sudeste-veja-a-previsao-para-os-proximos-dias.ghtml": {
@@ -1060,7 +1004,7 @@
     "type": "other"
   },
   "https://gcaptain.com/two-more-tankers-struck-as-maritime-attacks-spread-across-persian-gulf/": {
-    "ts": "2026-10-22T04:06:09.295145+00:00",
+    "ts": "2026-10-22T11:29:13.574204+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/21/quaest-renda-custo-de-vida.ghtml": {
@@ -1108,11 +1052,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/o-porto-de-paranagua-alcancou-em-setembro-a-maior-movimentacao-mensal-de-sua-historia-com-mais-de-152-mil-conteineres/": {
-    "ts": "2026-10-22T04:06:09.295145+00:00",
+    "ts": "2026-10-22T11:29:13.574204+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/middle-east-oil-flows-near-prewar-levels-defy-hormuz-attacks/": {
-    "ts": "2026-10-22T04:06:09.295145+00:00",
+    "ts": "2026-10-22T11:29:13.574204+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/us-sanctions-relief-could-lift-tanker-rates-in-russia-inject-capacity-to-gulf-shuttles-analysts/": {
@@ -1164,7 +1108,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/uk-approves-controversial-jackdaw-gas-project-in-the-north-sea": {
-    "ts": "2026-10-22T04:06:09.295145+00:00",
+    "ts": "2026-10-22T11:29:13.574204+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/new-and-established-yards-enter-tanker-market-for-the-first-time/": {
@@ -1189,6 +1133,58 @@
   },
   "https://www.bairdmaritime.com/offshore/drilling-production/woodside-trims-output-forecast-even-as-oil-rally-fuels-revenue-leap": {
     "ts": "2026-10-22T04:06:09.295145+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/seven-ships-hit-near-hormuz-iran-warns-us-543834": {
+    "ts": "2026-10-22T11:29:13.574204+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/543837-dof-gets-deepwater-subsea-installation-job-in-africa": {
+    "ts": "2026-10-22T11:29:13.574204+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/tufton-rides-stronger-markets-with-fresh-tanker-and-bulker-deals/": {
+    "ts": "2026-10-22T11:29:13.574204+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/a-new-world-order-emerges-in-lng-shipping/": {
+    "ts": "2026-10-22T11:29:13.574204+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543838-tennet-nkt-find-offshore-cable-decom-technically-feasible": {
+    "ts": "2026-10-22T11:29:13.574204+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543836-onesubsea-oil-majors-complete-all-electric-subsea-technology-project-in-brazil": {
+    "ts": "2026-10-22T11:29:13.574204+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/drewry-suez-traffic-showing-strong-momentum/": {
+    "ts": "2026-10-22T11:29:13.574204+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/maersk-expects-full-return-of-shipping-services-to-suez-canal-by-march-2027/": {
+    "ts": "2026-10-22T11:29:13.574204+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/refining-processing/indian-refiners-pivot-back-to-middle-east-crude-in-september-sidelining-russian-oil": {
+    "ts": "2026-10-22T11:29:13.574204+00:00",
+    "type": "other"
+  },
+  "https://www.rigzone.com/news/uk_union_welcomes_jackdaw_decision-22-oct-2026-184903-article/": {
+    "ts": "2026-10-22T11:29:13.574204+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/ports/canada-funds-saint-john-upgrades": {
+    "ts": "2026-10-22T11:29:13.574204+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/opinion-rising-middle-east-oil-exports-offer-false-sense-of-market-security": {
+    "ts": "2026-10-22T11:29:13.574204+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/opinion-asias-gas-demand-defies-soaring-costs-with-october-import-jump": {
+    "ts": "2026-10-22T11:29:13.574204+00:00",
     "type": "other"
   }
 }

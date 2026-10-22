@@ -8,17 +8,6 @@
       "risco geopolítico",
       "petróleo e gás"
     ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas para VLCC em US$ 20 milhões por passagem. Esse cenário inviabiliza contratos de longo prazo e força o redirecionamento de cargas pelo Golfo de Ku, elevando custos logísticos e complexidade na programação de frotas. O aumento do desvio operacional amplia o risco de atrasos, impactando a eficiência das cadeias globais de suprimento de petróleo. A escalada dos ataques a navios, incluindo o afundamento recente de"
-  },
-  {
-    "date": "2026-10-14",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
     "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas para VLCC em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo e força o redirecionamento de cargas pelo Golfo de Ku, elevando custos logísticos e complexidade na programação de frotas. O aumento do desvio operacional amplia o risco de atrasos, afetando diretamente a eficiência das cadeias globais de suprimento de petróleo. A escalada dos ataques a navios, incluindo o afundamento"
   },
   {
@@ -317,5 +306,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas de passagem para VLCC em torno de US$ 20 milhões. Esse patamar inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e complexidade na programação das frotas. O redirecionamento amplia riscos de atrasos, pressionando a eficiência das cadeias globais de suprimento de petróleo. No Mar do Norte, o governo britânico autorizou o projeto Jackdaw, que deve aumentar a"
+  },
+  {
+    "date": "2026-10-22",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, com tarifas para VLCC em torno de US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando despesas operacionais e complexidade na programação das frotas. O redirecionamento aumenta riscos de atrasos e pressiona a eficiência das cadeias globais de suprimento de petróleo, mantendo o risco geopolítico como fator crítico para operações offshore e transporte marítimo."
   }
 ]
