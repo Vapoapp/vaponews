@@ -19,14 +19,6 @@
     "ts": "2026-10-20T21:25:50.651987+00:00",
     "type": "other"
   },
-  "https://brasilenergia.com.br/petroleoegas/ep/bacalhau-completa-1-ano-de-producao-somando-25-milhoes-de-barris": {
-    "ts": "2026-10-16T16:23:34.983250+00:00",
-    "type": "highlight"
-  },
-  "https://gcaptain.com/two-ships-ablaze-off-romanian-black-sea-coast-7-sailors-missing/": {
-    "ts": "2026-10-16T16:23:34.983250+00:00",
-    "type": "highlight"
-  },
   "https://safety4sea.com/es-ecsa-smap-must-match-the-scale-of-shippings-energy-transition-challenge/": {
     "ts": "2026-10-17T03:48:32.426084+00:00",
     "type": "highlight"
@@ -43,16 +35,8 @@
     "ts": "2026-10-17T10:24:28.218114+00:00",
     "type": "other"
   },
-  "https://petronoticias.com.br/onze-mil-toneladas-de-aco-chegam-ao-ecovix-para-construcao-dos-navios-da-transpetro-o-batimento-de-quilha-foi-feito-hoje-no-ecovix/": {
-    "ts": "2026-10-16T16:23:34.983250+00:00",
-    "type": "highlight"
-  },
   "https://maritime-executive.com/article/nato-discusses-black-sea-after-more-vessel-strikes-leave-seven-crew-missing": {
     "ts": "2026-10-17T15:18:03.301678+00:00",
-    "type": "highlight"
-  },
-  "https://gcaptain.com/by-the-numbers-u-s-claims-control-of-hormuz-as-ship-attacks-hit-new-high/": {
-    "ts": "2026-10-16T16:23:34.983250+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/gas/petronas-temaris-gas-acreage-expansion": {
@@ -1092,11 +1076,11 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/vitoria-paranagua-salvador-importacao-automoveis-logcomex": {
-    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "ts": "2026-10-23T16:47:45.527658+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543857-new-crewsure-energy-program-provides-employee-benefits-for-offshore-workers": {
-    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "ts": "2026-10-23T16:47:45.527658+00:00",
     "type": "highlight"
   },
   "https://splash247.com/iran-claims-seven-vessels-hit-in-new-wave-of-hormuz-attacks/": {
@@ -1164,7 +1148,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/editorials/a-year-of-offshore-oil-spills-prompts-growing-concern-in-mexico": {
-    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "ts": "2026-10-23T16:47:45.527658+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543845-abs-rsted-tapped-for-2026-noia-award": {
@@ -1216,15 +1200,15 @@
     "type": "other"
   },
   "https://safety4sea.com/navigating-the-qiongzhou-strait-key-risks-and-best-practices-for-ships/": {
-    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "ts": "2026-10-23T16:47:45.527658+00:00",
     "type": "highlight"
   },
   "https://splash247.com/splash-wrap-sanctions-spreadsheets-and-shipyards/": {
-    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "ts": "2026-10-23T16:47:45.527658+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-presidencial-da-globo-quando-e-onde-assistir.ghtml": {
-    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "ts": "2026-10-23T16:47:45.527658+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543865-indonesia-s-jangkrik-fpu-set-for-major-gas-output-boost": {
@@ -1273,6 +1257,66 @@
   },
   "https://navaltoday.com/2026/10/23/royal-navy-warship-duo-completes-workout-in-south-china-sea": {
     "ts": "2026-10-23T11:18:48.659404+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/maritimo/cma-cgm-copersucar-bunker-one-etanol-abastecimento-regular": {
+    "ts": "2026-10-23T16:47:45.527658+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/6000-seafarers-trapped-as-attacks-deepen-strait-of-hormuz-shipping-crisis/": {
+    "ts": "2026-10-23T16:47:45.527658+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/543867-equinor-picks-aibel-for-barens-sea-fpso-topsides-feed-job": {
+    "ts": "2026-10-23T16:47:45.527658+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/a-associacao-de-terminais-privados-faz-o-seu-13o-encontro-sobre-economia-debatendo-os-proximos-quatro-anos/": {
+    "ts": "2026-10-23T16:47:45.527658+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/o-ira-esta-divulgando-ataques-falsos-contra-petroleiros-em-ormuz-para-aumentar-o-preco-do-barril-as-vesperas-da-eleicao-americana-diz-trump/": {
+    "ts": "2026-10-23T16:47:45.527658+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543870-noia-launches-ocean-minerals-initiative": {
+    "ts": "2026-10-23T16:47:45.527658+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/iran-says-7-oil-tankers-hit-in-one-night-in-strait-of-hormuz-as-fears-of-return-to-war-grow/?utm_source=rss&utm_medium=rss&utm_campaign=iran-says-7-oil-tankers-hit-in-one-night-in-strait-of-hormuz-as-fears-of-return-to-war-grow": {
+    "ts": "2026-10-23T16:47:45.527658+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/shippings-green-transition-has-a-data-problem-but-the-solution-is-within-reach/": {
+    "ts": "2026-10-23T16:47:45.527658+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/oeg-books-three-more-offshore-wind-ctvs-at-diverse-marine/": {
+    "ts": "2026-10-23T16:47:45.527658+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/synergy-marine-group-named-green-shipping-champion-for-decarbonization-fleet-sustainability/?utm_source=rss&utm_medium=rss&utm_campaign=synergy-marine-group-named-green-shipping-champion-for-decarbonization-fleet-sustainability": {
+    "ts": "2026-10-23T16:47:45.527658+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/study-questions-seafarer-training-readiness-for-modern-shipping-operations/": {
+    "ts": "2026-10-23T16:47:45.527658+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/china-and-djibouti-stress-need-to-protect-red-sea-shipping-lanes/": {
+    "ts": "2026-10-23T16:47:45.527658+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/saipem-mdc-join-forces-expand-offshore-543864": {
+    "ts": "2026-10-23T16:47:45.527658+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/editorials/unexplained-ship-clusters-anchoring-off-taiwan": {
+    "ts": "2026-10-23T16:47:45.527658+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/dual-fuel-ship-fleet-tops-500-as-industry-investment-passes-200-billion/": {
+    "ts": "2026-10-23T16:47:45.527658+00:00",
     "type": "other"
   }
 }
