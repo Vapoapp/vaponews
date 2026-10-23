@@ -15,14 +15,6 @@
     "ts": "2026-10-22T11:29:13.574204+00:00",
     "type": "highlight"
   },
-  "https://www.gov.br/antaq/pt-br/noticias/2026/edital-para-arrendamento-de-terminal-no-porto-do-itaqui-e-publicado": {
-    "ts": "2026-10-16T11:04:22.720514+00:00",
-    "type": "highlight"
-  },
-  "https://www.marinelog.com/news/fmc-seeks-to-slap-spanish-flagged-ships-with-u-s-port-fees/": {
-    "ts": "2026-10-16T11:04:22.720514+00:00",
-    "type": "other"
-  },
   "https://www.bairdmaritime.com/offshore/transport": {
     "ts": "2026-10-20T21:25:50.651987+00:00",
     "type": "other"
@@ -95,32 +87,8 @@
     "ts": "2026-10-16T20:46:05.491599+00:00",
     "type": "highlight"
   },
-  "https://www.hellenicshippingnews.com/reinforcing-the-ets-smap-to-guarantee-long-term-shipping-decarbonisation/": {
-    "ts": "2026-10-16T11:04:22.720514+00:00",
-    "type": "highlight"
-  },
-  "https://brasilenergia.com.br/petroleoegas/empresas/inhauma-e-revitalizado-recebe-a-p-35-e-se-prepara-para-bids": {
-    "ts": "2026-10-16T11:04:22.720514+00:00",
-    "type": "other"
-  },
-  "https://www.guiamaritimo.com.br/noticias/terminais/novos-bercos-alemoa-porto-de-santos-graneis-liquidos": {
-    "ts": "2026-10-16T11:04:22.720514+00:00",
-    "type": "other"
-  },
-  "https://www.guiamaritimo.com.br/noticias/logistica/supply-chain-impulsiona-o-valor-das-marcas-de-beleza-e-luxo": {
-    "ts": "2026-10-16T11:04:22.720514+00:00",
-    "type": "other"
-  },
   "https://splash247.com/splash-wrap-a-missile-from-riyadh/": {
     "ts": "2026-10-17T15:18:03.301678+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/real-life-incident-miscommunication-leads-to-nighttime-tss-collision/?utm_source=rss&utm_medium=rss&utm_campaign=real-life-incident-miscommunication-leads-to-nighttime-tss-collision": {
-    "ts": "2026-10-16T11:04:22.720514+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/real-life-incident-phosphine-poisoning-kills-13-crew-members-onboard-bulk-carrier/?utm_source=rss&utm_medium=rss&utm_campaign=real-life-incident-phosphine-poisoning-kills-13-crew-members-onboard-bulk-carrier": {
-    "ts": "2026-10-16T11:04:22.720514+00:00",
     "type": "other"
   },
   "https://safety4sea.com/atsb-investigation-gantry-crane-motor-detaches-and-injures-crew-member/": {
@@ -129,10 +97,6 @@
   },
   "https://safety4sea.com/strait-of-hormuz-attacks-reach-record-high-in-october/": {
     "ts": "2026-10-17T15:18:03.301678+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/dry-bulk-safety-scrap-metal-fires-fumigation-and-enclosed-spaces/": {
-    "ts": "2026-10-16T11:04:22.720514+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/543729-eni-advances-coral-north-drilling-eyes-third-mozambique-flng": {
@@ -1072,11 +1036,11 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/288688-2/": {
-    "ts": "2026-10-23T04:09:25.401271+00:00",
+    "ts": "2026-10-23T11:18:48.659404+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/un-says-around-6000-seafarers-are-trapped-near-the-strait-of-hormuz-as-attacks-on-ships-mount/?utm_source=rss&utm_medium=rss&utm_campaign=un-says-around-6000-seafarers-are-trapped-near-the-strait-of-hormuz-as-attacks-on-ships-mount": {
-    "ts": "2026-10-23T04:09:25.401271+00:00",
+    "ts": "2026-10-23T11:18:48.659404+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/terminais/tecon-imbituba-recorde-teus-novo-guindaste-movel": {
@@ -1128,11 +1092,11 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/portos/vitoria-paranagua-salvador-importacao-automoveis-logcomex": {
-    "ts": "2026-10-22T21:22:21.460728+00:00",
+    "ts": "2026-10-23T11:18:48.659404+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543857-new-crewsure-energy-program-provides-employee-benefits-for-offshore-workers": {
-    "ts": "2026-10-23T04:09:25.401271+00:00",
+    "ts": "2026-10-23T11:18:48.659404+00:00",
     "type": "highlight"
   },
   "https://splash247.com/iran-claims-seven-vessels-hit-in-new-wave-of-hormuz-attacks/": {
@@ -1196,11 +1160,11 @@
     "type": "highlight"
   },
   "https://gcaptain.com/iran-claims-more-ships-struck-near-hormuz-as-trump-accuses-tehran-of-faking-hits/": {
-    "ts": "2026-10-23T04:09:25.401271+00:00",
+    "ts": "2026-10-23T11:18:48.659404+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/editorials/a-year-of-offshore-oil-spills-prompts-growing-concern-in-mexico": {
-    "ts": "2026-10-23T04:09:25.401271+00:00",
+    "ts": "2026-10-23T11:18:48.659404+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543845-abs-rsted-tapped-for-2026-noia-award": {
@@ -1249,6 +1213,66 @@
   },
   "https://safety4sea.com/fueleu-pooling-boosts-biomethane-uptake-new-study-highlights/": {
     "ts": "2026-10-23T04:09:25.401271+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/navigating-the-qiongzhou-strait-key-risks-and-best-practices-for-ships/": {
+    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/splash-wrap-sanctions-spreadsheets-and-shipyards/": {
+    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-presidencial-da-globo-quando-e-onde-assistir.ghtml": {
+    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/543865-indonesia-s-jangkrik-fpu-set-for-major-gas-output-boost": {
+    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543864-saipem-and-mdc-join-forces-to-expand-offshore-drilling-activities": {
+    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/tanker-with-russian-diesel-heads-to-new-york-under-trump-deal": {
+    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/tanker-oil-spill-forces-closure-beaches-543861": {
+    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/fatigue-fear-and-the-flaws-in-shippings-safety-data/": {
+    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/shipping-leaders-call-for-imo-regulation-ahead-of-december-net-zero-framework-talks/": {
+    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/wsc-dual-fuel-fleet-surpasses-500-vessels-as-investment-exceeds-200-billion/": {
+    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/bimco-container-ship-orders-are-driving-china-s-shipyard-surge": {
+    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/ports/qingdao-ore-terminal-stake-sale": {
+    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/kawasaki-delivers-tsurugidake-crude-tanker": {
+    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/south-korean-shipowner-sinokor-dominates-hormuz-transits-as-oil-flows-rebound/": {
+    "ts": "2026-10-23T11:18:48.659404+00:00",
+    "type": "other"
+  },
+  "https://navaltoday.com/2026/10/23/royal-navy-warship-duo-completes-workout-in-south-china-sea": {
+    "ts": "2026-10-23T11:18:48.659404+00:00",
     "type": "other"
   }
 }
