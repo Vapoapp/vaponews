@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-10-16",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCC. Esse cenário inviabiliza contratos de longo prazo e força o desvio das cargas pelo Golfo de Ku, elevando custos logísticos e complexidade na programação de frotas. O redirecionamento aumenta o risco de atrasos, impactando diretamente a eficiência das cadeias globais de suprimento de petróleo. No Mar Negro, ataques recentes com drones a petroleiros causaram"
-  },
-  {
     "date": "2026-10-17",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -314,5 +303,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas para VLCC próximas a US$ 20 milhões. Esse patamar inviabiliza contratos de longo prazo e obriga desvios pelo Golfo de Ku, elevando custos operacionais e complexidade na programação das frotas. A retenção de cerca de 6.000 marítimos na região agrava a escassez de mão de obra e aumenta riscos logísticos, pressionando a eficiência das cadeias globais de petróleo. No Mar Vermelho, ataques Houthi ampliam a instabil"
+  },
+  {
+    "date": "2026-10-24",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas para VLCC em torno de US$ 20 milhões por passagem. Esse patamar inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e complexidade na programação das frotas. A retenção de cerca de 6.000 marítimos na região intensifica a escassez de mão de obra, ampliando riscos logísticos e afetando a eficiência das cadeias globais de petróleo. No Golfo Pérsico, o vazamento"
   }
 ]
