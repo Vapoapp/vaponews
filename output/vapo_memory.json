@@ -3,17 +3,6 @@
     "date": "2026-10-16",
     "drivers": [
       "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, mantendo tarifas para VLCC em US$ 20 milhões por passagem. Esse custo inviabiliza contratos de longo prazo e obriga o desvio das cargas pelo Golfo de Ku, elevando custos e complexidade na programação de frotas. O aumento do desvio operacional amplia o risco de atrasos, impactando diretamente a eficiência das cadeias globais de suprimento de petróleo. No Mar Negro, ataques com drones a petroleiros resultaram em naufrágios e de"
-  },
-  {
-    "date": "2026-10-16",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -315,5 +304,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas de passagem para VLCC em torno de US$ 20 milhões. Esse custo inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando despesas e complexidade na programação das frotas. A retenção de cerca de 6.000 marítimos na região agrava a escassez de mão de obra e amplia riscos logísticos, impactando a eficiência das cadeias globais de suprimento de petróleo. No Mar Vermelho, ataques Houthi intensif"
+  },
+  {
+    "date": "2026-10-24",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas de passagem para VLCCs próximas a US$ 20 milhões. Esse cenário inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e complexidade na programação das frotas. A retenção de cerca de 6.000 marítimos na região agrava a escassez de mão de obra e amplia riscos logísticos, impactando diretamente a eficiência das cadeias globais de petróleo. No Mar Vermelho, ataques"
   }
 ]
