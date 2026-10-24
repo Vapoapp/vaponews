@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-10-24T04:01:57.093961+00:00",
+    "ts": "2026-10-24T10:38:49.154379+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development": {
@@ -8,8 +8,8 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
-    "ts": "2026-10-22T11:29:13.574204+00:00",
-    "type": "other"
+    "ts": "2026-10-24T10:38:49.154379+00:00",
+    "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/refining-processing": {
     "ts": "2026-10-24T04:01:57.093961+00:00",
@@ -19,21 +19,9 @@
     "ts": "2026-10-20T21:25:50.651987+00:00",
     "type": "other"
   },
-  "https://www.oedigital.com/news/543717-hydra-subsea-shell-to-install-pipelines-on-subsea-tie-ins": {
-    "ts": "2026-10-17T10:24:28.218114+00:00",
-    "type": "other"
-  },
   "https://maritime-executive.com/article/nato-discusses-black-sea-after-more-vessel-strikes-leave-seven-crew-missing": {
     "ts": "2026-10-17T15:18:03.301678+00:00",
     "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/petronas-temaris-gas-acreage-expansion": {
-    "ts": "2026-10-17T10:24:28.218114+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543720-eni-to-drill-multiple-wells-offshore-mozambique": {
-    "ts": "2026-10-17T10:24:28.218114+00:00",
-    "type": "other"
   },
   "https://www.oedigital.com/news/543719-turkey-to-put-first-floating-gas-platform-in-black-sea": {
     "ts": "2026-10-17T15:18:03.301678+00:00",
@@ -61,10 +49,6 @@
   },
   "https://www.tecnologistica.com.br/noticias/negocios/22008/grupo-cambiaso-risso-chega-ao-mercado-brasileiro-de-seguros-maritimos-e-navais-em-joint-venture-com-a-korsa/": {
     "ts": "2026-10-18T10:42:33.557592+00:00",
-    "type": "highlight"
-  },
-  "https://www.marineinsight.com/7-sailors-go-missing-after-drone-strikes-2-tankers-near-romanias-black-sea-coast/?utm_source=rss&utm_medium=rss&utm_campaign=7-sailors-go-missing-after-drone-strikes-2-tankers-near-romanias-black-sea-coast": {
-    "ts": "2026-10-17T10:24:28.218114+00:00",
     "type": "highlight"
   },
   "https://www.gov.br/antaq/pt-br/noticias/antaq-prorroga-prazo-para-contribuicoes-sobre-operacoes-de-transbordo-de-granel-solido": {
@@ -143,10 +127,6 @@
     "ts": "2026-10-18T20:22:44.016239+00:00",
     "type": "highlight"
   },
-  "https://gcaptain.com/ship-fuel-crunch-to-persist-despite-more-oil-vitol-says/": {
-    "ts": "2026-10-17T10:24:28.218114+00:00",
-    "type": "highlight"
-  },
   "https://www.oedigital.com/news/543732-inpex-led-bonaparte-ccs-project-gets-australian-offshore-storage-approval": {
     "ts": "2026-10-18T03:54:54.246208+00:00",
     "type": "highlight"
@@ -171,25 +151,9 @@
     "ts": "2026-10-18T03:54:54.246208+00:00",
     "type": "other"
   },
-  "https://www.hellenicshippingnews.com/xeneta-carriers-accelerate-red-sea-return-with-offered-capacity-doubling-in-six-weeks/": {
-    "ts": "2026-10-17T10:24:28.218114+00:00",
-    "type": "highlight"
-  },
   "https://maritime-executive.com/article/maritime-piracy-in-2026-fell-to-1992-levels-despite-somalia-yemen-surge": {
     "ts": "2026-10-18T20:22:44.016239+00:00",
     "type": "highlight"
-  },
-  "https://splash247.com/uk-ports-hit-back-at-brussels-over-ets-diversion-claims/": {
-    "ts": "2026-10-17T10:24:28.218114+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/germany-approves-e400m-action-plan-to-accelerate-shipping-decarbonisation/": {
-    "ts": "2026-10-17T10:24:28.218114+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/chemnav-steps-up-suezmax-bet-with-jinglu-pair/": {
-    "ts": "2026-10-17T10:24:28.218114+00:00",
-    "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/ports/savannah-container-terminal-secures-permit": {
     "ts": "2026-10-18T10:42:33.557592+00:00",
@@ -1028,7 +992,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543857-new-crewsure-energy-program-provides-employee-benefits-for-offshore-workers": {
-    "ts": "2026-10-23T21:13:33.726137+00:00",
+    "ts": "2026-10-24T10:38:49.154379+00:00",
     "type": "highlight"
   },
   "https://splash247.com/iran-claims-seven-vessels-hit-in-new-wave-of-hormuz-attacks/": {
@@ -1056,7 +1020,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/offshore-wind-risks-acu-access": {
-    "ts": "2026-10-22T21:22:21.460728+00:00",
+    "ts": "2026-10-24T10:38:49.154379+00:00",
     "type": "other"
   },
   "https://gcaptain.com/putins-war-on-ukraine-puts-oil-giant-rosneft-under-mounting-pressure/": {
@@ -1064,7 +1028,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/543842-techouse-acquires-ambio": {
-    "ts": "2026-10-22T21:22:21.460728+00:00",
+    "ts": "2026-10-24T10:38:49.154379+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/boxships/suez-canal-return-likely-by-early-2027-for-container-lines": {
@@ -1116,11 +1080,11 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/hav-fles-joins-navigare-fleet": {
-    "ts": "2026-10-23T04:09:25.401271+00:00",
+    "ts": "2026-10-24T10:38:49.154379+00:00",
     "type": "other"
   },
   "https://gcaptain.com/nor-shipping-brings-new-focus-to-ai-ports-and-marketing-in-2027/": {
-    "ts": "2026-10-23T04:09:25.401271+00:00",
+    "ts": "2026-10-24T10:38:49.154379+00:00",
     "type": "other"
   },
   "https://www.marineinsight.com/russias-first-diesel-tanker-to-us-since-2022-is-set-to-sail-after-sanctions-waiver/?utm_source=rss&utm_medium=rss&utm_campaign=russias-first-diesel-tanker-to-us-since-2022-is-set-to-sail-after-sanctions-waiver": {
@@ -1148,11 +1112,11 @@
     "type": "other"
   },
   "https://safety4sea.com/navigating-the-qiongzhou-strait-key-risks-and-best-practices-for-ships/": {
-    "ts": "2026-10-24T04:01:57.093961+00:00",
+    "ts": "2026-10-24T10:38:49.154379+00:00",
     "type": "highlight"
   },
   "https://splash247.com/splash-wrap-sanctions-spreadsheets-and-shipyards/": {
-    "ts": "2026-10-24T04:01:57.093961+00:00",
+    "ts": "2026-10-24T10:38:49.154379+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-presidencial-da-globo-quando-e-onde-assistir.ghtml": {
@@ -1208,7 +1172,7 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/maritimo/cma-cgm-copersucar-bunker-one-etanol-abastecimento-regular": {
-    "ts": "2026-10-23T21:13:33.726137+00:00",
+    "ts": "2026-10-24T10:38:49.154379+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/6000-seafarers-trapped-as-attacks-deepen-strait-of-hormuz-shipping-crisis/": {
@@ -1216,7 +1180,7 @@
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543867-equinor-picks-aibel-for-barens-sea-fpso-topsides-feed-job": {
-    "ts": "2026-10-23T21:13:33.726137+00:00",
+    "ts": "2026-10-24T10:38:49.154379+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/a-associacao-de-terminais-privados-faz-o-seu-13o-encontro-sobre-economia-debatendo-os-proximos-quatro-anos/": {
@@ -1268,15 +1232,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/a-raizen-deixa-de-prontidao-praticamente-um-batalhao-para-combater-possiveis-focos-de-incendio-nas-plantacao-de-cana-da-empresa/": {
-    "ts": "2026-10-24T04:01:57.093961+00:00",
+    "ts": "2026-10-24T10:38:49.154379+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/uae-confirms-approaching-oil-spill-as-iran-claims-continued-attacks": {
-    "ts": "2026-10-24T04:01:57.093961+00:00",
+    "ts": "2026-10-24T10:38:49.154379+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/strait-hormuz-ship-attacks-reach-new-high-543880": {
-    "ts": "2026-10-24T04:01:57.093961+00:00",
+    "ts": "2026-10-24T10:38:49.154379+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/dof-group-conquista-contrato-de-instalacao-de-sistemas-submarinos-na-africa/": {
@@ -1316,15 +1280,15 @@
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/what-is-changing-behind-dry-bulk-and-tanker-freight-markets/": {
-    "ts": "2026-10-24T04:01:57.093961+00:00",
+    "ts": "2026-10-24T10:38:49.154379+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/maersk-tankers-ammonia-power-tanker-retrofit-project-gets-eu-funding": {
-    "ts": "2026-10-24T04:01:57.093961+00:00",
+    "ts": "2026-10-24T10:38:49.154379+00:00",
     "type": "highlight"
   },
   "https://splash247.com/sierra-leone-launches-chinese-backed-national-shipping-company/": {
-    "ts": "2026-10-24T04:01:57.093961+00:00",
+    "ts": "2026-10-24T10:38:49.154379+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/petrobras-contrata-drone-de-combate-a-incendio-na-recap": {
@@ -1365,6 +1329,22 @@
   },
   "https://www.marineinsight.com/indian-navy-begins-trials-for-its-first-rafale-marine-jets-to-fly-from-its-largest-indigenously-built-warship-ins-vikrant/?utm_source=rss&utm_medium=rss&utm_campaign=indian-navy-begins-trials-for-its-first-rafale-marine-jets-to-fly-from-its-largest-indigenously-built-warship-ins-vikrant": {
     "ts": "2026-10-24T04:01:57.093961+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/gibson-tanker-report-diesel-drones-and-donald/": {
+    "ts": "2026-10-24T10:38:49.154379+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/indias-hpcl-adapts-crude-buying-as-freight-rates-soar": {
+    "ts": "2026-10-24T10:38:49.154379+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/internacional/fid-do-argentina-lng-deve-sair-no-final-de-novembro": {
+    "ts": "2026-10-24T10:38:49.154379+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/visentini-40000-dwt-open-hatch-bulkers": {
+    "ts": "2026-10-24T10:38:49.154379+00:00",
     "type": "other"
   }
 }
