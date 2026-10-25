@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-10-25T11:03:02.297556+00:00",
+    "ts": "2026-10-25T15:51:27.055727+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development": {
@@ -8,20 +8,16 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
-    "ts": "2026-10-25T11:03:02.297556+00:00",
+    "ts": "2026-10-25T15:51:27.055727+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/refining-processing": {
-    "ts": "2026-10-24T04:01:57.093961+00:00",
+    "ts": "2026-10-25T15:51:27.055727+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/transport": {
     "ts": "2026-10-20T21:25:50.651987+00:00",
     "type": "other"
-  },
-  "https://gcaptain.com/fog-of-war-deepens-in-hormuz-as-ukmto-says-most-ship-attacks-go-unreported/": {
-    "ts": "2026-10-18T15:39:22.517190+00:00",
-    "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/middle-east-conflict-fresh-tanker-attacks-slam-middle-east-transit-channels/": {
     "ts": "2026-10-18T20:22:44.016239+00:00",
@@ -35,10 +31,6 @@
     "ts": "2026-10-18T20:22:44.016239+00:00",
     "type": "highlight"
   },
-  "https://www.marineinsight.com/french-navy-shoots-down-drone-near-cma-cgm-ship-in-bab-el-mandeb-strait/?utm_source=rss&utm_medium=rss&utm_campaign=french-navy-shoots-down-drone-near-cma-cgm-ship-in-bab-el-mandeb-strait": {
-    "ts": "2026-10-18T15:39:22.517190+00:00",
-    "type": "other"
-  },
   "https://gcaptain.com/irans-guards-say-two-tankers-hit-mines-in-strait-of-hormuz/": {
     "ts": "2026-10-19T04:03:31.188346+00:00",
     "type": "highlight"
@@ -50,14 +42,6 @@
   "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/18/nova-reserva-marinha-de-3-mil-hectares-e-criada-entre-barra-de-guaratiba-e-recreio-o-que-muda.ghtml": {
     "ts": "2026-10-18T20:22:44.016239+00:00",
     "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/gms-week-42-freight-finally-flinches/": {
-    "ts": "2026-10-18T15:39:22.517190+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/oil-prices-surge-as-middle-east-and-russian-supply-jitters-mount": {
-    "ts": "2026-10-18T15:39:22.517190+00:00",
-    "type": "other"
   },
   "https://petronoticias.com.br/entrevista-devastadora-de-roberta-luschinger-mostra-da-corrupcao-no-governo-com-envolvimento-de-lulinha-na-petrobras-e-do-proprio-presidente/": {
     "ts": "2026-10-19T12:41:43.007717+00:00",
@@ -1052,15 +1036,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/a-raizen-deixa-de-prontidao-praticamente-um-batalhao-para-combater-possiveis-focos-de-incendio-nas-plantacao-de-cana-da-empresa/": {
-    "ts": "2026-10-25T11:03:02.297556+00:00",
+    "ts": "2026-10-25T15:51:27.055727+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/uae-confirms-approaching-oil-spill-as-iran-claims-continued-attacks": {
-    "ts": "2026-10-25T11:03:02.297556+00:00",
+    "ts": "2026-10-25T15:51:27.055727+00:00",
     "type": "highlight"
   },
   "https://www.marinelink.com/news/strait-hormuz-ship-attacks-reach-new-high-543880": {
-    "ts": "2026-10-25T11:03:02.297556+00:00",
+    "ts": "2026-10-25T15:51:27.055727+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/dof-group-conquista-contrato-de-instalacao-de-sistemas-submarinos-na-africa/": {
@@ -1096,15 +1080,15 @@
     "type": "other"
   },
   "https://gcaptain.com/rare-russian-diesel-shipment-expected-to-arrive-in-norfolk-on-november-2/": {
-    "ts": "2026-10-23T21:13:33.726137+00:00",
+    "ts": "2026-10-25T15:51:27.055727+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/what-is-changing-behind-dry-bulk-and-tanker-freight-markets/": {
-    "ts": "2026-10-25T11:03:02.297556+00:00",
+    "ts": "2026-10-25T15:51:27.055727+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/maersk-tankers-ammonia-power-tanker-retrofit-project-gets-eu-funding": {
-    "ts": "2026-10-25T11:03:02.297556+00:00",
+    "ts": "2026-10-25T15:51:27.055727+00:00",
     "type": "highlight"
   },
   "https://splash247.com/sierra-leone-launches-chinese-backed-national-shipping-company/": {
@@ -1156,7 +1140,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/indias-hpcl-adapts-crude-buying-as-freight-rates-soar": {
-    "ts": "2026-10-25T11:03:02.297556+00:00",
+    "ts": "2026-10-25T15:51:27.055727+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/internacional/fid-do-argentina-lng-deve-sair-no-final-de-novembro": {
@@ -1168,7 +1152,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/indian-seafarers-union-urges-imo-action-over-fake-ship-registries-endangering-seafarers/?utm_source=rss&utm_medium=rss&utm_campaign=indian-seafarers-union-urges-imo-action-over-fake-ship-registries-endangering-seafarers": {
-    "ts": "2026-10-25T11:03:02.297556+00:00",
+    "ts": "2026-10-25T15:51:27.055727+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-da-globo.ghtml": {
@@ -1180,11 +1164,11 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/tanker-oil-spill-forces-uae-to-close-all-beaches-in-umm-al-quwain-as-cleanup-continues/?utm_source=rss&utm_medium=rss&utm_campaign=tanker-oil-spill-forces-uae-to-close-all-beaches-in-umm-al-quwain-as-cleanup-continues": {
-    "ts": "2026-10-24T15:40:52.948654+00:00",
+    "ts": "2026-10-25T15:51:27.055727+00:00",
     "type": "other"
   },
   "https://gcaptain.com/uae-shuts-all-beaches-as-neighbors-grapple-with-oil-spill/": {
-    "ts": "2026-10-25T11:03:02.297556+00:00",
+    "ts": "2026-10-25T15:51:27.055727+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/worlds-first-ammonia-dual-fuel-vlac-fitted-with-everllence-main-engine-delivered/?utm_source=rss&utm_medium=rss&utm_campaign=worlds-first-ammonia-dual-fuel-vlac-fitted-with-everllence-main-engine-delivered": {
@@ -1196,11 +1180,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/petronas-totalenergies-e-mitsui-firmam-joint-venture-para-desenvolver-area-de-armazenamento-de-co%e2%82%82-na-malasia/": {
-    "ts": "2026-10-25T11:03:02.297556+00:00",
+    "ts": "2026-10-25T15:51:27.055727+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543875-aberdeen-memorial-service-held-for-north-sea-oil-tycoon-sir-ian-wood": {
     "ts": "2026-10-25T11:03:02.297556+00:00",
     "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/uk-manufacturing-sector-grows-at-faster-pace/": {
+    "ts": "2026-10-25T15:51:27.055727+00:00",
+    "type": "highlight"
   }
 }

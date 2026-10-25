@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-10-17",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz segue abaixo de 10%, mantendo tarifas recordes próximas a US$ 20 milhões por passagem para VLCC. Esse cenário inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, aumentando custos e complexidade na programação de frotas. O redirecionamento eleva o risco de atrasos, pressionando a eficiência das cadeias globais de petróleo. Ataques recentes a petroleiros na região, incluindo danos causados por minas, ampliam a insegurança operaciona"
-  },
-  {
     "date": "2026-10-18",
     "drivers": [
       "contratos marítimos",
@@ -312,5 +301,14 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas de passagem para VLCCs em torno de US$ 20 milhões. Essa restrição inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e complexidade na programação das frotas. A retenção de cerca de 6.000 marítimos na região agrava a escassez de mão de obra, ampliando riscos logísticos e reduzindo a eficiência das cadeias globais de petróleo. No Golfo Pérsico, o vazamento de óle"
+  },
+  {
+    "date": "2026-10-25",
+    "drivers": [
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas para VLCC em cerca de US$ 20 milhões por passagem. Esse nível inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos e complexidade na programação das frotas. A retenção de aproximadamente 6.000 marítimos na região agrava a escassez de mão de obra, ampliando riscos logísticos e reduzindo a eficiência das cadeias globais de petróleo. No Golfo Pérsico, o vazamento de óleo conf"
   }
 ]
