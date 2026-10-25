@@ -4,16 +4,6 @@
     "drivers": [
       "contratos marítimos",
       "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade operacional no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes de cerca de US$ 20 milhões por passagem para VLCC. Esse custo inviabiliza contratos de longo prazo, forçando desvios pelo Golfo de Ku, o que eleva custos logísticos e complica a programação de frotas. O aumento do desvio operacional amplia riscos de atrasos, pressionando a eficiência das cadeias globais de suprimento de petróleo. Ataques recentes a petroleiros no Estreito, incluindo danos por mina"
-  },
-  {
-    "date": "2026-10-18",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
       "logística e portos",
       "risco geopolítico",
       "petróleo e gás"
@@ -310,5 +300,14 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas para VLCC em cerca de US$ 20 milhões por passagem. Esse nível inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos e complexidade na programação das frotas. A retenção de aproximadamente 6.000 marítimos na região agrava a escassez de mão de obra, ampliando riscos logísticos e reduzindo a eficiência das cadeias globais de petróleo. No Golfo Pérsico, o vazamento de óleo conf"
+  },
+  {
+    "date": "2026-10-25",
+    "drivers": [
+      "operações offshore",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas para VLCC em torno de US$ 20 milhões por passagem. Esse nível inviabiliza contratos de longo prazo, força desvios pelo Golfo de Ku e eleva custos operacionais e complexidade logística para operadores de petróleo. A retenção de cerca de 6.000 marítimos na região agrava a escassez de mão de obra, ampliando riscos e reduzindo eficiência nas cadeias globais. No Golfo Pérsico, o vazamento de óleo levou ao fechament"
   }
 ]
