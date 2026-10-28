@@ -2,17 +2,6 @@
   {
     "date": "2026-10-20",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas próximas a US$ 20 milhões por passagem para VLCC. Esse custo inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando despesas e complexidade na programação das frotas. O redirecionamento aumenta o risco de atrasos, impactando a eficiência das cadeias globais de suprimento de petróleo. Ataques recentes a embarcações, incluindo detonação de minas e disparos, ampliam a insegurança oper"
-  },
-  {
-    "date": "2026-10-20",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -309,5 +298,16 @@
       "petróleo e gás"
     ],
     "summary": "Tráfego no Estreito de Ormuz permanece restrito abaixo de 10%, sustentando tarifas recordes para VLCCs em US$ 20 milhões por passagem. Essa limitação inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e complexificando a programação das frotas. A retenção de cerca de 6.000 marítimos na região agrava a escassez de mão de obra, ampliando riscos logísticos e reduzindo a eficiência das cadeias globais de petróleo. No offshore, o naufrágio da plataform"
+  },
+  {
+    "date": "2026-10-28",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "O Estreito de Ormuz mantém capacidade de trânsito abaixo de 10%, sustentando tarifas para VLCCs em US$ 20 milhões por passagem. Essa condição inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, aumentando custos operacionais e complexidade na programação das frotas. A retenção de cerca de 6.000 marítimos na região agrava a escassez de mão de obra, elevando riscos logísticos e reduzindo eficiência nas cadeias globais de petróleo. No offshore, a disputa por contratos da Petrobra"
   }
 ]
