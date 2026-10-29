@@ -11,10 +11,6 @@
     "ts": "2026-10-27T04:27:28.549903+00:00",
     "type": "highlight"
   },
-  "https://safety4sea.com/ore-carrier-suffers-damage-after-striking-wharf-at-vietnamese-port/": {
-    "ts": "2026-10-22T11:29:13.574204+00:00",
-    "type": "highlight"
-  },
   "https://maritime-executive.com/article/report-despite-iran-s-attacks-gulf-oil-exports-exceed-prewar-levels": {
     "ts": "2026-10-22T16:55:44.612303+00:00",
     "type": "highlight"
@@ -46,50 +42,6 @@
   "https://www.oedigital.com/news/543837-dof-gets-deepwater-subsea-installation-job-in-africa": {
     "ts": "2026-10-23T04:09:25.401271+00:00",
     "type": "highlight"
-  },
-  "https://splash247.com/tufton-rides-stronger-markets-with-fresh-tanker-and-bulker-deals/": {
-    "ts": "2026-10-22T11:29:13.574204+00:00",
-    "type": "highlight"
-  },
-  "https://splash247.com/a-new-world-order-emerges-in-lng-shipping/": {
-    "ts": "2026-10-22T11:29:13.574204+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543838-tennet-nkt-find-offshore-cable-decom-technically-feasible": {
-    "ts": "2026-10-22T11:29:13.574204+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543836-onesubsea-oil-majors-complete-all-electric-subsea-technology-project-in-brazil": {
-    "ts": "2026-10-22T11:29:13.574204+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/drewry-suez-traffic-showing-strong-momentum/": {
-    "ts": "2026-10-22T11:29:13.574204+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/maersk-expects-full-return-of-shipping-services-to-suez-canal-by-march-2027/": {
-    "ts": "2026-10-22T11:29:13.574204+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/refining-processing/indian-refiners-pivot-back-to-middle-east-crude-in-september-sidelining-russian-oil": {
-    "ts": "2026-10-22T11:29:13.574204+00:00",
-    "type": "other"
-  },
-  "https://www.rigzone.com/news/uk_union_welcomes_jackdaw_decision-22-oct-2026-184903-article/": {
-    "ts": "2026-10-22T11:29:13.574204+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/ports/canada-funds-saint-john-upgrades": {
-    "ts": "2026-10-22T11:29:13.574204+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/opinion-rising-middle-east-oil-exports-offer-false-sense-of-market-security": {
-    "ts": "2026-10-22T11:29:13.574204+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/opinion-asias-gas-demand-defies-soaring-costs-with-october-import-jump": {
-    "ts": "2026-10-22T11:29:13.574204+00:00",
-    "type": "other"
   },
   "https://safety4sea.com/bab-al-mandab-disruption-raises-risk-of-wider-regional-escalation/": {
     "ts": "2026-10-23T04:09:25.401271+00:00",
@@ -1000,11 +952,11 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/vessels-rigs/psvs/starnav-elektra-hybrid-vessel-review": {
-    "ts": "2026-10-29T05:09:58.151254+00:00",
+    "ts": "2026-10-29T12:38:37.083337+00:00",
     "type": "highlight"
   },
   "https://www.infomoney.com.br/mundo/espanha-pelo-menos-30-pessoas-morrem-apos-colisao-entre-2-trens-de-alta-velocidade/": {
-    "ts": "2026-10-29T05:09:58.151254+00:00",
+    "ts": "2026-10-29T12:38:37.083337+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543951-damaged-tanker-leaks-oil-across-uae-waters-as-spill-widens": {
@@ -1056,7 +1008,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/grande-explosao-em-usina-da-csn-assusta-moradores-de-volta-redonda/": {
-    "ts": "2026-10-29T05:09:58.151254+00:00",
+    "ts": "2026-10-29T12:38:37.083337+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/caroline-bezengi-oil-leaks-off-oman-have-been-halted": {
@@ -1165,6 +1117,78 @@
   },
   "https://www.hellenicshippingnews.com/russian-diesel-returns-a-new-atlantic-trade-dynamic/": {
     "ts": "2026-10-29T05:09:58.151254+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/ntsb-investigation-tanker-collision-with-tow-of-parges-on-the-mississippi/": {
+    "ts": "2026-10-29T12:38:37.083337+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/brazil-soybean-meal-prices-post-sharpest-daily-drop-since-april-after-presidential-election/": {
+    "ts": "2026-10-29T12:38:37.083337+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/boxships/boluda-shipping-to-acquire-samskip": {
+    "ts": "2026-10-29T12:38:37.083337+00:00",
+    "type": "highlight"
+  },
+  "https://brasilenergia.com.br/petroleoegas/internacional/saipem-soma-us-121-milhoes-em-contratos-de-perfuracao": {
+    "ts": "2026-10-29T12:38:37.083337+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/drilling-production/petrobras-delivers-production-surge-in-third-quarter": {
+    "ts": "2026-10-29T12:38:37.083337+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/ukmto-reports-burning-tanker-off-musandam-peninsula": {
+    "ts": "2026-10-29T12:38:37.083337+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543994-subsea-vessel-market-shifting-dynamics-fleet-expansion": {
+    "ts": "2026-10-29T12:38:37.083337+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/mol-secures-fsru-charter-with-deutsche-regas/": {
+    "ts": "2026-10-29T12:38:37.083337+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543996-woodside-exit-sends-east-timor-searching-for-greater-sunrise-partner": {
+    "ts": "2026-10-29T12:38:37.083337+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/543995-vard-launches-new-energy-construction-vessel-for-norwegian-owner": {
+    "ts": "2026-10-29T12:38:37.083337+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/u-s-approves-8-2-billion-texas-offshore-deepwater-lng-port-to-boost-export-capacity-by-9/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-approves-8-2-billion-texas-offshore-deepwater-lng-port-to-boost-export-capacity-by-9": {
+    "ts": "2026-10-29T12:38:37.083337+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/drone-attack-sinks-containership-off-bulgarias-black-sea-coast/": {
+    "ts": "2026-10-29T12:38:37.083337+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/south-korea-targets-fully-unmanned-autonomous-ship-technology-by-2032/": {
+    "ts": "2026-10-29T12:38:37.083337+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/bofa-tracks-shipping-data-showing-red-sea-transit-recovery/": {
+    "ts": "2026-10-29T12:38:37.083337+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/boxships/imabari-delivers-one-symphony-containership": {
+    "ts": "2026-10-29T12:38:37.083337+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/aker-solutions-braces-for-more-job-cuts/": {
+    "ts": "2026-10-29T12:38:37.083337+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/shipping-industry-launches-2-common-data-formats-to-streamline-fleet-emissions-reporting/?utm_source=rss&utm_medium=rss&utm_campaign=shipping-industry-launches-2-common-data-formats-to-streamline-fleet-emissions-reporting": {
+    "ts": "2026-10-29T12:38:37.083337+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/equinor-blames-us-shipbuilding-delays-for-late-offshore-wind-installation": {
+    "ts": "2026-10-29T12:38:37.083337+00:00",
     "type": "other"
   }
 }
