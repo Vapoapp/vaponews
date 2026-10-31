@@ -1,35 +1,19 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-10-31T04:55:17.749882+00:00",
+    "ts": "2026-10-31T11:57:56.934463+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
-    "ts": "2026-10-26T04:07:32.013317+00:00",
+    "ts": "2026-10-31T11:57:56.934463+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/refining-processing": {
-    "ts": "2026-10-27T04:27:28.549903+00:00",
+    "ts": "2026-10-31T11:57:56.934463+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543857-new-crewsure-energy-program-provides-employee-benefits-for-offshore-workers": {
     "ts": "2026-10-24T15:40:52.948654+00:00",
     "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/offshore-wind-risks-acu-access": {
-    "ts": "2026-10-24T10:38:49.154379+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543842-techouse-acquires-ambio": {
-    "ts": "2026-10-24T10:38:49.154379+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/hav-fles-joins-navigare-fleet": {
-    "ts": "2026-10-24T10:38:49.154379+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/nor-shipping-brings-new-focus-to-ai-ports-and-marketing-in-2027/": {
-    "ts": "2026-10-24T10:38:49.154379+00:00",
-    "type": "other"
   },
   "https://safety4sea.com/navigating-the-qiongzhou-strait-key-risks-and-best-practices-for-ships/": {
     "ts": "2026-10-25T04:02:58.163934+00:00",
@@ -147,10 +131,6 @@
     "ts": "2026-10-25T20:38:24.659299+00:00",
     "type": "highlight"
   },
-  "https://splash247.com/sierra-leone-launches-chinese-backed-national-shipping-company/": {
-    "ts": "2026-10-24T10:38:49.154379+00:00",
-    "type": "highlight"
-  },
   "https://gcaptain.com/first-russian-diesel-from-putin-trump-deal-heading-for-us/": {
     "ts": "2026-10-25T04:02:58.163934+00:00",
     "type": "other"
@@ -190,14 +170,6 @@
   "https://www.bairdmaritime.com/shipping/tankers/indias-hpcl-adapts-crude-buying-as-freight-rates-soar": {
     "ts": "2026-10-25T15:51:27.055727+00:00",
     "type": "highlight"
-  },
-  "https://brasilenergia.com.br/petroleoegas/internacional/fid-do-argentina-lng-deve-sair-no-final-de-novembro": {
-    "ts": "2026-10-24T10:38:49.154379+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/visentini-40000-dwt-open-hatch-bulkers": {
-    "ts": "2026-10-24T10:38:49.154379+00:00",
-    "type": "other"
   },
   "https://www.marineinsight.com/indian-seafarers-union-urges-imo-action-over-fake-ship-registries-endangering-seafarers/?utm_source=rss&utm_medium=rss&utm_campaign=indian-seafarers-union-urges-imo-action-over-fake-ship-registries-endangering-seafarers": {
     "ts": "2026-10-26T12:35:37.288053+00:00",
@@ -932,11 +904,11 @@
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/estrutura/22061/nautika-entrega-galpoes-de-lona-que-somam-7-500-m-no-porto-do-recife/": {
-    "ts": "2026-10-31T04:55:17.749882+00:00",
+    "ts": "2026-10-31T11:57:56.934463+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/greek-containership-sunk-by-naval-drones-off-bulgaria-as-black-sea-attacks-escalate/": {
-    "ts": "2026-10-31T04:55:17.749882+00:00",
+    "ts": "2026-10-31T11:57:56.934463+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/meio-ambiente/anp-multa-petrobras-em-r-9945-mil-por-infracao-na-p-71": {
@@ -980,7 +952,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/544002-tullow-oil-taps-deepocean-for-subsea-riser-job-off-ghana": {
-    "ts": "2026-10-29T22:37:04.117089+00:00",
+    "ts": "2026-10-31T11:57:56.934463+00:00",
     "type": "other"
   },
   "https://safety4sea.com/sea-lng-and-mamii-strengthen-cooperation-on-methane-emissions/": {
@@ -1044,11 +1016,11 @@
     "type": "other"
   },
   "https://safety4sea.com/strait-of-hormuz-tanker-attack-highlights-close-range-security-threats/": {
-    "ts": "2026-10-31T04:55:17.749882+00:00",
+    "ts": "2026-10-31T11:57:56.934463+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/sustentabilidade/22068/navio-do-grupo-nautica-testa-combustivel-que-pode-reduzir-emissoes-em-ate-80/": {
-    "ts": "2026-10-31T04:55:17.749882+00:00",
+    "ts": "2026-10-31T11:57:56.934463+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/imo-partners-launch-5-day-action-plan-to-prevent-ship-groundings-in-latin-american-waters/?utm_source=rss&utm_medium=rss&utm_campaign=imo-partners-launch-5-day-action-plan-to-prevent-ship-groundings-in-latin-american-waters": {
@@ -1108,15 +1080,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/a-wilson-sons-esta-comemorando-os-dez-primeiros-anos-do-tecon-de-rio-grande-no-sul-do-pais/": {
-    "ts": "2026-10-31T04:55:17.749882+00:00",
+    "ts": "2026-10-31T11:57:56.934463+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/korean-companies-sign-to-develop-maritime-cyber-insurance-services/": {
-    "ts": "2026-10-31T04:55:17.749882+00:00",
+    "ts": "2026-10-31T11:57:56.934463+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/oman-evacuates-tanker-crew-as-iran-claims-spate-of-new-attacks": {
-    "ts": "2026-10-31T04:55:17.749882+00:00",
+    "ts": "2026-10-31T11:57:56.934463+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/o-grupo-condumax-incesa-amplia-sua-fabrica-em-olimpia-para-aumentar-a-sua-producao-mas-ja-investe-em-outra-expansao-dos-negocios/": {
@@ -1164,15 +1136,15 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/fatigue-and-familiar-work-blamed-for-serious-crew-injuries": {
-    "ts": "2026-10-31T04:55:17.749882+00:00",
+    "ts": "2026-10-31T11:57:56.934463+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/greek-ship-en-route-from-israel-to-romania-with-421-containers-sinks-after-drone-attack/?utm_source=rss&utm_medium=rss&utm_campaign=greek-ship-en-route-from-israel-to-romania-with-421-containers-sinks-after-drone-attack": {
-    "ts": "2026-10-31T04:55:17.749882+00:00",
+    "ts": "2026-10-31T11:57:56.934463+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/saudi-arabia-tanker-oil-loadings-rise-to-highest-level-since-february/": {
-    "ts": "2026-10-31T04:55:17.749882+00:00",
+    "ts": "2026-10-31T11:57:56.934463+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/meio-ambiente/senado-analisa-pl-de-alcolumbre-para-reaproveitar-plataforma-offshore": {
@@ -1205,6 +1177,34 @@
   },
   "https://splash247.com/oil-majors-count-the-cost-of-runaway-tanker-rates/": {
     "ts": "2026-10-31T04:55:17.749882+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544025-cnooc-starts-up-nine-oil-and-gas-projects-as-production-hits-record": {
+    "ts": "2026-10-31T11:57:56.934463+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/u-s-navy-awards-23-13-million-contract-to-strengthen-warship-cybersecurity/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-navy-awards-23-13-million-contract-to-strengthen-warship-cybersecurity": {
+    "ts": "2026-10-31T11:57:56.934463+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/sanctioned-iran-linked-tankers-went-dark-over-gulf-of-oman-cables-as-the-irgc-threatened-them/": {
+    "ts": "2026-10-31T11:57:56.934463+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/grimaldi-warns-u-s-port-fees-could-force-ships-out-of-american-trades/": {
+    "ts": "2026-10-31T11:57:56.934463+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/evalend-drops-newcastlemax-option-at-dajin-heavy/": {
+    "ts": "2026-10-31T11:57:56.934463+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/maritime-ceo-forum-when-to-leave-the-party/": {
+    "ts": "2026-10-31T11:57:56.934463+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544022-solstad-s-normand-australis-wins-250-day-subsea-campaign": {
+    "ts": "2026-10-31T11:57:56.934463+00:00",
     "type": "other"
   }
 }
