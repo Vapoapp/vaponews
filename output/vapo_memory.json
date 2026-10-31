@@ -7,16 +7,6 @@
       "risco geopolítico",
       "petróleo e gás"
     ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas de passagem para VLCC em torno de US$ 20 milhões. Esse custo inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando despesas operacionais e complexidade na programação das frotas. A retenção de cerca de 6.000 marítimos na região agrava a escassez de mão de obra e aumenta riscos logísticos. No Mar Vermelho, ataques Houthi ampliam a instabilidade em Bab al-Mandab, rota alternativa crític"
-  },
-  {
-    "date": "2026-10-23",
-    "drivers": [
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas de passagem para VLCC em cerca de US$ 20 milhões. Esse custo inviabiliza contratos de longo prazo e obriga desvios pelo Golfo de Ku, elevando despesas operacionais e complexidade na programação das frotas. A retenção de cerca de 6.000 marítimos na região agrava a escassez de mão de obra e eleva riscos logísticos. No Mar Vermelho, ataques Houthi ampliam a instabilidade em Bab al-Mandab, rota alternativa crí"
   },
   {
@@ -310,5 +300,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa limitação inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e complexificando a programação das frotas globais de petróleo. A retenção de cerca de 6.000 marítimos na região agrava a escassez de mão de obra, ampliando riscos logísticos e reduzindo eficiência nas cadeias de suprimento. No offshore brasi"
+  },
+  {
+    "date": "2026-10-31",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa limitação inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e complexificando a programação das frotas globais de petróleo. Ataques recentes, incluindo explosões e minas limpet, aumentam a insegurança e agravam a escassez de mão de obra com retenção de cerca de 6.000 marítimos na região. No offshore, a CN"
   }
 ]

@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-10-31T17:11:34.171903+00:00",
+    "ts": "2026-10-31T21:15:11.613574+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
@@ -8,7 +8,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/refining-processing": {
-    "ts": "2026-10-31T11:57:56.934463+00:00",
+    "ts": "2026-10-31T21:15:11.613574+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/navigating-the-qiongzhou-strait-key-risks-and-best-practices-for-ships/": {
@@ -19,10 +19,6 @@
     "ts": "2026-10-25T04:02:58.163934+00:00",
     "type": "highlight"
   },
-  "https://www.oedigital.com/news/543865-indonesia-s-jangkrik-fpu-set-for-major-gas-output-boost": {
-    "ts": "2026-10-24T20:30:37.775994+00:00",
-    "type": "other"
-  },
   "https://www.bairdmaritime.com/shipping/tankers/kawasaki-delivers-tsurugidake-crude-tanker": {
     "ts": "2026-10-25T04:02:58.163934+00:00",
     "type": "other"
@@ -31,37 +27,9 @@
     "ts": "2026-10-25T11:03:02.297556+00:00",
     "type": "other"
   },
-  "https://www.guiamaritimo.com.br/noticias/maritimo/cma-cgm-copersucar-bunker-one-etanol-abastecimento-regular": {
-    "ts": "2026-10-24T20:30:37.775994+00:00",
-    "type": "highlight"
-  },
   "https://www.oedigital.com/news/543867-equinor-picks-aibel-for-barens-sea-fpso-topsides-feed-job": {
     "ts": "2026-10-25T11:03:02.297556+00:00",
     "type": "highlight"
-  },
-  "https://petronoticias.com.br/o-ira-esta-divulgando-ataques-falsos-contra-petroleiros-em-ormuz-para-aumentar-o-preco-do-barril-as-vesperas-da-eleicao-americana-diz-trump/": {
-    "ts": "2026-10-24T20:30:37.775994+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543870-noia-launches-ocean-minerals-initiative": {
-    "ts": "2026-10-24T20:30:37.775994+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/iran-says-7-oil-tankers-hit-in-one-night-in-strait-of-hormuz-as-fears-of-return-to-war-grow/?utm_source=rss&utm_medium=rss&utm_campaign=iran-says-7-oil-tankers-hit-in-one-night-in-strait-of-hormuz-as-fears-of-return-to-war-grow": {
-    "ts": "2026-10-24T20:30:37.775994+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/shippings-green-transition-has-a-data-problem-but-the-solution-is-within-reach/": {
-    "ts": "2026-10-24T20:30:37.775994+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/oeg-books-three-more-offshore-wind-ctvs-at-diverse-marine/": {
-    "ts": "2026-10-24T20:30:37.775994+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/study-questions-seafarer-training-readiness-for-modern-shipping-operations/": {
-    "ts": "2026-10-24T20:30:37.775994+00:00",
-    "type": "other"
   },
   "https://petronoticias.com.br/a-raizen-deixa-de-prontidao-praticamente-um-batalhao-para-combater-possiveis-focos-de-incendio-nas-plantacao-de-cana-da-empresa/": {
     "ts": "2026-10-25T15:51:27.055727+00:00",
@@ -149,10 +117,6 @@
   },
   "https://www.marineinsight.com/indian-seafarers-union-urges-imo-action-over-fake-ship-registries-endangering-seafarers/?utm_source=rss&utm_medium=rss&utm_campaign=indian-seafarers-union-urges-imo-action-over-fake-ship-registries-endangering-seafarers": {
     "ts": "2026-10-26T12:35:37.288053+00:00",
-    "type": "highlight"
-  },
-  "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-da-globo.ghtml": {
-    "ts": "2026-10-24T20:30:37.775994+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543879-dof-group-sells-skandi-implementer-construction-vessel": {
@@ -992,11 +956,11 @@
     "type": "other"
   },
   "https://safety4sea.com/strait-of-hormuz-tanker-attack-highlights-close-range-security-threats/": {
-    "ts": "2026-10-31T17:11:34.171903+00:00",
+    "ts": "2026-10-31T21:15:11.613574+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/sustentabilidade/22068/navio-do-grupo-nautica-testa-combustivel-que-pode-reduzir-emissoes-em-ate-80/": {
-    "ts": "2026-10-31T17:11:34.171903+00:00",
+    "ts": "2026-10-31T21:15:11.613574+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/imo-partners-launch-5-day-action-plan-to-prevent-ship-groundings-in-latin-american-waters/?utm_source=rss&utm_medium=rss&utm_campaign=imo-partners-launch-5-day-action-plan-to-prevent-ship-groundings-in-latin-american-waters": {
@@ -1044,11 +1008,11 @@
     "type": "other"
   },
   "https://splash247.com/swedish-owner-veritas-books-up-to-six-chemical-tankers-in-china/": {
-    "ts": "2026-10-30T12:29:40.480538+00:00",
+    "ts": "2026-10-31T21:15:11.613574+00:00",
     "type": "other"
   },
   "https://splash247.com/china-merchants-tanker-arm-targets-yangtze-fleet-renewal/": {
-    "ts": "2026-10-30T12:29:40.480538+00:00",
+    "ts": "2026-10-31T21:15:11.613574+00:00",
     "type": "other"
   },
   "https://www.marinelog.com/news/est-floattech-to-supply-two-more-octopus-battery-systems-to-damen-cargo-vessels/": {
@@ -1056,15 +1020,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/a-wilson-sons-esta-comemorando-os-dez-primeiros-anos-do-tecon-de-rio-grande-no-sul-do-pais/": {
-    "ts": "2026-10-31T17:11:34.171903+00:00",
+    "ts": "2026-10-31T21:15:11.613574+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/korean-companies-sign-to-develop-maritime-cyber-insurance-services/": {
-    "ts": "2026-10-31T11:57:56.934463+00:00",
+    "ts": "2026-10-31T21:15:11.613574+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/oman-evacuates-tanker-crew-as-iran-claims-spate-of-new-attacks": {
-    "ts": "2026-10-31T17:11:34.171903+00:00",
+    "ts": "2026-10-31T21:15:11.613574+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/o-grupo-condumax-incesa-amplia-sua-fabrica-em-olimpia-para-aumentar-a-sua-producao-mas-ja-investe-em-outra-expansao-dos-negocios/": {
@@ -1112,7 +1076,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/fatigue-and-familiar-work-blamed-for-serious-crew-injuries": {
-    "ts": "2026-10-31T17:11:34.171903+00:00",
+    "ts": "2026-10-31T21:15:11.613574+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/greek-ship-en-route-from-israel-to-romania-with-421-containers-sinks-after-drone-attack/?utm_source=rss&utm_medium=rss&utm_campaign=greek-ship-en-route-from-israel-to-romania-with-421-containers-sinks-after-drone-attack": {
@@ -1120,7 +1084,7 @@
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/saudi-arabia-tanker-oil-loadings-rise-to-highest-level-since-february/": {
-    "ts": "2026-10-31T17:11:34.171903+00:00",
+    "ts": "2026-10-31T21:15:11.613574+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/meio-ambiente/senado-analisa-pl-de-alcolumbre-para-reaproveitar-plataforma-offshore": {
@@ -1156,15 +1120,15 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/544025-cnooc-starts-up-nine-oil-and-gas-projects-as-production-hits-record": {
-    "ts": "2026-10-31T11:57:56.934463+00:00",
+    "ts": "2026-10-31T21:15:11.613574+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/u-s-navy-awards-23-13-million-contract-to-strengthen-warship-cybersecurity/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-navy-awards-23-13-million-contract-to-strengthen-warship-cybersecurity": {
-    "ts": "2026-10-31T11:57:56.934463+00:00",
+    "ts": "2026-10-31T21:15:11.613574+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/sanctioned-iran-linked-tankers-went-dark-over-gulf-of-oman-cables-as-the-irgc-threatened-them/": {
-    "ts": "2026-10-31T17:11:34.171903+00:00",
+    "ts": "2026-10-31T21:15:11.613574+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/grimaldi-warns-u-s-port-fees-could-force-ships-out-of-american-trades/": {
@@ -1184,11 +1148,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/por-iniciativa-propria-um-funcionario-da-petrobras-escreve-um-livro-inedito-ensinando-o-passo-a-passo-de-trabalhar-em-uma-plataforma-em-seguranca/": {
-    "ts": "2026-10-31T17:11:34.171903+00:00",
+    "ts": "2026-10-31T21:15:11.613574+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/tanker-struck-by-limpet-mines-in-strait-of-hormuz-in-first-such-attack-since-2019/?utm_source=rss&utm_medium=rss&utm_campaign=tanker-struck-by-limpet-mines-in-strait-of-hormuz-in-first-such-attack-since-2019": {
-    "ts": "2026-10-31T17:11:34.171903+00:00",
+    "ts": "2026-10-31T21:15:11.613574+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/capital-clean-energy-carriers-expansion": {
@@ -1201,6 +1165,26 @@
   },
   "https://www.marineinsight.com/india-can-become-competitive-regional-hub-for-alternative-marine-fuels/?utm_source=rss&utm_medium=rss&utm_campaign=india-can-become-competitive-regional-hub-for-alternative-marine-fuels": {
     "ts": "2026-10-31T17:11:34.171903+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/irans-irgc-navy-says-four-tankers-catch-fire-in-strait-of-hormuz/": {
+    "ts": "2026-10-31T21:15:11.613574+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/544020-noble-secures-560m-in-rig-deals-backlog-hits-6-7b": {
+    "ts": "2026-10-31T21:15:11.613574+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/ports/barcelona-cruise-terminal-c-replacement": {
+    "ts": "2026-10-31T21:15:11.613574+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/european-ports-call-for-stronger-eu-ets-safeguards-against-carbon-leakage/": {
+    "ts": "2026-10-31T21:15:11.613574+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544019-fugro-arms-survey-fleet-against-gps-jamming-after-28m-earnings-hit": {
+    "ts": "2026-10-31T21:15:11.613574+00:00",
     "type": "other"
   }
 }
