@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-10-23",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas de passagem para VLCC em torno de US$ 20 milhões. Esse custo inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando despesas e complexidade na programação das frotas. A retenção de cerca de 6.000 marítimos na região agrava a escassez de mão de obra e amplia riscos logísticos, impactando a eficiência das cadeias globais de suprimento de petróleo. No Mar Vermelho, ataques Houthi intensif"
-  },
-  {
     "date": "2026-10-24",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -312,5 +301,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, mantendo tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e complicando a programação global das frotas de petróleo. A retenção de cerca de 6.000 marítimos na região agrava a escassez de mão de obra, ampliando riscos logísticos e reduzindo a eficiência das cadeias de suprimento. No mercado de petroleiros,"
+  },
+  {
+    "date": "2026-11-01",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. A restrição inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e complicando a programação das frotas globais de petróleo. Ataques recentes, incluindo minas limpets, aumentam a insegurança e mantêm a retenção de cerca de 6.000 marítimos na região, agravando a escassez de mão de obra e os riscos logísticos. Apes"
   }
 ]
