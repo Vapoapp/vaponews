@@ -4,15 +4,11 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
-    "ts": "2026-11-01T12:57:49.774733+00:00",
+    "ts": "2026-11-03T00:47:20.515150+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/refining-processing": {
     "ts": "2026-11-02T15:16:08.897399+00:00",
-    "type": "highlight"
-  },
-  "https://petronoticias.com.br/aldak-implementa-sistema-de-monitoramento-de-trabalhadores-em-plataformas-offshore-da-petrobras/": {
-    "ts": "2026-10-26T22:29:32.920695+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/543886-borr-drilling-rig-sinks-off-gabon-110-rescued-as-search-for-five-missing-continues": {
@@ -23,21 +19,9 @@
     "ts": "2026-10-27T17:46:55.175499+00:00",
     "type": "other"
   },
-  "https://petronoticias.com.br/dramatico-naufragio-de-sonda-da-borr-drilling-no-gabao-deixa-cinco-desaparecidos/": {
-    "ts": "2026-10-26T22:29:32.920695+00:00",
-    "type": "highlight"
-  },
   "https://maritime-executive.com/article/fire-reported-on-tanker-off-the-coast-of-iraq": {
     "ts": "2026-10-28T04:58:13.301304+00:00",
     "type": "highlight"
-  },
-  "https://www.marinelink.com/news/black-sea-shipping-faces-insurance-543895": {
-    "ts": "2026-10-26T22:29:32.920695+00:00",
-    "type": "highlight"
-  },
-  "https://brasilenergia.com.br/petroleoegas/governo-regulacao/plano-de-governo-de-lula-preve-expansao-da-petrobras": {
-    "ts": "2026-10-26T22:29:32.920695+00:00",
-    "type": "other"
   },
   "https://agencia.petrobras.com.br/w/negocio/petrobras-aprimora-produ%C3%A7%C3%A3o-e-oferece-ao-mercado-saf-com-menor-intensidade-de-carbono": {
     "ts": "2026-10-28T04:58:13.301304+00:00",
@@ -45,58 +29,6 @@
   },
   "https://www.tecnologistica.com.br/noticias/transporte-maritimo/22042/porto-de-santos-inicia-abastecimento-regular-de-navios-com-etanol/": {
     "ts": "2026-10-28T04:58:13.301304+00:00",
-    "type": "other"
-  },
-  "https://petronoticias.com.br/a-rosatom-lancou-hoje-o-primeiro-reator-nuclear-em-um-navio-quebra-gelo-o-chukotka/": {
-    "ts": "2026-10-26T22:29:32.920695+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/tanker-disabled-in-strait-of-hormuz-attack-another-vessel-reported-on-fire-in-persian-gulf/": {
-    "ts": "2026-10-26T22:29:32.920695+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/baltic-exchange-says-mercuria-tanker-rate-lawsuit-threatens-markets": {
-    "ts": "2026-10-26T22:29:32.920695+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/iraq-needs-to-buy-tankers-to-boost-oil-exports-minister/": {
-    "ts": "2026-10-26T22:29:32.920695+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/singapore-yards-chase-profit-from-europes-offshore-wind-push/": {
-    "ts": "2026-10-26T22:29:32.920695+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/irans-subsea-cable-threats-put-unusual-tanker-movements-under-scrutiny/": {
-    "ts": "2026-10-26T22:29:32.920695+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/port-fees-for-chinese-built-ships-and-shipping-to-be-delayed-by-ustr": {
-    "ts": "2026-10-26T22:29:32.920695+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/cm-technologies-raises-alarm-recent-543899": {
-    "ts": "2026-10-26T22:29:32.920695+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/1700-teu-electric-container-ship-with-151-mwh-battery-system-wins-abs-approval/?utm_source=rss&utm_medium=rss&utm_campaign=1700-teu-electric-container-ship-with-151-mwh-battery-system-wins-abs-approval": {
-    "ts": "2026-10-26T22:29:32.920695+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/bahri-orders-three-crude-tankers": {
-    "ts": "2026-10-26T22:29:32.920695+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543903-reach-subsea-eidesvik-complete-sale-of-viking-reach-subsea-vessel": {
-    "ts": "2026-10-26T22:29:32.920695+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543902-aquaterra-energy-completes-phase-one-of-offshore-nigerian-oil-platform": {
-    "ts": "2026-10-26T22:29:32.920695+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/port-of-riga-plans-green-methanol-production-and-bunkering-hub/": {
-    "ts": "2026-10-26T22:29:32.920695+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/dramatico-afundamento-de-sonda-da-borr-drilling-no-gabao-deixa-cinco-desaparecidos/": {
@@ -1012,15 +944,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/fpso-p-35-passa-sob-a-ponte-rio-niteroi-em-operacao-de-alta-complexidade-e-segue-para-o-estaleiro-inhauma/": {
-    "ts": "2026-11-02T15:16:08.897399+00:00",
+    "ts": "2026-11-03T00:47:20.515150+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/taic-investigation-ship-boiler-blowback-aboard-bulk-carrier/": {
-    "ts": "2026-11-02T15:16:08.897399+00:00",
+    "ts": "2026-11-03T00:47:20.515150+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/pakistan-bound-lng-tanker-with-25-crew-attacked-near-hormuz-hours-after-iran-cleared-its-passage/?utm_source=rss&utm_medium=rss&utm_campaign=pakistan-bound-lng-tanker-with-25-crew-attacked-near-hormuz-hours-after-iran-cleared-its-passage": {
-    "ts": "2026-11-02T15:16:08.897399+00:00",
+    "ts": "2026-11-03T00:47:20.515150+00:00",
     "type": "highlight"
   },
   "https://splash247.com/oceanity-bags-petrobras-charter-for-oil-spill-response-vessel/": {
@@ -1073,6 +1005,74 @@
   },
   "https://www.bairdmaritime.com/shipping/tankers/gas/plaquemines-lng-ships-debut-contracted-cargo-to-shell": {
     "ts": "2026-11-02T15:16:08.897399+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/new-wave-of-attacks-hits-tankers-and-lng-carrier-in-strait-of-hormuz-and-persian-gulf/": {
+    "ts": "2026-11-03T00:47:20.515150+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/jornal-nacional/noticia/2026/11/02/audios-revelam-momentos-de-panico-na-cabine-de-aviao-que-caiu-na-florida-nos-estados-unidos.ghtml": {
+    "ts": "2026-11-03T00:47:20.515150+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/ardmore-shipping-decarbonization-through-the-details/": {
+    "ts": "2026-11-03T00:47:20.515150+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/subsea-incidents-why-preparedness-technology-and-coordination-are-critical-to-effective-crisis-response/": {
+    "ts": "2026-11-03T00:47:20.515150+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/uani-iran-s-lpg-carriers-can-get-through-u-s-navy-blockade-but-rarely": {
+    "ts": "2026-11-03T00:47:20.515150+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/how-potable-water-quality-impacts-crew-health-safety/": {
+    "ts": "2026-11-03T00:47:20.515150+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544070-final-turbine-stands-tall-at-760mw-ecowende-wind-farm": {
+    "ts": "2026-11-03T00:47:20.515150+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544068-global-otec-s-floating-prototype-withstands-19-storms-in-offshore-trial": {
+    "ts": "2026-11-03T00:47:20.515150+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/oil-prices-tumble-on-iran-war-de-escalation-hopes": {
+    "ts": "2026-11-03T00:47:20.515150+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/uae-touts-post-opec-output-gains-while-regional-producers-struggle": {
+    "ts": "2026-11-03T00:47:20.515150+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/general-cargo-vessel-sinks-off-cyprus-all-10-crew-members-rescued/": {
+    "ts": "2026-11-03T00:47:20.515150+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/subsea-surveying/boskalis-gennaker-unexploded-ordnance-clearance": {
+    "ts": "2026-11-03T00:47:20.515150+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/seven-migrants-die-offshore-canary-544079": {
+    "ts": "2026-11-03T00:47:20.515150+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544045-totalenergies-to-take-operatorship-of-two-major-gas-fields-off-malaysia": {
+    "ts": "2026-11-03T00:47:20.515150+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/subsea-7-lands-north-sea-subsea-contract-from-aker-bp/": {
+    "ts": "2026-11-03T00:47:20.515150+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/editorials/falklands-argentina-s-new-legal-dispute-over-the-sea-lion-oil-project": {
+    "ts": "2026-11-03T00:47:20.515150+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/norway-hands-out-430m-for-floating-offshore-wind-projects/": {
+    "ts": "2026-11-03T00:47:20.515150+00:00",
     "type": "other"
   }
 }
