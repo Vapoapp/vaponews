@@ -3,16 +3,6 @@
     "date": "2026-10-25",
     "drivers": [
       "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas de passagem para VLCCs em torno de US$ 20 milhões. Essa restrição inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e complexidade na programação das frotas. A retenção de cerca de 6.000 marítimos na região agrava a escassez de mão de obra, ampliando riscos logísticos e reduzindo a eficiência das cadeias globais de petróleo. No Golfo Pérsico, o vazamento de óle"
-  },
-  {
-    "date": "2026-10-25",
-    "drivers": [
-      "operações offshore",
       "risco geopolítico",
       "petróleo e gás"
     ],
@@ -310,5 +300,15 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e complexidade na programação das frotas globais de petróleo. Ataques recentes a petroleiros e navios de GNL ampliam a insegurança e mantêm cerca de 6.000 marítimos retidos na região, agravando a escassez de mão de obra e os riscos logísticos. No"
+  },
+  {
+    "date": "2026-11-03",
+    "drivers": [
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e complexidade na programação global das frotas de petróleo. Ataques recentes a petroleiros e navios de GNL intensificam a insegurança, mantendo cerca de 6.000 marítimos retidos e agravando a escassez de mão de obra. No offshore, o financiame"
   }
 ]
