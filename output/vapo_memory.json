@@ -2,15 +2,6 @@
   {
     "date": "2026-10-26",
     "drivers": [
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas de passagem para VLCCs em torno de US$ 20 milhões. Esse cenário inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e complexidade na programação das frotas. A retenção de cerca de 6.000 marítimos na região amplia a escassez de mão de obra, agravando riscos logísticos e reduzindo a eficiência das cadeias globais de petróleo. No Golfo Pérsico, o vazamento de ó"
-  },
-  {
-    "date": "2026-10-26",
-    "drivers": [
       "atividade Petrobras/Transpetro",
       "contratos marítimos",
       "operações offshore",
@@ -313,5 +304,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa limitação inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e complexidade na programação global das frotas de petróleo. Ataques recentes intensificam a insegurança, mantendo cerca de 6.000 marítimos retidos, agravando a escassez de mão de obra e riscos logísticos na região. No offshore brasileiro, a desc"
+  },
+  {
+    "date": "2026-11-04",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "Tráfego no Estreito de Ormuz mantém custos operacionais elevados e limita contratos de longo prazo para transporte de petróleo. A capacidade de passagem segue abaixo de 10%, com tarifas em US$ 20 milhões por VLCC, forçando desvios logísticos pelo Golfo de Ku. Ataques recentes a petroleiros e navios de GNL aumentam a insegurança, retendo cerca de 6.000 marítimos na região e agravando a escassez de mão de obra qualificada. No offshore, contratos seguem ativos, como o acordo da Subsea7 para o campo"
   }
 ]
