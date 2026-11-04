@@ -1,42 +1,18 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
+    "ts": "2026-11-04T05:40:32.681154+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
-    "ts": "2026-11-03T00:47:20.515150+00:00",
+    "ts": "2026-11-04T05:40:32.681154+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/refining-processing": {
     "ts": "2026-11-02T15:16:08.897399+00:00",
     "type": "highlight"
   },
-  "https://maritime-executive.com/article/fire-reported-on-tanker-off-the-coast-of-iraq": {
-    "ts": "2026-10-28T04:58:13.301304+00:00",
-    "type": "highlight"
-  },
-  "https://agencia.petrobras.com.br/w/negocio/petrobras-aprimora-produ%C3%A7%C3%A3o-e-oferece-ao-mercado-saf-com-menor-intensidade-de-carbono": {
-    "ts": "2026-10-28T04:58:13.301304+00:00",
-    "type": "other"
-  },
-  "https://www.tecnologistica.com.br/noticias/transporte-maritimo/22042/porto-de-santos-inicia-abastecimento-regular-de-navios-com-etanol/": {
-    "ts": "2026-10-28T04:58:13.301304+00:00",
-    "type": "other"
-  },
   "https://maritime-executive.com/article/injured-master-and-officer-evacuated-during-north-sea-storm": {
     "ts": "2026-10-28T12:27:54.500530+00:00",
-    "type": "highlight"
-  },
-  "https://www.rigzone.com/news/rig_sinks_offshore_gabon-27-oct-2026-184939-article/": {
-    "ts": "2026-10-28T04:58:13.301304+00:00",
-    "type": "highlight"
-  },
-  "https://www.marineinsight.com/captain-investigated-after-cruise-ship-hits-two-container-ships-in-bremerhaven/?utm_source=rss&utm_medium=rss&utm_campaign=captain-investigated-after-cruise-ship-hits-two-container-ships-in-bremerhaven": {
-    "ts": "2026-10-28T04:58:13.301304+00:00",
-    "type": "highlight"
-  },
-  "https://petronoticias.com.br/web-oil-gas-amplia-atuacao-e-entra-no-mercado-subsea-de-olho-em-novos-negocios/": {
-    "ts": "2026-10-28T04:58:13.301304+00:00",
     "type": "highlight"
   },
   "https://safety4sea.com/uscg-issues-maritime-cybersecurity-guidance-ahead-of-2027-compliance-deadline/": {
@@ -46,14 +22,6 @@
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
     "ts": "2026-10-29T05:09:58.151254+00:00",
     "type": "other"
-  },
-  "https://www.marinelink.com/news/anybotics-delivers-explosionprotected-543927": {
-    "ts": "2026-10-28T04:58:13.301304+00:00",
-    "type": "highlight"
-  },
-  "https://www.oedigital.com/news/543931-equinor-clear-to-drill-wildcat-well-in-north-sea": {
-    "ts": "2026-10-28T04:58:13.301304+00:00",
-    "type": "highlight"
   },
   "https://www.infomoney.com.br/mundo/bancos-da-zona-do-euro-relatam-queda-na-demanda-por-emprestimos/": {
     "ts": "2026-10-28T12:27:54.500530+00:00",
@@ -75,10 +43,6 @@
     "ts": "2026-10-28T22:24:09.977654+00:00",
     "type": "highlight"
   },
-  "https://www.bairdmaritime.com/shipping/tankers/iran-threatens-legal-action-against-tanker-owner-sinokor": {
-    "ts": "2026-10-28T04:58:13.301304+00:00",
-    "type": "highlight"
-  },
   "https://www.tecnologistica.com.br/noticias/transporte-maritimo/22051/etanol-pode-ampliar-participacao-do-brasil-na-descarbonizacao-do-transporte-maritimo/": {
     "ts": "2026-10-28T22:24:09.977654+00:00",
     "type": "other"
@@ -87,36 +51,12 @@
     "ts": "2026-10-28T12:27:54.500530+00:00",
     "type": "highlight"
   },
-  "https://www.bairdmaritime.com/shipping/tankers/falcon-review-methanol-ready-tanker": {
-    "ts": "2026-10-28T04:58:13.301304+00:00",
-    "type": "highlight"
-  },
   "https://www.hellenicshippingnews.com/imo-strengthens-cooperation-with-asean-on-maritime-transport-priorities/": {
     "ts": "2026-10-28T12:27:54.500530+00:00",
     "type": "highlight"
   },
-  "https://g1.globo.com/economia/noticia/2026/10/27/acordo-fmi-argentina.ghtml": {
-    "ts": "2026-10-28T04:58:13.301304+00:00",
-    "type": "other"
-  },
   "https://www.bairdmaritime.com/shipping/tankers/utkilen-receives-listraum-chemical-tanker": {
     "ts": "2026-10-29T05:09:58.151254+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/stena-agrees-to-acquire-norwegian-ferry-operator-color-line-in-major-european-ferry-deal/": {
-    "ts": "2026-10-28T04:58:13.301304+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/zijin-mining-orders-bulker-pair-for-african-mineral-trade/": {
-    "ts": "2026-10-28T04:58:13.301304+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/tanker-owners-cant-call-a-140m-ship-too-old-to-upgrade-says-bar-technologies/": {
-    "ts": "2026-10-28T04:58:13.301304+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/543921-dolphin-drilling-sells-blackford-dolphin-semi-sub-forges-new-rig-partnership": {
-    "ts": "2026-10-28T04:58:13.301304+00:00",
     "type": "other"
   },
   "https://gcaptain.com/saudi-tanker-giant-posts-10-fold-profit-jump-as-ship-rates-surge/": {
@@ -768,7 +708,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/pakistan-bound-lng-tanker-with-25-crew-attacked-near-hormuz-hours-after-iran-cleared-its-passage/?utm_source=rss&utm_medium=rss&utm_campaign=pakistan-bound-lng-tanker-with-25-crew-attacked-near-hormuz-hours-after-iran-cleared-its-passage": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
+    "ts": "2026-11-04T05:40:32.681154+00:00",
     "type": "highlight"
   },
   "https://splash247.com/oceanity-bags-petrobras-charter-for-oil-spill-response-vessel/": {
@@ -892,7 +832,7 @@
     "type": "other"
   },
   "https://safety4sea.com/lessons-learned-firefighting-capability-must-be-preserved-during-an-emergency/": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
+    "ts": "2026-11-04T05:40:32.681154+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/02/relembre-acidentes-com-asa-delta-e-parapente-na-regiao-da-pedra-bonita-em-2026.ghtml": {
@@ -900,7 +840,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/bulgarian-navy-rescues-14-filipino-crew-members-after-drone-sinks-container-ship-in-black-sea/?utm_source=rss&utm_medium=rss&utm_campaign=bulgarian-navy-rescues-14-filipino-crew-members-after-drone-sinks-container-ship-in-black-sea": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
+    "ts": "2026-11-04T05:40:32.681154+00:00",
     "type": "highlight"
   },
   "https://brasilenergia.com.br/petroleoegas/engenharia-construcao/p-35-chega-ao-estaleiro-clip-em-megaoperacao-logistica": {
@@ -968,11 +908,11 @@
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/limpet-mines-return-to-the-gulf-as-iran-strikes-four-tankers-near-the-strait-of-hormuz/": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
+    "ts": "2026-11-04T05:40:32.681154+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/hormuz-standoff-leaves-both-sides-with-economic-pain/": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
+    "ts": "2026-11-04T05:40:32.681154+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/fato-ou-fake/noticia/2026/11/03/e-fake-que-foto-de-aviao-prestes-a-atingir-o-solo-mostre-acidente-com-jatinho-nos-eua-imagem-foi-feita-com-inteligencia-artificial.ghtml": {
@@ -1029,6 +969,62 @@
   },
   "https://splash247.com/bw-offshore-gets-norwegian-funding-boost-for-floating-wind-ambitions/": {
     "ts": "2026-11-03T23:03:41.750392+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/bulgaria-warns-of-containers-washing-ashore-from-contship-jet": {
+    "ts": "2026-11-04T05:40:32.681154+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/peninsula-fourth-bunker-tanker-delivered": {
+    "ts": "2026-11-04T05:40:32.681154+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/tanker-sp-a-tale-of-two-markets/": {
+    "ts": "2026-11-04T05:40:32.681154+00:00",
+    "type": "highlight"
+  },
+  "https://www.oedigital.com/news/544106-valaris-secures-600m-in-new-contracts-as-backlog-rises-to-4-8b": {
+    "ts": "2026-11-04T05:40:32.681154+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544110-jack-up-barge-strengthens-offshore-fleet-with-354-person-support-unit": {
+    "ts": "2026-11-04T05:40:32.681154+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/modular-gun-systems-might-make-hormuz-drone-damage-optional": {
+    "ts": "2026-11-04T05:40:32.681154+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544101-stillstrom-builds-vessel-mounted-system-for-direct-offshore-wind-charging": {
+    "ts": "2026-11-04T05:40:32.681154+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/ernst-russ-offloads-another-feeder-in-fleet-reshuffle/": {
+    "ts": "2026-11-04T05:40:32.681154+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/splash-singapore-unveils-2027-agenda-with-three-new-sessions-tackling-shippings-biggest-challenges/": {
+    "ts": "2026-11-04T05:40:32.681154+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/china-calls-for-green-fuel-incentives-to-support-shippings-energy-transition/": {
+    "ts": "2026-11-04T05:40:32.681154+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/offshore-sector-urges-eu-to-fix-mrv-framework-before-applying-ets/": {
+    "ts": "2026-11-04T05:40:32.681154+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction/taihan-renames-skandi-connector-vessel": {
+    "ts": "2026-11-04T05:40:32.681154+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/qatars-us-lng-bet-signals-a-new-energy-order/": {
+    "ts": "2026-11-04T05:40:32.681154+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/gas/ypf-says-argentina-lng-offtake-contracts-moving-ahead": {
+    "ts": "2026-11-04T05:40:32.681154+00:00",
     "type": "other"
   }
 }
