@@ -3,16 +3,6 @@
     "date": "2026-10-27",
     "drivers": [
       "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "Tráfego no Estreito de Ormuz segue restrito, mantendo tarifas para VLCCs em US$ 20 milhões por passagem. Essa limitação inviabiliza contratos de longo prazo e impõe desvios pelo Golfo de Ku, elevando custos operacionais e complexidade na programação das frotas. A retenção de 6.000 marítimos na região intensifica a escassez de mão de obra, ampliando riscos logísticos e reduzindo a eficiência das cadeias globais de petróleo. No offshore, o naufrágio da sonda Prospector 5 no Gabão gera impacto imed"
-  },
-  {
-    "date": "2026-10-27",
-    "drivers": [
-      "operações offshore",
       "risco geopolítico",
       "petróleo e gás"
     ],
@@ -315,5 +305,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo e força desvios logísticos pelo Golfo de Ku, elevando custos operacionais e complexidade na gestão global das frotas de petróleo. Ataques recentes a petroleiros e navios de GNL ampliam a insegurança, mantendo cerca de 6.000 marítimos retidos e agravando a escassez de mão de obra qualificada na região. No"
+  },
+  {
+    "date": "2026-11-05",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo e força desvios logísticos pelo Golfo de Ku, ampliando custos operacionais e complexidade na programação global das frotas de petróleo. Ataques recentes a petroleiros e navios de GNL aumentam a insegurança, retendo cerca de 6.000 marítimos e agravando a escassez de mão de obra qualificada na região. No offsh"
   }
 ]
