@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-10-27",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas para VLCCs em US$ 20 milhões por passagem. Essa restrição inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e complexidade na programação das frotas. A retenção de cerca de 6.000 marítimos na região intensifica a escassez de mão de obra, ampliando riscos logísticos e reduzindo a eficiência das cadeias globais de petróleo. No offshore, o naufrágio da plataforma"
-  },
-  {
     "date": "2026-10-28",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -319,5 +308,16 @@
       "risco geopolítico"
     ],
     "summary": "Tráfego no Estreito de Ormuz mantém restrição severa, com capacidade abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por VLCC. Essa limitação inviabiliza contratos de longo prazo para transporte de petróleo, força desvios logísticos pelo Golfo de Ku e eleva custos operacionais globais. A insegurança na região se agrava com ataques recentes a petroleiros e navios de GNL, mantendo cerca de 6.000 marítimos retidos e intensificando a escassez de mão de obra qualificada. No offshore bra"
+  },
+  {
+    "date": "2026-11-06",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo e força desvios logísticos pelo Golfo de Ku, aumentando custos operacionais e complexidade na gestão das frotas globais de petróleo. Ataques recentes a petroleiros e navios de GNL agravam o risco geopolítico, retendo cerca de 6.000 marítimos e aprofundando a escassez de mão de obra qualificada na região. No"
   }
 ]

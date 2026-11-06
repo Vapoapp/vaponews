@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-11-06T14:00:15.301097+00:00",
+    "ts": "2026-11-06T22:54:49.932993+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
@@ -13,14 +13,6 @@
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
     "ts": "2026-11-04T14:04:38.130390+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/drilling-production/petrobras-delivers-production-surge-in-third-quarter": {
-    "ts": "2026-10-30T22:05:56.601204+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/south-korea-targets-fully-unmanned-autonomous-ship-technology-by-2032/": {
-    "ts": "2026-10-30T22:05:56.601204+00:00",
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/estrutura/22061/nautika-entrega-galpoes-de-lona-que-somam-7-500-m-no-porto-do-recife/": {
@@ -38,10 +30,6 @@
   "https://www.oedigital.com/news/544002-tullow-oil-taps-deepocean-for-subsea-riser-job-off-ghana": {
     "ts": "2026-10-31T11:57:56.934463+00:00",
     "type": "other"
-  },
-  "https://maritime-executive.com/article/pushback-against-russian-diesel-gains-traction-with-u-s-energy-importers": {
-    "ts": "2026-10-30T22:05:56.601204+00:00",
-    "type": "highlight"
   },
   "https://safety4sea.com/strait-of-hormuz-tanker-attack-highlights-close-range-security-threats/": {
     "ts": "2026-11-01T05:23:07.390217+00:00",
@@ -107,26 +95,6 @@
     "ts": "2026-11-01T05:23:07.390217+00:00",
     "type": "other"
   },
-  "https://petronoticias.com.br/guarda-iraniana-diz-que-dois-petroleiros-estao-com-minas-magneticas-agarradas-em-seus-cascos-em-ormuz/": {
-    "ts": "2026-10-30T22:05:56.601204+00:00",
-    "type": "other"
-  },
-  "https://brasilenergia.com.br/petroleoegas/ep/halliburton-estreia-sistema-de-completacao-remota-no-brasil": {
-    "ts": "2026-10-30T22:05:56.601204+00:00",
-    "type": "other"
-  },
-  "https://www.guiamaritimo.com.br/noticias/maritimo/barcaca-eletrica-vietna-cma-cgm-nike-gemadept": {
-    "ts": "2026-10-30T22:05:56.601204+00:00",
-    "type": "other"
-  },
-  "https://brasilenergia.com.br/petroleoegas/industria-100-nacional-a-apema-na-soberania-produtiva": {
-    "ts": "2026-10-30T22:05:56.601204+00:00",
-    "type": "other"
-  },
-  "https://www.guiamaritimo.com.br/noticias/logistica/dhlexpress-global-forwarding-e-supply-chainlogistica-nergia-renovavel": {
-    "ts": "2026-10-30T22:05:56.601204+00:00",
-    "type": "other"
-  },
   "https://www.hellenicshippingnews.com/gibson-tanker-report-freight-squeezes-naphtha-arb/": {
     "ts": "2026-11-01T05:23:07.390217+00:00",
     "type": "other"
@@ -137,14 +105,6 @@
   },
   "https://www.hellenicshippingnews.com/suezmax-tanker-sales-surge-35-amid-high-vlcc-demand/": {
     "ts": "2026-11-01T05:23:07.390217+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/ship-ablaze-off-oman-as-iran-increases-ship-attacks-ukmto-reports/?utm_source=rss&utm_medium=rss&utm_campaign=ship-ablaze-off-oman-as-iran-increases-ship-attacks-ukmto-reports": {
-    "ts": "2026-10-30T22:05:56.601204+00:00",
-    "type": "other"
-  },
-  "https://www.infomoney.com.br/mundo/greve-em-113-portos-protesta-contra-guerras-e-afeta-operacoes-ao-redor-do-mundo/": {
-    "ts": "2026-10-30T22:05:56.601204+00:00",
     "type": "other"
   },
   "https://maritime-executive.com/article/fatigue-and-familiar-work-blamed-for-serious-crew-injuries": {
@@ -944,11 +904,11 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/south-korea-plans-to-deploy-naval-assets-closer-to-hormuz": {
-    "ts": "2026-11-06T14:00:15.301097+00:00",
+    "ts": "2026-11-06T22:54:49.932993+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-vessel-news-roundup-november-6-french-crewboat-delivery-italian-cable-layer-sea-trials-and-more": {
-    "ts": "2026-11-06T14:00:15.301097+00:00",
+    "ts": "2026-11-06T22:54:49.932993+00:00",
     "type": "highlight"
   },
   "https://splash247.com/dominguez-gets-nod-for-second-term-at-imo-helm/": {
@@ -988,11 +948,11 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/544196-petrobras-advances-tupi-oil-field-redevelopment-with-fpso-design-approval": {
-    "ts": "2026-11-06T14:00:15.301097+00:00",
+    "ts": "2026-11-06T22:54:49.932993+00:00",
     "type": "highlight"
   },
   "https://splash247.com/seafarer-missing-in-gulf-tanker-strike-as-iran-redraws-hormuz-blacklist/": {
-    "ts": "2026-11-06T14:00:15.301097+00:00",
+    "ts": "2026-11-06T22:54:49.932993+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/shipping-crews-caught-in-the-crossfire-of-the-hormuz-conflict/": {
@@ -1045,6 +1005,70 @@
   },
   "https://gcaptain.com/orsteds-revolution-wind-reaches-full-operations-after-trump-administration-shutdowns/": {
     "ts": "2026-11-06T14:00:15.301097+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/lloyds-register-aprova-conceito-de-fpso-da-petrobras-para-revitalizacao-do-campo-de-tupi/": {
+    "ts": "2026-11-06T22:54:49.932993+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/tanker-fleet-growth-threatens-freight-boom-bullish-secondhand-markets-analysts/": {
+    "ts": "2026-11-06T22:54:49.932993+00:00",
+    "type": "highlight"
+  },
+  "https://www.infomoney.com.br/mundo/apos-greve-geral-protestos-continuam-na-franca-e-incendio-atinge-escola-historica/": {
+    "ts": "2026-11-06T22:54:49.932993+00:00",
+    "type": "highlight"
+  },
+  "https://www.tecnologistica.com.br/noticias/internacional/22088/empresa-brasileira-fornece-oito-domos-inflaveis-para-armazenagem-de-fertilizantes-no-marrocos/": {
+    "ts": "2026-11-06T22:54:49.932993+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/seafarer-killed-in-suspected-missile-attack-on-tanker-in-gulf/": {
+    "ts": "2026-11-06T22:54:49.932993+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/tanker-hit-by-2-unknown-projectiles-in-persian-gulf-off-qatar-crew-status-unconfirmed/?utm_source=rss&utm_medium=rss&utm_campaign=tanker-hit-by-2-unknown-projectiles-in-persian-gulf-off-qatar-crew-status-unconfirmed": {
+    "ts": "2026-11-06T22:54:49.932993+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/refining-processing/us-refiners-cash-in-as-soaring-tanker-rates-squeeze-asian-competitors": {
+    "ts": "2026-11-06T22:54:49.932993+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544211-meyer-werft-establishes-organizational-legal-framework-for-offshore-converter-business": {
+    "ts": "2026-11-06T22:54:49.932993+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/belgium-transfers-minehunter-to-bulgaria-to-increase-black-sea-security": {
+    "ts": "2026-11-06T22:54:49.932993+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/higher-capesize-and-panamax-rates-boost-baltic-index-for-third-week": {
+    "ts": "2026-11-06T22:54:49.932993+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/is-the-crude-rally-over-brent-on-track-for-worst-week-since-2020": {
+    "ts": "2026-11-06T22:54:49.932993+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/affinity-tanker-weekly-6-november-2026/": {
+    "ts": "2026-11-06T22:54:49.932993+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/u-s-targets-cubas-oil-tanker-fleet-in-new-sanctions-crackdown/": {
+    "ts": "2026-11-06T22:54:49.932993+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544202-cm-energy-to-supply-cable-lay-equipment-for-asso-subsea-vessel": {
+    "ts": "2026-11-06T22:54:49.932993+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/denar-takes-on-turkeys-first-offshore-wind-seabed-survey-campaign/": {
+    "ts": "2026-11-06T22:54:49.932993+00:00",
+    "type": "other"
+  },
+  "https://safety4sea.com/us-expands-sanctions-targeting-cubas-oil-shipping-network/": {
+    "ts": "2026-11-06T22:54:49.932993+00:00",
     "type": "other"
   }
 }
