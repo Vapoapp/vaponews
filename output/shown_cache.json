@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-11-06T22:54:49.932993+00:00",
+    "ts": "2026-11-07T12:44:30.628489+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
@@ -15,17 +15,9 @@
     "ts": "2026-11-04T14:04:38.130390+00:00",
     "type": "other"
   },
-  "https://www.tecnologistica.com.br/noticias/estrutura/22061/nautika-entrega-galpoes-de-lona-que-somam-7-500-m-no-porto-do-recife/": {
-    "ts": "2026-10-31T11:57:56.934463+00:00",
-    "type": "highlight"
-  },
   "https://gcaptain.com/greek-containership-sunk-by-naval-drones-off-bulgaria-as-black-sea-attacks-escalate/": {
     "ts": "2026-10-31T17:11:34.171903+00:00",
     "type": "highlight"
-  },
-  "https://www.oedigital.com/news/544002-tullow-oil-taps-deepocean-for-subsea-riser-job-off-ghana": {
-    "ts": "2026-10-31T11:57:56.934463+00:00",
-    "type": "other"
   },
   "https://safety4sea.com/strait-of-hormuz-tanker-attack-highlights-close-range-security-threats/": {
     "ts": "2026-11-01T05:23:07.390217+00:00",
@@ -103,10 +95,6 @@
     "ts": "2026-11-01T21:52:51.750438+00:00",
     "type": "highlight"
   },
-  "https://www.marineinsight.com/greek-ship-en-route-from-israel-to-romania-with-421-containers-sinks-after-drone-attack/?utm_source=rss&utm_medium=rss&utm_campaign=greek-ship-en-route-from-israel-to-romania-with-421-containers-sinks-after-drone-attack": {
-    "ts": "2026-10-31T11:57:56.934463+00:00",
-    "type": "highlight"
-  },
   "https://www.hellenicshippingnews.com/saudi-arabia-tanker-oil-loadings-rise-to-highest-level-since-february/": {
     "ts": "2026-11-01T12:57:49.774733+00:00",
     "type": "highlight"
@@ -142,22 +130,6 @@
   "https://www.hellenicshippingnews.com/sanctioned-iran-linked-tankers-went-dark-over-gulf-of-oman-cables-as-the-irgc-threatened-them/": {
     "ts": "2026-10-31T21:15:11.613574+00:00",
     "type": "highlight"
-  },
-  "https://gcaptain.com/grimaldi-warns-u-s-port-fees-could-force-ships-out-of-american-trades/": {
-    "ts": "2026-10-31T11:57:56.934463+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/evalend-drops-newcastlemax-option-at-dajin-heavy/": {
-    "ts": "2026-10-31T11:57:56.934463+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/maritime-ceo-forum-when-to-leave-the-party/": {
-    "ts": "2026-10-31T11:57:56.934463+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/544022-solstad-s-normand-australis-wins-250-day-subsea-campaign": {
-    "ts": "2026-10-31T11:57:56.934463+00:00",
-    "type": "other"
   },
   "https://petronoticias.com.br/por-iniciativa-propria-um-funcionario-da-petrobras-escreve-um-livro-inedito-ensinando-o-passo-a-passo-de-trabalhar-em-uma-plataforma-em-seguranca/": {
     "ts": "2026-11-02T15:16:08.897399+00:00",
@@ -780,7 +752,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/544171-aker-bp-picks-onesubsea-for-subsea-tieback-scheme-off-norway": {
-    "ts": "2026-11-05T14:30:05.518950+00:00",
+    "ts": "2026-11-07T12:44:30.628489+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/544170-vard-kicks-off-construction-of-upo-atlantic-csov": {
@@ -844,7 +816,7 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/544181-finland-to-tender-four-offshore-wind-areas": {
-    "ts": "2026-11-05T23:29:03.219101+00:00",
+    "ts": "2026-11-07T12:44:30.628489+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/wartsila-dual-fuel-engine-and-propulsion-solution-selected-for-delfin-midstreams-pioneering-project/": {
@@ -860,7 +832,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/damico-international-shipping-profit-rises": {
-    "ts": "2026-11-05T23:29:03.219101+00:00",
+    "ts": "2026-11-07T12:44:30.628489+00:00",
     "type": "other"
   },
   "https://www.marinelink.com/news/singapore-norway-launch-call-green-544177": {
@@ -888,7 +860,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-vessel-news-roundup-november-6-french-crewboat-delivery-italian-cable-layer-sea-trials-and-more": {
-    "ts": "2026-11-06T22:54:49.932993+00:00",
+    "ts": "2026-11-07T12:44:30.628489+00:00",
     "type": "highlight"
   },
   "https://splash247.com/dominguez-gets-nod-for-second-term-at-imo-helm/": {
@@ -896,7 +868,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/suez-canal-authority-tows-sanctioned-russian-tanker-to-safety": {
-    "ts": "2026-11-06T05:54:52.452693+00:00",
+    "ts": "2026-11-07T12:44:30.628489+00:00",
     "type": "other"
   },
   "https://gcaptain.com/marad-approves-1-billion-offshore-crude-oil-export-port-off-louisiana/": {
@@ -928,11 +900,11 @@
     "type": "other"
   },
   "https://www.oedigital.com/news/544196-petrobras-advances-tupi-oil-field-redevelopment-with-fpso-design-approval": {
-    "ts": "2026-11-07T05:26:30.443606+00:00",
+    "ts": "2026-11-07T12:44:30.628489+00:00",
     "type": "highlight"
   },
   "https://splash247.com/seafarer-missing-in-gulf-tanker-strike-as-iran-redraws-hormuz-blacklist/": {
-    "ts": "2026-11-07T05:26:30.443606+00:00",
+    "ts": "2026-11-07T12:44:30.628489+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/shipping-crews-caught-in-the-crossfire-of-the-hormuz-conflict/": {
@@ -988,15 +960,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/lloyds-register-aprova-conceito-de-fpso-da-petrobras-para-revitalizacao-do-campo-de-tupi/": {
-    "ts": "2026-11-07T05:26:30.443606+00:00",
+    "ts": "2026-11-07T12:44:30.628489+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/tanker-fleet-growth-threatens-freight-boom-bullish-secondhand-markets-analysts/": {
-    "ts": "2026-11-07T05:26:30.443606+00:00",
+    "ts": "2026-11-07T12:44:30.628489+00:00",
     "type": "highlight"
   },
   "https://www.infomoney.com.br/mundo/apos-greve-geral-protestos-continuam-na-franca-e-incendio-atinge-escola-historica/": {
-    "ts": "2026-11-07T05:26:30.443606+00:00",
+    "ts": "2026-11-07T12:44:30.628489+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/internacional/22088/empresa-brasileira-fornece-oito-domos-inflaveis-para-armazenagem-de-fertilizantes-no-marrocos/": {
@@ -1052,15 +1024,15 @@
     "type": "other"
   },
   "https://www.marinelink.com/news/seafarer-killed-gulf-oil-tanker-struck-544204": {
-    "ts": "2026-11-07T05:26:30.443606+00:00",
+    "ts": "2026-11-07T12:44:30.628489+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/imo-council-discusses-key-issues-and-backs-second-term-for-dominguez": {
-    "ts": "2026-11-07T05:26:30.443606+00:00",
+    "ts": "2026-11-07T12:44:30.628489+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/hapag-lloyd-acquires-25-stake-in-maersks-maasvlakte-ii-terminal-in-rotterdam/": {
-    "ts": "2026-11-07T05:26:30.443606+00:00",
+    "ts": "2026-11-07T12:44:30.628489+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/maritime-trainers-boost-lng-fuelled-ship-safety-skills-in-japan/": {
@@ -1105,6 +1077,34 @@
   },
   "https://safety4sea.com/new-study-links-shipping-emissions-to-963-billion-in-global-economic-damages/": {
     "ts": "2026-11-07T05:26:30.443606+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/meyer-werft-establishes-organizational-544211": {
+    "ts": "2026-11-07T12:44:30.628489+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/damico-international-shipping-s-a-delivered-strong-results-in-the-third-quarter-and-the-first-nine-months-of-2026/": {
+    "ts": "2026-11-07T12:44:30.628489+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/eu-lawmakers-push-back-against-approval-of-indian-ship-recycling-yards/": {
+    "ts": "2026-11-07T12:44:30.628489+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/venergy-doubles-vlcc-order-at-hengli/": {
+    "ts": "2026-11-07T12:44:30.628489+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/uss-theodore-roosevelt-singapore-port-visit/?utm_source=rss&utm_medium=rss&utm_campaign=uss-theodore-roosevelt-singapore-port-visit": {
+    "ts": "2026-11-07T12:44:30.628489+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/indian-navy-fifth-shallow-water-anti-submarine-warship-ins-amini/?utm_source=rss&utm_medium=rss&utm_campaign=indian-navy-fifth-shallow-water-anti-submarine-warship-ins-amini": {
+    "ts": "2026-11-07T12:44:30.628489+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/transport/turkey-pitches-subsea-gas-pipeline-to-divided-cyprus": {
+    "ts": "2026-11-07T12:44:30.628489+00:00",
     "type": "other"
   }
 }
