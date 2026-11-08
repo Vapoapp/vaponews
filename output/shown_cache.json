@@ -808,11 +808,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/lloyds-register-aprova-conceito-de-fpso-da-petrobras-para-revitalizacao-do-campo-de-tupi/": {
-    "ts": "2026-11-08T13:01:47.285776+00:00",
+    "ts": "2026-11-08T21:52:39.425881+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/tanker-fleet-growth-threatens-freight-boom-bullish-secondhand-markets-analysts/": {
-    "ts": "2026-11-08T13:01:47.285776+00:00",
+    "ts": "2026-11-08T21:52:39.425881+00:00",
     "type": "highlight"
   },
   "https://www.infomoney.com.br/mundo/apos-greve-geral-protestos-continuam-na-franca-e-incendio-atinge-escola-historica/": {
@@ -884,7 +884,7 @@
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/maritime-trainers-boost-lng-fuelled-ship-safety-skills-in-japan/": {
-    "ts": "2026-11-07T05:26:30.443606+00:00",
+    "ts": "2026-11-08T21:52:39.425881+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/544197-vattenfall-signs-final-deals-for-two-offshore-wind-farms-in-denmark": {
@@ -956,15 +956,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/petrobras-prorroga-contrato-do-navio-de-apoio-skandi-olinda/": {
-    "ts": "2026-11-08T13:01:47.285776+00:00",
+    "ts": "2026-11-08T21:52:39.425881+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/imo-council-urges-stronger-protection-of-seafarers-amid-threats-to-global-shipping/?utm_source=rss&utm_medium=rss&utm_campaign=imo-council-urges-stronger-protection-of-seafarers-amid-threats-to-global-shipping": {
-    "ts": "2026-11-08T13:01:47.285776+00:00",
+    "ts": "2026-11-08T21:52:39.425881+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/soaring-freight-rates-give-us-refiners-edge-as-crude-discounts-widen/": {
-    "ts": "2026-11-08T13:01:47.285776+00:00",
+    "ts": "2026-11-08T21:52:39.425881+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/norway-awards-44m-in-grants-to-advance-battery-powered-ships": {
@@ -972,15 +972,15 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/us-forces-disable-first-cargo-ship-in-a-month-sailing-from-iranian-port": {
-    "ts": "2026-11-08T13:01:47.285776+00:00",
+    "ts": "2026-11-08T21:52:39.425881+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/imo-25-seafarers-killed-strait-of-hormuz-since-war-began/?utm_source=rss&utm_medium=rss&utm_campaign=imo-25-seafarers-killed-strait-of-hormuz-since-war-began": {
-    "ts": "2026-11-08T13:01:47.285776+00:00",
+    "ts": "2026-11-08T21:52:39.425881+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/08/pesquisador-revela-detalhes-de-fiscalizacoes-de-saude-em-navios-negreiros-no-rio.ghtml": {
-    "ts": "2026-11-08T13:01:47.285776+00:00",
+    "ts": "2026-11-08T21:52:39.425881+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/transport": {
@@ -994,5 +994,13 @@
   "https://www.bairdmaritime.com/shipping/tankers/indian-demand-cools-down-and-pushes-russian-crude-into-a-discount": {
     "ts": "2026-11-08T13:01:47.285776+00:00",
     "type": "other"
+  },
+  "https://maritime-executive.com/article/tanker-burns-after-strike-in-strait-of-hormuz": {
+    "ts": "2026-11-08T21:52:39.425881+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/iran-suggests-blasts-are-not-us-attacks-as-both-sides-report-ships-hit/": {
+    "ts": "2026-11-08T21:52:39.425881+00:00",
+    "type": "highlight"
   }
 }
