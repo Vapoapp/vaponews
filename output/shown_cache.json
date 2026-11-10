@@ -12,7 +12,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-11-09T15:44:51.055110+00:00",
+    "ts": "2026-11-10T23:02:00.671987+00:00",
     "type": "other"
   },
   "https://www.marineinsight.com/pakistan-bound-lng-tanker-with-25-crew-attacked-near-hormuz-hours-after-iran-cleared-its-passage/?utm_source=rss&utm_medium=rss&utm_campaign=pakistan-bound-lng-tanker-with-25-crew-attacked-near-hormuz-hours-after-iran-cleared-its-passage": {
@@ -288,7 +288,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/vessel-reviews": {
-    "ts": "2026-11-09T15:44:51.055110+00:00",
+    "ts": "2026-11-10T23:02:00.671987+00:00",
     "type": "other"
   },
   "https://maritime-executive.com/article/lobbying-over-long-jones-act-waiver-heats-up-as-renewal-approaches": {
@@ -792,7 +792,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/filipino-seafarer-killed-velos-sapphire-tanker-blast/?utm_source=rss&utm_medium=rss&utm_campaign=filipino-seafarer-killed-velos-sapphire-tanker-blast": {
-    "ts": "2026-11-10T14:38:03.393074+00:00",
+    "ts": "2026-11-10T23:02:00.671987+00:00",
     "type": "highlight"
   },
   "https://splash247.com/dof-wins-more-ahts-work-offshore-canada/": {
@@ -836,7 +836,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/column-all-the-deals-chouest-and-horizon-oceanpact-cbo-and-someone-foreign-ld-armateurs-and-the-greeks-offshore-accounts": {
-    "ts": "2026-11-09T15:44:51.055110+00:00",
+    "ts": "2026-11-10T23:02:00.671987+00:00",
     "type": "other"
   },
   "https://www.rigzone.com/news/oil_experiences_sharpest_weekly_decline_in_months-09-nov-2026-185037-article/": {
@@ -856,7 +856,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/bulgaria-reports-discovery-of-human-remains-on-ship-hit-by-drone": {
-    "ts": "2026-11-10T14:38:03.393074+00:00",
+    "ts": "2026-11-10T23:02:00.671987+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/09/sebrae-rio-summit-evento-no-riocentro-reune-bernardinho-primo-pobre-e-outros.ghtml": {
@@ -924,7 +924,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/black-sea-shipping-activity-falls-37-percent/?utm_source=rss&utm_medium=rss&utm_campaign=black-sea-shipping-activity-falls-37-percent": {
-    "ts": "2026-11-10T14:38:03.393074+00:00",
+    "ts": "2026-11-10T23:02:00.671987+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/infraestrutura/22097/santos-brasil-propoe-investimentos-de-r-3-5-bilhoes-para-ampliar-terminais-no-porto-de-santos/": {
@@ -977,6 +977,66 @@
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/bangladesh-shipping-corporation-profit-rises": {
     "ts": "2026-11-10T14:38:03.393074+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/despite-projectile-attack-and-spill-uae-sells-damaged-tankers-crude": {
+    "ts": "2026-11-10T23:02:00.671987+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/adnoc-vessel-damaged-in-gulf-attack-as-ukmto-reports-fresh-tanker-strike-near-hormuz/": {
+    "ts": "2026-11-10T23:02:00.671987+00:00",
+    "type": "highlight"
+  },
+  "https://www.marinelink.com/news/italy-accuses-eu-nations-neglecting-red-544267": {
+    "ts": "2026-11-10T23:02:00.671987+00:00",
+    "type": "highlight"
+  },
+  "https://splash247.com/rubico-targets-five-ship-mr-fleet-with-latest-top-ships-newbuild-swoop/": {
+    "ts": "2026-11-10T23:02:00.671987+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/rubico-to-acquire-tanker-newbuilds": {
+    "ts": "2026-11-10T23:02:00.671987+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/tanker-with-russian-diesel-pauses-off-us-east-coast-awaiting-orders": {
+    "ts": "2026-11-10T23:02:00.671987+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/atlantic-tanker-earnings-fall-faster-than-gulf-earnings/": {
+    "ts": "2026-11-10T23:02:00.671987+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/uncertainty-surrounds-possible-attack-on-oman-s-strait-of-hormuz-lighthouse": {
+    "ts": "2026-11-10T23:02:00.671987+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/xeneta-ocean-outlook-2027-three-years-three-shocks-and-what-comes-next/": {
+    "ts": "2026-11-10T23:02:00.671987+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/nonsense-rate-iran-war-exposes-turmoil-behind-key-tanker-benchmark/": {
+    "ts": "2026-11-10T23:02:00.671987+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/russian-diesel-tanker-awaits-destination-544269": {
+    "ts": "2026-11-10T23:02:00.671987+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544266-onshore-cable-installation-at-maasvlakte-for-offshore-wind-enter-final-phase": {
+    "ts": "2026-11-10T23:02:00.671987+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544263-sonardyne-begins-seabed-monitoring-for-offshore-ccs-project": {
+    "ts": "2026-11-10T23:02:00.671987+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544261-bp-takes-operatorship-of-three-namibia-s-offshore-licenses-in-eco-farm-down": {
+    "ts": "2026-11-10T23:02:00.671987+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/asyad-and-mol-sell-ageing-lr2-for-63m/": {
+    "ts": "2026-11-10T23:02:00.671987+00:00",
     "type": "other"
   }
 }
