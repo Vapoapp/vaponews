@@ -4,7 +4,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
-    "ts": "2026-11-06T05:54:52.452693+00:00",
+    "ts": "2026-11-11T05:33:57.601575+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/refining-processing": {
@@ -35,10 +35,6 @@
     "ts": "2026-11-04T14:04:38.130390+00:00",
     "type": "other"
   },
-  "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/03/video-mostra-acidente-com-asa-delta-que-deixou-2-mortos-em-sao-conrado-rio.ghtml": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
-    "type": "highlight"
-  },
   "https://www.hellenicshippingnews.com/limpet-mines-return-to-the-gulf-as-iran-strikes-four-tankers-near-the-strait-of-hormuz/": {
     "ts": "2026-11-04T05:40:32.681154+00:00",
     "type": "highlight"
@@ -47,60 +43,8 @@
     "ts": "2026-11-04T14:04:38.130390+00:00",
     "type": "highlight"
   },
-  "https://g1.globo.com/fato-ou-fake/noticia/2026/11/03/e-fake-que-foto-de-aviao-prestes-a-atingir-o-solo-mostre-acidente-com-jatinho-nos-eua-imagem-foi-feita-com-inteligencia-artificial.ghtml": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
-    "type": "other"
-  },
-  "https://petronoticias.com.br/bndes-aprova-financiamento-de-r-218-bilhoes-para-construcao-de-quatro-navios-de-apoio-offshore/": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/hormuz-oct-crossings-at-3-month-high-despite-attacks-red-sea-traffic-also-rises/": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/warning-of-harsh-penalties-for-terminals-importing-illegal-russian-diesel": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/544124-apache-offshore-workers-strike-over-pay-conditions": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
-    "type": "other"
-  },
   "https://www.bairdmaritime.com/offshore/drilling-production/apaches-north-sea-offshore-workers-to-stage-24-hour-strike": {
     "ts": "2026-11-05T05:58:14.556429+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/iran-increases-pressure-on-shipping-doubling-non-compliant-list": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
-    "type": "other"
-  },
-  "https://www.infomoney.com.br/mundo/ameacas-de-bomba-em-voos-fecham-aeroportos-na-europa-e-provocam-desvios/": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/venezuelan-oil-exports-remain-stable-544126": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/china-merchants-names-qatarenergy-carrier": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/544108-eni-kicks-off-coral-north-flng-drilling-campaign-off-mozambique": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/australia-bans-bulk-carrier-over-repeated-falsification-of-crew-rest-records/": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/544096-well-safe-solutions-completes-three-well-decom-campaign-off-uk": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/bw-offshore-gets-norwegian-funding-boost-for-floating-wind-ambitions/": {
-    "ts": "2026-11-03T23:03:41.750392+00:00",
     "type": "other"
   },
   "https://maritime-executive.com/article/bulgaria-warns-of-containers-washing-ashore-from-contship-jet": {
@@ -792,7 +736,7 @@
     "type": "other"
   },
   "https://www.marineinsight.com/filipino-seafarer-killed-velos-sapphire-tanker-blast/?utm_source=rss&utm_medium=rss&utm_campaign=filipino-seafarer-killed-velos-sapphire-tanker-blast": {
-    "ts": "2026-11-10T23:02:00.671987+00:00",
+    "ts": "2026-11-11T05:33:57.601575+00:00",
     "type": "highlight"
   },
   "https://splash247.com/dof-wins-more-ahts-work-offshore-canada/": {
@@ -864,7 +808,7 @@
     "type": "other"
   },
   "https://maritime-executive.com/article/oil-offload-imminent-for-wrecked-tanker-caroline-bezengi": {
-    "ts": "2026-11-10T01:21:40.509360+00:00",
+    "ts": "2026-11-11T05:33:57.601575+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/vhbs-new-contex-container-ship-time-charter-assessment-index-week-45-3/": {
@@ -884,7 +828,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance/vard-lays-offshore-vessel-keel": {
-    "ts": "2026-11-10T01:21:40.509360+00:00",
+    "ts": "2026-11-11T05:33:57.601575+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/544233-maritime-market-cable-layer-fleet-gains-scale-scope": {
@@ -896,7 +840,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production/sable-offshore-shares-tank-as-main-buyer-cuts-purchases-warns-it-may-go-under": {
-    "ts": "2026-11-10T01:21:40.509360+00:00",
+    "ts": "2026-11-11T05:33:57.601575+00:00",
     "type": "other"
   },
   "https://splash247.com/sinopec-awards-offshore-platform-and-pipeline-contract-in-china/": {
@@ -924,7 +868,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/black-sea-shipping-activity-falls-37-percent/?utm_source=rss&utm_medium=rss&utm_campaign=black-sea-shipping-activity-falls-37-percent": {
-    "ts": "2026-11-10T23:02:00.671987+00:00",
+    "ts": "2026-11-11T05:33:57.601575+00:00",
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/infraestrutura/22097/santos-brasil-propoe-investimentos-de-r-3-5-bilhoes-para-ampliar-terminais-no-porto-de-santos/": {
@@ -980,7 +924,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/despite-projectile-attack-and-spill-uae-sells-damaged-tankers-crude": {
-    "ts": "2026-11-10T23:02:00.671987+00:00",
+    "ts": "2026-11-11T05:33:57.601575+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/adnoc-vessel-damaged-in-gulf-attack-as-ukmto-reports-fresh-tanker-strike-near-hormuz/": {
@@ -988,7 +932,7 @@
     "type": "highlight"
   },
   "https://www.marinelink.com/news/italy-accuses-eu-nations-neglecting-red-544267": {
-    "ts": "2026-11-10T23:02:00.671987+00:00",
+    "ts": "2026-11-11T05:33:57.601575+00:00",
     "type": "highlight"
   },
   "https://splash247.com/rubico-targets-five-ship-mr-fleet-with-latest-top-ships-newbuild-swoop/": {
@@ -1037,6 +981,58 @@
   },
   "https://splash247.com/asyad-and-mol-sell-ageing-lr2-for-63m/": {
     "ts": "2026-11-10T23:02:00.671987+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/adnoc-confirms-strike-on-tanker-in-uae-s-territorial-waters": {
+    "ts": "2026-11-11T05:33:57.601575+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/ports/boluda-to-acquire-matrans-rotterdam": {
+    "ts": "2026-11-11T05:33:57.601575+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/russian-diesel-tanker-awaits-orders-off-u-s-coast-amid-import-ban-dispute/": {
+    "ts": "2026-11-11T05:33:57.601575+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/rensendriessen-delivers-crescendo-inland-tanker": {
+    "ts": "2026-11-11T05:33:57.601575+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/u-s-closes-first-oil-and-gas-production-loan-under-revamped-energy-financing-program/": {
+    "ts": "2026-11-11T05:33:57.601575+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/russian-crude-exports-fall-on-g7-tankers-as-greek-operators-flee-for-better-earnings/": {
+    "ts": "2026-11-11T05:33:57.601575+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/marine-biodiesel-demand-to-more-than-double-by-2031-without-imo-framework-iea/": {
+    "ts": "2026-11-11T05:33:57.601575+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/shipping-heavyweights-back-cetus-175m-oslo-listing/": {
+    "ts": "2026-11-11T05:33:57.601575+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544257-aiq-quartermaster-join-forces-on-ai-powered-offshore-security": {
+    "ts": "2026-11-11T05:33:57.601575+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544256-aquaterra-energy-changes-hands-as-management-takes-ownership": {
+    "ts": "2026-11-11T05:33:57.601575+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544254-tidewater-q3-revenue-rises-5-3-as-offshore-vessel-day-rates-strengthen": {
+    "ts": "2026-11-11T05:33:57.601575+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/pangaea-chairman-richard-du-moulin-calls-time-after-12-years/": {
+    "ts": "2026-11-11T05:33:57.601575+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/britain-invests-m-defense-systems-counter-544270": {
+    "ts": "2026-11-11T05:33:57.601575+00:00",
     "type": "other"
   }
 }
