@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-10-31",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa limitação inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e complexificando a programação das frotas globais de petróleo. Ataques recentes, incluindo explosões e minas limpet, aumentam a insegurança e agravam a escassez de mão de obra com retenção de cerca de 6.000 marítimos na região. No offshore, a CN"
-  },
-  {
     "date": "2026-11-01",
     "drivers": [
       "contratos marítimos",
@@ -320,5 +309,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo, força desvios logísticos pelo Golfo de Ku e eleva custos operacionais, impactando o planejamento global das frotas de petróleo. Ataques recentes a petroleiros e navios de GNL aumentam o risco geopolítico e a imprevisibilidade comercial na região. No offshore, a aprovação de financiamento para modernizaç"
+  },
+  {
+    "date": "2026-11-11",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa limitação inviabiliza contratos de longo prazo e força desvios logísticos pelo Golfo de Ku, elevando custos operacionais e complexificando o planejamento global das frotas de petróleo. Ataques recentes a petroleiros e navios de GNL intensificam o risco geopolítico e a imprevisibilidade comercial na região. No offshore, o controle do incêndio na plataform"
   }
 ]
