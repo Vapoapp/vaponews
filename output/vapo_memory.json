@@ -1,14 +1,5 @@
 [
   {
-    "date": "2026-11-01",
-    "drivers": [
-      "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo e obriga desvios pelo Golfo de Ku, elevando custos operacionais e complicando a programação global das frotas de petróleo. Ataques recentes, incluindo minas limpets, intensificam a insegurança e mantêm a retenção de cerca de 6.000 marítimos na região, agravando a escassez de mão de obra e os riscos logís"
-  },
-  {
     "date": "2026-11-02",
     "drivers": [
       "operações offshore",
@@ -320,5 +311,16 @@
       "risco geopolítico"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, mantendo tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo, força desvios logísticos pelo Golfo de Ku e eleva custos operacionais, impactando o planejamento global das frotas de petróleo. Ataques recentes a petroleiros e navios de GNL intensificam o risco geopolítico e a imprevisibilidade comercial na região. No setor offshore brasileiro, Petrobras reforça investimento"
+  },
+  {
+    "date": "2026-11-12",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa limitação inviabiliza contratos de longo prazo e força desvios logísticos pelo Golfo de Ku, elevando custos operacionais e complexificando o planejamento global das frotas de petróleo. Ataques recentes a petroleiros e navios de GNL aumentam o risco geopolítico e a volatilidade comercial na região. No offshore brasileiro, a Petrobras reforça investime"
   }
 ]
