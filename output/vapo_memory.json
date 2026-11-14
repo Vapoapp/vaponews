@@ -2,17 +2,6 @@
   {
     "date": "2026-11-03",
     "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e complexidade na programação das frotas globais de petróleo. Ataques recentes a petroleiros e navios de GNL ampliam a insegurança e mantêm cerca de 6.000 marítimos retidos na região, agravando a escassez de mão de obra e os riscos logísticos. No"
-  },
-  {
-    "date": "2026-11-03",
-    "drivers": [
       "operações offshore",
       "logística e portos",
       "risco geopolítico",
@@ -325,5 +314,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito pelo Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa limitação inviabiliza contratos de longo prazo e força desvios logísticos pelo Golfo de Ku, elevando custos operacionais e complexificando o planejamento global das frotas de petróleo. Ataques recentes a petroleiros e navios de GNL aumentam a volatilidade comercial e o risco de interrupções na rota, exigindo reforço na segurança e gestão de risco. No o"
+  },
+  {
+    "date": "2026-11-14",
+    "drivers": [
+      "atividade Petrobras/Transpetro",
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo e força desvios logísticos pelo Golfo de Ku, elevando custos operacionais e complexificando o planejamento global das frotas de petróleo. Ataques recentes a petroleiros e navios de GNL aumentam o risco geopolítico e a volatilidade comercial na região, exigindo reforço na gestão de segurança. No offshore"
   }
 ]
