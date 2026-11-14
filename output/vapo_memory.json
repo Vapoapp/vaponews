@@ -4,16 +4,6 @@
     "drivers": [
       "contratos marítimos",
       "operações offshore",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes em US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e complexidade na programação global das frotas de petróleo. Ataques recentes a petroleiros e navios de GNL intensificam a insegurança, mantendo cerca de 6.000 marítimos retidos na região e agravando a escassez de mão de obra. No offshore, a"
-  },
-  {
-    "date": "2026-11-04",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
       "logística e portos",
       "risco geopolítico",
       "petróleo e gás"
@@ -326,5 +316,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e complexificando o planejamento global das frotas de petróleo. O aumento de ataques a petroleiros e navios de GNL intensifica o risco geopolítico e a volatilidade comercial na rota, exigindo reforço na gestão de segurança e risco. No offshore, o"
+  },
+  {
+    "date": "2026-11-14",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes de até US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo, força desvios logísticos pelo Golfo de Ku e eleva custos operacionais, impactando diretamente o planejamento global das frotas de petróleo. O aumento de ataques a petroleiros e navios de GNL intensifica o risco geopolítico e a volatilidade comercial na região, exigindo reforço imediato na gestão de"
   }
 ]

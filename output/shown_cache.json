@@ -19,10 +19,6 @@
     "ts": "2026-11-10T23:02:00.671987+00:00",
     "type": "other"
   },
-  "https://www.bairdmaritime.com/offshore/offshore-vessel-news-roundup-november-6-french-crewboat-delivery-italian-cable-layer-sea-trials-and-more": {
-    "ts": "2026-11-07T21:38:51.818825+00:00",
-    "type": "highlight"
-  },
   "https://www.oedigital.com/news/544196-petrobras-advances-tupi-oil-field-redevelopment-with-fpso-design-approval": {
     "ts": "2026-11-08T05:26:06.563697+00:00",
     "type": "highlight"
@@ -31,40 +27,12 @@
     "ts": "2026-11-08T05:26:06.563697+00:00",
     "type": "highlight"
   },
-  "https://www.oedigital.com/news/544195-rina-secures-12-3m-subsea-engineering-and-decom-work-for-petrobras": {
-    "ts": "2026-11-07T21:38:51.818825+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/real-life-incident-chemical-tanker-becomes-a-total-loss-as-12-crew-abandon-ship-before-explosion/?utm_source=rss&utm_medium=rss&utm_campaign=real-life-incident-chemical-tanker-becomes-a-total-loss-as-12-crew-abandon-ship-before-explosion": {
-    "ts": "2026-11-07T21:38:51.818825+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/544198-subsea7-strikes-deal-to-sell-seaway7-heavy-transport-unit-to-hea-energy": {
-    "ts": "2026-11-07T21:38:51.818825+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/capital-tankers-scores-up-to-82m-suezmax-fixture/": {
-    "ts": "2026-11-07T21:38:51.818825+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/lessons-learned-routine-pilot-ladder-work-can-conceal-fatal-risks/": {
-    "ts": "2026-11-07T21:38:51.818825+00:00",
-    "type": "other"
-  },
   "https://www.marineinsight.com/real-life-incident-bulk-carrier-carrying-160-battery-units-suffers-2-fires-and-3-8-million-in-damage/?utm_source=rss&utm_medium=rss&utm_campaign=real-life-incident-bulk-carrier-carrying-160-battery-units-suffers-2-fires-and-3-8-million-in-damage": {
     "ts": "2026-11-08T05:26:06.563697+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/softer-asian-fuel-oil-prices-set-to-lower-shipping-bunker-costs": {
     "ts": "2026-11-08T05:26:06.563697+00:00",
-    "type": "other"
-  },
-  "https://safety4sea.com/suez-canal-authority-tows-disabled-tanker-180-nautical-miles-to-port-said/": {
-    "ts": "2026-11-07T21:38:51.818825+00:00",
-    "type": "other"
-  },
-  "https://www.rigzone.com/news/oil_market_arrives_at_remarkable_destination-06-nov-2026-185028-article/": {
-    "ts": "2026-11-07T21:38:51.818825+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/lloyds-register-aprova-conceito-de-fpso-da-petrobras-para-revitalizacao-do-campo-de-tupi/": {
@@ -123,10 +91,6 @@
     "ts": "2026-11-08T13:01:47.285776+00:00",
     "type": "highlight"
   },
-  "https://gcaptain.com/hapag-lloyd-acquires-25-stake-in-maersks-maasvlakte-ii-terminal-in-rotterdam/": {
-    "ts": "2026-11-07T21:38:51.818825+00:00",
-    "type": "highlight"
-  },
   "https://www.hellenicshippingnews.com/maritime-trainers-boost-lng-fuelled-ship-safety-skills-in-japan/": {
     "ts": "2026-11-08T21:52:39.425881+00:00",
     "type": "other"
@@ -137,10 +101,6 @@
   },
   "https://www.marinelink.com/news/meyer-werft-establishes-organizational-544211": {
     "ts": "2026-11-08T13:01:47.285776+00:00",
-    "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/damico-international-shipping-s-a-delivered-strong-results-in-the-third-quarter-and-the-first-nine-months-of-2026/": {
-    "ts": "2026-11-07T21:38:51.818825+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/transport/turkey-pitches-subsea-gas-pipeline-to-divided-cyprus": {
@@ -158,10 +118,6 @@
   "https://gcaptain.com/soaring-freight-rates-give-us-refiners-edge-as-crude-discounts-widen/": {
     "ts": "2026-11-08T21:52:39.425881+00:00",
     "type": "highlight"
-  },
-  "https://maritime-executive.com/article/norway-awards-44m-in-grants-to-advance-battery-powered-ships": {
-    "ts": "2026-11-07T21:38:51.818825+00:00",
-    "type": "other"
   },
   "https://maritime-executive.com/article/us-forces-disable-first-cargo-ship-in-a-month-sailing-from-iranian-port": {
     "ts": "2026-11-09T15:44:51.055110+00:00",
@@ -824,7 +780,7 @@
     "type": "other"
   },
   "https://www.guiamaritimo.com.br/noticias/cabotagem/electrolux-aposta-cabotagem-reduzir-custos-co2": {
-    "ts": "2026-11-14T05:45:24.848005+00:00",
+    "ts": "2026-11-14T22:10:15.564005+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/iran-targets-us-radar-in-bahrain-reports-tanker-explosion-in-hormuz/": {
@@ -836,31 +792,31 @@
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/logistica/maersk-inaugura-instalacao-logistica-montevideu-uruguai": {
-    "ts": "2026-11-13T14:25:59.808951+00:00",
+    "ts": "2026-11-14T22:10:15.564005+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/544343-oil-heads-for-weekly-decline-despite-middle-east-supply-threats": {
-    "ts": "2026-11-13T14:25:59.808951+00:00",
+    "ts": "2026-11-14T22:10:15.564005+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/ernst-russ-raises-profit-forecast": {
-    "ts": "2026-11-13T14:25:59.808951+00:00",
+    "ts": "2026-11-14T22:10:15.564005+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/544341-inpex-raises-profit-forecast-on-strong-ichthys-lng-production": {
-    "ts": "2026-11-13T14:25:59.808951+00:00",
+    "ts": "2026-11-14T22:10:15.564005+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/544342-exxonmobil-greenlights-12-5b-longtail-development-offshore-guyana": {
-    "ts": "2026-11-13T14:25:59.808951+00:00",
+    "ts": "2026-11-14T22:10:15.564005+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production/nunavut-wants-canadas-arctic-offshore-oil-and-gas-ban-lifted-to-fund-essential-public-services": {
-    "ts": "2026-11-13T14:25:59.808951+00:00",
+    "ts": "2026-11-14T22:10:15.564005+00:00",
     "type": "other"
   },
   "https://splash247.com/gulf-war-leaves-toxic-legacy-that-could-last-decades/": {
-    "ts": "2026-11-13T14:25:59.808951+00:00",
+    "ts": "2026-11-14T22:10:15.564005+00:00",
     "type": "other"
   },
   "https://www.marinelink.com/news/singaporeregistered-bulk-carrier-strikes-544348": {
@@ -876,7 +832,7 @@
     "type": "other"
   },
   "https://splash247.com/baltic-exchange-and-mercuria-await-verdict-in-landmark-tanker-index-trial/": {
-    "ts": "2026-11-13T14:25:59.808951+00:00",
+    "ts": "2026-11-14T22:10:15.564005+00:00",
     "type": "other"
   },
   "https://maritime-executive.com/article/u-s-grain-exports-at-risk-from-aging-barge-fleet-and-high-replacement-cost": {
@@ -884,7 +840,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/ports/iran-kazakhstan-sign-terminal-agreements": {
-    "ts": "2026-11-13T14:25:59.808951+00:00",
+    "ts": "2026-11-14T22:10:15.564005+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/gas/amid-persistent-gas-shortage-bangladesh-picks-chinese-proposal-for-third-floating-lng-terminal": {
@@ -892,11 +848,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/petroleiro-colide-com-cruzeiro-com-mais-de-130-pessoas-a-bordo-no-rio-mississippi/": {
-    "ts": "2026-11-14T13:15:57.092099+00:00",
+    "ts": "2026-11-14T22:10:15.564005+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover/": {
-    "ts": "2026-11-14T13:15:57.092099+00:00",
+    "ts": "2026-11-14T22:10:15.564005+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/explosao-atinge-fabrica-de-tintas-no-interior-de-sao-paulo-e-produz-imagens-impressionantes/": {
@@ -944,15 +900,15 @@
     "type": "other"
   },
   "https://gcaptain.com/gulf-oil-exports-recover-as-hormuz-shipping-struggles/": {
-    "ts": "2026-11-14T13:15:57.092099+00:00",
+    "ts": "2026-11-14T22:10:15.564005+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/vhbs-new-contex-container-ship-time-charter-assessment-index-week-46-3/": {
-    "ts": "2026-11-14T13:15:57.092099+00:00",
+    "ts": "2026-11-14T22:10:15.564005+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/white-house-extends-jones-act-waiver-into-2027": {
-    "ts": "2026-11-14T13:15:57.092099+00:00",
+    "ts": "2026-11-14T22:10:15.564005+00:00",
     "type": "highlight"
   },
   "https://www.guiamaritimo.com.br/noticias/terminais/porto-acu-estuda-dutos-hidrogenio-combustiveis-sinteticos": {
@@ -1004,7 +960,7 @@
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/gibson-tanker-report-crude-correction/": {
-    "ts": "2026-11-14T13:15:57.092099+00:00",
+    "ts": "2026-11-14T22:10:15.564005+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-dry-bulk-index-snaps-winning-streak-as-capesize-rates-ease": {
@@ -1017,6 +973,26 @@
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/russias-seaborne-grain-exports-tumble-in-october-as-drone-strikes-paralyse-southern-ports": {
     "ts": "2026-11-14T13:15:57.092099+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/pa/para/noticia/2026/11/14/incendios-avancam-no-marajo-atingem-territorio-quilombola-e-ameacam-casas-em-salvaterra.ghtml": {
+    "ts": "2026-11-14T22:10:15.564005+00:00",
+    "type": "highlight"
+  },
+  "https://www.infomoney.com.br/mundo/petroleiro-bate-em-cruzeiro-no-rio-mississippi-nos-eua-e-joga-passageiros-na-agua/": {
+    "ts": "2026-11-14T22:10:15.564005+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/guardia-civil-catches-2-6-tonnes-of-cocaine-in-coconut-crates": {
+    "ts": "2026-11-14T22:10:15.564005+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/movimento-recorde-no-terminal-de-cargas-do-porto-do-acu-mostra-acerto-nas-acoes-de-desenvolvmento-das-atividades/": {
+    "ts": "2026-11-14T22:10:15.564005+00:00",
+    "type": "other"
+  },
+  "https://g1.globo.com/am/amazonas/noticia/2026/11/14/qualidade-do-ar-atinge-nivel-pessimo-em-cidades-do-amazonas-e-supera-em-ate-15-vezes-o-limite-considerado-bom.ghtml": {
+    "ts": "2026-11-14T22:10:15.564005+00:00",
     "type": "other"
   }
 }
