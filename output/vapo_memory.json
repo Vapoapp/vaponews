@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-11-04",
-    "drivers": [
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico",
-      "petróleo e gás"
-    ],
-    "summary": "Tráfego no Estreito de Ormuz mantém custos operacionais elevados e limita contratos de longo prazo para transporte de petróleo. A capacidade de passagem segue abaixo de 10%, com tarifas em US$ 20 milhões por VLCC, forçando desvios logísticos pelo Golfo de Ku. Ataques recentes a petroleiros e navios de GNL aumentam a insegurança, retendo cerca de 6.000 marítimos na região e agravando a escassez de mão de obra qualificada. No offshore, contratos seguem ativos, como o acordo da Subsea7 para o campo"
-  },
-  {
     "date": "2026-11-05",
     "drivers": [
       "contratos marítimos",
@@ -326,5 +315,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas de até US$ 20 milhões por passagem para VLCCs. Essa limitação inviabiliza contratos de longo prazo e força desvios logísticos pelo Golfo de Ku, elevando custos operacionais e complexificando o planejamento global das frotas de petróleo. O aumento de ataques a petroleiros e navios de GNL intensifica o risco geopolítico e a volatilidade comercial na rota, exigindo reforço imediato na gestão de segurança e risco."
+  },
+  {
+    "date": "2026-11-15",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes de até US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo e força desvios logísticos pelo Golfo de Ku, elevando custos operacionais e complexificando o planejamento global das frotas de petróleo. A volatilidade na rota é agravada por ataques recentes a petroleiros e navios de GNL, ampliando o risco geopolítico e exigindo reforço imediato na gestão de segura"
   }
 ]
