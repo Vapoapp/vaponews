@@ -15,28 +15,12 @@
     "ts": "2026-11-10T23:02:00.671987+00:00",
     "type": "other"
   },
-  "https://petronoticias.com.br/lloyds-register-aprova-conceito-de-fpso-da-petrobras-para-revitalizacao-do-campo-de-tupi/": {
-    "ts": "2026-11-08T21:52:39.425881+00:00",
-    "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/tanker-fleet-growth-threatens-freight-boom-bullish-secondhand-markets-analysts/": {
-    "ts": "2026-11-08T21:52:39.425881+00:00",
-    "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/maritime-trainers-boost-lng-fuelled-ship-safety-skills-in-japan/": {
-    "ts": "2026-11-08T21:52:39.425881+00:00",
-    "type": "other"
-  },
   "https://petronoticias.com.br/petrobras-prorroga-contrato-do-navio-de-apoio-skandi-olinda/": {
     "ts": "2026-11-09T15:44:51.055110+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/imo-council-urges-stronger-protection-of-seafarers-amid-threats-to-global-shipping/?utm_source=rss&utm_medium=rss&utm_campaign=imo-council-urges-stronger-protection-of-seafarers-amid-threats-to-global-shipping": {
     "ts": "2026-11-09T05:36:41.368522+00:00",
-    "type": "highlight"
-  },
-  "https://gcaptain.com/soaring-freight-rates-give-us-refiners-edge-as-crude-discounts-widen/": {
-    "ts": "2026-11-08T21:52:39.425881+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/us-forces-disable-first-cargo-ship-in-a-month-sailing-from-iranian-port": {
@@ -756,7 +740,7 @@
     "type": "other"
   },
   "https://petronoticias.com.br/petroleiro-colide-com-cruzeiro-com-mais-de-130-pessoas-a-bordo-no-rio-mississippi/": {
-    "ts": "2026-11-15T13:43:59.809409+00:00",
+    "ts": "2026-11-15T22:39:41.511559+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover/": {
@@ -896,7 +880,7 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/movimento-recorde-no-terminal-de-cargas-do-porto-do-acu-mostra-acerto-nas-acoes-de-desenvolvmento-das-atividades/": {
-    "ts": "2026-11-14T22:10:15.564005+00:00",
+    "ts": "2026-11-15T22:39:41.511559+00:00",
     "type": "other"
   },
   "https://g1.globo.com/am/amazonas/noticia/2026/11/14/qualidade-do-ar-atinge-nivel-pessimo-em-cidades-do-amazonas-e-supera-em-ate-15-vezes-o-limite-considerado-bom.ghtml": {
@@ -904,7 +888,7 @@
     "type": "other"
   },
   "https://splash247.com/us-court-orders-arrest-of-tanker-after-new-orleans-cruise-ship-collision/": {
-    "ts": "2026-11-15T13:43:59.809409+00:00",
+    "ts": "2026-11-15T22:39:41.511559+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/jornal-nacional/noticia/2026/11/14/santarem-no-norte-do-brasil-recebe-reforco-contra-incendios-que-ameacam-territorios-indigenas.ghtml": {
@@ -920,7 +904,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/port-new-orleans-lawsuit-tanker-seizure/?utm_source=rss&utm_medium=rss&utm_campaign=port-new-orleans-lawsuit-tanker-seizure": {
-    "ts": "2026-11-15T13:43:59.809409+00:00",
+    "ts": "2026-11-15T22:39:41.511559+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/544355-mobile-shore-power-installed-at-port-of-rotterdam": {
@@ -929,6 +913,50 @@
   },
   "https://maritime-executive.com/article/us-says-imo-must-move-beyond-nzf-while-seeking-common-sense-approach": {
     "ts": "2026-11-15T13:43:59.809409+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/oil-tanker-fire-naval-mine-strait-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=oil-tanker-fire-naval-mine-strait-hormuz": {
+    "ts": "2026-11-15T22:39:41.511559+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/three-ships-struck-by-drones-in-black-sea-near-romanian-shipping-canal/": {
+    "ts": "2026-11-15T22:39:41.511559+00:00",
+    "type": "highlight"
+  },
+  "https://www.infomoney.com.br/mundo/estonia-fechara-postos-de-fronteira-com-a-russia-apos-tentativa-de-incendio-criminoso/": {
+    "ts": "2026-11-15T22:39:41.511559+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/tankers-a-crude-correction-but-rates-remain-well-above-historical-levels/": {
+    "ts": "2026-11-15T22:39:41.511559+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/imo-faces-challenges-in-net-zero-framework-compliance-without-emissions-cost/": {
+    "ts": "2026-11-15T22:39:41.511559+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/miracle-on-the-mississippi-all-accounted-for-after-tanker-capsizes-cruise-ship-in-new-orleans/": {
+    "ts": "2026-11-15T22:39:41.511559+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/tanker-passenger-vessel-collide-new-544358": {
+    "ts": "2026-11-15T22:39:41.511559+00:00",
+    "type": "other"
+  },
+  "https://www.infomoney.com.br/mundo/piores-incendios-em-11-anos-levam-indonesia-a-pedir-desculpas-a-cingapura-e-malasia/": {
+    "ts": "2026-11-15T22:39:41.511559+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/arabian-sea-ports-are-booming-as-the-conflict-drags-on": {
+    "ts": "2026-11-15T22:39:41.511559+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/india-eases-flag-rules-in-push-for-more-tonnage/": {
+    "ts": "2026-11-15T22:39:41.511559+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/houthis-recapture-positions-overlooking-the-bab-el-mandeb": {
+    "ts": "2026-11-15T22:39:41.511559+00:00",
     "type": "other"
   }
 }
