@@ -1,16 +1,5 @@
 [
   {
-    "date": "2026-11-05",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo e força desvios logísticos pelo Golfo de Ku, ampliando custos operacionais e complexidade na programação global das frotas de petróleo. Ataques recentes a petroleiros e navios de GNL aumentam a insegurança, retendo cerca de 6.000 marítimos e agravando a escassez de mão de obra qualificada na região. No offsh"
-  },
-  {
     "date": "2026-11-06",
     "drivers": [
       "atividade Petrobras/Transpetro",
@@ -322,5 +311,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, mantendo tarifas recordes de até US$ 20 milhões por passagem para VLCCs. Essa limitação inviabiliza contratos de longo prazo e força desvios logísticos pelo Golfo de Ku, com impacto direto no custo operacional e no planejamento das frotas globais de petróleo. O aumento de ataques a petroleiros e navios de GNL na região intensifica o risco geopolítico e amplia a volatilidade comercial. A necessidade de reforço imediato na gestão d"
+  },
+  {
+    "date": "2026-11-16",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes de até US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo, força desvios logísticos pelo Golfo de Ku e eleva custos operacionais, exigindo ajustes imediatos no planejamento global das frotas de petróleo. O aumento de ataques a petroleiros e navios de GNL intensifica o risco geopolítico e amplia a volatilidade comercial na rota. No segmento de infraestrutura, a"
   }
 ]
