@@ -8,17 +8,6 @@
       "logística e portos",
       "risco geopolítico"
     ],
-    "summary": "Tráfego no Estreito de Ormuz mantém restrição severa, com capacidade abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por VLCC. Essa limitação inviabiliza contratos de longo prazo para transporte de petróleo, força desvios logísticos pelo Golfo de Ku e eleva custos operacionais globais. A insegurança na região se agrava com ataques recentes a petroleiros e navios de GNL, mantendo cerca de 6.000 marítimos retidos e intensificando a escassez de mão de obra qualificada. No offshore bra"
-  },
-  {
-    "date": "2026-11-06",
-    "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo e força desvios logísticos pelo Golfo de Ku, aumentando custos operacionais e complexidade na gestão das frotas globais de petróleo. Ataques recentes a petroleiros e navios de GNL agravam o risco geopolítico, retendo cerca de 6.000 marítimos e aprofundando a escassez de mão de obra qualificada na região. No"
   },
   {
@@ -321,5 +310,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes de até US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo e força desvios logísticos pelo Golfo de Ku, elevando custos operacionais e exigindo ajustes no planejamento global das frotas de petróleo. O ambiente operacional segue marcado por ataques a petroleiros e navios de GNL, que ampliam o risco geopolítico e a volatilidade comercial na rota. No Mar Negro,"
+  },
+  {
+    "date": "2026-11-17",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes para VLCCs e inviabilizando contratos de longo prazo. O desvio obrigatório pelo Golfo de Ku eleva custos operacionais e complica o planejamento das frotas globais, pressionando margens no transporte marítimo de petróleo. O aumento recente de ataques a petroleiros e navios de GNL intensifica a volatilidade comercial e reforça a necessidade de ajustes imediatos na gestão de segurança e risco. A pers"
   }
 ]
