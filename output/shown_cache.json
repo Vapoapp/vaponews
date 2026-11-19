@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-11-17T15:45:16.362684+00:00",
+    "ts": "2026-11-19T00:05:24.205707+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
@@ -776,7 +776,7 @@
     "type": "other"
   },
   "https://www.navaltoday.com/2026/11/17/uks-biggest-warship-scrambles-f-35s-to-intercept-russias-bear-bomber": {
-    "ts": "2026-11-17T15:45:16.362684+00:00",
+    "ts": "2026-11-19T00:05:24.205707+00:00",
     "type": "other"
   },
   "https://splash247.com/technipfmc-extends-charter-of-dof-csv/": {
@@ -788,7 +788,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction/deme-revenue-rises-backlog-shrinks": {
-    "ts": "2026-11-17T15:45:16.362684+00:00",
+    "ts": "2026-11-19T00:05:24.205707+00:00",
     "type": "other"
   },
   "https://www.hellenicshippingnews.com/aveva-and-prostep-sign-a-new-technology-partnership-agreement/": {
@@ -868,11 +868,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/sbm-offshore-fecha-contrato-para-construcao-do-fpso-de-longtail-na-guiana/": {
-    "ts": "2026-11-18T15:25:26.288434+00:00",
+    "ts": "2026-11-19T00:05:24.205707+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/uaes-adnoc-ls-says-one-crew-member-missing-after-attack-on-its-vessel-in-hormuz/": {
-    "ts": "2026-11-18T15:25:26.288434+00:00",
+    "ts": "2026-11-19T00:05:24.205707+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/crew-rescued-from-sinking-lpg-tanker-off-bulgaria-as-pace-of-attacks-grows": {
@@ -941,6 +941,70 @@
   },
   "https://www.bairdmaritime.com/shipping/ports/germany-commissions-stade-lng-terminal": {
     "ts": "2026-11-18T15:25:26.288434+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/paratus-e-vantris-avaliam-venda-da-seagems-que-acaba-de-fechar-novo-contrato-com-a-petrobras/": {
+    "ts": "2026-11-19T00:05:24.205707+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/tara-gas-burning-off-oman-as-another-tanker-attack-leaves-11-injured/": {
+    "ts": "2026-11-19T00:05:24.205707+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/kerch-strait-bridge-strike-cuts-off-sea-of-azov-shipping": {
+    "ts": "2026-11-19T00:05:24.205707+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/clean-tankers-freight-slumps-as-persian-gulf-transits-slow-amid-attacks/": {
+    "ts": "2026-11-19T00:05:24.205707+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/seafarer-is-missing-as-iran-continues-attacks-on-adnoc-tankers": {
+    "ts": "2026-11-19T00:05:24.205707+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544447-floating-production-outlook-pipeline-looks-huge-but-not-all-projects-are-created-equal": {
+    "ts": "2026-11-19T00:05:24.205707+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/cocaptain-agentic-workflows-putting-the-veson-platform-to-work-for-operations-chartering-and-claims/": {
+    "ts": "2026-11-19T00:05:24.205707+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544450-when-contractors-collide-keeping-offshore-energy-projects-on-schedule": {
+    "ts": "2026-11-19T00:05:24.205707+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/cosulich-methanol-tanker-keel-laid": {
+    "ts": "2026-11-19T00:05:24.205707+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/ports/dp-world-raises-maputo-investment": {
+    "ts": "2026-11-19T00:05:24.205707+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/zim-q-profit-surges-m-freight-rates-rise-544444": {
+    "ts": "2026-11-19T00:05:24.205707+00:00",
+    "type": "other"
+  },
+  "https://www.marinelog.com/news/new-cldn-ro-ro-duo-will-be-first-with-everllences-8s50me-gi-mk10-7-engine-configuration/": {
+    "ts": "2026-11-19T00:05:24.205707+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/jotun-supply-coatings-knutsen-lng-544442": {
+    "ts": "2026-11-19T00:05:24.205707+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544433-exail-secures-five-drix-usv-orders-in-u-s": {
+    "ts": "2026-11-19T00:05:24.205707+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/eiffage-secures-offshore-converter-platform-contract-in-germany/": {
+    "ts": "2026-11-19T00:05:24.205707+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/saipem-bags-drilling-double-in-egypt-and-suriname/": {
+    "ts": "2026-11-19T00:05:24.205707+00:00",
     "type": "other"
   }
 }
