@@ -2,17 +2,6 @@
   {
     "date": "2026-11-08",
     "drivers": [
-      "atividade Petrobras/Transpetro",
-      "contratos marítimos",
-      "operações offshore",
-      "logística e portos",
-      "risco geopolítico"
-    ],
-    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes de US$ 20 milhões por passagem para VLCCs. Essa restrição inviabiliza contratos de longo prazo e força desvios logísticos pelo Golfo de Ku, ampliando custos operacionais e complexidade na gestão das frotas globais de petróleo. Ataques recentes a petroleiros e navios de GNL intensificam o risco geopolítico, retendo cerca de 6.000 marítimos e agravando a escassez de mão de obra qualificada na região. No"
-  },
-  {
-    "date": "2026-11-08",
-    "drivers": [
       "contratos marítimos",
       "operações offshore",
       "logística e portos",
@@ -320,5 +309,16 @@
       "petróleo e gás"
     ],
     "summary": "A capacidade de trânsito no Estreito de Ormuz permanece abaixo de 10%, sustentando tarifas recordes para VLCCs em até US$ 20 milhões por passagem. Essa restrição inviabiliza contratos de longo prazo e força desvios pelo Golfo de Ku, elevando custos operacionais e exigindo replanejamento global das frotas de petróleo. O aumento dos ataques a petroleiros, incluindo o incêndio no TARA GAS, intensifica o risco geopolítico e amplia a volatilidade comercial na rota. No offshore, a assinatura do contra"
+  },
+  {
+    "date": "2026-11-20",
+    "drivers": [
+      "contratos marítimos",
+      "operações offshore",
+      "logística e portos",
+      "risco geopolítico",
+      "petróleo e gás"
+    ],
+    "summary": "A capacidade de trânsito no Estreito de Ormuz segue abaixo de 10%, sustentando tarifas recordes para VLCCs em até US$ 20 milhões por passagem. Essa restrição inviabiliza contratos de longo prazo e obriga desvios logísticos pelo Golfo de Ku, elevando custos operacionais e complexificando o planejamento global das frotas de petróleo. O aumento dos ataques a petroleiros, incluindo o incêndio no TARA GAS e incidentes com minas, intensifica o risco geopolítico e amplia a volatilidade comercial na rot"
   }
 ]
