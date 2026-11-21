@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-11-20T00:28:01.806961+00:00",
+    "ts": "2026-11-21T06:29:34.481638+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
@@ -8,16 +8,12 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-11-19T15:30:36.660667+00:00",
+    "ts": "2026-11-21T06:29:34.481638+00:00",
     "type": "other"
   },
   "https://www.tecnologistica.com.br/noticias/tecnologia/22110/porto-de-santos-destaca-que-operacoes-nao-foram-afetadas-por-ataque-cibernetico-ocorrido-na-ultima-semana/": {
     "ts": "2026-11-14T13:15:57.092099+00:00",
     "type": "highlight"
-  },
-  "https://www.bairdmaritime.com/offshore/drilling-production/petrobras-plans-another-round-of-oil-platform-capacity-increases-across-six-units": {
-    "ts": "2026-11-14T05:45:24.848005+00:00",
-    "type": "other"
   },
   "https://splash247.com/new-report-identifies-hong-kongs-place-in-world-shipping/": {
     "ts": "2026-11-14T13:15:57.092099+00:00",
@@ -30,10 +26,6 @@
   "https://www.oedigital.com/news/544322-v-r-energi-taps-slb-for-drilling-services-on-two-rigs-off-norway": {
     "ts": "2026-11-14T13:15:57.092099+00:00",
     "type": "other"
-  },
-  "https://maritime-executive.com/article/india-s-shipping-ministry-asks-public-for-help-on-cold-case-fatal-accidents": {
-    "ts": "2026-11-14T05:45:24.848005+00:00",
-    "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/boxships/container-vessel-news-roundup-november-13-deliveries-to-french-and-japanese-operators-south-korean-owners-fleet-upgrade-plans-and-more": {
     "ts": "2026-11-14T13:15:57.092099+00:00",
@@ -135,10 +127,6 @@
     "ts": "2026-11-14T22:10:15.564005+00:00",
     "type": "highlight"
   },
-  "https://www.guiamaritimo.com.br/noticias/terminais/porto-acu-estuda-dutos-hidrogenio-combustiveis-sinteticos": {
-    "ts": "2026-11-14T05:45:24.848005+00:00",
-    "type": "other"
-  },
   "https://www.hellenicshippingnews.com/affinity-tanker-weekly-13-november-2026/": {
     "ts": "2026-11-15T13:43:59.809409+00:00",
     "type": "other"
@@ -159,10 +147,6 @@
     "ts": "2026-11-15T05:45:46.829567+00:00",
     "type": "other"
   },
-  "https://www.marineinsight.com/14-seafarers-rescued-after-chinese-bulk-carrier-sinks-in-yellow-sea/?utm_source=rss&utm_medium=rss&utm_campaign=14-seafarers-rescued-after-chinese-bulk-carrier-sinks-in-yellow-sea": {
-    "ts": "2026-11-14T05:45:24.848005+00:00",
-    "type": "other"
-  },
   "https://www.bairdmaritime.com/shipping/ports/deepwater-port-licensing-rule-comments": {
     "ts": "2026-11-15T13:43:59.809409+00:00",
     "type": "other"
@@ -173,10 +157,6 @@
   },
   "https://www.bairdmaritime.com/shipping/boxships/higher-freight-rates-ai-driven-trade-fuel-q3-profit-surge-at-cma-cgm": {
     "ts": "2026-11-15T13:43:59.809409+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/544345-scotland-england-subsea-power-link-secures-marine-license": {
-    "ts": "2026-11-14T05:45:24.848005+00:00",
     "type": "other"
   },
   "https://maritime-executive.com/article/study-shipping-can-avoid-endangered-species-habitat-at-minimal-cost": {
@@ -724,11 +704,11 @@
     "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/desempenho/22139/aeroporto-de-natal-registra-crescimento-de-31-na-movimentacao-de-cargas-em-2026/": {
-    "ts": "2026-11-20T23:51:01.844478+00:00",
+    "ts": "2026-11-21T06:29:34.481638+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/hmcs-spitfire-wreck-found-queensland/?utm_source=rss&utm_medium=rss&utm_campaign=hmcs-spitfire-wreck-found-queensland": {
-    "ts": "2026-11-20T23:51:01.844478+00:00",
+    "ts": "2026-11-21T06:29:34.481638+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/19/prefeitura-do-rio-anuncia-atracoes-do-reveillon-de-2027-nesta-quinta-feira.ghtml": {
@@ -784,7 +764,7 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/a-modec-faz-parceria-com-a-toray-para-fazer-os-reparos-em-seis-navios-com-fibra-de-carbono-muito-mais-resistente/": {
-    "ts": "2026-11-20T23:51:01.844478+00:00",
+    "ts": "2026-11-21T06:29:34.481638+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/torm-rejects-hafnia-merger-proposals": {
@@ -816,7 +796,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/offshore/vessels-rigs/psvs/halul-54-platform-supply-vessel": {
-    "ts": "2026-11-20T00:28:01.806961+00:00",
+    "ts": "2026-11-21T06:29:34.481638+00:00",
     "type": "other"
   },
   "https://www.oedigital.com/news/544466-siemens-gamesa-to-supply-turbines-for-1gw-offshore-wind-farm": {
@@ -840,7 +820,7 @@
     "type": "highlight"
   },
   "https://splash247.com/hunter-makes-offshore-move-with-jacktel-buyout-offer/": {
-    "ts": "2026-11-20T23:51:01.844478+00:00",
+    "ts": "2026-11-21T06:29:34.481638+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/um-salario-minimo-compra-23-kg-de-acem-a-menos-do-que-em-2007-entenda-o-preco-da-carne.ghtml": {
@@ -904,7 +884,7 @@
     "type": "other"
   },
   "https://gcaptain.com/another-tanker-hit-in-strait-of-hormuz-as-maritime-attacks-surge-worldwide/": {
-    "ts": "2026-11-20T23:51:01.844478+00:00",
+    "ts": "2026-11-21T06:29:34.481638+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/mundo/noticia/2026/11/20/missil-russo-atinge-a-polonia-e-primeiro-ministro-fala-em-provocacao.ghtml": {
@@ -912,7 +892,7 @@
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/the-week-in-alt-fuels-the-net-zero-bargain/": {
-    "ts": "2026-11-20T23:51:01.844478+00:00",
+    "ts": "2026-11-21T06:29:34.481638+00:00",
     "type": "highlight"
   },
   "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/20/comandante-de-aeronave-sente-cheiro-forte-de-fumaca-e-declara-emergencia-oito-minutos-apos-decolagem-de-aviao-no-parana.ghtml": {
@@ -965,6 +945,54 @@
   },
   "https://www.bairdmaritime.com/shipping/dry-cargo/ro-ro/flensburger-shipyard-delivers-searoad-i": {
     "ts": "2026-11-20T23:51:01.844478+00:00",
+    "type": "other"
+  },
+  "https://www.cnnbrasil.com.br/nacional/sul/rs/defesa-civil-apura-microexplosao-apos-estragos-em-cidade-do-rs/": {
+    "ts": "2026-11-21T06:29:34.481638+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/russian-navy-back-in-the-mediterranean-escorting-a-cargo-flotilla": {
+    "ts": "2026-11-21T06:29:34.481638+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/xeneta-weekly-ocean-container-shipping-market-update-mediterranean-spot-rates-move-in-mysterious-ways-as-red-sea-return-stalls/": {
+    "ts": "2026-11-21T06:29:34.481638+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/20/tempestade-mortes-danos-tupancireta-rs-chuva.ghtml": {
+    "ts": "2026-11-21T06:29:34.481638+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544508-chevron-vessel-begins-gas-survey-offshore-greece": {
+    "ts": "2026-11-21T06:29:34.481638+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544496-japan-s-kepco-joins-390mw-polish-offshore-wind-project": {
+    "ts": "2026-11-21T06:29:34.481638+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544495-t-rkiye-set-for-offshore-seismic-surveys-in-pakistan-ahead-of-2027-drilling": {
+    "ts": "2026-11-21T06:29:34.481638+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/reports-claim-iran-is-preparing-oil-convoy-to-test-u-s-blockade": {
+    "ts": "2026-11-21T06:29:34.481638+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/baltic-dry-bulk-index-ends-lower-to-cap-a-losing-week": {
+    "ts": "2026-11-21T06:29:34.481638+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/ports/port-la-nouvelle-expansion-2026": {
+    "ts": "2026-11-21T06:29:34.481638+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/seaway-7-lines-up-vessel-trio-for-scottish-offshore-wind-project/": {
+    "ts": "2026-11-21T06:29:34.481638+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/tanker-loads-iranian-crude-us-naval-blockade-test/?utm_source=rss&utm_medium=rss&utm_campaign=tanker-loads-iranian-crude-us-naval-blockade-test": {
+    "ts": "2026-11-21T06:29:34.481638+00:00",
     "type": "other"
   }
 }
