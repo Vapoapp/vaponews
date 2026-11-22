@@ -11,14 +11,6 @@
     "ts": "2026-11-21T06:29:34.481638+00:00",
     "type": "other"
   },
-  "https://petronoticias.com.br/petroleiro-colide-com-cruzeiro-com-mais-de-130-pessoas-a-bordo-no-rio-mississippi/": {
-    "ts": "2026-11-15T22:39:41.511559+00:00",
-    "type": "highlight"
-  },
-  "https://petronoticias.com.br/movimento-recorde-no-terminal-de-cargas-do-porto-do-acu-mostra-acerto-nas-acoes-de-desenvolvmento-das-atividades/": {
-    "ts": "2026-11-15T22:39:41.511559+00:00",
-    "type": "other"
-  },
   "https://splash247.com/us-court-orders-arrest-of-tanker-after-new-orleans-cruise-ship-collision/": {
     "ts": "2026-11-16T05:45:22.269866+00:00",
     "type": "highlight"
@@ -42,38 +34,6 @@
   "https://www.infomoney.com.br/mundo/estonia-fechara-postos-de-fronteira-com-a-russia-apos-tentativa-de-incendio-criminoso/": {
     "ts": "2026-11-16T05:45:22.269866+00:00",
     "type": "highlight"
-  },
-  "https://www.hellenicshippingnews.com/tankers-a-crude-correction-but-rates-remain-well-above-historical-levels/": {
-    "ts": "2026-11-15T22:39:41.511559+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/imo-faces-challenges-in-net-zero-framework-compliance-without-emissions-cost/": {
-    "ts": "2026-11-15T22:39:41.511559+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/miracle-on-the-mississippi-all-accounted-for-after-tanker-capsizes-cruise-ship-in-new-orleans/": {
-    "ts": "2026-11-15T22:39:41.511559+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/tanker-passenger-vessel-collide-new-544358": {
-    "ts": "2026-11-15T22:39:41.511559+00:00",
-    "type": "other"
-  },
-  "https://www.infomoney.com.br/mundo/piores-incendios-em-11-anos-levam-indonesia-a-pedir-desculpas-a-cingapura-e-malasia/": {
-    "ts": "2026-11-15T22:39:41.511559+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/arabian-sea-ports-are-booming-as-the-conflict-drags-on": {
-    "ts": "2026-11-15T22:39:41.511559+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/india-eases-flag-rules-in-push-for-more-tonnage/": {
-    "ts": "2026-11-15T22:39:41.511559+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/houthis-recapture-positions-overlooking-the-bab-el-mandeb": {
-    "ts": "2026-11-15T22:39:41.511559+00:00",
-    "type": "other"
   },
   "https://gcaptain.com/steering-problem-on-tanker-caused-collision-in-new-orleans/": {
     "ts": "2026-11-16T15:20:49.597531+00:00",
@@ -756,7 +716,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/russian-navy-back-in-the-mediterranean-escorting-a-cargo-flotilla": {
-    "ts": "2026-11-22T14:27:34.803255+00:00",
+    "ts": "2026-11-22T23:27:11.843596+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/xeneta-weekly-ocean-container-shipping-market-update-mediterranean-spot-rates-move-in-mysterious-ways-as-red-sea-return-stalls/": {
@@ -800,11 +760,11 @@
     "type": "other"
   },
   "https://petronoticias.com.br/iranianos-atacam-dois-navios-petroleiros-no-estreito-de-ormuz-mas-nao-intrerrompe-trafego-de-petroleo/": {
-    "ts": "2026-11-22T14:27:34.803255+00:00",
+    "ts": "2026-11-22T23:27:11.843596+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/strait-hormuz-shipping-65-below-tanker-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=strait-hormuz-shipping-65-below-tanker-attacks": {
-    "ts": "2026-11-22T14:27:34.803255+00:00",
+    "ts": "2026-11-22T23:27:11.843596+00:00",
     "type": "highlight"
   },
   "https://www.infomoney.com.br/mundo/incendio-em-usina-de-energia-em-basra-no-iraque-mata-ao-menos-4-pessoas/": {
@@ -812,7 +772,7 @@
     "type": "highlight"
   },
   "https://petronoticias.com.br/brasol-assume-operacao-e-manutencao-de-492-mwp-em-usinas-solares-do-fundo-snel11/": {
-    "ts": "2026-11-21T18:56:07.420999+00:00",
+    "ts": "2026-11-22T23:27:11.843596+00:00",
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/ports/miri-port-equipment-channel-deepening": {
@@ -828,7 +788,7 @@
     "type": "other"
   },
   "https://gcaptain.com/two-tanker-incidents-reported-near-oman-vessel-hit-mine-east-of-hormuz/": {
-    "ts": "2026-11-22T14:27:34.803255+00:00",
+    "ts": "2026-11-22T23:27:11.843596+00:00",
     "type": "highlight"
   },
   "https://www.oedigital.com/news/544491-norway-s-oil-and-gas-production-beats-october-estimates": {
@@ -865,6 +825,30 @@
   },
   "https://gcaptain.com/crew-airlifted-after-bulk-carrier-grounds-on-french-coast/": {
     "ts": "2026-11-22T14:27:34.803255+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/massive-attack-on-russian-shipping-in-benghazi": {
+    "ts": "2026-11-22T23:27:11.843596+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/vietnams-shipbuilding-industry-seizes-opportunities-from-green-transformation/": {
+    "ts": "2026-11-22T23:27:11.843596+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/11/22/suspensao-temporaria-voos-companhia-aerea-eua-falha-em-sistema.ghtml": {
+    "ts": "2026-11-22T23:27:11.843596+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/two-supply-lines-one-terminal-12-sanctioned-tankers-at-the-houthi-controlled-ras-issa/": {
+    "ts": "2026-11-22T23:27:11.843596+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/worlds-first-nuclear-powered-lng-carrier-samsung-tesser/?utm_source=rss&utm_medium=rss&utm_campaign=worlds-first-nuclear-powered-lng-carrier-samsung-tesser": {
+    "ts": "2026-11-22T23:27:11.843596+00:00",
+    "type": "other"
+  },
+  "https://www.infomoney.com.br/mundo/ataque-a-navio-comercial-na-libia-leva-guerra-dos-drones-ao-mediterraneo/": {
+    "ts": "2026-11-22T23:27:11.843596+00:00",
     "type": "other"
   }
 }
