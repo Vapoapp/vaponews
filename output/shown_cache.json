@@ -15,10 +15,6 @@
     "ts": "2026-11-17T01:46:15.540248+00:00",
     "type": "highlight"
   },
-  "https://gcaptain.com/steering-problem-on-tanker-caused-collision-in-new-orleans/": {
-    "ts": "2026-11-16T15:20:49.597531+00:00",
-    "type": "highlight"
-  },
   "https://maritime-executive.com/article/three-more-ships-hit-by-drone-strikes-off-coast-of-romania": {
     "ts": "2026-11-17T01:46:15.540248+00:00",
     "type": "highlight"
@@ -27,64 +23,12 @@
     "ts": "2026-11-18T00:47:23.400612+00:00",
     "type": "highlight"
   },
-  "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/16/ataques-tiros-mortos-porto-alegre-alvorada-rs.ghtml": {
-    "ts": "2026-11-16T15:20:49.597531+00:00",
-    "type": "highlight"
-  },
-  "https://gcaptain.com/south-korean-container-ship-considered-abandoning-arctic-trial-voyage-due-to-ice-as-owner-considers-sale/": {
-    "ts": "2026-11-16T15:20:49.597531+00:00",
-    "type": "highlight"
-  },
-  "https://splash247.com/why-a-collision-with-no-deaths-got-more-attention-than-two-wars-at-sea/": {
-    "ts": "2026-11-16T15:20:49.597531+00:00",
-    "type": "other"
-  },
   "https://www.marineinsight.com/american-heritage-captain-last-to-leave/?utm_source=rss&utm_medium=rss&utm_campaign=american-heritage-captain-last-to-leave": {
     "ts": "2026-11-17T15:45:16.362684+00:00",
     "type": "other"
   },
-  "https://www.oedigital.com/news/544361-orlen-s-termination-of-qatar-lng-deal-could-yield-2b-in-savings": {
-    "ts": "2026-11-16T15:20:49.597531+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/544367-hanwha-power-secures-fsru-conversion-deal-with-energos": {
-    "ts": "2026-11-16T15:20:49.597531+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/trump-extends-jones-act-waiver-for-another-90-days": {
-    "ts": "2026-11-16T15:20:49.597531+00:00",
-    "type": "other"
-  },
   "https://www.navaltoday.com/2026/11/16/iran-claims-capture-of-us-mqm-170-drone-near-strait-of-hormuz": {
     "ts": "2026-11-18T00:47:23.400612+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/ports/nigeria-breaks-ground-bakassi-seaport": {
-    "ts": "2026-11-16T15:20:49.597531+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/544370-port-of-blyth-unveils-265m-offshore-wind-expansion-plan": {
-    "ts": "2026-11-16T15:20:49.597531+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/seatrium-adds-another-guyana-fpso-to-its-books/": {
-    "ts": "2026-11-16T15:20:49.597531+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/venezuela-plans-offshore-gas-exports-to-neighbouring-colombia": {
-    "ts": "2026-11-16T15:20:49.597531+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/shell-concerned-over-imo-delays-on-green-bunker-rules-backs-mass-balanced-bio-lng/": {
-    "ts": "2026-11-16T15:20:49.597531+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/mepc85-researcher-on-how-first-global-climate-deal-could-pave-the-way-for-fossil-free-shipping/": {
-    "ts": "2026-11-16T15:20:49.597531+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/abandoned-freighter-drifts-towards-bulgarian-waters": {
-    "ts": "2026-11-16T15:20:49.597531+00:00",
     "type": "other"
   },
   "https://gcaptain.com/ukmto-reports-two-tanker-attacks-in-strait-of-hormuz/": {
@@ -816,7 +760,7 @@
     "type": "other"
   },
   "https://www.bairdmaritime.com/shipping/tankers/yangzijiang-launches-montanari-product-tanker": {
-    "ts": "2026-11-23T06:49:44.337466+00:00",
+    "ts": "2026-11-23T23:39:18.791144+00:00",
     "type": "highlight"
   },
   "https://www.hellenicshippingnews.com/dynagas-lng-reports-higher-earnings-tempered-by-yamal-sanctions-and-insurance-risk/": {
@@ -833,6 +777,86 @@
   },
   "https://www.bairdmaritime.com/shipping/tankers/gas/nuclear-powered-transatlantic-lng-carrier": {
     "ts": "2026-11-23T06:49:44.337466+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/o-conselho-de-pesquisa-da-noruega-garante-financiamento-para-os-sistemas-de-propulsao-nuclear-de-navios-construidos-no-pais/": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "highlight"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/dynagas-yamal-carrier-insurance-sanctions": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "highlight"
+  },
+  "https://www.marineinsight.com/ssi-phoenix-scrap-metal-fire-amsterdam/?utm_source=rss&utm_medium=rss&utm_campaign=ssi-phoenix-scrap-metal-fire-amsterdam": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/technipfmc-fornecera-equipamentos-subsea-para-o-projeto-longtail-na-guiana/": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "other"
+  },
+  "https://www.guiamaritimo.com.br/noticias/feira-intermodal/mrs-logistica-quarto-ano-concessao-investimentos-r-4-bilhoes": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "other"
+  },
+  "https://www.tecnologistica.com.br/noticias/frota/22142/svitzer-recebe-terceiro-rebocador-construido-pelo-estaleiro-rio-maguari-e-reforca-operacao-em-suape/": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/two-more-tankers-hit-off-oman-as-houthis-threaten-saudi-red-sea-ports": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/251882-2/": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544524-first-nordseecluster-b-monopiles-arrive-at-dutch-port": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/wind-sails-e-methanol-and-a-stalled-global-deal-can-hard-to-decarbonise-shipping-go-green/": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/xclusiv-shipbrokers-weekly-23rd-november-2026/": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544518-nmdc-energy-to-acquire-wasco-s-engineering-division-for-190m": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/france-prepares-major-salvage-operation-to-free-grounded-bulk-carrier-miro-g/": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "other"
+  },
+  "https://www.infomoney.com.br/mundo/ucrania-afunda-navio-de-guerra-russo-na-libia-e-conflito-segue-para-alem-da-europa/": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/russia-s-kaliningrad-enclave-survives-through-shipping": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/nova-marine-takes-first-kamsarmax": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544521-dolphin-drilling-closes-rig-sale-signs-india-jv-deal-with-spm-energy": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/fake-iran-tanker-highlights-uncertainty-around-hormuz-traffic/": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/miro-g-bulk-carrier-stranded-france-refloat/?utm_source=rss&utm_medium=rss&utm_campaign=miro-g-bulk-carrier-stranded-france-refloat": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/column-stand-by-for-black-friday-action-north-star-joins-vroon-offshore-and-potentially-cyan-on-the-block-part-one-of-two-offshore-accounts": {
+    "ts": "2026-11-23T23:39:18.791144+00:00",
     "type": "other"
   }
 }
