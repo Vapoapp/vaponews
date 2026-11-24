@@ -4,20 +4,12 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
-    "ts": "2026-11-22T14:27:34.803255+00:00",
+    "ts": "2026-11-24T09:16:23.960734+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-11-21T06:29:34.481638+00:00",
+    "ts": "2026-11-24T09:16:23.960734+00:00",
     "type": "other"
-  },
-  "https://www.marineinsight.com/oil-tanker-fire-naval-mine-strait-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=oil-tanker-fire-naval-mine-strait-hormuz": {
-    "ts": "2026-11-17T01:46:15.540248+00:00",
-    "type": "highlight"
-  },
-  "https://maritime-executive.com/article/three-more-ships-hit-by-drone-strikes-off-coast-of-romania": {
-    "ts": "2026-11-17T01:46:15.540248+00:00",
-    "type": "highlight"
   },
   "https://www.tecnologistica.com.br/noticias/legislacao/22121/roadcard-preve-fim-da-carta-frete-no-proximo-ano-com-a-nova-lei-do-frete/": {
     "ts": "2026-11-18T00:47:23.400612+00:00",
@@ -35,68 +27,12 @@
     "ts": "2026-11-17T15:45:16.362684+00:00",
     "type": "highlight"
   },
-  "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/16/caso-videogame-bomba-video-mostra-funcionario-de-loja-mexendo-por-quase-um-minuto-em-aparelho-antes-da-explosao.ghtml": {
-    "ts": "2026-11-17T01:46:15.540248+00:00",
-    "type": "highlight"
-  },
   "https://maritime-executive.com/article/bulgaria-rescues-12-crew-as-attacked-cargo-ship-capsizes": {
     "ts": "2026-11-17T15:45:16.362684+00:00",
     "type": "highlight"
   },
-  "https://petronoticias.com.br/governo-retoma-atividades-do-comite-gestor-do-programa-nacional-do-hidrogenio/": {
-    "ts": "2026-11-17T01:46:15.540248+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/the-oil-market-is-brimming-with-crude-despite-tanker-attacks/": {
-    "ts": "2026-11-17T01:46:15.540248+00:00",
-    "type": "other"
-  },
-  "https://www.marinelink.com/news/cargo-ship-offshore-bulgaria-sinks-drone-544387": {
-    "ts": "2026-11-17T01:46:15.540248+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/atlantic-asphalt-steering-failure-ntsb/?utm_source=rss&utm_medium=rss&utm_campaign=atlantic-asphalt-steering-failure-ntsb": {
-    "ts": "2026-11-17T01:46:15.540248+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/544389-eni-to-reach-investment-decision-on-mozambique-flng-expansion-by-2027": {
-    "ts": "2026-11-17T01:46:15.540248+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/greek-shipowners-put-brussels-on-the-spot-over-imo-deadlock/": {
-    "ts": "2026-11-17T01:46:15.540248+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/why-the-carrier-with-the-shortest-terminal-wait-isnt-always-the-fastest-option/": {
-    "ts": "2026-11-17T01:46:15.540248+00:00",
-    "type": "other"
-  },
   "https://www.marinelog.com/news/op-ed-shippings-emissions-strategy-should-include-whats-below-the-waterline/": {
     "ts": "2026-11-18T15:25:26.288434+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/new-us-policy-priorities-could-shape-future-shipping-markets/": {
-    "ts": "2026-11-17T01:46:15.540248+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/544388-exxon-begins-uaru-production-in-guyana": {
-    "ts": "2026-11-17T01:46:15.540248+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/ports/ad-ports-group-record-profit": {
-    "ts": "2026-11-17T01:46:15.540248+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/kbr-wraps-up-hull-design-for-equinors-wisting-fpso/": {
-    "ts": "2026-11-17T01:46:15.540248+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/544366-adura-starts-gas-production-at-2-8b-north-sea-gas-field": {
-    "ts": "2026-11-17T01:46:15.540248+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/drilling-production/apache-downplays-impact-of-labour-strike-as-north-sea-assets-remain-online": {
-    "ts": "2026-11-17T01:46:15.540248+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/ira-ameaca-usar-bomba-suja-em-washington-explode-um-petroleiro-em-ormuz-e-ataca-o-bahrein-na-vespera-de-encontro-entre-trump-xi-e-putin/": {
@@ -780,15 +716,15 @@
     "type": "other"
   },
   "https://petronoticias.com.br/o-conselho-de-pesquisa-da-noruega-garante-financiamento-para-os-sistemas-de-propulsao-nuclear-de-navios-construidos-no-pais/": {
-    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "ts": "2026-11-24T09:16:23.960734+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/shipping/tankers/dynagas-yamal-carrier-insurance-sanctions": {
-    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "ts": "2026-11-24T09:16:23.960734+00:00",
     "type": "highlight"
   },
   "https://www.marineinsight.com/ssi-phoenix-scrap-metal-fire-amsterdam/?utm_source=rss&utm_medium=rss&utm_campaign=ssi-phoenix-scrap-metal-fire-amsterdam": {
-    "ts": "2026-11-23T23:39:18.791144+00:00",
+    "ts": "2026-11-24T09:16:23.960734+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/technipfmc-fornecera-equipamentos-subsea-para-o-projeto-longtail-na-guiana/": {
@@ -857,6 +793,70 @@
   },
   "https://www.bairdmaritime.com/offshore/column-stand-by-for-black-friday-action-north-star-joins-vroon-offshore-and-potentially-cyan-on-the-block-part-one-of-two-offshore-accounts": {
     "ts": "2026-11-23T23:39:18.791144+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/when-should-a-shipowner-take-a-part-cargo/": {
+    "ts": "2026-11-24T09:16:23.960734+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/salvage-of-drone-damaged-freighter-mariam-m-proceeds-in-fits-and-starts": {
+    "ts": "2026-11-24T09:16:23.960734+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/11/24/o-que-se-sabe-sobre-o-navio-de-guerra-russo-merkury-avaliado-em-r-1-bilhao-e-atingido-por-drones-ucranianos.ghtml": {
+    "ts": "2026-11-24T09:16:23.960734+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/u-s-probes-suspected-iranian-cyberattacks-on-up-to-50-ships-wsj-reports/": {
+    "ts": "2026-11-24T09:16:23.960734+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/vlgc-earnings-flirt-with-250000-a-day/": {
+    "ts": "2026-11-24T09:16:23.960734+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/shipping-corporation-of-india-tenders": {
+    "ts": "2026-11-24T09:16:23.960734+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/var-energi-buys-conocophillips-norwegian-offshore-business": {
+    "ts": "2026-11-24T09:16:23.960734+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/pcc-pctc/singapore-shipping-orders-car-carriers": {
+    "ts": "2026-11-24T09:16:23.960734+00:00",
+    "type": "other"
+  },
+  "https://www.navaltoday.com/2026/11/23/estonia-launches-euroguard-experimental-warship": {
+    "ts": "2026-11-24T09:16:23.960734+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/world-shipping-council-calls-for-global-agreement-on-shipping-emissions-as-industry-investment-surpasses-200-billion-usd/": {
+    "ts": "2026-11-24T09:16:23.960734+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/imo-faces-tough-compromise-on-shipping-emissions-rules-amid-us-opposition/": {
+    "ts": "2026-11-24T09:16:23.960734+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544520-arabian-drilling-seals-400m-offshore-vessel-deal-with-kjo": {
+    "ts": "2026-11-24T09:16:23.960734+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544514-navitas-targets-march-2027-drilling-ops-offshore-falkland-islands": {
+    "ts": "2026-11-24T09:16:23.960734+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/u-s-targets-financial-networks-behind-irans-tanker-fleet-and-oil-trade/": {
+    "ts": "2026-11-24T09:16:23.960734+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/drilling-production/var-energi-conocophillips-norway-acquisition": {
+    "ts": "2026-11-24T09:16:23.960734+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544516-eni-backed-lng-project-secures-argentine-investment-incentives": {
+    "ts": "2026-11-24T09:16:23.960734+00:00",
     "type": "other"
   }
 }
