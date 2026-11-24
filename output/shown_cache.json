@@ -15,21 +15,9 @@
     "ts": "2026-11-18T00:47:23.400612+00:00",
     "type": "highlight"
   },
-  "https://www.marineinsight.com/american-heritage-captain-last-to-leave/?utm_source=rss&utm_medium=rss&utm_campaign=american-heritage-captain-last-to-leave": {
-    "ts": "2026-11-17T15:45:16.362684+00:00",
-    "type": "other"
-  },
   "https://www.navaltoday.com/2026/11/16/iran-claims-capture-of-us-mqm-170-drone-near-strait-of-hormuz": {
     "ts": "2026-11-18T00:47:23.400612+00:00",
     "type": "other"
-  },
-  "https://gcaptain.com/ukmto-reports-two-tanker-attacks-in-strait-of-hormuz/": {
-    "ts": "2026-11-17T15:45:16.362684+00:00",
-    "type": "highlight"
-  },
-  "https://maritime-executive.com/article/bulgaria-rescues-12-crew-as-attacked-cargo-ship-capsizes": {
-    "ts": "2026-11-17T15:45:16.362684+00:00",
-    "type": "highlight"
   },
   "https://www.marinelog.com/news/op-ed-shippings-emissions-strategy-should-include-whats-below-the-waterline/": {
     "ts": "2026-11-18T15:25:26.288434+00:00",
@@ -43,60 +31,12 @@
     "ts": "2026-11-18T00:47:23.400612+00:00",
     "type": "highlight"
   },
-  "https://www.infomoney.com.br/mundo/navio-tanque-pega-fogo-no-estreito-de-ormuz-tripulacao-esta-desaparecida/": {
-    "ts": "2026-11-17T15:45:16.362684+00:00",
-    "type": "highlight"
-  },
-  "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/17/camara-do-rio-faz-audiencia-sobre-projeto-que-autoriza-torres-de-80-andares-no-porto.ghtml": {
-    "ts": "2026-11-17T15:45:16.362684+00:00",
-    "type": "other"
-  },
-  "https://g1.globo.com/mundo/noticia/2026/11/17/marinha-dos-estados-unidos-pune-marinheiro-que-pulou-de-porta-avioes-em-meio-a-guerra-contra-o-ira.ghtml": {
-    "ts": "2026-11-17T15:45:16.362684+00:00",
-    "type": "other"
-  },
-  "https://g1.globo.com/mundo/noticia/2026/11/17/petroleiro-estreito-de-ormuz-tripulacao-desaparecida.ghtml": {
-    "ts": "2026-11-17T15:45:16.362684+00:00",
-    "type": "other"
-  },
-  "https://gcaptain.com/lpg-tanker-reported-to-have-sunk-off-bulgarias-black-sea-coast/": {
-    "ts": "2026-11-17T15:45:16.362684+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/stealthgas-crew-airlifted-from-stricken-lpg-carrier-off-bulgaria/": {
-    "ts": "2026-11-17T15:45:16.362684+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/four-american-heritage-crewmembers-sue-operator-of-asphalt-tanker": {
-    "ts": "2026-11-17T15:45:16.362684+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/tankers/gas/jiangnan-ammonia-carriers-vessel-review": {
-    "ts": "2026-11-17T15:45:16.362684+00:00",
-    "type": "other"
-  },
   "https://www.navaltoday.com/2026/11/17/uks-biggest-warship-scrambles-f-35s-to-intercept-russias-bear-bomber": {
     "ts": "2026-11-19T00:05:24.205707+00:00",
     "type": "other"
   },
-  "https://splash247.com/technipfmc-extends-charter-of-dof-csv/": {
-    "ts": "2026-11-17T15:45:16.362684+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/544403-fugro-completes-ultra-deepwater-survey-off-angola-for-azule-energy": {
-    "ts": "2026-11-17T15:45:16.362684+00:00",
-    "type": "other"
-  },
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction/deme-revenue-rises-backlog-shrinks": {
     "ts": "2026-11-19T00:05:24.205707+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/aveva-and-prostep-sign-a-new-technology-partnership-agreement/": {
-    "ts": "2026-11-17T15:45:16.362684+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/melina-travlou-imo-must-listen-to-the-shipping-industry-and-pursue-a-realistic-globally-balanced-decarbonisation-framework/": {
-    "ts": "2026-11-17T15:45:16.362684+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/a-vallourec-participara-ate-amanha-do-spe-brazil-symposium-um-dos-eventos-do-calendario-do-segmento-subsea-de-oleo-e-gas/": {
@@ -724,7 +664,7 @@
     "type": "highlight"
   },
   "https://www.marineinsight.com/ssi-phoenix-scrap-metal-fire-amsterdam/?utm_source=rss&utm_medium=rss&utm_campaign=ssi-phoenix-scrap-metal-fire-amsterdam": {
-    "ts": "2026-11-24T09:16:23.960734+00:00",
+    "ts": "2026-11-24T22:10:05.072074+00:00",
     "type": "highlight"
   },
   "https://petronoticias.com.br/technipfmc-fornecera-equipamentos-subsea-para-o-projeto-longtail-na-guiana/": {
@@ -857,6 +797,86 @@
   },
   "https://www.oedigital.com/news/544516-eni-backed-lng-project-secures-argentine-investment-incentives": {
     "ts": "2026-11-24T09:16:23.960734+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/dias-e-dias-depois-de-discussoes-em-defesa-do-clima-cop-31-termina-na-turquia-com-o-resultado-esperado-acordo-zero-mas-ongs-capitalizadas/": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
+    "type": "highlight"
+  },
+  "https://maritime-executive.com/article/wsj-report-us-investigates-iran-in-50-tanker-cyberattacks": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
+    "type": "highlight"
+  },
+  "https://gcaptain.com/swedish-club-urges-ships-to-avoid-strait-of-hormuz-as-security-situation-deteriorates/": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
+    "type": "highlight"
+  },
+  "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/24/justica-do-rio-condena-dois-reus-pelo-incendio-que-matou-10-jovens-no-ninho-do-urubu.ghtml": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/ha-poucos-dias-da-realizacao-da-prova-de-formula-1-no-pais-o-bahrain-acusa-teera-de-ataques-contra-as-bases-americanas/": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/comecou-em-brasilia-a-mostra-bid-brasil-que-revela-o-tamanho-da-nossa-industria-de-defesa-que-cresce-a-cada-ano/": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/sca-conquista-primeiro-contrato-no-brasil-para-fornecimento-de-carreteis-de-cabos-submarinos/": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/drilling-production/high-oil-prices-fuel-122b-petrobras-spending-plan": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/four-more-ships-attacked-as-iran-widens-hormuz-crackdown-to-tugboats/": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544555-dof-strikes-sale-and-leaseback-deal-for-skandi-forza-csv": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544568-offshore-croatian-well-prepare-domestic-market-for-first-gas-in-2027": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/eu-moves-to-ban-tankers-insured-in-russia-repair-services-at-russian-refineries/": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/indonesia-clears-offshore-gas-development-for-eni-petronas-venture/": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544552-equinor-extends-saipem-s-subsea-robotics-contract-off-norway": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/editorials/from-the-med-to-kaliningrad-context-and-significance-of-sparta-ii": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/grounded-bulker-pulled-free-off-french-coast/": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/oil-prices-rise-hormuz-vessel-attacks-544564": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
+    "type": "other"
+  },
+  "https://www.infomoney.com.br/mundo/justica-da-italia-coloca-em-liberdade-ex-capitao-de-navio-que-naufragou-em-2012/": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/iran-claims-tankers-hit-mines-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=iran-claims-tankers-hit-mines-strait-of-hormuz": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
+    "type": "other"
+  },
+  "https://www.hellenicshippingnews.com/engine-east-of-suez-bunker-fuel-availability-outlook-211/": {
+    "ts": "2026-11-24T22:10:05.072074+00:00",
     "type": "other"
   }
 }
