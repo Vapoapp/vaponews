@@ -1,6 +1,6 @@
 {
   "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction": {
-    "ts": "2026-11-21T06:29:34.481638+00:00",
+    "ts": "2026-11-25T21:26:31.108334+00:00",
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/drilling-production": {
@@ -8,11 +8,7 @@
     "type": "highlight"
   },
   "https://www.bairdmaritime.com/offshore/offshore-support-maintenance": {
-    "ts": "2026-11-24T09:16:23.960734+00:00",
-    "type": "other"
-  },
-  "https://www.marinelog.com/news/op-ed-shippings-emissions-strategy-should-include-whats-below-the-waterline/": {
-    "ts": "2026-11-18T15:25:26.288434+00:00",
+    "ts": "2026-11-25T21:26:31.108334+00:00",
     "type": "other"
   },
   "https://www.navaltoday.com/2026/11/17/uks-biggest-warship-scrambles-f-35s-to-intercept-russias-bear-bomber": {
@@ -23,10 +19,6 @@
     "ts": "2026-11-19T00:05:24.205707+00:00",
     "type": "other"
   },
-  "https://petronoticias.com.br/a-vallourec-participara-ate-amanha-do-spe-brazil-symposium-um-dos-eventos-do-calendario-do-segmento-subsea-de-oleo-e-gas/": {
-    "ts": "2026-11-18T15:25:26.288434+00:00",
-    "type": "highlight"
-  },
   "https://petronoticias.com.br/sbm-offshore-fecha-contrato-para-construcao-do-fpso-de-longtail-na-guiana/": {
     "ts": "2026-11-19T00:05:24.205707+00:00",
     "type": "highlight"
@@ -35,72 +27,12 @@
     "ts": "2026-11-19T00:05:24.205707+00:00",
     "type": "highlight"
   },
-  "https://maritime-executive.com/article/crew-rescued-from-sinking-lpg-tanker-off-bulgaria-as-pace-of-attacks-grows": {
-    "ts": "2026-11-18T15:25:26.288434+00:00",
-    "type": "highlight"
-  },
-  "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/18/comparecimento-brasileiros-exterior-eleicoes-2026.ghtml": {
-    "ts": "2026-11-18T15:25:26.288434+00:00",
-    "type": "other"
-  },
   "https://gcaptain.com/smaller-tankers-join-hormuz-shuttle-trade-to-keep-oil-flowing/": {
     "ts": "2026-11-19T15:30:36.660667+00:00",
     "type": "other"
   },
-  "https://www.rigzone.com/news/agency_reports_suggest_oil_market_approaching_turning_point-18-nov-2026-185109-article/": {
-    "ts": "2026-11-18T15:25:26.288434+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/544434-excelerate-energy-taps-nord-gas-for-reliquefaction-retrofit": {
-    "ts": "2026-11-18T15:25:26.288434+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/544439-saipem-awarded-two-offshore-drilling-contracts-worth-181m": {
-    "ts": "2026-11-18T15:25:26.288434+00:00",
-    "type": "other"
-  },
-  "https://www.oedigital.com/news/544437-maersk-training-announces-new-helideck-at-fletcher-training-facility": {
-    "ts": "2026-11-18T15:25:26.288434+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/offshore/exploration-development/offshore-construction/allseas-launches-offshore-construction-vessel": {
-    "ts": "2026-11-18T15:25:26.288434+00:00",
-    "type": "other"
-  },
-  "https://maritime-executive.com/article/drifting-freighter-runs-aground-on-romania-s-coastline": {
-    "ts": "2026-11-18T15:25:26.288434+00:00",
-    "type": "other"
-  },
-  "https://www.marineinsight.com/can-container-ships-save-up-to-14-fuel-if-terminals-shared-berth-times-earlier/?utm_source=rss&utm_medium=rss&utm_campaign=can-container-ships-save-up-to-14-fuel-if-terminals-shared-berth-times-earlier": {
-    "ts": "2026-11-18T15:25:26.288434+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/dry-cargo/bulkers/tsuneishi-launches-kamsarmax-bulk-carrier": {
-    "ts": "2026-11-18T15:25:26.288434+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/shipping-decarbonisation-imarest-calls-for-regulatory-certainty-and-investment-clarity-ahead-of-mepc-85/": {
-    "ts": "2026-11-18T15:25:26.288434+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/neo-next-snaps-up-enquests-north-sea-business-in-960m-deal/": {
-    "ts": "2026-11-18T15:25:26.288434+00:00",
-    "type": "other"
-  },
-  "https://splash247.com/chinese-contractors-land-238m-in-offshore-wind-installation-deals/": {
-    "ts": "2026-11-18T15:25:26.288434+00:00",
-    "type": "other"
-  },
-  "https://www.hellenicshippingnews.com/ngos-urge-un-shipping-body-to-adopt-crucial-climate-agreement-before-year-end/": {
-    "ts": "2026-11-18T15:25:26.288434+00:00",
-    "type": "other"
-  },
   "https://www.marineinsight.com/hong-kong-piraeus-green-shipping-corridor/?utm_source=rss&utm_medium=rss&utm_campaign=hong-kong-piraeus-green-shipping-corridor": {
     "ts": "2026-11-20T00:28:01.806961+00:00",
-    "type": "other"
-  },
-  "https://www.bairdmaritime.com/shipping/ports/germany-commissions-stade-lng-terminal": {
-    "ts": "2026-11-18T15:25:26.288434+00:00",
     "type": "other"
   },
   "https://petronoticias.com.br/paratus-e-vantris-avaliam-venda-da-seagems-que-acaba-de-fechar-novo-contrato-com-a-petrobras/": {
@@ -724,7 +656,7 @@
     "type": "highlight"
   },
   "https://maritime-executive.com/article/wsj-report-us-investigates-iran-in-50-tanker-cyberattacks": {
-    "ts": "2026-11-25T07:51:32.551807+00:00",
+    "ts": "2026-11-25T21:26:31.108334+00:00",
     "type": "highlight"
   },
   "https://gcaptain.com/swedish-club-urges-ships-to-avoid-strait-of-hormuz-as-security-situation-deteriorates/": {
@@ -808,7 +740,7 @@
     "type": "highlight"
   },
   "https://gcaptain.com/grounded-bulk-carrier-miro-g-successfully-refloated-off-french-beach/": {
-    "ts": "2026-11-25T07:51:32.551807+00:00",
+    "ts": "2026-11-25T21:26:31.108334+00:00",
     "type": "highlight"
   },
   "https://maritime-executive.com/article/judge-denies-release-of-tanker-as-owners-seek-to-limit-liabilities": {
@@ -853,6 +785,74 @@
   },
   "https://www.bairdmaritime.com/shipping/tankers/sovcomflot-prioritizes-lng-carrier-investment": {
     "ts": "2026-11-25T07:51:32.551807+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544578-oil-falls-as-supply-glut-concerns-overshadow-hormuz-shipping-risks": {
+    "ts": "2026-11-25T21:26:31.108334+00:00",
+    "type": "highlight"
+  },
+  "https://petronoticias.com.br/a-justica-do-regime-iraniano-defendido-por-lula-determina-que-cantora-que-apareceu-em-live-sem-hijab-levasse-74-chibatadas-em-publico/": {
+    "ts": "2026-11-25T21:26:31.108334+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/houthis-threaten-saudi-ports-amid-yemen-conflict-escalation/": {
+    "ts": "2026-11-25T21:26:31.108334+00:00",
+    "type": "highlight"
+  },
+  "https://www.hellenicshippingnews.com/transpetro-carries-out-suapes-first-b30-bunkering/": {
+    "ts": "2026-11-25T21:26:31.108334+00:00",
+    "type": "other"
+  },
+  "https://petronoticias.com.br/lingua-grande-de-lula-ao-ofender-o-governo-trump-pode-provocar-novas-e-graves-sancoes-economicas-contra-o-brasil/": {
+    "ts": "2026-11-25T21:26:31.108334+00:00",
+    "type": "other"
+  },
+  "https://maritime-executive.com/article/sri-lanka-provides-port-of-refuge-to-cargo-ship-with-flooded-engine-room": {
+    "ts": "2026-11-25T21:26:31.108334+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/mv-aal-gibraltar-hambantota-port-refuge/?utm_source=rss&utm_medium=rss&utm_campaign=mv-aal-gibraltar-hambantota-port-refuge": {
+    "ts": "2026-11-25T21:26:31.108334+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544587-eni-repsol-to-invest-2b-in-pdvsa-joint-venture": {
+    "ts": "2026-11-25T21:26:31.108334+00:00",
+    "type": "other"
+  },
+  "https://www.oedigital.com/news/544533-securing-remote-energy-sites-a-guide-to-modern-access-control": {
+    "ts": "2026-11-25T21:26:31.108334+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/tankers/falling-global-tanker-rates-pull-russian-oil-freight-costs-to-india-lower-in-november": {
+    "ts": "2026-11-25T21:26:31.108334+00:00",
+    "type": "other"
+  },
+  "https://www.marineinsight.com/houthis-threaten-jeddah-saudi-red-sea-ports-hodeidah/?utm_source=rss&utm_medium=rss&utm_campaign=houthis-threaten-jeddah-saudi-red-sea-ports-hodeidah": {
+    "ts": "2026-11-25T21:26:31.108334+00:00",
+    "type": "other"
+  },
+  "https://www.marinelink.com/news/dutch-shipowner-picks-wrtsil-engines-four-544581": {
+    "ts": "2026-11-25T21:26:31.108334+00:00",
+    "type": "other"
+  },
+  "https://gcaptain.com/red-sea-and-indian-ocean-nations-advance-plans-for-combined-maritime-security-force/": {
+    "ts": "2026-11-25T21:26:31.108334+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/offshore/drilling-production/equinor-production-growth-forecast-cut": {
+    "ts": "2026-11-25T21:26:31.108334+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/boxships/mpc-container-ships-q3-profit": {
+    "ts": "2026-11-25T21:26:31.108334+00:00",
+    "type": "other"
+  },
+  "https://www.bairdmaritime.com/shipping/dry-cargo/pcc-pctc/ningbo-ocean-shipping-car-carriers": {
+    "ts": "2026-11-25T21:26:31.108334+00:00",
+    "type": "other"
+  },
+  "https://splash247.com/deme-joins-allseas-on-canadian-lng-pipeline-project/": {
+    "ts": "2026-11-25T21:26:31.108334+00:00",
     "type": "other"
   }
 }
